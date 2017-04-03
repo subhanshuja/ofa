@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="gd">
+<translation id="9044832324875206639">{SECONDS, plural, one {# diog} two {# dhiog} few {# diogan} other {# diog}}</translation>
+<translation id="4968171027979920686">{SECONDS, plural, one {# diog} two {# dhiog} few {# diogan} other {# diog}}</translation>
+<translation id="5754277640426581776">{MINUTES, plural, one {# mhion} two {# mhion} few {# mion} other {# mion}}</translation>
+<translation id="1752946267035950200">{MINUTES, plural, one {# mhionaid} two {# mhionaid} few {# mionaidean} other {# mionaid}}</translation>
+<translation id="1591184457164800433">{MINUTES, plural, one {# mhionaid agus} two {# mhionaid agus} few {# mionaidean agus} other {# mionaid agus}}</translation>
+<translation id="5943826764092288734">{HOURS, plural, one {# uair a thìde} two {# uair a thìde} few {# uairean a thìde} other {# uair a thìde}}</translation>
+<translation id="1830179671306812954">{HOURS, plural, one {# uair a thìde agus} two {# uair a thìde agus} few {# uairean a thìde agus} other {# uair a thìde agus}}</translation>
+<translation id="3291688615589870984">{DAYS, plural, one {# latha} two {# latha} few {# làithean} other {# latha}}</translation>
+<translation id="5768079895599174203">{DAYS, plural, one {# latha agus} two {# latha agus} few {# làithean agus} other {# latha agus}}</translation>
+<translation id="8131263257437993507">{SECONDS, plural, one {# diog air fhàgail} two {# dhiog air fhàgail} few {# diogan air fhàgail} other {# diog air fhàgail}}</translation>
+<translation id="5906667377645263094">{SECONDS, plural, one {# diog air fhàgail} two {# dhiog air fhàgail} few {# diogan air fhàgail} other {# diog air fhàgail}}</translation>
+<translation id="7238427729722629793">{MINUTES, plural, one {# mhionaid air fhàgail} two {# mhionaid air fhàgail} few {# mionaidean air fhàgail} other {# mionaid air fhàgail}}</translation>
+<translation id="7410957453383678442">{MINUTES, plural, one {# mhionaid air fhàgail} two {# mhionaid air fhàgail} few {# mionaidean air fhàgail} other {# mionaid air fhàgail}}</translation>
+<translation id="6863590663815976734">{HOURS, plural, one {# uair a thìde air fhàgail} two {# uair a thìde air fhàgail} few {# uairean a thìde air fhàgail} other {# uair a thìde air fhàgail}}</translation>
+<translation id="3600566671520689681">{DAYS, plural, one {# latha air fhàgail} two {# latha air fhàgail} few {# làithean air fhàgail} other {# latha air fhàgail}}</translation>
+<translation id="6404817160109697034">{SECONDS, plural, one {# diog air ais} two {# dhiog air ais} few {# diogan air ais} other {# diog air ais}}</translation>
+<translation id="7365057348334984696">{MINUTES, plural, one {# mhionaid air ais} two {# mhionaid air ais} few {# mionaidean air ais} other {# mionaid air ais}}</translation>
+<translation id="8106081041558092062">{HOURS, plural, one {# uair a thìde ais} two {# uair a thìde ais} few {# uairean a thìde ais} other {# uair a thìde ais}}</translation>
+<translation id="1127811143501539442">{DAYS, plural, one {# latha ais} two {# latha ais} few {# làithean ais} other {# latha ais}}</translation>
+<translation id="2148716181193084225">An-diugh</translation>
+<translation id="7781829728241885113">An-dè</translation>
+<translation id="2190355936436201913">(falamh)</translation>
+<translation id="688711909580084195">Duilleag-lìn gun tiotal</translation>
+<translation id="2497284189126895209">A h-uile faidhle</translation>
+<translation id="8602707065186045623">Faidhle <ph name="SAVEAS_EXTENSION_TYPE"/> (.<ph name="SAVEAS_EXTENSION_NAME"/>)</translation>
+<translation id="364720409959344976">Tagh pasgan gus a luchdadh suas</translation>
+<translation id="6945221475159498467">Tagh</translation>
+<translation id="1243314992276662751">Luchdaich suas</translation>
+<translation id="6845383723252244143">Tagh pasgan</translation>
+<translation id="6620110761915583480">Sàbhail am faidhle</translation>
+<translation id="7907591526440419938">Fosgail faidhle</translation>
+<translation id="3036649622769666520">Fosgail faidhlichean</translation>
+<translation id="436869212180315161">Briog</translation>
+<translation id="6040143037577758943">Dùin</translation>
+<translation id="5941711191222866238">Lùghdaich</translation>
+<translation id="1398853756734560583">Làn-mheudaich</translation>
+<translation id="3157931365184549694">Aisig</translation>
+<translation id="3183922693828471536">Sgrolaich an-seo</translation>
+<translation id="8328145009876646418">An oir chlì</translation>
+<translation id="3990502903496589789">An oir dheas</translation>
+<translation id="2666092431469916601">Barr</translation>
+<translation id="3087734570205094154">Bonn</translation>
+<translation id="2168039046890040389">Duilleag suas</translation>
+<translation id="8210608804940886430">Duilleag sìos</translation>
+<translation id="6364916375976753737">Sgrolaich gun taobh chlì</translation>
+<translation id="4588090240171750605">Sgrolaich gun taobh deas</translation>
+<translation id="8331626408530291785">Sgrolaich suas</translation>
+<translation id="815598010540052116">Sgrolaich sìos</translation>
+<translation id="9170848237812810038">&amp;Neo-dhèan</translation>
+<translation id="3909791450649380159">&amp;Gearr</translation>
+<translation id="7814458197256864873">Dèan leth&amp;bhreac</translation>
+<translation id="5076340679995252485">Cuir a&amp;nn</translation>
+<translation id="5329858601952122676">Sgua&amp;b às</translation>
+<translation id="1901303067676059328">Tagh na h-u&amp;ile</translation>
+<translation id="1383876407941801731">Lorg</translation>
+<translation id="6965382102122355670">Ceart ma-thà</translation>
+<translation id="7658239707568436148">Sguir dheth</translation>
+<translation id="1293699935367580298">Esc</translation>
+<translation id="8245914219290430011">Tab</translation>
+<translation id="1871244248791675517">Ins</translation>
+<translation id="932327136139879170">Dhachaigh</translation>
+<translation id="6135826906199951471">Del</translation>
+<translation id="528468243742722775">End</translation>
+<translation id="5613020302032141669">Saighead chlì</translation>
+<translation id="3889424535448813030">Saighead dheas</translation>
+<translation id="3660179305079774227">Saighead suas</translation>
+<translation id="3234408098842461169">Saighead sìos</translation>
+<translation id="8179976553408161302">Enter</translation>
+<translation id="6129953537138746214">Space</translation>
+<translation id="2515586267016047495">Alt</translation>
+<translation id="7052633198403197513">F1</translation>
+<translation id="7222373446505536781">F11</translation>
+<translation id="5583640892426849032">Backspace</translation>
+<translation id="6394627529324717982">Cromag</translation>
+<translation id="1801827354178857021">Puing-stad</translation>
+<translation id="6699343763173986273">Meadhan ─ An ath-thraca</translation>
+<translation id="8394908167088220973">Meadhan ─ Cluich/Cuir 'na stad</translation>
+<translation id="4971687151119236543">Meadhan ─ An traca roimhe</translation>
+<translation id="6808150112686056157">Meadhan ─ Stad</translation>
+<translation id="4999762576397546063">Ctrl+<ph name="KEY_COMBO_NAME"/></translation>
+<translation id="5948410903763073882">Alt+<ph name="KEY_COMBO_NAME"/></translation>
+<translation id="8400147561352026160">Shift+<ph name="KEY_COMBO_NAME"/></translation>
+<translation id="4820616160060340806">Command+<ph name="KEY_COMBO_NAME"/></translation>
+<translation id="5120799197269191491">Search+<ph name="KEY_COMBO_NAME"/></translation>
+<translation id="1761785978543082658"><ph name="QUANTITY"/> B</translation>
+<translation id="8901569739625249689"><ph name="QUANTITY"/> KB</translation>
+<translation id="3049748772180311791"><ph name="QUANTITY"/> MB</translation>
+<translation id="3757388668994797779"><ph name="QUANTITY"/> GB</translation>
+<translation id="7460907917090416791"><ph name="QUANTITY"/> TB</translation>
+<translation id="520299402983819650"><ph name="QUANTITY"/> PB</translation>
+<translation id="6142413573757616983"><ph name="QUANTITY"/> B/s</translation>
+<translation id="8677655579646609597"><ph name="QUANTITY"/> KB/s</translation>
+<translation id="1809410197924942083"><ph name="QUANTITY"/> MB/s</translation>
+<translation id="3740362395218339114"><ph name="QUANTITY"/> GB/s</translation>
+<translation id="2297836609126180313"><ph name="QUANTITY"/> TB/s</translation>
+<translation id="6907759265145635167"><ph name="QUANTITY"/> TB/s</translation>
+<translation id="1190609913194133056">Ionad nam brathan</translation>
+<translation id="1413622004203049571">Cuir à comas brathan o <ph name="NOTIFIER_NAME"/></translation>
+<translation id="2482878487686419369">Brathan</translation>
+<translation id="7647488630410863958">Thoir a’ ghlas far an uidheim agad a dh’fhaicinn nam brathan agad</translation>
+<translation id="8428213095426709021">Roghainnean</translation>
+<translation id="6829324100069873704">Till gu na brathan</translation>
+<translation id="7135556860107312402">Ceadaich brathan o na leanas:</translation>
+<translation id="6918245111648057970">Ceadaich brathan o na leanas airson gach cleachdaiche:</translation>
+<translation id="2983818520079887040">Roghainnean...</translation>
+<translation id="7457942297256758195">Falamhaich na h-uile</translation>
+<translation id="6528179044667508675">Na bris a-steach orm</translation>
+<translation id="7850320739366109486">Na bris a-steach orm</translation>
+<translation id="8392688371657486010">Chan eil brath sam bith agad</translation>
+<translation id="1860796786778352021">Dùnadh a’ bhratha</translation>
+<translation id="111910763555783249">Roghainnean nam brathan</translation>
+<translation id="4250229828105606438">Glacadh-sgrìn</translation>
+<translation id="2743387203779672305">Cuir lethbhreac dheth air an stòr-bhòrd</translation>
+<translation id="2336922762358079423">Cuir nòtaichean ris ann an Google Keep</translation>
+<translation id="1685967565548146460">Adan</translation>
+<translation id="459417155289402299">Gleus an neo-ghlasaidh luaith</translation>
+<translation id="7649070708921625228">Cobhair</translation>
+<translation id="945522503751344254">Cuir do bheachdan thugainn</translation>
+<translation id="385051799172605136">Air ais</translation>
+<translation id="598033046487663418">Gach aplacaid</translation>
+<translation id="9038489124413477075">Pasgan gun ainm</translation>
+<translation id="8806053966018712535">Pasgan <ph name="FOLDER_NAME"/></translation>
+<translation id="2803313416453193357">Fosgail am pasgan</translation>
+<translation id="6786750046913594791">Dùin am pasgan</translation>
+<translation id="8371695176452482769">Bruidhinn an-dràsta</translation>
+<translation id="4320177379694898372">Chan eil ceangal ris an eadar-lìon</translation>
+</translationbundle>

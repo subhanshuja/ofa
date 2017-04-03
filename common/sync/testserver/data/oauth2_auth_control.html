@@ -1,0 +1,88 @@
+<html>
+<head>
+<title>OAuth2 control panel</title>
+<style>
+.button_is_current {
+    color: red;
+}
+</style>
+</head>
+<body onload="process_document_loaded()">
+OAuth2 control panel<br><br>
+
+<!--
+Web login response:<br>
+<div id="WEB_LOGIN_RESPONSE">
+</div>
+-->
+
+Sync command response:<br>
+<div id="SYNC_COMMAND_RESPONSE">
+</div>
+
+XMPP connect response:<br>
+<div id="XMPP_CONNECT_RESPONSE">
+</div>
+
+Fetch refresh token response:<br>
+<div id="FETCH_REFRESH_TOKEN_RESPONSE">
+</div>
+
+Fetch access token response [sync]:<br>
+<div id="FETCH_ACCESS_TOKEN_RESPONSE_SYNC">
+</div>
+
+Fetch access token response [xmpp]:<br>
+<div id="FETCH_ACCESS_TOKEN_RESPONSE_XMPP">
+</div>
+
+Fetch access token response [cdn]:<br>
+<div id="FETCH_ACCESS_TOKEN_RESPONSE_CDN">
+</div>
+
+Revoke token response:<br>
+<div id="REVOKE_TOKEN_RESPONSE">
+</div>
+
+Fetch OAuth2 token for OAuth1 token response:
+<div id="FETCH_MIGRATION_TOKEN_RESPONSE">
+</div>
+
+Renew OAuth1 token response:
+<div id="OAUTH1_TOKEN_RENEWAL_RESPONSE">
+</div>
+
+<script>
+function generate_ui() {
+  var responses_obj = [RESPONSES_JSON];
+  var current_responses = [CURRENT_RESPONSES];
+
+  for (var key in responses_obj) {
+    var response_values = responses_obj[key];
+    var section_div = document.getElementById(key)
+    if (section_div == null) {
+      console.error('No DIV found for ' + key);
+    } else {
+      for (var i = 0; i < response_values.length; i++) {
+        var response_value = response_values[i];
+        var button_element = document.createElement('input');
+        button_element.type = 'button';
+        button_element.value = response_value;
+        button_element.name = response_value;
+        if (response_value == current_responses[key]) {
+          button_element.className = 'button_is_current';
+        }
+        button_element.onclick = function() { window.location.href = '/oauth2_auth/change_response?key=' + this.parentElement.id + "&value=" + this.value; };
+        section_div.appendChild(button_element);
+      }
+    }
+  }
+}
+
+function process_document_loaded() {
+  generate_ui();
+}
+
+</script>
+</body>
+</html>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="ro">
+<translation id="2978824962390592855">Opera</translation>
+<translation id="9071130496134948492">Opera Software</translation>
+<translation id="6494666865857176946">Opera Software discurajează total vizitarea acestei pagini.</translation>
+<translation id="7459549266751278805">Centru de notificare Opera</translation>
+<translation id="4501379002264542907">Opera - notificări</translation>
+<translation id="1352092048463356430">Opera - notificări (<ph name="QUANTITY"/> necitite)</translation>
+<translation id="4159400746343093340">Opera - notificări</translation>
+<translation id="6018626517703817463">Opera - notificări (<ph name="QUANTITY"/> necitite)</translation>
+<translation id="6161036283010589960">Acest site web folosește setări de securitate depășite care pot împiedica versiunile viitoare Opera să le poată accesa în mod sigur.</translation>
+<translation id="8888594059056485523">Permite Opera să acceseze rețeaua în setările de firewall sau antivirus.</translation>
+<translation id="7158277678571698323">Duceți-vă la meniul Opera &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; setări de rețea și deselectați „Folosește un server proxy pentru rețea”.</translation>
+<translation id="5873732809085338161">Pentru a activa 'WebSockets' nesigure în navigatorul pentru desktop, mergeți la <ph name="HTMLOPERAFLAG"/> (Opera 24+) sau <ph name="HTMLCHROMEFLAG"/> (Chrome 36+).</translation>
+<translation id="2005166128312586988">Modificările vor avea efect după repornirea Opera.</translation>
+<translation id="684302243018322820">Pentru a vedea parolele stocate de Opera, introduceți parola calculatorului.</translation>
+</translationbundle>

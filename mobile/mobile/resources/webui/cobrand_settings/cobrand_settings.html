@@ -1,0 +1,116 @@
+<!doctype html>
+<html>
+<!--
+Copyright (C) 2015 Opera Software ASA.  All rights reserved.
+
+This file is an original work developed by Opera Software ASA
+-->
+<head>
+  <meta charset="utf8">
+  <meta name="viewport" content="width=device-width">
+  <title>Cobrand settings</title>
+  <link rel="stylesheet" href="cobrand_settings.css">
+
+  <script src="chrome://resources/js/cr.js"></script>
+  <script src="chrome://resources/js/util.js"></script>
+
+  <script src="chrome://cobrand-settings/cobrand_settings.js"></script>
+</head>
+<body>
+  <section>
+    <h1>Switch cluster</h1>
+    <form name="clusterSwitchForm">
+      <label>
+        <span>Cluster</span>
+        <select>
+        </select>
+      </label>
+      <label class="hidden">
+        <span>Custom&nbsp;cluster</span>
+        <input type="text"/>
+      </label>
+      <label>
+        <span>Password</span>
+        <input type="password">
+      </label>
+      <input type="submit" value="Switch cluster">
+    </form>
+    <button>Reset to client defaults</button>
+  </section>
+
+  <section class="collapsed">
+    <h1>Campaign override</h1>
+    <form name="campaignForm" action="campaign:/" data-auto-form>
+      <label>
+        <span>Language</span>
+        <input type="text" name="language">
+      </label>
+      <label>
+        <span>Country</span>
+        <input type="text" name="country">
+      </label>
+      <label>
+        <span>Remote ip</span>
+        <input type="text" name="remote_ip">
+      </label>
+      <label>
+        <span>Operator</span>
+        <input type="text" name="operator">
+      </label>
+      <label>
+        <span>Install referrer</span>
+        <input type="text" name="install_referrer">
+      </label>
+      <label>
+        <span>Branding</span>
+        <input type="text" name="branding">
+      </label>
+      <label>
+        <span>Platform</span>
+        <input type="text" name="platform">
+      </label>
+      <label>
+        <span>Product</span>
+        <input type="text" name="product">
+      </label>
+      <label>
+        <span>Major version</span>
+        <input type="text" name="major_version">
+      </label>
+      <label>
+        <span>Home country</span>
+        <input type="text" name="home_country">
+      </label>
+      <label>
+        <span>Clear SDV2</span>
+        <input type="checkbox" name="clear_speeddials_v2">
+      </label>
+      <input type="submit">
+      <input type="reset">
+    </form>
+  </section>
+
+  <section class="collapsed">
+    <h1>Operator override</h1>
+    <form name="operatorForm">
+      <input type="text" required>
+      <input type="submit" value="Set">
+    </form>
+    <button>Reset override</button>
+  </section>
+
+  <section class="collapsed">
+    <h1>Generic request</h1>
+    <form name="genericRequestForm">
+      <input type="text">
+      <input type="submit" value="Request">
+      <input type="reset" value="Clear">
+      <form>
+  </section>
+
+  <div class="message-box invisible">
+    <div class="content">
+    </div>
+  </div>
+</body>
+</html>

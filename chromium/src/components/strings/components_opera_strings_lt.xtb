@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="lt">
+<translation id="1974060860693918893">Papildomi</translation>
+<translation id="3462200631372590220">Slėpti papildomus</translation>
+<translation id="3369192424181595722">Laikrodžio klaida</translation>
+<translation id="2625385379895617796">Jūsų laikrodis skuba</translation>
+<translation id="8932102934695377596">Jūsų laikrodis atsilieka</translation>
+<translation id="3858027520442213535">Atnaujinti datą ir laiką</translation>
+<translation id="725866823122871198">Negalima užmegzti privataus ryšio su <ph name="BEGIN_BOLD"/><ph name="DOMAIN"/><ph name="END_BOLD"/>, nes jūsų kompiuterio data ir laikas (<ph name="DATE_AND_TIME"/>) netinkami.</translation>
+<translation id="4879058462256654741">Norint užmegzti saugų ryšį, jūsų laikrodis turi būti tinkamai nustatytas. Taip yra dėl to, kad sertifikatai, kuriuos svetainės naudoja joms identifikuoti, galioja tik konkrečiais laiko periodais. Kadangi jūsų įrenginio laikrodis netinkamai nustatytas, šie sertifikatai negali būti patvirtinti.</translation>
+<translation id="1413809658975081374">Privatumo klaida</translation>
+<translation id="3566021033012934673">Jūsų ryšys nėra privatus</translation>
+<translation id="340013220407300675">Atakuojančios programos gali bandyti pavogti jūsų informaciją iš <ph name="BEGIN_BOLD"/><ph name="SITE"/><ph name="END_BOLD"/> (pvz., slaptažodžius, pranešimus arba kredito kortelių informaciją).</translation>
+<translation id="629137324635910832"><ph name="SITE"/> paprastai naudoja šifravimo funkciją jūsų informacijai apsaugoti. Kai „Opera“ šiuo metu bandė prisijungti prie <ph name="SITE"/>, svetainė atgal atsiuntė neįprastus ir neteisingus kredencialus. Taip gali nutikti, jei atakuojanti programa bando apsimesti esanti <ph name="SITE"/> arba jei ryšys nutraukiamas „Wi-Fi“ prisijungimo ekranu. Jūsų informacija vis tiek yra saugi, nes „Opera“ sustabdė prisijungimą prieš pakeičiant bet kokius duomenis.</translation>
+<translation id="4404555778932203074">Dabar negalite lankytis <ph name="SITE"/> svetainėje, nes ji atsiuntė užšifruotus kredencialus, kurių „Opera“ negali apdoroti. Tinklo klaidos ir bandymai pažeisti apsaugą paprastai yra laikini, taigi šis puslapis tikriausiai veiks vėliau.</translation>
+<translation id="8882627153668738693"><ph name="SITE"/> paprastai naudoja šifravimo funkciją jūsų informacijai apsaugoti. Kai „AvastSafeZone“ šiuo metu bandė prisijungti prie <ph name="SITE"/>, svetainė atgal atsiuntė neįprastus ir neteisingus kredencialus. Taip gali nutikti, jei atakuojanti programa bando apsimesti esanti <ph name="SITE"/> arba jei ryšys nutraukiamas „Wi-Fi“ prisijungimo ekranu. Jūsų informacija vis tiek yra saugi, nes „Avast SafeZone“ sustabdė prisijungimą prieš pakeičiant bet kokius duomenis.</translation>
+<translation id="1888865191717601957">Dabar negalite lankytis <ph name="SITE"/> svetainėje, nes ji atsiuntė užšifruotus kredencialus, kurių „Avast SafeZone“ negali apdoroti. Tinklo klaidos ir bandymai pažeisti apsaugą paprastai yra laikini, taigi šis puslapis tikriausiai veiks vėliau.</translation>
+<translation id="6264485186158353794">Saugiai grįžti atgal</translation>
+<translation id="7704050614460855821"><ph name="BEGIN_LINK"/>Tęsti ir prisijungti prie <ph name="SITE"/> (nesaugu)<ph name="END_LINK"/></translation>
+<translation id="5556459405103347317">Įkelti iš naujo</translation>
+<translation id="6051221802930200923">Dabar negalite lankytis <ph name="SITE"/> svetainėje, nes joje naudojama sertifikato prisegimo funkcija. Tinklo klaidos ir bandymai pažeisti apsaugą paprastai yra laikini, taigi šis puslapis tikriausiai veiks vėliau.</translation>
+<translation id="2991571918955627853">Dabar negalite lankytis <ph name="SITE"/> svetainėje, nes joje naudojama HSTS. Tinklo klaidos ir bandymai pažeisti apsaugą paprastai yra laikini, taigi šis puslapis tikriausiai veiks vėliau.</translation>
+<translation id="1430489501396597835">Dabar negalite lankytis <ph name="SITE"/> svetainėje, nes šio sertifikato galiojimas sustabdytas. Tinklo klaidos ir bandymai pažeisti apsaugą paprastai yra laikini, taigi šis puslapis tikriausiai veiks vėliau.</translation>
+<translation id="4513896196857653318">Eikite į
+         pagrindinį meniu &gt;
+         <ph name="SETTINGS_TITLE"/>
+         &gt;
+         <ph name="ADVANCED_TITLE"/>
+         ir panaikinkite parinkties „<ph name="NO_PREFETCH_DESCRIPTION"/>“ žymėjimą.
+         Jei taip problemos išspręsti nepavyksta, rekomenduojame pažymėti šią parinktį
+         dar kartą geresniam veikimui užtikrinti.</translation>
+<translation id="8888594059056485523">Leiskite „Opera“ pasiekti tinklo parametrus užkardos arba antivirusinės programos parametrų dalyje.</translation>
+<translation id="8040357206858000048">Eikite į „Programos“ &gt; „Sistemos nuostatos“ &gt; „Tinklas“ &gt; „Papildomos nuostatos“ &gt; „Įgaliotieji serveriai“ ir panaikinkite pasirinktų įgaliotųjų serverių žymėjimą.</translation>
+<translation id="1532685482177999023">Eikite į pagrindinį meniu &gt; „<ph name="SETTINGS_TITLE"/>“ &gt; „<ph name="PROXIES_TITLE"/>“ &gt; „LAN nuostatos“ ir panaikinkite parinkties „LAN naudoti įgaliotąjį serverį“ žymėjimą.</translation>
+<translation id="6118049677165320383">Keitimai įsigalios, kai kitą kartą iš naujo paleisite naršyklę.</translation>
+<translation id="5510583790312051907">Pranešimo apie sutrikimus funkcija nepasiekiama.</translation>
+<translation id="1011013207380005827">„Opera“ galima pasiekti naudojant <ph name="BEGIN_LINK_CHROMIUM"/>„Chromium“<ph name="END_LINK_CHROMIUM"/> atvirojo kodo projektą ir kitą <ph name="BEGIN_LINK_OSS"/>atvirojo kodo programinę įrangą<ph name="END_LINK_OSS"/>.</translation>
+<translation id="3108493547597012279">Peržiūrite saugų puslapį.</translation>
+<translation id="8530361534096361731">„Opera“ nebuvo tinkamai uždaryta.</translation>
+</translationbundle>

@@ -1,0 +1,12 @@
+Name: LZ4 - Extremely fast compression
+Short Name: lz4
+URL: http://www.lz4.org
+Version: r131
+License: BSD
+Security Critical: yes
+License Android Compatible: yes
+
+Description:
+Compression library used for run-time compression and decompression of memory.
+
+Local Modifications:

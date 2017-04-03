@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="sk">
+<translation id="2978824962390592855">Opera</translation>
+<translation id="9071130496134948492">Opera Software</translation>
+<translation id="6494666865857176946">Opera Software nedoporučuje navštíviť túto stránku.</translation>
+<translation id="7459549266751278805">Centrum upozornení Opery</translation>
+<translation id="4501379002264542907">Opera – upozornenia</translation>
+<translation id="1352092048463356430">Opera – upozornenia (neprečítané: <ph name="QUANTITY"/>)</translation>
+<translation id="4159400746343093340">Opera – upozornenia</translation>
+<translation id="6018626517703817463">Opera – upozornenia (neprečítané: <ph name="QUANTITY"/>)</translation>
+<translation id="6161036283010589960">Táto lokalita používa zastarané nastavenia zabezpečenia, ktoré nemusia umožňovať budúcim verziám Opery bezpečné pripojenie.</translation>
+<translation id="8888594059056485523">V nastavení antivírusu alebo firewallu povoľte Opere prístup k sieti.</translation>
+<translation id="7158277678571698323">Prejdite na menu Opera &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; Nastavenie siete LAN a zrušte výber položky Používať proxy server pre sieť LAN.</translation>
+<translation id="5873732809085338161">Ak chcete aktivovať nezabezpečené WebSockets v prehliadači vo vašom počítači, prejdite na adresu <ph name="HTMLOPERAFLAG"/> (Opera 24+) alebo <ph name="HTMLCHROMEFLAG"/> (Chrome 36+).</translation>
+<translation id="2005166128312586988">Zmeny sa prejavia po opätovnom spustení Opery.</translation>
+<translation id="684302243018322820">Ak chcete vidieť heslá uložené v Opere, zadajte heslo vášho počítača.</translation>
+</translationbundle>

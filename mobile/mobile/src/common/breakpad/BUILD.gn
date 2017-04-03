@@ -1,0 +1,19 @@
+# Copyright (C) 2016 Opera Software ASA.  All rights reserved.
+#
+# This file is an original work developed by Opera Software ASA
+
+import("//build/config/opera-common.gni")
+
+source_set("breakpad") {
+  sources = [
+    "breakpad_reporter.cc",
+    "breakpad_reporter.h",
+  ]
+
+  configs += [ "$opera/mobile/mobile/build:include_config" ]
+
+  deps = [
+    "//breakpad:client",
+    "//breakpad:dump_syms($host_toolchain)",
+  ]
+}

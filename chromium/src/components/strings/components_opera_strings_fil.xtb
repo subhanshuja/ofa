@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="fil">
+<translation id="1974060860693918893">Advanced</translation>
+<translation id="3462200631372590220">Itago ang advanced</translation>
+<translation id="3369192424181595722">Error sa orasan</translation>
+<translation id="2625385379895617796">Nauuna ang iyong orasan</translation>
+<translation id="8932102934695377596">Nahuhuli ang iyong orasan</translation>
+<translation id="3858027520442213535">I-update petsa at oras</translation>
+<translation id="725866823122871198">Hindi maitaguyod ang pribadong koneksyon sa <ph name="BEGIN_BOLD"/><ph name="DOMAIN"/><ph name="END_BOLD"/> dahil ang petsa at oras ng iyong computer (<ph name="DATE_AND_TIME"/>) ay hindi tama.</translation>
+<translation id="4879058462256654741">Para makapagtaguyod ng ligtas na koneksyon, dapat maitama nang wasto ang iyong orasan. Ito'y dahil ang mga website na ginagamit ng mga certificate para makilala ang kanilang ay wasto lamang ilang partikular na tagal ng panahon. Dahil hindi tama ang orasan ng iyong aparato, hindi maaaring beripikahin ang mga certificate na ito.</translation>
+<translation id="1413809658975081374">Error sa pagkapribado</translation>
+<translation id="3566021033012934673">Hindi pribado ang koneksyon mo</translation>
+<translation id="340013220407300675">Maaaring sinusubukang nakawin ng mga mang-aatake ang iyong impormasyon mula sa <ph name="BEGIN_BOLD"/><ph name="SITE"/><ph name="END_BOLD"/> (bilang halimbawa, mga password, menshae, o mga credit card).</translation>
+<translation id="629137324635910832">Karaniwang gumagamit ang <ph name="SITE"/> ng pang-encrypt para protektahan ang iyong impormasyon. Kapag sinubukang kumonekta ngayon ng Opera sa <ph name="SITE"/>, nagpapadala pabalik ang website ng hindi karaniwan at hindi tamang mga kredensyal. Maaaring mangyari ito kapag pinipilit magpanggap ng mang-aatakeThis na maging <ph name="SITE"/>, o pinigil sandali ng screen sa pag-sign ang koneksyon. Ligtas pa rin ang iyong impormasyon dahil itinitigil ng Opera ang koneksyon bago maipagpalit ang anumang data.</translation>
+<translation id="4404555778932203074">Hindi mo mabibisita ang <ph name="SITE"/> sa ngayon dahil nagpadala ang website ng naka-scramble na mga kredensyal na hindi mapoproseso ng Opera. Kadalasang pansamantala ang mga error sa network at mga pag-atake, kaya malamang na gagana ang pahinang ito mayamaya.</translation>
+<translation id="8882627153668738693">Karaniwang gumagamit ang <ph name="SITE"/> ng pang-encrypt para protektahan ang iyong impormasyon. Kapag sinubukang ngayon kumonekta ng Avast SafeZone sa <ph name="SITE"/>, nagpapadala pabalik ang website ng hindi karaniwan at hindi tamang mga kredensyal. Maaaring mangyari ito kapag pinipilit ng mang-aatake na maging <ph name="SITE"/>, o pinigilan sandali ng screen sa pag-sign in sa Wi-Fi ang koneksyon. Ligtas pa rin ang iyong impormasyon dahil itinitigil ng Avast SafeZone ang koneksyon bago maipaglit ang anumag data.</translation>
+<translation id="1888865191717601957">Hindi mo mabibisita ang <ph name="SITE"/> sa ngayon dahil nagpadala ang website ng mga scrambled na kredensyal na hindi maproseso ng Avast SafeZone. Ang mga error sa Network at pag-atake ay karaniwang pansamantala, kaya malamang na gagana ang pahinang ito pagkatapos.</translation>
+<translation id="6264485186158353794">Bumalik sa kaligtasan</translation>
+<translation id="7704050614460855821"><ph name="BEGIN_LINK"/>Magpatuloy sa <ph name="SITE"/> (hindi ligtas)<ph name="END_LINK"/></translation>
+<translation id="5556459405103347317">I-reload</translation>
+<translation id="6051221802930200923">Hindi mo mabibisita ang <ph name="SITE"/> sa ngayon dahil gumagamit ang website ng pag-pin ng certificate. Kadalasang pansamantala ang mga error sa network at mga pag-atake, kaya malamang na gagana ang pahinang ito mayamaya.</translation>
+<translation id="2991571918955627853">Hindi mo mabibisita ang <ph name="SITE"/> sa ngayon dahil gumagamit ng HSTS ang website. Kadalasang pansamantala ang mga error sa network at mga pag-atake, kaya malamang na gagana ang pahinang ito mayamaya.</translation>
+<translation id="1430489501396597835">Hindi mo mabibisita ang <ph name="SITE"/> sa ngayon dahil pinawalang-bisa na ang certificate na ito. Kadalasang pansamantala ang mga error sa network at mga pag-atake, kaya malamang na gagana ang pahinang ito mayamaya.</translation>
+<translation id="4513896196857653318">Pumunta sa
+          Main menu &gt;
+          <ph name="SETTINGS_TITLE"/>
+          &gt;
+          <ph name="ADVANCED_TITLE"/>
+          at piliin ang "<ph name="NO_PREFETCH_DESCRIPTION"/>."
+          Kung hindi nito maresolba ang isyu, inirerekumenda namin na piliin ang opsyon na ito
+          muli para pabutihin ang performance.</translation>
+<translation id="8888594059056485523">Payagan ang Opera na ma-access ang network sa mga setting ng iyong firewall o antivirus.</translation>
+<translation id="8040357206858000048">Pumunta sa Mga Aplikasyon (Applications) &gt; Mga Kagustuhan sa Sistema (System Preferences) &gt; Network &gt; Advanced &gt; Mga Proxy (Proxies) at alisin sa pagkakapili ang anumang mga proxy na pinili.</translation>
+<translation id="1532685482177999023">Pumunta sa Main menu &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; Mga setting ng LAN at alisin sa pagkakapili ang "Gumamit ng proxy server para sa iyong LAN".</translation>
+<translation id="6118049677165320383">Magkakabisa ang iyong mga pagbabago sa susunod na muli mong pasisimulan ang browser.</translation>
+<translation id="5510583790312051907">Hindi available ang pag-uulat ng pag-crash.</translation>
+<translation id="1011013207380005827">Ginagawang posible ang Opera ng open source project na <ph name="BEGIN_LINK_CHROMIUM"/>Chromium<ph name="END_LINK_CHROMIUM"/> at iba pang <ph name="BEGIN_LINK_OSS"/>open source na software<ph name="END_LINK_OSS"/>.</translation>
+<translation id="3108493547597012279">Tinitingnan mo ang isang ligtas na pahina.</translation>
+<translation id="8530361534096361731">Hindi wastong nag-shut down ang Opera.</translation>
+</translationbundle>

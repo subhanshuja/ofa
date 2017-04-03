@@ -1,0 +1,24 @@
+{
+  "*": {
+    "copied-from": "chrome/browser/sync",
+    "last-sync": "de6c77f7b720cf76275b727f234d3d9fab6b9d4f"
+  },
+  "chrome_sync_client.cc": {
+    "last-sync": "47669e122d6e0f0acddae86c0e6fb81b4a26e2f3"
+  },
+  "profile_sync_components_factory_impl_unittest.cc": {
+    "last-sync": "1ef4db88fc1320d1fcd313c58432c4af2ab7b4e8"
+  },
+  "profile_sync_service.cc": {
+    "last-sync": "cfea069f7795dc38aba6ad31f74c96c839ecabc3"
+  },
+  "profile_sync_service.h": {
+    "last-sync": "cfea069f7795dc38aba6ad31f74c96c839ecabc3"
+  },
+  "profile_sync_service_factory.cc": {
+    "last-sync": "47669e122d6e0f0acddae86c0e6fb81b4a26e2f3"
+  },
+  "profile_sync_test_util.cc": {
+    "last-sync": "47669e122d6e0f0acddae86c0e6fb81b4a26e2f3"
+  }
+}

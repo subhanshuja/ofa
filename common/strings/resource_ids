@@ -1,0 +1,18 @@
+{
+  "SRCDIR": ".",
+
+  # We can safely assign the same range to each PRODUCT_strings.grd file because
+  # they describe messages for different product, we never use them at the same
+  # time. Each product-specific file should contain the same set of messages.
+  "opera_common_strings.grd": {
+    "messages": [33000],
+  },
+  "safezone_common_strings.grd": {
+    "messages": [33000],
+  },
+
+  # Messages not related to any specific product.
+  "product_free_common_strings.grd": {
+    "messages": [33500],
+  },
+}

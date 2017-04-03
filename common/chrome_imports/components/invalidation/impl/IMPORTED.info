@@ -1,0 +1,18 @@
+{
+  "*": {
+    "copied-from": "components/invalidation/impl",
+    "last-sync": "93fef93674258ab05bd4eb24c2750e45185f4be2"
+  },
+  "non_blocking_invalidator.cc": {
+    "last-sync": "cfea069f7795dc38aba6ad31f74c96c839ecabc3"
+  },
+  "sync_system_resources.cc": {
+    "last-sync": "4e8e9acfe765d3f83eae8d54b18e519427178a40"
+  },
+  "ticl_invalidation_service.cc": {
+    "last-sync": "cfea069f7795dc38aba6ad31f74c96c839ecabc3"
+  },
+  "ticl_invalidation_service.h": {
+    "last-sync": "cfea069f7795dc38aba6ad31f74c96c839ecabc3"
+  }
+}

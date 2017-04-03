@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grit latest_public_release="0" current_release="1">
+  <outputs>
+    <output filename="safezone_common_resources.pak" type="data_package" />
+  </outputs>
+  <release seq="1">
+    <structures>
+      <if expr="not use_opera_desktop_translations">
+        <structure name="IDR_SSL_ROAD_BLOCK_HTML" file="webui/ssl_roadblock.html" flattenhtml="true" type="chrome_html" />
+        <structure name="IDR_NET_ERROR_HTML" file="webui/neterror.html" flattenhtml="true" type="chrome_html" />
+      </if>
+
+      <!-- Fraud Warning WebUI -->
+      <structure name="IDR_FRAUD_WARNING_HTML" file="custom_brandings/safezone/webui/fraudwarning.html" flattenhtml="true" type="chrome_html" />
+    </structures>
+  </release>
+</grit>

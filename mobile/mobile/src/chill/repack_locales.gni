@@ -1,0 +1,56 @@
+# Copyright (C) 2016 Opera Software ASA.  All rights reserved.
+#
+# This file is an original work developed by Opera Software ASA
+
+import("//build/config/opera-common.gni")
+import("//tools/grit/repack.gni")
+
+template("_repack_one_locale") {
+  locale = invoker.locale
+
+  repack(target_name) {
+    sources = [
+      "${root_gen_dir}/components/strings/components_strings_${locale}.pak",
+      "${root_gen_dir}/content/app/strings/content_strings_${locale}.pak",
+      "${root_gen_dir}/ui/strings/ui_strings_${locale}.pak",
+      "${root_gen_dir}/ui/strings/app_locale_settings_${locale}.pak",
+
+      "${root_gen_dir}/opera_common/opera_common_strings_${locale}.pak",
+      "${root_gen_dir}/opera_common/product_free_common_strings_${locale}.pak",
+    ]
+
+    deps = [
+      "//components/strings",
+      "//content/app/strings",
+      "//ui/strings:ui_strings",
+      "//ui/strings:app_locale_settings",
+
+      "$opera/common/strings",
+      "$opera/common/strings:product_free_common_strings",
+    ]
+
+    output = invoker.output
+    visibility = invoker.visibility
+  }
+}
+
+template("opera_repack_locales") {
+  group_target_name = target_name
+  locale_targets = []
+
+  foreach(input_locale, invoker.input_locales) {
+    current_name = "${target_name}_${input_locale}"
+    locale_targets += [ ":$current_name" ]
+
+    _repack_one_locale(current_name) {
+      visibility = [ ":$group_target_name" ]
+      locale = input_locale
+      output = "${root_gen_dir}/${input_locale}.pak"
+    }
+  }
+
+  group(target_name) {
+    deps = locale_targets
+    public_deps = locale_targets
+  }
+}

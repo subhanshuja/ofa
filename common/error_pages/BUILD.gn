@@ -1,0 +1,33 @@
+# Copyright (C) 2015 Opera Software ASA.  All rights reserved.
+#
+# This file is an original work developed by Opera Software ASA.
+
+declare_args() {
+  enable_search_in_error_page = false
+}
+
+source_set("error_pages") {
+  sources = [
+    "error_page.cc",
+    "error_page.h",
+    "error_page_search_data_provider.h",
+    "localized_error.cc",
+    "localized_error.h",
+    "ssl/ssl_blocking_page.cc",
+    "ssl/ssl_blocking_page.h",
+  ]
+
+  configs += [ "../config:include_config" ]
+
+  if (enable_search_in_error_page) {
+    defines = [ "ENABLE_SEARCH_IN_ERROR_PAGE" ]
+  }
+
+  deps = [
+    "../resources",
+    "../strings",
+    "//base:i18n",
+    "//components/ssl_errors",
+    "//skia",
+  ]
+}

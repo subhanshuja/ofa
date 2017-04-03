@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="fr-CA">
+<translation id="4444304522807523469">Accéder un numériseur de document branché par USB ou sur votre réseau local</translation>
+<translation id="5456409301717116725">Cwtte extension inclut le fichier clé '<ph name="KEY_PATH"/>'. vous ne voulez sans doute pas faire çà.</translation>
+<translation id="4233778200880751280">impossible de charger la page '<ph name="ABOUT_PAGE"/>'.</translation>
+<translation id="657064425229075395">Ne peut charger le script d'arrière-plan '<ph name="BACKGROUND_SCRIPT"/>'.</translation>
+<translation id="1803557475693955505">Ne peut charger la page d'arrière-plan '<ph name="BACKGROUND_PAGE"/>'.</translation>
+<translation id="149347756975725155">Ne peut charger l'extension '<ph name="ICON"/>'.</translation>
+<translation id="3624204664103857160">Ne peut charger la page de démarrage '<ph name="PAGE"/>'.</translation>
+<translation id="388442998277590542">Ne peut charger la page d'options '<ph name="OPTIONS_PAGE"/>'.</translation>
+<translation id="2350172092385603347">Localisation utilisée, mais l'item default_locale n'était pas spécifié dans le manifeste.</translation>
+<translation id="8602184400052594090">Manifeste manquant ou illisible.</translation>
+<translation id="2857834222104759979">Fichier de manifeste invalide.</translation>
+<translation id="6731255991101203740">Impossible de créer le répertoire pour dézipper: '<ph name="DIRECTORY_PATH"/>'</translation>
+<translation id="2753617847762399167">Chemin illégal (absolu ou relatif avec '..'): '<ph name="IMAGE_PATH"/>'</translation>
+<translation id="2159915644201199628">Impossible de décoder l'image: '<ph name="IMAGE_NAME"/>'</translation>
+<translation id="641087317769093025">Impossible de dézipper l'extension</translation>
+<translation id="7257666756905341374">Lire vos données de copier et coller</translation>
+<translation id="3759933321830434300">Bloquer une partie des pages web</translation>
+<translation id="5627523580512561598">extension <ph name="EXTENSION_NAME"/></translation>
+<translation id="6241530762627360640">Accédez les informations sur les dispositifs Bluetooth associés à votre appareil et découvrez les appareils Bluetooth autour de vous.</translation>
+<translation id="9131487537093447019">Envoyez et recevez des messages d'appareils Bluetooth.</translation>
+<translation id="5971037678316050792">Contrôle l'adaptateur Bluetooth et son association</translation>
+<translation id="2616366145935564096">Lire et modifier vos données sur <ph name="WEBSITE_1"/></translation>
+<translation id="5678955352098267522">Lire vos données sur <ph name="WEBSITE_1"/></translation>
+<translation id="6698810901424468597">Lire et modifier vos données sur <ph name="WEBSITE_1"/> et <ph name="WEBSITE_2"/></translation>
+<translation id="4542520061254486227">Lire vos données sur <ph name="WEBSITE_1"/> et <ph name="WEBSITE_2"/></translation>
+<translation id="6408118934673775994">Lire et modifier vos données sur <ph name="WEBSITE_1"/>, <ph name="WEBSITE_2"/> et <ph name="WEBSITE_3"/></translation>
+<translation id="7131040479572660648">Lire vos données sur <ph name="WEBSITE_1"/>, <ph name="WEBSITE_2"/> et <ph name="WEBSITE_3"/></translation>
+<translation id="8284279544186306258">tous les sites <ph name="WEBSITE_1"/></translation>
+<translation id="4883436287898674711">Tous les sites <ph name="WEBSITE_1"/></translation>
+<translation id="2241053333139545397">Lire et modifier vos données sur un nombre de sites web</translation>
+<translation id="344630545793878684">Lire et modifier vos données sur plusieurs de sites web</translation>
+<translation id="4761104368405085019">Utiliser votre microphone</translation>
+<translation id="9150045010208374699">Utiliser votre caméra</translation>
+<translation id="1005274289863221750">Utilisez votre caméra et votre microphone</translation>
+<translation id="7893008570150657497">Accéder vos photos, musique, et autre contenu multimédia de votre ordinateur</translation>
+<translation id="7809034755304591547"><ph name="EXTENSION_NAME"/> (ID d'extension "<ph name="EXTENSION_ID"/>") est bloquée par l'administrateur.</translation>
+<translation id="7217838517480956708">L'administrateur de cette machine requiert que <ph name="EXTENSION_NAME"/> soit installée. Cette extension ne peut être enlevée ni modifiée.</translation>
+<translation id="5972529113578162692">L'administrateur de cette machine requiert que <ph name="EXTENSION_NAME"/> soit installé. Ceci ne peut être enlevé ni modifié.</translation>
+<translation id="4115165561519362854">L'administrateur de cette machine requiert que <ph name="EXTENSION_NAME"/> ait une version minimale de <ph name="EXTENSION_VERSION"/>. Cette dernière ne peut être activée avant la mise à jour vers cette version (ou ultérieure).</translation>
+<translation id="8662911384982557515">Changer votre page d'accueil à: <ph name="HOME_PAGE"/></translation>
+<translation id="6384275966486438344">Changer vos réglages de recherche à: <ph name="SEARCH_HOST"/></translation>
+<translation id="7154130902455071009">Changer votre page de départ à: <ph name="START_PAGE"/></translation>
+<translation id="6344170822609224263">Accéder la liste des connexions réseaux</translation>
+<translation id="730515362922783851">Échanger des données avec tout autre ordinateur sur le réseau local ou internet</translation>
+<translation id="2270450558902169558">Échanger des données avec tout autre ordinateur du domaine <ph name="DOMAIN"/></translation>
+<translation id="2270627217422354837">Échanger des données avec tout autre ordinateur des domaines: <ph name="DOMAINS"/></translation>
+<translation id="6075907793831890935">Échanger des données avec l'ordinateurs appelé <ph name="HOSTNAME"/></translation>
+<translation id="7093866338626856921">Échanger des données avec les ordinateurs appelés: <ph name="HOSTNAMES"/></translation>
+<translation id="3393440416772303020"><ph name="PRODUCT_NAME"/> (numéro de série <ph name="SERIAL_NUMBER"/>)</translation>
+<translation id="8284835137979141223"><ph name="PRODUCT_NAME"/> de <ph name="VENDOR_NAME"/></translation>
+<translation id="6580950983454333167"><ph name="PRODUCT_NAME"/> de <ph name="VENDOR_NAME"/> (numéro desérie <ph name="SERIAL_NUMBER"/>)</translation>
+<translation id="6068932090455285721"><ph name="PRODUCT_NAME"/> de la compagnie <ph name="VENDOR_ID"/></translation>
+<translation id="3466070586188012397"><ph name="PRODUCT_NAME"/> de la compagnie <ph name="VENDOR_ID"/> (numéro de série <ph name="SERIAL_NUMBER"/>)</translation>
+<translation id="7003844668372540529">Produit <ph name="PRODUCT_ID"/> inconnu de <ph name="VENDOR_NAME"/></translation>
+<translation id="6027032947578871493">Produit inconnu <ph name="PRODUCT_ID"/> de <ph name="VENDOR_NAME"/> (numéro de série <ph name="SERIAL_NUMBER"/>)</translation>
+<translation id="3163201441334626963">Produit inconnu <ph name="PRODUCT_ID"/> de la compagnie <ph name="VENDOR_ID"/></translation>
+<translation id="3115238746683532089">Produit inconnu <ph name="PRODUCT_ID"/> de la compagnie <ph name="VENDOR_ID"/> (numéro de série <ph name="SERIAL_NUMBER"/>)</translation>
+<translation id="616804573177634438">{0, select,
+        single {L'application "<ph name="APP_NAME"/>" demande l'accès à un de vos dispositifs.}
+        multiple {L'application "<ph name="APP_NAME"/>" demande l'accès à un ou plusieurs de vos dispositifs.}
+.
+       other {UNUSED}}</translation>
+<translation id="5630931906013276297">{0, choisir,
+       single {Choisir un dispositif d'interface} multiple {Choisir des dispositifs d'interface}
+       other {UNUSED}}</translation>
+<translation id="4434145631756268951">{0, select,
+       single {Choisir un dispositif USB} multiple {Choisir des dispositifs USB}
+       other {UNUSED}}</translation>
+<translation id="8620765578342452535">Configurer les connexions réseaux</translation>
+<translation id="5127881134400491887">Gérer les connexions réseaux</translation>
+<translation id="1033780634303702874">Accéder vos dispositifs sériels</translation>
+<translation id="2048182445208425546">Aqccéder vos données de consommation réseau</translation>
+<translation id="2087653731648927289">Accéder tout <ph name="PRODUCT_NAME_AND_VENDOR"/> par USB</translation>
+<translation id="7039326228527141150">Accéder tous les dispositifs USB de <ph name="VENDOR_NAME"/></translation>
+<translation id="8749863574775030885">Accéder des dispositifs USB de marque inconnue</translation>
+<translation id="1036511912703768636">Accéder n'importe quel de ces dispositifs USB</translation>
+<translation id="452039078290142656">dispositifs inconnu de <ph name="VENDOR_NAME"/></translation>
+<translation id="3983586614702900908">dispositifs d'origine inconnue</translation>
+<translation id="5356315618422219272">Appview: <ph name="APPVIEW_TAG_NAME"/></translation>
+<translation id="7972881773422714442">Options: <ph name="EXTENSIONOPTIONS_TAG_NAME"/></translation>
+<translation id="5960890139610307736">ExtensionView: <ph name="EXTENSIONVIEW_TAG_NAME"/></translation>
+<translation id="677806580227005219">Mimehandler: <ph name="MIMEHANDLERVIEW_TAG_NAME"/></translation>
+<translation id="5026754133087629784">Webview: <ph name="WEBVIEW_TAG_NAME"/></translation>
+<translation id="1445572445564823378">Cette extension ralentit <ph name="PRODUCT_NAME"/>. Vous devriez la desativer pour retrouver la performance de <ph name="PRODUCT_NAME"/>.</translation>
+<translation id="27822970480436970">Cette extension n'a pas pu modifier la requête réseau dû à un conflit avec une autre extension.</translation>
+<translation id="8670869118777164560">Cette extension n'a pu rediriger une requête rëseau vers <ph name="ATTEMPTED_REDIRECT_DESTINATION"/> parce qu'une autre extension (<ph name="EXTENSION_NAME"/>) l'a redirigée vers <ph name="ACTUAL_REDIRECT_DESTINATION"/>.</translation>
+<translation id="8825366169884721447">Cette extension n'a pu modifier l'en-tête "<ph name="HEADER_NAME"/>" d'une requête réseau parce que la modification entrait en conflit avec une autre extension (<ph name="EXTENSION_NAME"/>).</translation>
+<translation id="9111791539553342076">Cette extension n'a pu modifier l'en-tête de la réponse "<ph name="HEADER_NAME"/>" d'une requête réseau parce que la modification entrait en conflit avec l'extension (<ph name="EXTENSION_NAME"/>).</translation>
+<translation id="8341840687457896278">Cette extension n'a pas pu fournir d'identité à une requête réseau parce qu'une autre extension (<ph name="EXTENSION_NAME"/>) a fourni une identité différente.</translation>
+<translation id="8047248493720652249">Cette extension n'a pu renommer le téléchargement "<ph name="ATTEMPTED_FILENAME"/>" parce qu'une autre extension (<ph name="EXTENSION_NAME"/>) a déterminé un nom de fichier différent "<ph name="ACTUAL_FILENAME"/>".</translation>
+<translation id="6840444547062817500">Cette extension s'est rechargée trop souvent.</translation>
+<translation id="288042212351694283">Accédez vos dispositifs Universal 2nd Factor</translation>
+<translation id="8804398419035066391">Communique avec des sites web collaborateurs</translation>
+<translation id="4811956658694082538">Impossible d'installer cette extension parce qu'un processus utilitaire a fait défaut. Essayez de redémarrer Chrome et essayez à nouveau.</translation>
+<translation id="1135328998467923690">Pacquet is invalid: '<ph name="ERROR_CODE"/>'.</translation>
+<translation id="8636666366616799973">Paquet invalide. Détails: '<ph name="ERROR_MESSAGE"/>'.</translation>
+<translation id="2988488679308982380">Impossible d'installer le paquet: '<ph name="ERROR_CODE"/>'</translation>
+<translation id="3369521687965833290">Impossible de dépaqueter l'extension. Pour dépaqueter une extension sans danger, il doit y avoir un chemin pour votre répertoire de profil qui commence avec une lettre de disque et ne contient pas de jonction, point d'ancrage ou lien symbolique. Il n'y a pas de tel chemin dans votre profil.</translation>
+<translation id="6143635259298204954">Impossible de dépaqueter l'extension. Pour dépaqueter une extension sans danger, il doit y avoir un chemin pour votre répertoire de profil qui ne contient pas lien symbolique. Il n'y a pas de tel chemin dans votre profil.</translation>
+<translation id="8712265948125780616">Décompresseur d'extension</translation>
+<translation id="1256619696651732561">Analyseur du manifeste d'extension</translation>
+</translationbundle>

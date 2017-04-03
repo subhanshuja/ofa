@@ -1,0 +1,22 @@
+<html>
+  <head>
+    <title>XMPP sessions</title>
+  </head>
+  <body>
+    <script>
+      function refresh() {
+        location.reload();
+      }
+
+      function close_session(session_id) {
+        xhttp = new XMLHttpRequest();
+        xhttp.open('GET', '/opera/xmppsessionclose/?session_id=' + session_id, false);
+        xhttp.send();
+        refresh();
+      }
+    </script>
+    XMPP sessions<br>
+    <button onclick="refresh">Refresh view</button><hr><br>
+    [XMPP_SESSION_ROWS]
+  </body>
+</html>

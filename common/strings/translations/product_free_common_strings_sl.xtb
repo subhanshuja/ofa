@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="sl">
+<translation id="3942946088478181888">Razložite mi, prosim</translation>
+<translation id="1396529432791646744">Ko vzpostavite povezavo z varnim spletnim mestom, strežnik, kjer gostuje spletno mesto, brskalniku prikaže »potrdilo«, ki dokazuje identiteto. V tem potrdilu so podatki o identiteti, na primer naslov spletnega mesta, to pa preveri tretja oseba, kateri prenosna naprava zaupa. Če preverite, ali se naslov v potrdilu ujema z naslovom spletnega mesta, lahko izveste, ali varno komunicirate z želenim spletnim mestom, in ne s tretjo osebo (na primer z napadalcem v omrežju).</translation>
+<translation id="6295228342562451544">Ko vzpostavite povezavo z varnim spletnim mestom, strežnik, kjer gostuje spletno mesto, brskalniku prikaže »potrdilo«, ki dokazuje identiteto. V tem potrdilu so podatki o identiteti, na primer naslov spletnega mesta, to pa preveri tretja oseba, kateri računalnik zaupa. Če preverite, ali se naslov v potrdilu ujema z naslovom spletnega mesta, lahko izveste, ali varno komunicirate z želenim spletnim mestom, in ne s tretjo osebo (na primer z napadalcem v omrežju).</translation>
+<translation id="8187473050234053012">Varnostno potrdilo strežnika je preklicano!</translation>
+<translation id="5598024575303778520">Opozorilo o prevari</translation>
+<translation id="7311721172731074902">Opozorilo o prevari</translation>
+<translation id="1858130628205855959">Na tem spletnem mestu je morda prišlo do vdora ali pa gre za lažno spletno mesto. Razkrivanje gesla ali osebnih informacij lahko privede do kraje identitete ali finančnih goljufij.</translation>
+<translation id="8357891144266644027">Opozorilo o zlonamernem spletnem mestu</translation>
+<translation id="4664012235452972339">Opozorilo o zlonamernem spletnem mestu</translation>
+<translation id="1030973920598092450">Na tem spletnem mestu je morda prišlo do vdora ali pa to vsebuje zlonamerno programsko opremo. Z obiskom spletnega mesta se lahko izpostavite tveganjem.</translation>
+<translation id="4863259811271883558">Spletno mesto je prijavila družba <ph name="BEGIN_LINK"/><ph name="PROVIDER_NAME"/><ph name="END_LINK"/></translation>
+<translation id="3141322567138977593">Pojdi nazaj na varen način</translation>
+<translation id="833642844779103272">Pojdi nazaj na varen način</translation>
+<translation id="4238466718818823211">Prezri to opozorilo</translation>
+<translation id="1755698976576372535">Zakaj je bila spletna stran blokirana?</translation>
+<translation id="2962647877740028287">Za obravnavanje prijav lažnih spletnih mest skrbijo neodvisni ponudniki storitev.</translation>
+<translation id="7470668651798735849">Tukaj lahko vidite vsa obvestila spletnih strani.</translation>
+<translation id="6426222199977479699">Napaka SSL</translation>
+<translation id="8398877366907290961">Kljub temu nadaljuj</translation>
+<translation id="6264485186158353794">Nazaj v varnost</translation>
+<translation id="2225024820658613551">Svetujemo, da ne nadaljujete, &lt;strong&gt;še posebej&lt;/strong&gt;, če za to spletno mesto še nikoli niste videli tega opozorila.</translation>
+<translation id="5645845270586517071">Napaka varnosti</translation>
+<translation id="1103666958012677467">Ne morete nadaljevati, ker je operater spletnega mesta za to domeno zahteval višjo raven varnosti.</translation>
+<translation id="5463275305984126951">Kazalo <ph name="LOCATION"/></translation>
+<translation id="8877448029301136595">[nadrejen imenik]</translation>
+<translation id="3835522725882634757">O, ne! Ta strežnik pošilja podatke, ki jih brskalnik <ph name="PRODUCT_NAME"/> ne razume. Prosimo, <ph name="BEGIN_LINK"/>prijavite napako<ph name="END_LINK"/>in priložite <ph name="BEGIN2_LINK"/>neobdelan seznam<ph name="END2_LINK"/>.</translation>
+<translation id="5327248766486351172">Ime</translation>
+<translation id="8028993641010258682">Velikost</translation>
+<translation id="57646104491463491">Datum spremembe</translation>
+<translation id="8465929756435120446">Na strani je nevarna vsebina.</translation>
+<translation id="6827416153061837992">Povezava s spletnim mestom ni šifrirana.</translation>
+<translation id="9193357432624119544">Koda napake: <ph name="ERROR_NAME"/></translation>
+<translation id="4910619056351738551">Nekaj predlogov:</translation>
+<translation id="2954705784594331199"><ph name="BEGIN_LINK"/>Pozneje <ph name="END_LINK"/>znova naložite spletno stran.</translation>
+<translation id="4977565600485911823">Onemogočite razširitve in znova <ph name="BEGIN_LINK"/>naložite spletno <ph name="END_LINK"/>stran.</translation>
+<translation id="1103966635949043187">Pojdite na domačo stran spletnega mesta:</translation>
+<translation id="7747589364844254751">Preverite internetno povezavo. Znova zaženite usmerjevalnik, modem ali druge omrežne naprave, ki jih morda uporabljate.</translation>
+<translation id="5548623538190661145">Preverite nastavitve sistema DNS. Če ne veste, kaj to pomeni, se obrnite na skrbnika omrežja.</translation>
+<translation id="4545046228395991092">Če uporabljate strežnik proxy, preverite nastavitve strežnika ali pa se obrnite na skrbnika omrežja in preverite, ali strežnik proxy deluje.</translation>
+<translation id="1712673276482711826">Če uporabljate strežnik proxy, preverite nastavitve strežnika ali pa se obrnite na skrbnika omrežja in preverite, ali strežnik proxy deluje. Če menite, da ne potrebujete strežnika proxy, prilagodite nastavitve strežnika: <ph name="PLATFORM_TEXT"/></translation>
+<translation id="721197778055552897"><ph name="BEGIN_LINK"/>Preberite več<ph name="END_LINK"/> o tej težavi.</translation>
+<translation id="8235325155053717782">Napaka <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="3986287159189541211">Napaka HTTP <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="3225919329040284222">Strežnik je poslal potrdilo, ki se ne ujema z vdelanimi pričakovanji. Ta pričakovanja so za vašo varnost vključena v določenih spletnih mestih z visoko ravnijo varnosti.</translation>
+<translation id="6957887021205513506">Videti je, da je potrdilo strežnika ponaredek.</translation>
+<translation id="6429639049555216915">Programa trenutno ni mogoče doseči.</translation>
+<translation id="9127307628159259612">V nastavitvah požarnega zidu ali protivirusne programske opreme dodajte brskalnik <ph name="PRODUCT_NAME"/> kot program z dovoljenjem za dostop. Če je že na seznamu dovoljenih programov, ga odstranite s seznama in ga znova dodajte.</translation>
+<translation id="4544369257849566741">V varnem rokovanju ni razširitve SSL pogajanja. Za nekatera spletna mesta, za katera je znano, da podpirajo razširitev pogajanja, brskalnik <ph name="PRODUCT_NAME"/> zahteva varnejše rokovanje, s čimer prepreči razred znanih napadov. Če te razširitve ni, je bila povezava prestrežena in manipulirana.</translation>
+<translation id="8162734958263531433">Če želite uporabiti storitev iskanja in odpravljanja napak USB, morate imeti v napravi s sistemom Android omogočeno storitev iskanja in odpravljanja napak Android SDK in USB. Če želite več informacij, glejte <ph name="HTML_HELPURL"/>.</translation>
+<translation id="1875071432292773474">V namiznem brskalniku vnesite naslov <ph name="ACCESS_POINT"/>. Namizni brskalnik mora biti v istem omrežju kot vaša naprava s sistemom Android.</translation>
+<translation id="7227425938337339799">Če želite, da povezava UPnP deluje, morate biti bodisi v istem podomrežju bodisi morate usmerjevalnik povezati tako, da oddajanje posreduje drugim podomrežjem.</translation>
+<translation id="4553629908098215669">Zaženite <ph name="HTMLADBCOMMAND"/> na računalniku in pojdite na <ph name="HTMLLOCALHOSTURL"/> s pomočjo brskalnika na osnovi odprtokodne osnove Chromium.</translation>
+<translation id="4570032796877367747">Fotoaparat spredaj</translation>
+<translation id="2599796128805996109">Fotoaparat zadaj</translation>
+<translation id="2124507516322945394">Privzeti mikrofon</translation>
+<translation id="1587215898571986504">Zvočnik</translation>
+<translation id="5614598979078259956">Žične slušalke</translation>
+<translation id="9031226374756103225">Ušesni del slušalk</translation>
+<translation id="149679617917926491">Slušalke Bluetooth</translation>
+<translation id="6060685159320643512">Pozor, nevarni eksperimenti</translation>
+<translation id="5199729219167945352">Eksperimenti</translation>
+<translation id="533563709691128800">onemogočeno</translation>
+<translation id="2506903884491778518">Iskanje eksperimentov</translation>
+<translation id="1138663153846032155">Prikaži HTML-vsebine namesto Flash-vsebin</translation>
+<translation id="2081453640527377956">Prikaži HTML-vsebine in skrij Flash-vsebine v seznamu vtičnikov.</translation>
+<translation id="5998167623928667649">Predvajaj vso Flash-vsebino, ko je nastavitev nastavljena na "dovoli"</translation>
+<translation id="5138177765054221193">Predvajaj vso vsebino, tudi nepomembno, na spletnih mestih, na katerih je "dovoljen" prikaz Flash-vsebin.</translation>
+<translation id="2112624549618815628">Privzeto (omogočeno)</translation>
+<translation id="3696363537446376816">Privzeto (onemogočeno)</translation>
+<translation id="8150391391298684512">Onemogoči izvajalnik MIDI API sistema Windows</translation>
+<translation id="3575927481544652747">Onemogoči izvajalnik MIDI API sistema Windows za WebMIDI, ki je privzeto omogočen na sistemih Windows 10 ali novejših različicah.</translation>
+<translation id="1375198122581997741">O različici</translation>
+<translation id="7248671827512403053">Aplikacija</translation>
+<translation id="1710259589646384581">OS</translation>
+<translation id="6897140037006041989">Uporabnikov posrednik</translation>
+<translation id="7353601530677266744">Ukazna vrstica</translation>
+<translation id="7225807090967870017">ID gradnje</translation>
+</translationbundle>

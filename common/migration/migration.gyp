@@ -1,0 +1,160 @@
+# Copyright (C) 2012 Opera Software ASA.  All rights reserved.
+#
+# This file is an original work developed by Opera Software ASA
+{
+  'variables':
+  {
+    'chromium_code': 1,  # Use higher warning level.
+  },
+  'targets':
+  [
+    {
+      'target_name': 'migration_lib',
+      'type': 'static_library',
+      'dependencies': [
+        '<(DEPTH)/base/base.gyp:base',
+        '<(DEPTH)/content/content.gyp:content_common',
+        '<(DEPTH)/net/net.gyp:net',  # For cookie importer
+        '<(DEPTH)/storage/storage_browser.gyp:storage',
+        '<(DEPTH)/storage/storage_common.gyp:storage_common',
+        '<(DEPTH)/third_party/libxml/libxml.gyp:libxml',
+        '<(DEPTH)/url/url.gyp:url_lib',
+        '../presto/password_crypto/password_crypto.gyp:password_crypto',
+        '../ini_parser/ini_parser.gyp:ini_parser',
+      ],
+      'include_dirs': [
+        '<(DEPTH)',
+        '../..'
+      ],
+      'sources': [
+        'bookmark_importer.cc',
+        'bookmark_importer.h',
+        'cookie_importer.cc',
+        'cookie_importer.h',
+        'cookies/cookie_callback.h',
+        'cookies/cookie_domain.cc',
+        'cookies/cookie_domain.h',
+        'cookies/imported_cookie.cc',
+        'cookies/imported_cookie.h',
+        'cookies/path_component.cc',
+        'cookies/path_component.h',
+        'download/download_history_data.cc',
+        'download/download_history_data.h',
+        'download/download_history_data.h',
+        'download_history_importer.cc',
+        'download_history_importer.h',
+        'global_history_importer.cc',
+        'global_history_importer.h',
+        'migration_assistant.cc',
+        'migration_assistant.h',
+        'migration_assistant_factory.cc',
+        'migration_assistant_factory.h',
+        'migration_result_listener.h',
+        'password_importer.cc',
+        'password_importer.h',
+        'prefs_importer.cc',
+        'prefs_importer.h',
+        'search_history_importer.cc',
+        'search_history_importer.h',
+        'session_importer.cc',
+        'session_importer.h',
+        'sessions/parent_window.cc',
+        'sessions/parent_window.h',
+        'sessions/session_import_listener.h',
+        'sessions/tab_session.cc',
+        'sessions/tab_session.h',
+        'speed_dial_importer.cc',
+        'speed_dial_importer.h',
+        'tools/binary_reader.cc',
+        'tools/binary_reader.h',
+        'tools/bulk_file_reader.cc',
+        'tools/bulk_file_reader.h',
+        'tools/data_stream_reader.cc',
+        'tools/data_stream_reader.h',
+        'tools/util.h',
+        'typed_history_importer.cc',
+        'typed_history_importer.h',
+        'visited_links_importer.cc',
+        'visited_links_importer.h',
+        'vlinks/visited_link.cc',
+        'vlinks/visited_link.h',
+        'vlinks/visited_links_listener.h',
+        'vlinks/vlink4_tags.h',
+        'wand/ssl_password_reader.cc',
+        'wand/ssl_password_reader.h',
+        'wand/wand_login.cc',
+        'wand/wand_login.h',
+        'wand/wand_manager.cc',
+        'wand/wand_manager.h',
+        'wand/wand_object.cc',
+        'wand/wand_object.h',
+        'wand/wand_page.cc',
+        'wand/wand_page.h',
+        'wand/wand_profile.cc',
+        'wand/wand_profile.h',
+        'wand/wand_reader.cc',
+        'wand/wand_reader.h',
+        'web_storage_importer.cc',
+        'web_storage_importer.h',
+        'web_storage_listener.h',
+      ],
+    },
+    {
+      'target_name': 'migration_unittests',
+      'type': 'executable',
+      'dependencies':
+      [
+        '<(DEPTH)/base/base.gyp:run_all_unittests', #Entry point for the test exe
+        '<(DEPTH)/content/content_shell_and_tests.gyp:test_support_content',
+        '<(DEPTH)/testing/gmock.gyp:gmock',
+        '<(DEPTH)/testing/gtest.gyp:gtest',
+        'migration_lib',
+      ],
+      'include_dirs':
+      [
+        '../..'
+      ],
+      'sources':
+      [
+        'bookmark_importer_test.cc',
+        'cookie_importer_test.cc',
+        'cookies/imported_cookie_test.cc',
+        'download_history_importer_test.cc',
+        'global_history_importer_test.cc',
+        'migration_assistant_test.cc',
+        'migration_result_listener_mock.cc',
+        'migration_result_listener_mock.h',
+        'password_importer_test.cc',
+        'prefs_importer_test.cc',
+        'search_history_importer_test.cc',
+        'session_importer_test.cc',
+        'speed_dial_importer_test.cc',
+        'tools/bulk_file_reader_test.cc',
+        'tools/data_stream_reader_test.cc',
+        'tools/data_stream_test_utils.h',
+        'tools/mock_bulk_file_reader.cc',
+        'tools/mock_bulk_file_reader.h',
+        'tools/test_path_utils.cc',
+        'tools/test_path_utils.h',
+        'typed_history_importer_test.cc',
+        'visited_links_importer_test.cc',
+        'web_storage_importer_test.cc',
+      ],
+      'conditions': [
+        ['OS=="win" and win_use_allocator_shim==1', {
+          'dependencies': [
+            '<(DEPTH)/base/allocator/allocator.gyp:allocator',
+          ],
+        }],
+      ],
+      'copies':
+      [{
+        'destination':'<(PRODUCT_DIR)/',
+        'files':
+        [
+          'test_data/'
+        ]
+      }]
+    }
+  ],
+}

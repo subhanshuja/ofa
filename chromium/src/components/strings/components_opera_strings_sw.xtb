@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="sw">
+<translation id="1974060860693918893">Mahiri</translation>
+<translation id="3462200631372590220">Ficha mahiri</translation>
+<translation id="3369192424181595722">Hitilafu ya saa</translation>
+<translation id="2625385379895617796">Saa yako iko mbele</translation>
+<translation id="8932102934695377596">Saa yako iko nyuma</translation>
+<translation id="3858027520442213535">Sasisha tarehe na saa</translation>
+<translation id="725866823122871198">Muunganisho wa faragha kwenye <ph name="BEGIN_BOLD"/><ph name="DOMAIN"/><ph name="END_BOLD"/> hauwezi kutambuliwa kwa sababu tarehe na saa ya kompyuta yako (<ph name="DATE_AND_TIME"/>) si sahihi.</translation>
+<translation id="4879058462256654741">Tambua muunganisho salama, saa yako inahitaji kuwekwa sahihi. Hii ni kwa sababu vyeti ambavyo tovuti hutumia kujitambulia ni halali tu kwa wakati mahususi. Kwa kuwa saa yako si sahihi, vyeti hivi haviwezi kuthibitishwa.</translation>
+<translation id="1413809658975081374">Hitilafu ya faragha</translation>
+<translation id="3566021033012934673">Muunganisho wako si wa faraghani</translation>
+<translation id="340013220407300675">Huenda wavamizi wanajaribu kuiba maelezo yako kutoka <ph name="BEGIN_BOLD"/><ph name="SITE"/><ph name="END_BOLD"/> (kwa mfano, manenosiri, ujumbe, au kadi za mikopo).</translation>
+<translation id="629137324635910832"><ph name="SITE"/> kwa kawaida hutumia usimbaji fiche kulinda maelezo yako. Opera ilipojaribu kuunganisha kwenye <ph name="SITE"/> wakati huu, tovuti ilituma stakabadhi zisizo za kawaida na zisizo sahihi. Hili linaweza kutendeka mvamizi anapojaribu kujifanya kuwa <ph name="SITE"/>, au skrini ya kuingia kwenye Wi-Fi imechachawiza muunganisho. Maelezo yako bado ni salama kwa sababu Opera imesimamisha muunganisho kabla ya data yoyote kubadilishwa.</translation>
+<translation id="4404555778932203074">Huwezi kutembelea <ph name="SITE"/> sasa hivi kwa sababu tovuti yako imetuma stakabadhi zilizovurugika ambazo Opera hawezi kushughulikia. Hitilafu za mtandao na wavamizi kwa kawaida huwa vya muda, kwa hivyo huenda ukurasa huu ukafanya kazi baadaye.</translation>
+<translation id="8882627153668738693"><ph name="SITE"/> kwa kawaida hutumia usimbaji fiche kulinda maelezo yako. Avast SafeZone ilipojaribu kuunganisha kwenye <ph name="SITE"/> wakati huu, tovuti ilituma stakabadhi zisizo za kawaida na zisizo sahihi. Hili linaweza kutendeka mvamizi anapojaribu kujifanya kuwa <ph name="SITE"/>, au skrini ya kuingia kwenye Wi-Fi imechachawiza muunganisho. Maelezo yako bado ni salama kwa sababu Avast SafeZone imesimamisha muunganisho kabla ya data yoyote kubadilishwa.</translation>
+<translation id="1888865191717601957">Huwezi kutembelea <ph name="SITE"/> sasa hivi kwa sababu tovuti yako imetuma stakabadhi zilizovurugika ambazo Avast SafeZone haiwezi kushughulikia. Hitilafu za mtandao na wavamizi kwa kawaida huwa vya muda, kwa hivyo huenda ukurasa huu ukafanya kazi baadaye.</translation>
+<translation id="6264485186158353794">Rudi kwa usalama</translation>
+<translation id="7704050614460855821"><ph name="BEGIN_LINK"/>Endelea kwenye <ph name="SITE"/> (si salama)<ph name="END_LINK"/></translation>
+<translation id="5556459405103347317">Pakia tena</translation>
+<translation id="6051221802930200923">Huwezi kutembelea <ph name="SITE"/> sasa hivi kwa sababu tovuti hutumia ubanaji wa cheti. Hitilafu za mtandao na uvamizi kwa kawaida huwa ni vya muda, kwa hivyo ukurasa huu huenda utafanya kazi baadaye.</translation>
+<translation id="2991571918955627853">Huwezi kutembelea <ph name="SITE"/> sasa hivi kwa sababu tovuti hutumia HSTS. Hitilafu za mtandao na uvamizi kwa kawaida huwa ni vya muda, kwa hivyo ukurasa huu huenda utafanya kazi baadaye.</translation>
+<translation id="1430489501396597835">Huwezi kutembelea <ph name="SITE"/> sasa hivi kwa sababu cheti hiki kimebatilishwa. Hitilafu za mtandao na uvamizi kwa kawaida huwa ni vya muda, kwa hivyo ukurasa huu huenda utafanya kazi baadaye.</translation>
+<translation id="4513896196857653318">Nenda kwenye
+          Menyu kuu &gt;
+          <ph name="SETTINGS_TITLE"/>
+          &gt;
+          <ph name="ADVANCED_TITLE"/>
+          na uondoe uteuzi "<ph name="NO_PREFETCH_DESCRIPTION"/>."
+          Ikiwa hili halitatatua tatizo, tunapendekeza uteue chaguo hili
+          tena kwa utendakazi ulioboreshwa.</translation>
+<translation id="8888594059056485523">Ruhusu Opera ifikie mtandao katika mipangilio yako ya ngome au kinga-virusi.</translation>
+<translation id="8040357206858000048">Nenda kwenye Programu &gt; Mapendeleo ya Mfumo &gt; Mtandao &gt; Mahiri &gt; Proksi na uondoe tiki kwenye proksi zozote ambazo zimeteuliwa.</translation>
+<translation id="1532685482177999023">Nenda kwenye menyu Kuu &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; Mipangilio ya LAN na uondoe uteuzi "Tumia seva mbadala kwa LAN yako".</translation>
+<translation id="6118049677165320383">Mabadiliko yako yatatekelezeka utakapozindua kivinjari tena.</translation>
+<translation id="5510583790312051907">Kuripoti kuacha kufanya kazi hakupo.</translation>
+<translation id="1011013207380005827">Opera Imewezeshwa na <ph name="BEGIN_LINK_CHROMIUM"/>Mradi wa programu huria ya Chromium<ph name="END_LINK_CHROMIUM"/>na<ph name="BEGIN_LINK_OSS"/>programu nyingine huria<ph name="END_LINK_OSS"/>.</translation>
+<translation id="3108493547597012279">Unatazama ukurasa salama.</translation>
+<translation id="8530361534096361731">Opera haikujifunga vizuri.</translation>
+</translationbundle>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="da">
+<translation id="2978824962390592855">Opera</translation>
+<translation id="9071130496134948492">Opera Software</translation>
+<translation id="6494666865857176946">Opera Software fraråder på det kraftigste at besøge denne side.</translation>
+<translation id="7459549266751278805">Opera Notitscenter</translation>
+<translation id="4501379002264542907">Opera – notitser</translation>
+<translation id="1352092048463356430">Opera - notitser (<ph name="QUANTITY"/> ulæste)</translation>
+<translation id="4159400746343093340">Opera – Notitser</translation>
+<translation id="6018626517703817463">Opera - Notitser (<ph name="QUANTITY"/> ulæste)</translation>
+<translation id="6161036283010589960">Webstedet bruger forældede sikkerhedsindstillinger, der kan forhindre, at fremtidige versioner af Opera kan få sikker adgang til det.</translation>
+<translation id="8888594059056485523">Tillad, at Opera har adgang til netværket i dine indstillinger for firewall eller antivirus.</translation>
+<translation id="7158277678571698323">Gå til Opera-menuen &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; LAN-indstillinger, og fjern markeringen i "Brug en proxyserver til LAN".</translation>
+<translation id="5873732809085338161">Vil du aktivere usikre websockets i din browser på computeren, skal du gå til <ph name="HTMLOPERAFLAG"/> (Opera 24 og derover) eller <ph name="HTMLCHROMEFLAG"/> (Chrome 36 og derover).</translation>
+<translation id="2005166128312586988">Dine ændringer træder i kraft, når du genstarter Opera.</translation>
+<translation id="684302243018322820">Indtast adgangskoden til din computer, hvis du vil se Operas gemte adgangskoder.</translation>
+</translationbundle>

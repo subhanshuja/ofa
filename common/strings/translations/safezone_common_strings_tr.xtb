@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="tr">
+<translation id="3929428121849375048">Avast SafeZone</translation>
+<translation id="806546331937022936">Avast</translation>
+<translation id="3609966143444339170">Avast bu sitede gezmemenizi şiddetle önerir.</translation>
+<translation id="4206706288435313269">Avast SafeZone bildirim merkezi</translation>
+<translation id="254978580676301713">SafeZone - bildirimler</translation>
+<translation id="8084325208922689406">SafeZone - bildirimler (<ph name="QUANTITY"/> okunmadı)</translation>
+<translation id="678670207776683961">SafeZone - Bildirimler</translation>
+<translation id="191361968702850015">SafeZone - Bildirimler (<ph name="QUANTITY"/> okunmadı)</translation>
+<translation id="1359674843509087498">Site, gelecek SafeZone sürümlerinin güvenle erişmelerine engel olabilecek kadar eski güvenlik ayarları kullanıyor.</translation>
+<translation id="3485921796584936414">Güvenlik duvarı veya antivirüs ayarlarınızda SafeZone'un ağa erişmesine izin verin.</translation>
+<translation id="7041993155087650094">SafeZone menüsü &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; LAN Ayarları'na gidin ve "Yerel ağınız için Ara Sunucu kullanın" seçimini kaldırın.</translation>
+<translation id="5366394231680131980">Yaptığınız değişiklikler, SafeZone'u yeniden çalıştırdığınızda etkili olacak.</translation>
+<translation id="6964843943881946410">SafeZone'da kayıtlı parolaları görmek için bilgisayarınızın parolasını giriniz.</translation>
+</translationbundle>

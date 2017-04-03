@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="sv">
+<translation id="2978824962390592855">Opera</translation>
+<translation id="9071130496134948492">Opera Software</translation>
+<translation id="6494666865857176946">Opera Software avråder bestämt från att besöka denna sida.</translation>
+<translation id="7459549266751278805">Opera Meddelandecenter</translation>
+<translation id="4501379002264542907">Opera - meddelanden</translation>
+<translation id="1352092048463356430">Opera - meddelanden (<ph name="QUANTITY"/> olästa)</translation>
+<translation id="4159400746343093340">Opera - Meddelanden</translation>
+<translation id="6018626517703817463">Opera - meddelanden (<ph name="QUANTITY"/> olästa)</translation>
+<translation id="6161036283010589960">Webbplatsen använder föråldrade säkerhetsinställningar som kan förhindra framtida versioner av Opera från att få säker tillgång till den.</translation>
+<translation id="8888594059056485523">Tillåt att Opera får tillgång till nätverket i dina inställningar för brandvägg och antivirus.</translation>
+<translation id="7158277678571698323">Gå till Opera-menyn &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; LAN-inställningar och avmarkera "Använd en proxyserver för ditt lokala nätverk".</translation>
+<translation id="5873732809085338161">Om du vill aktivera osäkra WebSockets i datorns webbläsare, gå till <ph name="HTMLOPERAFLAG"/> (Opera 24+) eller <ph name="HTMLCHROMEFLAG"/> (Chrome 36+).</translation>
+<translation id="2005166128312586988">Ändringarna börjar gälla när du startar om Opera.</translation>
+<translation id="684302243018322820">Se Operas lagrade lösenord genom att ange ditt lösenord för datorn.</translation>
+</translationbundle>

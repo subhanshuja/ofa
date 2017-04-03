@@ -1,0 +1,21 @@
+# Copyright (C) 2016 Opera Software ASA.  All rights reserved.
+#
+# This file is an original work developed by Opera Software ASA
+
+import("//build/config/opera-common.gni")
+
+source_set("bookmarks") {
+  sources = [
+    "bookmark_suggestion_provider.cc",
+    "bookmark_suggestion_provider.h",
+  ]
+
+  configs += [ "$opera/common/config:include_config" ]
+
+  deps = [
+    "$opera/common/bookmarks",
+    "$opera/common/suggestion",
+    "//base",
+    "//components/bookmarks/browser",
+  ]
+}

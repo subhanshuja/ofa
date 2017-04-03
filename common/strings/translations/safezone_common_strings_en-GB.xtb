@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="en-GB">
+<translation id="3929428121849375048">Avast SafeZone</translation>
+<translation id="806546331937022936">Avast</translation>
+<translation id="3609966143444339170">Avast strongly discourages visiting this page.</translation>
+<translation id="4206706288435313269">Avast SafeZone notification center</translation>
+<translation id="254978580676301713">SafeZone - notifications</translation>
+<translation id="8084325208922689406">SafeZone - notifications (<ph name="QUANTITY"/> unread)</translation>
+<translation id="678670207776683961">SafeZone - Notifications</translation>
+<translation id="191361968702850015">SafeZone - Notifications (<ph name="QUANTITY"/> unread)</translation>
+<translation id="1359674843509087498">The site is using outdated security settings that may prevent future versions of SafeZone from being able to safely access it.</translation>
+<translation id="3485921796584936414">Allow SafeZone to access the network in your firewall or antivirus settings.</translation>
+<translation id="7041993155087650094">Go to the SafeZone menu &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; LAN Settings and deselect "Use a proxy server for your LAN".</translation>
+<translation id="5366394231680131980">Your changes will take effect when you relaunch SafeZone.</translation>
+<translation id="6964843943881946410">To see SafeZone's stored passwords, please enter your computer password.</translation>
+</translationbundle>

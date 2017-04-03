@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="fr-CA">
+<translation id="1974060860693918893">Avancé</translation>
+<translation id="3462200631372590220">Masquer les infos avancées</translation>
+<translation id="3369192424181595722">Erreur d'horloge</translation>
+<translation id="2625385379895617796">Votre horloge est en avance</translation>
+<translation id="8932102934695377596">Votre horloge est en retard</translation>
+<translation id="3858027520442213535">Mettez votre date et heure à jour</translation>
+<translation id="725866823122871198">Une connexion privée à <ph name="BEGIN_BOLD"/><ph name="DOMAIN"/><ph name="END_BOLD"/> ne peut être établie parce que la date et l'heure de votre horloge (<ph name="DATE_AND_TIME"/>) sont incorrectes.</translation>
+<translation id="4879058462256654741">Pour établir une connexion sécurisée votre horloge doit être correctement ajustée. Ceci est dû au fait que les certificats servant à identifier les sites web sont valide pour des périodes de temps limitées. Puisque votre horloge est mal ajustée, ces certificats ne peuvent être vérifiés.</translation>
+<translation id="1413809658975081374">Erreur de vie privée</translation>
+<translation id="3566021033012934673">Votre connexion n'est pas privée</translation>
+<translation id="340013220407300675">Un pirate peut être en train de voler votre information de <ph name="BEGIN_BOLD"/><ph name="SITE"/><ph name="END_BOLD"/> (par exemple, mots de passe, messages ou cartes de crédit).</translation>
+<translation id="629137324635910832"><ph name="SITE"/> utilise normalement le chiffrement pour protéger votre information. Quand Opera a essayé de connecter à <ph name="SITE"/> cette fois, le site web a renvoyé des identifications inhabituelles et incorrectes. Ceci peut se produire quand un pirate essaie de se faire passer pour <ph name="SITE"/>, ou encore un écran d'accès Wi-Fi a interrompu la connexion. Votre information est encore sécurisée parce qu'Opera a bloqué la connexion avant que des données soient échangées.</translation>
+<translation id="4404555778932203074">Vous ne pouvez visiter <ph name="SITE"/> en ce moment parce que le site envoie des données d'identification qu'Opera ne peut traiter. Les erreurs réseaux et les attaques sont habituellement temporaires, alors cette page fonctionnera sans doute plus tard.</translation>
+<translation id="8882627153668738693"><ph name="SITE"/> utilise normalement le chiffrement pour protéger votre information. Quand Avast Safezone a essayé de connecter à <ph name="SITE"/> cette fois, le site web a renvoyé des identifications inhabituelles et incorrectes. Ceci peut se produire quand un pirate essaie de se faire passer pour <ph name="SITE"/>, ou encore un écran d'accès Wi-Fi a interrompu la connexion. Votre information est encore sécurisée parce qu'Avast SafeZone a bloqué la connexion avant que des données soient échangées.</translation>
+<translation id="1888865191717601957">Vous ne pouvez visiter <ph name="SITE"/> en ce moment parce que le site envoie des données d'identification qu'Avast SafeZone ne peut traiter. Les erreurs réseaux et les attaques sont habituellement temporaires, alors cette page fonctionnera sans doute plus tard.</translation>
+<translation id="6264485186158353794">De retour en lieu sûr</translation>
+<translation id="7704050614460855821"><ph name="BEGIN_LINK"/>Aller de l'avant avec <ph name="SITE"/> (non sûr)<ph name="END_LINK"/></translation>
+<translation id="5556459405103347317">Recharger</translation>
+<translation id="6051221802930200923">Vous ne pouvez visiter <ph name="SITE"/> en ce moment, parce que ce site web utilise un certificat indépendant. Les erreurs réseaux et les attaques sont habituellement temporaires, alors cette page fonctionnera sans doute plus tard.</translation>
+<translation id="2991571918955627853">Vous ne pouvez visiter <ph name="SITE"/> en ce moment, parce que ce site web utilise le HSTS. Les erreurs et attaques réseaux sont habituellement temporaires, alors cette page fonctionnera sans doute plus tard.</translation>
+<translation id="1430489501396597835">Vous ne pouvez visiter <ph name="SITE"/> en ce moment, parce que le certificat de ce site web utilise est révoqué. Les erreurs réseaux et les attaques sont habituellement temporaires, alors cette page fonctionnera sans doute plus tard.</translation>
+<translation id="4513896196857653318">Aller à
+          le Menu Principal &gt;
+          <ph name="SETTINGS_TITLE"/>
+          &gt;
+          <ph name="ADVANCED_TITLE"/>
+          et décocher "<ph name="NO_PREFETCH_DESCRIPTION"/>."
+          Si ceci ne résoud pas le problème,nous recommandons de cocher cette option 
+          à nouveau pour une meilleure performance.</translation>
+<translation id="8888594059056485523">Permettre à Opera d'accéder le réseau dans vos réglages de pare-feu ou anti-virus.</translation>
+<translation id="8040357206858000048">Allez à Applications &gt; Préférences Systèmes &gt; Réseau &gt; Avancé &gt; Proxies et désactivez tout réglage de serveur proxy qui serait activé.</translation>
+<translation id="1532685482177999023">Accédez le menu principal &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; Réglages réseaux et désactivez "Utiliser un serveur proxy pour le réseau local".</translation>
+<translation id="6118049677165320383">Vos changement seront actifs lorsque vous redémarrerez le navigateur.</translation>
+<translation id="5510583790312051907">Le rapport de panne n'est pas disponible.</translation>
+<translation id="1011013207380005827">Opera est rendu possible par le projet de logiciel ouvert <ph name="BEGIN_LINK_CHROMIUM"/>Chromium<ph name="END_LINK_CHROMIUM"/> et d'autres <ph name="BEGIN_LINK_OSS"/>projets de logiciel ouverts<ph name="END_LINK_OSS"/>.</translation>
+<translation id="3108493547597012279">Vous visitez une page sécurisée.</translation>
+<translation id="8530361534096361731">Opera n'a pas été éteint correctement.</translation>
+</translationbundle>

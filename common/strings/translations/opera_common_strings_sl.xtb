@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="sl">
+<translation id="2978824962390592855">Opera</translation>
+<translation id="9071130496134948492">Opera Software</translation>
+<translation id="6494666865857176946">Družba Opera Software močno odsvetuje obisk te spletne strani.</translation>
+<translation id="7459549266751278805">Središče za obvestila Opera</translation>
+<translation id="4501379002264542907">Opera – obvestila</translation>
+<translation id="1352092048463356430">Opera – obvestila (<ph name="QUANTITY"/> neprebranih)</translation>
+<translation id="4159400746343093340">Opera - obvestila</translation>
+<translation id="6018626517703817463">Opera – obvestila (<ph name="QUANTITY"/> neprebranih)</translation>
+<translation id="6161036283010589960">Spletno mesto uporablja zastarele varnostne nastavitve, ki lahko novejšim različicam brskalnika Opera preprečijo varno dostopanje.</translation>
+<translation id="8888594059056485523">V nastavitvah požarnega zidu ali protivirusnega programa dovolite brskalniku Opera dostop do omrežja.</translation>
+<translation id="7158277678571698323">Premaknite se v meni brskalnika Opera &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; »Nastavitve omrežja LAN« in prekličite izbor možnosti »Uporabi strežnik proxy za omrežje LAN«.</translation>
+<translation id="5873732809085338161">Če želite omogočiti nezavarovan protokol WebSockets na vašem namiznem brskalniku, pojdite na <ph name="HTMLOPERAFLAG"/> (Opera 24+) ali <ph name="HTMLCHROMEFLAG"/> (Chrome 36+).</translation>
+<translation id="2005166128312586988">Spremembe bodo začele delovati, ko boste znova zagnali brskalnik Opera.</translation>
+<translation id="684302243018322820">Če si želite ogledati shranjena gesla brskalnika Opera, vnesite geslo računalnika.</translation>
+</translationbundle>

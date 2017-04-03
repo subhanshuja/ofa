@@ -1,0 +1,29 @@
+# Copyright (C) 2016 Opera Software ASA.  All rights reserved.
+#
+# This file is an original work developed by Opera Software ASA
+
+import("//build/config/opera-common.gni")
+
+source_set("opengl_utils") {
+  sources = [
+    "gl_geometry.cc",
+    "gl_geometry.h",
+    "gl_library.cc",
+    "gl_library.h",
+    "gl_mipmap.cc",
+    "gl_mipmap.h",
+    "gl_shader.cc",
+    "gl_shader.h",
+    "gl_texture.cc",
+    "gl_texture.h",
+    "opengl.h",
+    "vector4d_f.h",
+  ]
+
+  configs += [ "$opera/mobile/mobile/build:include_config" ]
+
+  deps = [
+    "//skia",
+    "//third_party/lz4",
+  ]
+}

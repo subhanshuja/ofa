@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="ca">
+<translation id="2978824962390592855">Opera</translation>
+<translation id="9071130496134948492">Opera Software</translation>
+<translation id="6494666865857176946">Opera Software no recomana visitar aquesta pàgina.</translation>
+<translation id="7459549266751278805">Centre de notificacions d'Opera</translation>
+<translation id="4501379002264542907">Opera: notificacions</translation>
+<translation id="1352092048463356430">Opera: notificacions (<ph name="QUANTITY"/> no llegides)</translation>
+<translation id="4159400746343093340">Opera: notificacions</translation>
+<translation id="6018626517703817463">Opera: notificacions (<ph name="QUANTITY"/> no llegides)</translation>
+<translation id="6161036283010589960">Aquest lloc utilitza paràmetres de seguretat obsolets que poden impedir que futures versions d'Opera hi puguin accedir de manera segura.</translation>
+<translation id="8888594059056485523">Permeteu que Opera accedeixi a la xarxa amb la vostra configuració de tallafoc o antivirus.</translation>
+<translation id="7158277678571698323">Aneu al menú Opera &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; Paràmetres de la LAN i deseleccioneu "Utilitza un servidor intermediari per a la LAN".</translation>
+<translation id="5873732809085338161">Per activar WebSockets no segurs al navegador de l'escriptori, aneu a <ph name="HTMLOPERAFLAG"/> (Opera 24+) o a <ph name="HTMLCHROMEFLAG"/> (Chrome 36+).</translation>
+<translation id="2005166128312586988">Els canvis s'aplicaran quan tornis a iniciar Opera.</translation>
+<translation id="684302243018322820">Per veure les contrasenyes emmagatzemades d'Opera, introduïu la contrasenya de l'ordinador.</translation>
+</translationbundle>

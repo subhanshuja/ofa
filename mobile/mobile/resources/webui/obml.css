@@ -1,0 +1,54 @@
+body {
+  margin: 0px;
+}
+
+body * {
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  display: block;
+}
+
+p, a {
+  white-space: nowrap;
+  overflow: visible;
+  text-decoration: none;
+}
+
+body > .banner > input[type=checkbox] {
+  position: absolute;
+  top: -9999px;
+  left: -9999px;
+}
+
+body > .banner > input[type=checkbox]:checked ~ .content {
+  opacity: 0;
+  pointer-events: none;
+}
+
+body > .banner > .content {
+  background-color: firebrick;
+  font: 1.5em sans-serif;
+  color: floralwhite;
+
+  box-sizing: border-box;
+  width: 100%;
+  padding: 1em 2em;
+  z-index: 1;
+
+  opacity: 1.0;
+  transition: opacity 0.5s;
+
+  overflow: hidden;
+}
+
+body > .banner > .content a,
+body > .banner > .content a:visited {
+  color: floralwhite;
+  text-decoration: underline;
+  display:inline;
+}
+
+body > .banner > .content > * {
+  position: relative;
+}

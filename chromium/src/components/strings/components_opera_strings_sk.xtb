@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="sk">
+<translation id="1974060860693918893">Rozšírené</translation>
+<translation id="3462200631372590220">Skryť rozšírené</translation>
+<translation id="3369192424181595722">Chyba hodín</translation>
+<translation id="2625385379895617796">Vaše hodiny idú popredu</translation>
+<translation id="8932102934695377596">Vaše hodiny meškajú</translation>
+<translation id="3858027520442213535">Aktualizovať dátum a čas</translation>
+<translation id="725866823122871198">Nemožno vytvoriť súkromné pripojenie k stránke <ph name="BEGIN_BOLD"/><ph name="DOMAIN"/><ph name="END_BOLD"/>, pretože dátum a čas vášho počítača (<ph name="DATE_AND_TIME"/>) nie je správny.</translation>
+<translation id="4879058462256654741">Na vytvorenie zabezpečeného pripojenia je potrebné správne nastavenie hodín. Dôvodom je, že certifikáty, ktoré web stránky používajú na svoju identifikáciu, sú platené len určitý čas. Keďže je nastavenie hodín vášho zariadenia nesprávne, tieto certifikáty nemožno overiť.</translation>
+<translation id="1413809658975081374">Chyba súkromia</translation>
+<translation id="3566021033012934673">Vaše pripojenie nie je súkromné</translation>
+<translation id="340013220407300675">Útočníci sa môžu pokúšať o krádež vašich údajov zo stránky <ph name="BEGIN_BOLD"/><ph name="SITE"/><ph name="END_BOLD"/> (napríklad heslá, správy alebo kreditné karty).</translation>
+<translation id="629137324635910832">Stránka <ph name="SITE"/> bežne používa šifrovanie na ochranu vašich údajov. Keď sa prehliadač Opera tentokrát pokúsil o pripojenie k stránke <ph name="SITE"/>, web stránka odoslala späť nezvyčajné a nesprávne overovacie údaje. K tomuto môže dôjsť, keď útočník predstiera, že je stránka <ph name="SITE"/>, alebo keď pripojenie preruší obrazovka prihlásenia k sieti Wi-Fi. Vaše údaje sú v bezpečí, pretože prehliadač Opera prerušil pripojenie pred výmenou akýchkoľvek údajov.</translation>
+<translation id="4404555778932203074">Momentálne nemôžete navštíviť stránku <ph name="SITE"/>, pretože táto web stránka odoslala kódované informácie, ktoré Opera nedokáže spracovať. Chyby siete a útoky sú väčšinou dočasné, takže stránka bude neskôr pravdepodobne fungovať.</translation>
+<translation id="8882627153668738693">Stránka <ph name="SITE"/> bežne používa šifrovanie na ochranu vašich údajov. Keď sa prehliadač Avast SafeZone tentokrát pokúsil o pripojenie k stránke <ph name="SITE"/>, web stránka odoslala späť nezvyčajné a nesprávne overovacie údaje. K tomuto môže dôjsť, keď útočník predstiera, že je stránka <ph name="SITE"/>, alebo keď pripojenie preruší obrazovka prihlásenia k sieti Wi-Fi. Vaše údaje sú v bezpečí, pretože prehliadač Avast SafeZone prerušil pripojenie pred výmenou akýchkoľvek údajov.</translation>
+<translation id="1888865191717601957">Momentálne nemôžete navštíviť stránku <ph name="SITE"/>, pretože táto web stránka odoslala kódované informácie, ktoré Avast SafeZone nedokáže spracovať. Chyby siete a útoky sú väčšinou dočasné, takže stránka bude neskôr pravdepodobne fungovať.</translation>
+<translation id="6264485186158353794">Späť do bezpečia</translation>
+<translation id="7704050614460855821"><ph name="BEGIN_LINK"/>Pokračovať na stránku <ph name="SITE"/> (nebezpečné)<ph name="END_LINK"/></translation>
+<translation id="5556459405103347317">Obnoviť</translation>
+<translation id="6051221802930200923">Momentálne nemôžete navštíviť <ph name="SITE"/>, pretože webová lokalita používa overovanie certifikátu. Chyby siete a útoky sú väčšinou dočasné, takže stránka bude neskôr pravdepodobne fungovať.</translation>
+<translation id="2991571918955627853">Momentálne nemôžete navštíviť <ph name="SITE"/>, pretože webová lokalita používa HSTS. Chyby siete a útoky sú väčšinou dočasné, takže stránka bude neskôr pravdepodobne fungovať.</translation>
+<translation id="1430489501396597835">Momentálne nemôžete navštíviť stránku <ph name="SITE"/>, pretože tento certifikát bol zrušený. Chyby siete a útoky sú väčšinou dočasné, takže stránka bude neskôr pravdepodobne fungovať.</translation>
+<translation id="4513896196857653318">Prejdite na položky
+          Hlavné menu &gt;
+          <ph name="SETTINGS_TITLE"/>
+          &gt;
+          <ph name="ADVANCED_TITLE"/>
+          a zrušte výber položky „<ph name="NO_PREFETCH_DESCRIPTION"/>“.
+          Ak sa problém nevyrieši, odporúčame túto možnosť znova zapnúť,
+          aby sa zlepšil výkon.</translation>
+<translation id="8888594059056485523">V nastavení antivírusu alebo firewallu povoľte Opere prístup k sieti.</translation>
+<translation id="8040357206858000048">Prejdite na položky Aplikácie &gt; Nastavenie systému &gt; Sieť &gt; Rozšírené &gt; Proxy a zrušte výber všetkých vybratých proxy serverov.</translation>
+<translation id="1532685482177999023">Prejdite na položky Hlavné menu &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; Nastavenie siete LAN a zrušte výber položky „Používať proxy server pre sieť LAN“.</translation>
+<translation id="6118049677165320383">Vaše zmeny sa prejavia po najbližšom spustení prehliadača.</translation>
+<translation id="5510583790312051907">Hlásenie chýb nie je k dispozícii.</translation>
+<translation id="1011013207380005827">Vytvorenie prehliadača Opera umožnil projekt s otvoreným zdrojovým kódom <ph name="BEGIN_LINK_CHROMIUM"/>Chromium<ph name="END_LINK_CHROMIUM"/> a iný <ph name="BEGIN_LINK_OSS"/>softvér s otvoreným zdrojovým kódom<ph name="END_LINK_OSS"/>.</translation>
+<translation id="3108493547597012279">Prezeráte zabezpečenú stránku.</translation>
+<translation id="8530361534096361731">Prehliadač Opera sa neukončil správne.</translation>
+</translationbundle>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="fr-CA">
+<translation id="6315516427814392808">Impossible de compléter la dernière opération dû à un manque de mémoire</translation>
+<translation id="793640675459356075">Impossible d'ouvrir le fichier</translation>
+<translation id="6042308850641462728">Plus</translation>
+<translation id="8889402386540077796">Teinte</translation>
+<translation id="3329013043687509092">Saturation</translation>
+<translation id="7535087603100972091">Valeur</translation>
+<translation id="6727102863431372879">Régler</translation>
+<translation id="7658239707568436148">Annuler</translation>
+<translation id="9068849894565669697">Choisir couleur</translation>
+<translation id="7942349550061667556">Rouge</translation>
+<translation id="161042844686301425">Cyan</translation>
+<translation id="1555130319947370107">Bleu</translation>
+<translation id="6017514345406065928">Vert</translation>
+<translation id="4115378294792113321">Magenta</translation>
+<translation id="5901630391730855834">Jaune</translation>
+<translation id="7569983096843329377">Noir</translation>
+<translation id="2713444072780614174">Blanc</translation>
+<translation id="6555463879959038093">Impossible de copier vers le presse-papier</translation>
+<translation id="8987927404178983737">Mois</translation>
+<translation id="6015796118275082299">Année</translation>
+<translation id="7781164152564914424">Régler mois</translation>
+<translation id="5966707198760109579">Semaine</translation>
+<translation id="4247305538398689241">Régler semaine</translation>
+<translation id="2732718972699418926">AM</translation>
+<translation id="2429669115401274487">PM</translation>
+<translation id="7575803462290353686">Régler Heure</translation>
+<translation id="3845599764535987402">Heure</translation>
+<translation id="7102218676258945610">Minute</translation>
+<translation id="4768459022382175196">Seconde</translation>
+<translation id="1768717197362323622">Millisecondes</translation>
+<translation id="1822429046913737220">AM/PM</translation>
+<translation id="376869769528291915">h</translation>
+<translation id="5789643057113097023">,</translation>
+<translation id="6444070574980481588">Régler date et heure</translation>
+<translation id="4932733599132424254">Date</translation>
+<translation id="2841013758207633010">Heure</translation>
+<translation id="7138678301420049075">Autre</translation>
+<translation id="7821540960913969614">Régler Date</translation>
+<translation id="6643016212128521049">Effacer</translation>
+<translation id="928752963351137118">Affichage superposé des champs auto-complétés</translation>
+<translation id="4842092870884894799">Affichage superposé de génération mots de passe</translation>
+<translation id="5779929835642192302">Suggestions disponibles</translation>
+</translationbundle>

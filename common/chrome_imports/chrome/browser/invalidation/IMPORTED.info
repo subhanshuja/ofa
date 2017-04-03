@@ -1,0 +1,9 @@
+{
+  "*": {
+    "copied-from": "chrome/browser/invalidation",
+    "last-sync": "677ac36197869043e6567699f79e0365f9795509"
+  },
+  "profile_invalidation_provider_factory.cc": {
+    "last-sync": "47669e122d6e0f0acddae86c0e6fb81b4a26e2f3"
+  }
+}

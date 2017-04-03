@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="nl">
+<translation id="2978824962390592855">Opera</translation>
+<translation id="9071130496134948492">Opera Software</translation>
+<translation id="6494666865857176946">Opera Software raadt ten sterkste af om deze pagina te bezoeken.</translation>
+<translation id="7459549266751278805">Opera-meldingencentrum</translation>
+<translation id="4501379002264542907">Opera - meldingen</translation>
+<translation id="1352092048463356430">Opera - meldingen (<ph name="QUANTITY"/> ongelezen)</translation>
+<translation id="4159400746343093340">Opera - Meldingen</translation>
+<translation id="6018626517703817463">Opera - Meldingen (<ph name="QUANTITY"/> ongelezen)</translation>
+<translation id="6161036283010589960">De site gebruikt verouderde veiligheidsinstellingen waardoor toekomstige versies van Opera mogelijk geen veilige toegang kunnen krijgen.</translation>
+<translation id="8888594059056485523">Geef Opera toegang tot het netwerk in de firewall of de antivirusinstellingen.</translation>
+<translation id="7158277678571698323">Ga naar het Opera-menu &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; LAN-instellingen en zet "Een proxyserver voor het LAN-netwerk gebruiken" uit.</translation>
+<translation id="5873732809085338161">Om onveilige WebSockets in te schakelen op je desktopbrowser, ga je naar <ph name="HTMLOPERAFLAG"/> (Opera 24+) of <ph name="HTMLCHROMEFLAG"/> (Chrome 36+).</translation>
+<translation id="2005166128312586988">De aanpassingen gaan in na een herstart van Opera.</translation>
+<translation id="684302243018322820">Voer je computerwachtwoord in om de opgeslagen wachtwoorden van Opera te zien.</translation>
+</translationbundle>

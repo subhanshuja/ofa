@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="vi">
+<translation id="3942946088478181888">Giúp tôi tìm hiểu</translation>
+<translation id="1396529432791646744">Khi bạn kết nối vào trang web an toàn, máy chủ lưu trữ trang web đó đưa ra cho trình duyệt một thứ được gọi là "chứng chỉ" để xác minh nhận dạng. Chứng chỉ này chứa thông tin nhận dạng, chẳng hạn như địa chỉ của trang web, được xác minh bởi bên thứ ba mà thiết bị di động của bạn tin cậy. Bằng việc kiểm tra rằng địa chỉ trong chứng chỉ khớp với địa chỉ của trang web, chúng tôi có thể xác minh rằng bạn đang giao tiếp an toàn với trang web bạn dự định và không phải bên thứ ba (chẳng hạn như kẻ tấn công trên mạng).</translation>
+<translation id="6295228342562451544">Khi bạn kết nối vào trang web an toàn, máy chủ lưu trữ trang web đó đưa ra cho trình duyệt một thứ được gọi là "chứng chỉ" để xác minh nhận dạng. Chứng chỉ này chứa thông tin nhận dạng, chẳng hạn như địa chỉ của trang web, được xác minh bởi bên thứ ba mà máy tính của bạn tin cậy. Bằng việc kiểm tra rằng địa chỉ trong chứng chỉ khớp với địa chỉ của trang web, chúng tôi có thể xác minh rằng bạn đang giao tiếp an toàn với trang web bạn dự định và không phải bên thứ ba (chẳng hạn như kẻ tấn công trên mạng).</translation>
+<translation id="8187473050234053012">Chứng chỉ bảo mật của máy chủ đã bị thu hồi!</translation>
+<translation id="5598024575303778520">Cảnh báo gian lận</translation>
+<translation id="7311721172731074902">Cảnh báo gian lận</translation>
+<translation id="1858130628205855959">Trang web này có thể bị đánh cắp dữ liệu hoặc gian lận. Cung cấp mật khẩu hoặc thông tin cá nhân cho trang này có thể đặt bạn vào tình thế rủi ro vì bị đánh cắp nhận dạng hoặc gian lận tài chính.</translation>
+<translation id="8357891144266644027">Cảnh báo trang web độc hại</translation>
+<translation id="4664012235452972339">Cảnh báo trang web độc hại</translation>
+<translation id="1030973920598092450">Trang web này có thể bị đánh cắp dữ liệu hoặc chứa phần mềm độc hại. Việc truy cập vào trang này có thể có hại.</translation>
+<translation id="4863259811271883558">Được báo cáo bởi <ph name="BEGIN_LINK"/><ph name="PROVIDER_NAME"/><ph name="END_LINK"/></translation>
+<translation id="3141322567138977593">Trở về an toàn</translation>
+<translation id="833642844779103272">Trở về an toàn</translation>
+<translation id="4238466718818823211">Bỏ qua cảnh báo này</translation>
+<translation id="1755698976576372535">Vì sao trang này bị chặn?</translation>
+<translation id="2962647877740028287">Các báo cáo gian lận của chúng tôi được duy trì bởi các nhà cung cấp bên thứ ba.</translation>
+<translation id="7470668651798735849">Bạn có thể nhìn thấy tất cả thông báo của mình từ trang web ở đây.</translation>
+<translation id="6426222199977479699">Lỗi SSL</translation>
+<translation id="8398877366907290961">Vẫn tiến hành</translation>
+<translation id="6264485186158353794">Trở về an toàn</translation>
+<translation id="2225024820658613551">Bạn không nên tiếp tục, &lt;strong&gt;đặc biệt&lt;/strong&gt; nếu bạn chưa bao giờ thấy cảnh báo này trước đây cho trang web này.</translation>
+<translation id="5645845270586517071">Lỗi bảo mật</translation>
+<translation id="1103666958012677467">Bạn không thể tiếp tục vì nhà điều hành trang web đã yêu cầu bảo mật nâng cao cho miền này.</translation>
+<translation id="5463275305984126951">Chỉ mục của <ph name="LOCATION"/></translation>
+<translation id="8877448029301136595">[thư mục gốc]</translation>
+<translation id="3835522725882634757">Ôi, không! Máy chủ này đang gửi dữ liệu <ph name="PRODUCT_NAME"/> không thể hiểu. Vui lòng <ph name="BEGIN_LINK"/>báo cáo lỗi<ph name="END_LINK"/>, và bao gồm <ph name="BEGIN2_LINK"/>danh sách thô<ph name="END2_LINK"/>.</translation>
+<translation id="5327248766486351172">Tên</translation>
+<translation id="8028993641010258682">Kích cỡ</translation>
+<translation id="57646104491463491">Ngày sửa đổi</translation>
+<translation id="8465929756435120446">Trang này bao gồm một số nội dung không bảo mật.</translation>
+<translation id="6827416153061837992">Liên kết này không được mã hóa.</translation>
+<translation id="9193357432624119544">Mã lỗi: <ph name="ERROR_NAME"/></translation>
+<translation id="4910619056351738551">Sau đây là một số gợi ý:</translation>
+<translation id="2954705784594331199"><ph name="BEGIN_LINK"/>Tải lại<ph name="END_LINK"/> trang web này sau.</translation>
+<translation id="4977565600485911823">Tắt các tiện ích mở rộng và sau đó <ph name="BEGIN_LINK"/>tải lại<ph name="END_LINK"/> trang web này.</translation>
+<translation id="1103966635949043187">Đi tới trang chủ của trang web:</translation>
+<translation id="7747589364844254751">Kiểm tra kết nối internet của bạn. Khởi động lại bộ định tuyến, modem hoặc các thiết bị mạng khác mà bạn đang sử dụng.</translation>
+<translation id="5548623538190661145">Kiểm tra cài đặt DNS của bạn. Liên hệ với quản trị viên mạng của bạn nếu bạn không biết cài đặt đó là gì.</translation>
+<translation id="4545046228395991092">Nếu bạn sử dụng máy chủ proxy, hãy kiểm tra cài đặt proxy của bạn hoặc liên hệ với quản trị viên mạng của bạn để đảm bảo máy chủ proxy đang hoạt động.</translation>
+<translation id="1712673276482711826">Nếu bạn sử dụng máy chủ proxy, hãy kiểm tra cài đặt proxy của bạn hoặc liên hệ với quản trị viên mạng của bạn để đảm bảo máy chủ proxy đang hoạt động. Nếu bạn không cho rằng mình đang sử dụng máy chủ proxy, hãy điều chỉnh cài đặt proxy của bạn: <ph name="PLATFORM_TEXT"/></translation>
+<translation id="721197778055552897"><ph name="BEGIN_LINK"/>Tìm hiểu thêm<ph name="END_LINK"/> về vấn đề này.</translation>
+<translation id="8235325155053717782">Lỗi <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="3986287159189541211">Lỗi HTTP <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="3225919329040284222">Máy chủ đã đưa ra chứng chỉ không khớp với các kỳ vọng tích hợp. Những kỳ vọng này được bao gồm cho các trang web nhất định có độ bảo mật cao để bảo vệ bạn.</translation>
+<translation id="6957887021205513506">Chứng chỉ của máy chủ dường như là giả mạo.</translation>
+<translation id="6429639049555216915">Hiện tại, không thể truy cập ứng dụng này.</translation>
+<translation id="9127307628159259612">Thêm <ph name="PRODUCT_NAME"/> làm chương trình được phép trong cài đặt tường lửa hoặc chương trình diệt vi-rút của bạn. Nếu chương trình này đã được phép, hãy thử xóa khỏi danh sách các chương trình được phép và thêm lại.</translation>
+<translation id="4544369257849566741">Tiện ích mở rộng đàm phán lại SSL bị thiếu trong kết nối an toàn. Đối với một số trang web, được biết đến là hỗ trợ tiện ích mở rộng đàm phán lại, <ph name="PRODUCT_NAME"/> yêu cầu kết nối an toàn hơn để tránh các cuộc tấn công đã biết. Việc thiếu tiện ích mở rộng này gợi ý rằng kết nối của bạn đã bị chặn và được thao tác bằng tay trong khi di chuyển.</translation>
+<translation id="8162734958263531433">Để sử dụng gỡ lỗi USB, bạn cần bật gỡ lỗi USB và SDK Android trên thiết bị Android của bạn. Xem <ph name="HTML_HELPURL"/> để biết thêm thông tin.</translation>
+<translation id="1875071432292773474">Nhập địa chỉ <ph name="ACCESS_POINT"/> trên trình duyệt dành cho máy tính để bàn của bạn. Trình duyệt dành cho máy tính để bàn phải ở trên cùng mạng với thiết bị Android.</translation>
+<translation id="7227425938337339799">Để UPnP hoạt động, bạn cần ở trên cùng mạng phụ hoặc liên kết bộ định tuyến để chuyển tiếp chương trình phát trên các mạng phụ.</translation>
+<translation id="4553629908098215669">Trên máy tính của bạn, chạy <ph name="HTMLADBCOMMAND"/>, và điều hướng đến <ph name="HTMLLOCALHOSTURL"/> với trình duyệt dựa trên Chromium.</translation>
+<translation id="4570032796877367747">Máy ảnh trước</translation>
+<translation id="2599796128805996109">Máy ảnh sau</translation>
+<translation id="2124507516322945394">Micrô mặc định</translation>
+<translation id="1587215898571986504">Loa ngoài</translation>
+<translation id="5614598979078259956">Ống nghe có dây</translation>
+<translation id="9031226374756103225">Ống nghe gắn tai</translation>
+<translation id="149679617917926491">Ống nghe bluetooth</translation>
+<translation id="6060685159320643512">Hãy cẩn thận, những thử nghiệm này có thể gây tổn hại</translation>
+<translation id="5199729219167945352">Thử nghiệm</translation>
+<translation id="533563709691128800">đã tắt</translation>
+<translation id="2506903884491778518">Tìm kiếm thử nghiệm</translation>
+<translation id="1138663153846032155">Ưu tiên HTML hơn Flash</translation>
+<translation id="2081453640527377956">Ưu tiên nội dung HTML bằng cách ẩn Flash khỏi danh sách plug-in.</translation>
+<translation id="5998167623928667649">Chạy tất cả nội dung Flash khi cài đặt Flash được đặt sang "cho phép"</translation>
+<translation id="5138177765054221193">Đối với các trang đã được đặt là "cho phép" các nội dung Flash, chạy toàn bộ nội dung bao gồm bất cứ nội dung nào được coi là không quan trọng.</translation>
+<translation id="2112624549618815628">Mặc định (bật)</translation>
+<translation id="3696363537446376816">Mặc định (tắt)</translation>
+<translation id="5773249585542913314">Windows Runtime MIDI API</translation>
+<translation id="7122132768827815392">Sử dụng Windows Runtime MIDI API cho ebMIDI (chỉ có tác dụng trên Windows 10 hoặc cao hơn).</translation>
+<translation id="1375198122581997741">Giới thiệu Phiên bản</translation>
+<translation id="7248671827512403053">Ứng dụng</translation>
+<translation id="1710259589646384581">Hệ điều hành</translation>
+<translation id="6897140037006041989">Đại Diện Người Dùng</translation>
+<translation id="7353601530677266744">Dòng lệnh</translation>
+<translation id="7225807090967870017">Xây dựng ID</translation>
+</translationbundle>

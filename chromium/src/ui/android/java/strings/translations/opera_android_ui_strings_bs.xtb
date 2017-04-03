@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="bs">
+<translation id="6315516427814392808">Nije moguće dovršiti prethodnu radnju zbog nedostatka memorije</translation>
+<translation id="793640675459356075">Nije uspjelo otvaranje odabrane datoteke</translation>
+<translation id="6042308850641462728">Više</translation>
+<translation id="8889402386540077796">Boja</translation>
+<translation id="3329013043687509092">Zasićenje</translation>
+<translation id="7535087603100972091">Vrijednost</translation>
+<translation id="6727102863431372879">Podesi</translation>
+<translation id="7658239707568436148">Otkaži</translation>
+<translation id="9068849894565669697">Odaberite boju</translation>
+<translation id="7942349550061667556">Crvena</translation>
+<translation id="161042844686301425">Cijan</translation>
+<translation id="1555130319947370107">Plava</translation>
+<translation id="6017514345406065928">Zelena</translation>
+<translation id="4115378294792113321">Purpurnocrvena</translation>
+<translation id="5901630391730855834">Žuta</translation>
+<translation id="7569983096843329377">Crna</translation>
+<translation id="2713444072780614174">Bijela</translation>
+<translation id="6555463879959038093">Nije uspjelo kopiranje u međuspremnik</translation>
+<translation id="8987927404178983737">Mjesec</translation>
+<translation id="6015796118275082299">Godina</translation>
+<translation id="7781164152564914424">Podesi mjesec</translation>
+<translation id="5966707198760109579">Sedmica</translation>
+<translation id="4247305538398689241">Podesi sedmicu</translation>
+<translation id="2732718972699418926">AM</translation>
+<translation id="2429669115401274487">PM</translation>
+<translation id="7575803462290353686">Podesi vrijeme</translation>
+<translation id="3845599764535987402">Sat</translation>
+<translation id="7102218676258945610">Minuta</translation>
+<translation id="4768459022382175196">Sekunda</translation>
+<translation id="1768717197362323622">Milisekunda</translation>
+<translation id="1822429046913737220">AM/PM</translation>
+<translation id="376869769528291915">:</translation>
+<translation id="5789643057113097023">.</translation>
+<translation id="6444070574980481588">Podesi datum i vrijeme</translation>
+<translation id="4932733599132424254">Datum</translation>
+<translation id="2841013758207633010">Vrijeme</translation>
+<translation id="7138678301420049075">Drugo</translation>
+<translation id="7821540960913969614">Podesi datum</translation>
+<translation id="6643016212128521049">Očisti</translation>
+<translation id="928752963351137118">Prikaz skočne opcije automatskog popunjavanja</translation>
+<translation id="4842092870884894799">Prikaz skočne opcije generisanja lozinke</translation>
+<translation id="5779929835642192302">Dostupni prijedlozi</translation>
+</translationbundle>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="lv">
+<translation id="2978824962390592855">Opera</translation>
+<translation id="9071130496134948492">Opera Software</translation>
+<translation id="6494666865857176946">Lietojumprogramma Opera Software stingri iesaka neapmeklēt šo lapu.</translation>
+<translation id="7459549266751278805">Opera paziņojumu centrs</translation>
+<translation id="4501379002264542907">Opera — paziņojumi</translation>
+<translation id="1352092048463356430">Opera — paziņojumi (<ph name="QUANTITY"/> nelasīti)</translation>
+<translation id="4159400746343093340">Opera — paziņojumi</translation>
+<translation id="6018626517703817463">Opera — paziņojumi (<ph name="QUANTITY"/> nelasīti)</translation>
+<translation id="6161036283010589960">Šajā vietnē tiek lietoti novecojuši drošības iestatījumi, kuru dēļ nākamās pārlūkprogrammas Opera versijas, iespējams, nevarēs droši piekļūt vietnei.</translation>
+<translation id="8888594059056485523">Ļaujiet lietojumprogrammai Opera piekļūt tīklam, izmainot savus ugunsmūra vai antivīrusu programmas iestatījumus.</translation>
+<translation id="7158277678571698323">Pārlūkprogrammas Opera izvēlnē atveriet sadaļu &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; LAN iestatījumi. Noņemiet atlasi iespējai "Izmantot LAN starpniekserveri".</translation>
+<translation id="5873732809085338161">Lai datora pārlūkprogrammā iespējotu nedrošas WebSocket ligzdas, pārejiet uz <ph name="HTMLOPERAFLAG"/>(Opera 24+) vai <ph name="HTMLCHROMEFLAG"/> (Chrome 36+).</translation>
+<translation id="2005166128312586988">Veiktās izmaiņas stāsies spēkā pēc Opera atkārtotas palaišanas.</translation>
+<translation id="684302243018322820">Lai skatītu pārlūkprogrammā Opera saglabātās paroles, ievadiet datora paroli.</translation>
+</translationbundle>

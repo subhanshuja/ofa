@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html id="template-root">
+  <head>
+    <title i18n-content="title"></title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<if expr="is_android or pp_ifdef('ios')">
+    <link rel="stylesheet" href="../../../webui/neterror-mobile.css">
+</if>
+<if expr="not is_android and not pp_ifdef('ios')">
+    <link rel="stylesheet" href="neterror-desktop.css">
+</if>
+    <style>
+<if expr="not is_android and not pp_ifdef('ios')">
+      html {
+        background: rgb(186, 36, 43);
+      }
+      body {
+        font: menu;
+      }
+      #wrap {
+        background-color: white;
+        padding: 20px;
+        height: 320px;
+      }
+      .secondary-actions {
+        margin-top: 5px;
+      }
+      #proceedLink {
+        background: transparent;
+        border: none;
+        color: blue;
+        cursor: pointer;
+        font: menu;
+        padding: 0px;
+        text-decoration: underline;
+      }
+</if>
+<if expr="is_android or pp_ifdef('ios')">
+      #moreinfolink {
+        display: block;
+      }
+</if>
+      button[disabled] {
+        opacity: 0.3;
+      }
+      #advisoryImage {
+        float: left;
+        margin-right: 15px;
+      }
+      #advisoryText {
+        padding: 15px;
+      }
+    </style>
+    <script>
+      function $(o) {return document.getElementById(o);}
+
+      function sendCommand(command) {
+        window.domAutomationController.setAutomationId(1);
+        window.domAutomationController.send(command);
+      }
+
+      function proceed() {
+        sendCommand('proceed');
+      }
+
+      function takeMeBack() {
+        sendCommand('takeMeBack');
+      }
+
+      function showAdvisoryPage() {
+        sendCommand('showAdvisoryPage');
+      }
+
+      collapsed = true;
+      function toggleMoreInfo() {
+        collapsed = !collapsed;
+        $('more_info').hidden = collapsed;
+        try {
+          $('twisty_open').hidden = collapsed;
+          $('twisty_closed').hidden = !collapsed;
+        } catch(e) {}
+      }
+
+      setTimeout(function(){$('proceedLink').disabled=false}, 1000);
+    </script>
+  </head>
+  <body oncontextmenu="return false;">
+    <div id="wrap">
+      <div id="box">
+<if expr="is_android or pp_ifdef('ios')">
+        <img src="../../../webui/warning_icon.png" alt="Fraud Protection Error Icon" onmousedown="return false;" id="icon">
+</if>
+        <h1 i18n-content="header"></h1>
+        <div id="suggestions">
+          <h2 i18n-content="suggestions"></h2>
+        </div>
+        <div class="main" id="errorSummary" i18n-content="summary"></div>
+        <form class="submission">
+          <span class="primary-actions">
+            <button i18n-content="takeMeBackButtonTitle" onclick="takeMeBack();"></button>
+          </span>
+          <span class="secondary-actions">
+            <button i18n-content="proceedLinkText" id="proceedLink" disabled onclick="proceed();" class="faded"></button>
+            <a id="moreinfolink" href="#" onclick="toggleMoreInfo(); return false;" onmousedown="return false;">
+<if expr="is_android or pp_ifdef('ios')">
+              <img id="twisty_closed" src="../../../webui/twisty_closed.png" border="0">
+              <img id="twisty_open" src="../../../webui/twisty_open.png" border="0" hidden="hidden">
+</if>
+              <span i18n-content="whyBlockedLinkText" class="moreinfotitle"></span>
+            </a>
+          </span>
+        </form>
+        <div class="example" id="more_info" hidden="hidden">
+          <p>
+            <img id="advisoryImage" i18n-values="src:advisoryImage">
+            <div id="advisoryText" i18n-values=".innerHTML:advisoryText"></div>
+          </p>
+        </div>
+      </div> <!-- box -->
+    </div> <!-- wrap -->
+  </body>
+</html>

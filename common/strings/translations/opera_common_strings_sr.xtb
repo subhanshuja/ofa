@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="sr">
+<translation id="2978824962390592855">Opera</translation>
+<translation id="9071130496134948492">Opera Software</translation>
+<translation id="6494666865857176946">Opera Software нипошто не препоручује посећивање ове странице.</translation>
+<translation id="7459549266751278805">Opera Центар за обавештења</translation>
+<translation id="4501379002264542907">Opera - обавештења</translation>
+<translation id="1352092048463356430">Opera – обавештења (<ph name="QUANTITY"/> непрочитаних)</translation>
+<translation id="4159400746343093340">Opera - обавештења</translation>
+<translation id="6018626517703817463">Opera – обавештења (<ph name="QUANTITY"/> непрочитаних)</translation>
+<translation id="6161036283010589960">Локација користи истекле безбедносне поставке које могу спречити будуће верзије програма Opera да јој безбедно приступају.</translation>
+<translation id="8888594059056485523">Дозволите прегледачу Opera да приступи мрежи у поставкама заштитног зида или антивирусног програма.</translation>
+<translation id="7158277678571698323">Идите у мени Opera &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; LAN поставке и уклоните потврду са опције „Користи proxy сервер за LAN“.</translation>
+<translation id="5873732809085338161">Да бисте омогућили небезбедне протоколе WebSockets у прегледачу на рачунару, идите на <ph name="HTMLOPERAFLAG"/> (Opera 24+) или <ph name="HTMLCHROMEFLAG"/> (Chrome 36+).</translation>
+<translation id="2005166128312586988">Ваше промене ће ступити на снагу када поново покренете прегледач Opera.</translation>
+<translation id="684302243018322820">Да бисте видели лозинке које чува Opera, унесите лозинку за рачунар.</translation>
+</translationbundle>

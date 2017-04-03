@@ -1,0 +1,68 @@
+<html>
+  <head>
+    <title>Opera control panel</title>
+    <style>
+      .button_is_current {
+        color: red;
+      }
+    </style>
+  </head>
+  <body onload="process_document_loaded()">
+    <script>
+      function process_document_loaded() {
+        var current_command_delay = '[CURRENT_COMMAND_DELAY]';
+        var element_id = 'command_delay_' + current_command_delay;
+        var button_element = document.getElementById(element_id);
+        button_element.className = 'button_is_current';
+      }
+
+      function copy_to_clipboard() {
+        var edt = document.querySelector('#cmdline_params');
+        edt.select();
+        document.execCommand('copy');
+      }
+
+      function change_delay(new_delay) {
+        var url_string = '/opera/set_command_delay/?new_command_delay=' + new_delay;
+        console.warn(url_string);
+        xhttp = new XMLHttpRequest();
+        xhttp.open('GET', url_string, false);
+        xhttp.send();
+        window_reload();
+      }
+
+      function window_reload() {
+        location.reload();
+      }
+    </script>
+    <table width="100%">
+      <tr><td>Opera commandline</td></tr>
+      <tr><td><input style='width: calc(100% - 50px)' type='text' id='cmdline_params' value='[OPERA_CMDLINE_PARAMS]' readonly><button onclick='copy_to_clipboard()'>To clipboard</button></td></tr>
+      <tr><td>Opera generic</td></tr>
+      <tr><td><a href="/opera/xmppsessions">XMPP sessions</a></td></tr>
+      <tr><td><a href="/show_data">Show data</a></td></tr>
+      <tr><td><a href="/opera/reset_data">Reset data</a></td></tr>
+      <tr><td><a href="/opera/enabledelayedinvalidations">Enable delayed invalidations</a></td></tr>
+      <tr><td><a href="/account/login">Fake login page for storing login data in password manager</a></td></tr>
+
+      <tr><td>Sync command delay:
+        <button id='command_delay_no_delay' onclick="change_delay('no_delay')">No delay</button>
+        <button id='command_delay_random_delay' onclick="change_delay('random_delay')">Random delay</button>
+        <button id='command_delay_1' onclick="change_delay('1')">1 s.</button>
+        <button id='command_delay_2' onclick="change_delay('2')">2 s.</button>
+        <button id='command_delay_3' onclick="change_delay('3')">3 s.</button>
+        <button id='command_delay_4' onclick="change_delay('4')">4 s.</button>
+        <button id='command_delay_5' onclick="change_delay('5')">5 s.</button>
+      </td></tr>
+      <tr><td>Opera true auth</td></tr>
+      <tr><td><a href="/operacontrol/enable_true_auth">Enable true auth</a></td></tr>
+      <tr><td><a href="/true_auth/response_control">Response control</a></td></tr>
+      <tr><td><a href="/true_auth/event_log">Auth event log</a></td></tr>
+
+      <tr><td>Opera OAuth2 auth</td></tr>
+      <tr><td><a href="/operacontrol/enable_oauth2_auth">Enable OAuth2 auth</a></td></tr>
+      <tr><td><a href="/oauth2_auth/response_control">Response control [OAuth2]</a></td></tr>
+      <tr><td><a href="/oauth2_auth/event_log">Auth event log [OAuth2]</a></td></tr>
+
+  </body>
+</html>

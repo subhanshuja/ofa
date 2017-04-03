@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="nn">
+<translation id="3942946088478181888">Hjelp meg å forstå</translation>
+<translation id="1396529432791646744">Når du koplar til ein trygg nettstad vil tenaren leggje fram eit sertifikat for nettlesaren for å verifisere identiteten. Dette sertifikatet inneheld opplysningar om identitet, til dømes adressa til nettstaden, som er verifisert av ein tredjepart mobilen din stolar på. Ved å sjekke at adressa i sertifikatet stemmer overeins med nettstaden er det mogleg å verifisere at kommunikasjonen er med nettstaden du ønskjer i staden for ein tredjepart (til dømes ein inntrengjar i nettverket).</translation>
+<translation id="6295228342562451544">Når du koplar til ein trygg nettstad, vil tenaren leggje fram eit sertifikat for nettlesaren for å verifisere identiteten. Dette sertifikatet inneheld opplysningar om identitet, til dømes adressa til nettstaden, som er verifisert av ein tredjepart datamaskina di stolar på. Ved å sjekke at adressa i sertifikatet stemmer overeins med nettstaden, er det mogleg å verifisere at kommunikasjonen er med nettstaden du ønskjer, i staden for ein tredjepart (til dømes ein inntrengjar i nettverket).</translation>
+<translation id="8187473050234053012">Sertifikatet til tenaren er kalla attende!</translation>
+<translation id="5598024575303778520">Svindelåtvaring</translation>
+<translation id="7311721172731074902">Svindelåtvaring</translation>
+<translation id="1858130628205855959">Denne nettstaden kan vere hacka eller vere svindel. Om du oppgir passord eller personlege opplysningar her, kan det gjere deg til offer for stolen identitet eller økonomisk svindel.</translation>
+<translation id="8357891144266644027">Åtvaring ondsinna nettstad</translation>
+<translation id="4664012235452972339">Åtvaring ondsinna nettstad</translation>
+<translation id="1030973920598092450">Denne nettstaden kan vere hacka eller innehalde skadevare. Å vitje denne sida kan vere skadeleg.</translation>
+<translation id="4863259811271883558">Rapportert av <ph name="BEGIN_LINK"/><ph name="PROVIDER_NAME"/><ph name="END_LINK"/></translation>
+<translation id="3141322567138977593">Ta meg trygt attende</translation>
+<translation id="833642844779103272">Ta meg trygt attende</translation>
+<translation id="4238466718818823211">Sjå vekk frå denne åtvaringa</translation>
+<translation id="1755698976576372535">Kvifor vart denne sida blokkert?</translation>
+<translation id="2962647877740028287">Våre svindelrapportar utferdigast av tredjepartsleverandørar.</translation>
+<translation id="7470668651798735849">Du kan sjå alle meldingar frå nettstader her.</translation>
+<translation id="6426222199977479699">SSL feil</translation>
+<translation id="8398877366907290961">Hald fram likevel</translation>
+<translation id="6264485186158353794">Attende til tryggleik</translation>
+<translation id="2225024820658613551">Du bør ikkje gå vidare, &lt;strong&gt;særskild&lt;/strong&gt; om du aldri før har sett denne åtvaringa på denne nettstaden.</translation>
+<translation id="5645845270586517071">Tryggleiksfeil</translation>
+<translation id="1103666958012677467">Du kan ikkje gå vidare ettersom eigaren av nettstaden ynsker auka tryggleik for dette domenet.</translation>
+<translation id="5463275305984126951">Register for <ph name="LOCATION"/></translation>
+<translation id="8877448029301136595">[morkatalog]</translation>
+<translation id="3835522725882634757">Å nei! Denne tenaren sender data som <ph name="PRODUCT_NAME"/> ikkje forstår. Rapporter <ph name="BEGIN_LINK"/>ein feil<ph name="END_LINK"/>, og legg ved <ph name="BEGIN2_LINK"/>rålista<ph name="END2_LINK"/>.</translation>
+<translation id="5327248766486351172">Namn</translation>
+<translation id="8028993641010258682">Storleik</translation>
+<translation id="57646104491463491">Dato endra</translation>
+<translation id="8465929756435120446">Denne sida inneheld usikre element.</translation>
+<translation id="6827416153061837992">Denne tilkoplinga er ikkje kryptert.</translation>
+<translation id="9193357432624119544">Feilkode: <ph name="ERROR_NAME"/></translation>
+<translation id="4910619056351738551">Her er nokre forslag:</translation>
+<translation id="2954705784594331199"><ph name="BEGIN_LINK"/>Last<ph name="END_LINK"/> sida om att seinare.</translation>
+<translation id="4977565600485911823">Slå av utvidingane dine og <ph name="BEGIN_LINK"/>last <ph name="END_LINK"/>sida om att.</translation>
+<translation id="1103966635949043187">Gå til heimesida til nettstaden:</translation>
+<translation id="7747589364844254751">Sjekk Internett-tilkoplinga. Gjer ein omstart på rutarar, modem eller anna nettverkutstyr du nyttar.</translation>
+<translation id="5548623538190661145">Sjekk DNS-innstillingar. Kontakt administratoren for nettverket om du er usikker på kva dette tyder.</translation>
+<translation id="4545046228395991092">Om du nyttar ein mellomtenar, sjekk innstillingane eller ta kontakt med administratoren for nettverket for å vere sikker på at mellomtenaren fungerer slik den skal.</translation>
+<translation id="1712673276482711826">Om du nyttar ein mellomtenar, sjekk innstillingane eller ta kontakt med administratoren for nettverket for å vere sikker på at mellomtenaren verkar slik den skal. Om du meiner du ikkje skal nytte ein mellomtenar, juster innstillingane: <ph name="PLATFORM_TEXT"/></translation>
+<translation id="721197778055552897"><ph name="BEGIN_LINK"/>Lær meir<ph name="END_LINK"/> om dette problemet.</translation>
+<translation id="8235325155053717782">Feil <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="3986287159189541211">HTTP-feil <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="3225919329040284222">Tenaren la fram eit sertifikat som ikkje stemmer med innebygde forventningar. Desse forventningane er med for somme høgt sikra nettstader for å trygge deg.</translation>
+<translation id="6957887021205513506">Sertifikatet til tenaren ser ut til å vere forfalska.</translation>
+<translation id="6429639049555216915">Kan ikkje nå programmet.</translation>
+<translation id="9127307628159259612">Legg til <ph name="PRODUCT_NAME"/> som eit godkjend program i innstillingane til brannmuren eller antivirus-programmet. Om det allereie er eit godkjend program kan du freiste å slette det frå lista og leggje det til på nytt.</translation>
+<translation id="4544369257849566741">Utvidinga for SSL-reforhandling var ikkje med i godkjenningsprosedyren. På enkelte nettstadar, som er kjende for å stø utvidingar for reforhandling, vil <ph name="PRODUCT_NAME"/> krevje ein betre godkjenningsprosedyre for å unngå ein type åtak. Mangelen på denne utvidinga tyder på at sambandet vart avskore og manipulert medan det pågjekk.</translation>
+<translation id="8162734958263531433">For å ta i bruk USB-feilsøking treng du Android SDK samt USB-feilsøking påslått på Android-eininga di. Sjå <ph name="HTML_HELPURL"/> for meir informasjon.</translation>
+<translation id="1875071432292773474">Gå til adressa <ph name="ACCESS_POINT"/> i nettlesaren på datamaskina. Nettlesaren på datamaskina må vere på det same nettverket som Android-eininga.</translation>
+<translation id="7227425938337339799">For at UPnP skal fungere må einingane vere på same subnett eller så må rutaren vidaresende kringkastingsmeldingar mellom subnett.</translation>
+<translation id="4553629908098215669">På datamaskina, køyr <ph name="HTMLADBCOMMAND"/>, og gå til <ph name="HTMLLOCALHOSTURL"/> med ein Chromium-basert nettlesar.</translation>
+<translation id="4570032796877367747">Front-kamera</translation>
+<translation id="2599796128805996109">Bak-kamera</translation>
+<translation id="2124507516322945394">Standard-mikrofon</translation>
+<translation id="1587215898571986504">Høgtalar</translation>
+<translation id="5614598979078259956">Trådbunde headset</translation>
+<translation id="9031226374756103225">Trådlaust headset</translation>
+<translation id="149679617917926491">Blåtann-headset</translation>
+<translation id="6060685159320643512">Forsiktig, eksperimenta kan bite</translation>
+<translation id="5199729219167945352">Eksperiment</translation>
+<translation id="533563709691128800">slått av</translation>
+<translation id="2506903884491778518">Søk i eksperiment</translation>
+<translation id="1138663153846032155">Føretrekke HTML over Flash</translation>
+<translation id="2081453640527377956">Føretrekke HTML-innhald ved å skjule Flash frå lista over programtillegg.</translation>
+<translation id="5998167623928667649">Køyr alt Flash-innhald når Flash-innstillingar er satt til "godta"</translation>
+<translation id="5138177765054221193">Køyr alt innhald inkludert det som er vurdert som uviktig på nettstadar som er konfigurert til å godta Flash-innhald.</translation>
+<translation id="2112624549618815628">Standard (slått på)</translation>
+<translation id="3696363537446376816">Standard (slått av)</translation>
+<translation id="5773249585542913314">Windows Runtime MIDI API</translation>
+<translation id="7122132768827815392">Bruk Windows Runtime MIDI API for WebMIDI (kun effektiv på Windows 10 eller nyare).</translation>
+<translation id="1375198122581997741">Om utgåve</translation>
+<translation id="7248671827512403053">Program</translation>
+<translation id="1710259589646384581">Operativsystem</translation>
+<translation id="6897140037006041989">Klientprogram</translation>
+<translation id="7353601530677266744">Kommandoline</translation>
+<translation id="7225807090967870017">Utgåvesteg</translation>
+</translationbundle>

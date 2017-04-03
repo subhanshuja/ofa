@@ -1,0 +1,21 @@
+# Copyright (C) 2016 Opera Software ASA.  All rights reserved.
+#
+# This file is an original work developed by Opera Software ASA
+
+# Common arguments used by several targets.
+
+declare_args() {
+  package_name = "com.opera.browser"
+
+  is_beta_build = false
+
+  is_public_source_release = false
+
+  # True if built on a developer's desktop.
+  is_developer_build = false
+
+  # The product name to report to Socorro
+  socorro_product_name = "generic"
+
+  opr_build_number = "0"
+}

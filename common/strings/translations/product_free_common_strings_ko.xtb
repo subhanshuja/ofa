@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="ko">
+<translation id="3942946088478181888">도움말</translation>
+<translation id="1396529432791646744">보안된 웹 사이트에 연결하면 해당 사이트를 호스팅하는 서버에서 사용자의 브라우저에 신원 확인을 위한 "인증서"를 표시합니다. 이 인증서에는 사용자의 모바일 기기에서 신뢰하는 제3자에 의해 확인된 신원 정보(예: 웹 사이트 주소)가 포함되어 있습니다. 인증서의 주소가 웹 사이트의 주소와 일치하는지 확인하여 제3자(예: 네트워크에 접속한 공격자)가 아닌 사용자가 의도한 웹 사이트와 안전하게 통신 중인지를 확인할 수 있습니다.</translation>
+<translation id="6295228342562451544">보안된 웹 사이트에 연결하면 해당 사이트를 호스팅하는 서버에서 사용자의 브라우저에 신원 확인을 위한 "인증서"를 표시합니다. 이 인증서에는 사용자의 컴퓨터에서 신뢰하는 제3자에 의해 확인된 신원 정보(예: 웹 사이트 주소)가 포함되어 있습니다. 인증서의 주소가 웹 사이트의 주소와 일치하는지 확인하여 제3자(예: 네트워크에 접속한 공격자)가 아닌 사용자가 의도한 웹 사이트와 안전하게 통신 중인지를 확인할 수 있습니다.</translation>
+<translation id="8187473050234053012">서버의 보안 인증서가 해지되었습니다!</translation>
+<translation id="5598024575303778520">유해 사이트 경고</translation>
+<translation id="7311721172731074902">유해 사이트 경고</translation>
+<translation id="1858130628205855959">해당 사이트는 해킹되었거나 유해 사이트로 보고된 사이트일 수 있습니다. 이 사이트에 비밀번호나 개인 정보를 제공하면 개인 정보 도용 또는 금융 사기의 위험이 있을 수 있습니다.</translation>
+<translation id="8357891144266644027">악성 사이트 경고</translation>
+<translation id="4664012235452972339">악성 사이트 경고</translation>
+<translation id="1030973920598092450">해당 사이트는 해킹되었거나 악성코드를 포함할 수 있습니다. 이 페이지를 방문하는 것은 위험할 수 있습니다.</translation>
+<translation id="4863259811271883558"><ph name="BEGIN_LINK"/><ph name="PROVIDER_NAME"/><ph name="END_LINK"/> 보고</translation>
+<translation id="3141322567138977593">안전하게 돌아가기</translation>
+<translation id="833642844779103272">안전하게 돌아가기</translation>
+<translation id="4238466718818823211">이 경고 무시</translation>
+<translation id="1755698976576372535">이 페이지가 차단된 이유는 무엇입니까?</translation>
+<translation id="2962647877740028287">사기 보고서는 타사 공급업체에 의해 유지됩니다.</translation>
+<translation id="7470668651798735849">이 웹 사이트에서 모든 공지 사항을 볼 수 있습니다.</translation>
+<translation id="6426222199977479699">SSL 오류</translation>
+<translation id="8398877366907290961">무조건 계속</translation>
+<translation id="6264485186158353794">안정성으로 돌아가기</translation>
+<translation id="2225024820658613551">&lt;strong&gt;특히&lt;/strong&gt; 이전에 이 사이트에서 이러한 경고가 표시된 적이 없는 경우 계속하지 말아야 합니다.</translation>
+<translation id="5645845270586517071">보안 오류</translation>
+<translation id="1103666958012677467">웹 사이트 운영자가 이 도메인에 대해 강화된 보안을 요청했으므로 계속할 수 없습니다.</translation>
+<translation id="5463275305984126951"><ph name="LOCATION"/> 색인</translation>
+<translation id="8877448029301136595">[상위 디렉토리]</translation>
+<translation id="3835522725882634757">이런, 이 서버가 <ph name="PRODUCT_NAME"/>에서 이해하지 못하는 데이터를 전송하고 있습니다. <ph name="BEGIN_LINK"/>버그를 보고<ph name="END_LINK"/>하고, <ph name="BEGIN2_LINK"/>원시 목록<ph name="END2_LINK"/>을 포함시키세요.</translation>
+<translation id="5327248766486351172">이름</translation>
+<translation id="8028993641010258682">크기</translation>
+<translation id="57646104491463491">수정 날짜</translation>
+<translation id="8465929756435120446">이 페이지에는 안전하지 않은 콘텐트가 포함되어 있습니다.</translation>
+<translation id="6827416153061837992">이 연결은 암호화되지 않았습니다.</translation>
+<translation id="9193357432624119544">오류 코드: <ph name="ERROR_NAME"/></translation>
+<translation id="4910619056351738551">제안 사항:</translation>
+<translation id="2954705784594331199">이 웹 페이지를 나중에 <ph name="BEGIN_LINK"/>새로 고침<ph name="END_LINK"/>하세요.</translation>
+<translation id="4977565600485911823">확장 기능을 비활성화한 다음 이 웹 페이지를 <ph name="BEGIN_LINK"/>새로 고침<ph name="END_LINK"/>하세요.</translation>
+<translation id="1103966635949043187">다음 사이트의 홈페이지로 이동:</translation>
+<translation id="7747589364844254751">인터넷 연결을 확인합니다. 사용 중인 라우터, 모뎀 또는 다른 네트워크 장비를 다시 시작합니다.</translation>
+<translation id="5548623538190661145">DNS 설정을 확인합니다. 무슨 의미인지 모를 경우 네트워크 관리자에게 문의하세요.</translation>
+<translation id="4545046228395991092">프록시 서버를 사용하는 경우 프록시 설정을 확인하거나 네트워크 관리자에게 문의하여 프록시 서버가 작동하는지 확인하세요.</translation>
+<translation id="1712673276482711826">프록시 서버를 사용하는 경우 프록시 설정을 확인하거나 네트워크 관리자에게 문의하여 프록시 서버가 작동하는지 확인하세요. 프록시 서버를 사용하지 않아도 되는 경우 프록시 설정을 조정하세요: <ph name="PLATFORM_TEXT"/></translation>
+<translation id="721197778055552897">이 문제에 대해 <ph name="BEGIN_LINK"/>자세히 알아보세요<ph name="END_LINK"/>.</translation>
+<translation id="8235325155053717782">오류 <ph name="ERROR_NUMBER"/>(<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="3986287159189541211">HTTP 오류 <ph name="ERROR_NUMBER"/>(<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="3225919329040284222">서버에서 내장된 인증서와 일치하지 않는 인증서를 제공했습니다. 이러한 인증서는 사용자 보호를 위해 보안이 우수한 특정 웹 사이트용으로 포함되어 있습니다.</translation>
+<translation id="6957887021205513506">서버의 인증서가 위조된 것 같습니다.</translation>
+<translation id="6429639049555216915">현재 앱에 연결할 수 없습니다.</translation>
+<translation id="9127307628159259612">방화벽 또는 바이러스 보호 소프트웨어의 설정에서 <ph name="PRODUCT_NAME"/>을(를) 허용 프로그램으로 추가합니다. 이미 허용 프로그램으로 설정되어 있는 경우 허용 프로그램 목록에서 삭제했다가 다시 추가해 보세요.</translation>
+<translation id="4544369257849566741">SSL renegotiation 확장이 보안 핸드셰이크에서 누락되었습니다. renegotiation 확장을 지원하는 일부 사이트의 경우, <ph name="PRODUCT_NAME"/>에서 알려진 공격을 차단하기 위해 보안이 강화된 핸드셰이크가 필요합니다. 이 확장이 누락되면 변환 중에 연결이 노출되어 조작된 것을 나타냅니다.</translation>
+<translation id="8162734958263531433">USB 디버깅을 사용하려면 Android 기기에서 Android SDK 및 USB 디버깅을 활성화해야 합니다. 자세한 내용은 <ph name="HTML_HELPURL"/>을(를) 참조하세요.</translation>
+<translation id="1875071432292773474">데스크톱 브라우저에서 주소 <ph name="ACCESS_POINT"/>을(를) 입력하세요. 데스크톱 브라우저가 Android 기기와 동일한 네트워크에 있어야 합니다.</translation>
+<translation id="7227425938337339799">UPnP가 작동하려면, 사용 기기가 동일한 서브넷에 있거나 라우터를 연결하여 전체 서브넷에 브로드캐스트를 전달해야 합니다.</translation>
+<translation id="4553629908098215669">컴퓨터에서, <ph name="HTMLADBCOMMAND"/>을(를) 실행하고, Chromium 기반 브라우저에서 <ph name="HTMLLOCALHOSTURL"/>(으)로 이동합니다.</translation>
+<translation id="4570032796877367747">전방 카메라</translation>
+<translation id="2599796128805996109">후방 카메라</translation>
+<translation id="2124507516322945394">기본 마이크</translation>
+<translation id="1587215898571986504">스피커폰</translation>
+<translation id="5614598979078259956">연결된 헤드셋</translation>
+<translation id="9031226374756103225">헤드셋 이어폰</translation>
+<translation id="149679617917926491">블루투스 헤드셋</translation>
+<translation id="6060685159320643512">이러한 실험은 좋지 않을 수 있으므로 조심하세요</translation>
+<translation id="5199729219167945352">실험</translation>
+<translation id="533563709691128800">사용 안 함</translation>
+<translation id="2506903884491778518">검색 실험</translation>
+<translation id="1138663153846032155">플래시를 통한 HTML 우선 적용</translation>
+<translation id="2081453640527377956">플러그인 목록에서 플래시를 숨겨 HTML 콘텐츠를 우선 적용합니다.</translation>
+<translation id="5998167623928667649">플래시 설정이 "허용"이면 모든 플래시 콘텐츠 실행</translation>
+<translation id="5138177765054221193">플래시 콘텐츠 "허용"으로 설정된 사이트의 경우 중요하지 않다고 추정되는 콘텐츠를 포함하여 모든 콘텐츠를 실행합니다.</translation>
+<translation id="2112624549618815628">기본값(사용함)</translation>
+<translation id="3696363537446376816">기본값(사용 안 함)</translation>
+<translation id="5773249585542913314">Windows Runtime MIDI API</translation>
+<translation id="7122132768827815392">Windows Runtime MIDI API (Windows 10 이상에서만 작동) 사용.</translation>
+<translation id="1375198122581997741">버전 정보</translation>
+<translation id="7248671827512403053">어플리케이션</translation>
+<translation id="1710259589646384581">OS</translation>
+<translation id="6897140037006041989">브라우저 식별 정보(User Agent)</translation>
+<translation id="7353601530677266744">명령줄</translation>
+<translation id="7225807090967870017">빌드 번호 ID</translation>
+</translationbundle>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="es">
+<translation id="3929428121849375048">Avast SafeZone</translation>
+<translation id="806546331937022936">Avast</translation>
+<translation id="3609966143444339170">Avast te recomienda encarecidamente que no visites esta página.</translation>
+<translation id="4206706288435313269">Centro de notificaciones de Avast SafeZone</translation>
+<translation id="254978580676301713">SafeZone - notificaciones</translation>
+<translation id="8084325208922689406">SafeZone - notificaciones (<ph name="QUANTITY"/> sin leer)</translation>
+<translation id="678670207776683961">SafeZone - notificaciones</translation>
+<translation id="191361968702850015">SafeZone - notificaciones (<ph name="QUANTITY"/> sin leer)</translation>
+<translation id="1359674843509087498">Este sitio usa configuraciones de seguridad anticuadas que podrían impedir que SafeZone llegue a él con seguridad la próxima vez.</translation>
+<translation id="3485921796584936414">Permite que SafeZone pase a través del cortafuegos o antivirus para llegar a la red.</translation>
+<translation id="7041993155087650094">Ve al menú SafeZone &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; Configuración de red y desmarca "Usar un servidor proxy en la red".</translation>
+<translation id="5366394231680131980">Los cambios surtirán efecto cuando reinicies SafeZone.</translation>
+<translation id="6964843943881946410">Para ver las contraseñas almacenadas en SafeZone escribe la contraseña del PC.</translation>
+</translationbundle>

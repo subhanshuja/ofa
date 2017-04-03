@@ -1,0 +1,14 @@
+# Copyright (C) 2016 Opera Software ASA.  All rights reserved.
+#
+# This file is an original work developed by Opera Software ASA
+
+import("//build/config/opera-common.gni")
+
+source_set("favorites") {
+  sources = [
+    "favorites_helper.cc",
+    "favorites_helper.h",
+  ]
+
+  configs += [ "$opera/mobile/mobile/build:include_config" ]
+}

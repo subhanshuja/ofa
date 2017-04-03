@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html i18n-values="dir:textdirection">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<title i18n-content="title"></title>
+<style type="text/css">
+html {
+  margin:0;
+  padding:0;
+  height:100%;
+}
+
+body {
+  background:#fff;
+  box-sizing:border-box;
+  color:#222;
+  font-family:sans-serif;
+  font-size:1em;
+  line-height:1.5;
+  margin:0;
+  padding:0.5em 1em;
+  overflow-wrap:break-word;
+}
+
+#wrap {
+  width:640px;
+  max-width:100%;
+  text-align:left;
+  margin:0 auto;
+  position:relative;
+}
+
+.box {
+  text-align:left;
+}
+
+html[dir='rtl'] .box {
+  text-align:right;
+}
+
+img {
+  border:0;
+}
+
+#icon {
+  display:block;
+  width:33%;
+  max-width:148px;
+  margin:1.5em auto 2em auto;
+  height:auto;
+}
+
+.main {
+  margin-top:1em;
+  }
+
+h1 {
+  font-family:sans-serif-condensed, sans-serif;
+  font-size:1.1em;
+  line-height:1.2;
+}
+
+h2 {
+  font-size:1.1em;
+  margin:1em 0;
+}
+
+button {
+  display:block;
+  box-sizing:border-box;
+  width:100%;
+  margin:0 0 1.5em 0;
+  font-size:1em;
+  padding:0.3em 0.75em;
+}
+
+.faded {
+  opacity:0.6;
+  font-size:0.8em;
+  font-weight:normal;
+}
+
+a {
+  color:#1096d5;
+  text-decoration:none;
+}
+
+ul {
+  list-style-position:inside;
+  padding:0;
+  margin:0 0 1.5em 0;
+}
+
+.moreinfotitle {
+  padding-left:0.5em;
+}
+
+.submission {
+  padding-bottom:1.4em;
+}
+
+#suggestions, #errorDetails {
+  margin-top:1em;
+}
+
+@media all and (orientation: landscape) {
+  body { padding:1em 1.5em; }
+  #icon { width:28%; float:right; margin:0.5em 0 5em 1em; }
+  button { width:auto; }
+  h1 { padding-top:0.3em; }
+  }
+</style>
+<script>
+  function $(o) {return document.getElementById(o);}
+
+  function sendCommand(cmd) {
+    window.domAutomationController.setAutomationId(1);
+    window.domAutomationController.send(cmd);
+  }
+
+  function toggleMoreInfo(collapse) {
+    if (collapse) {
+      $("more_info_long").style.display = "none";
+      $("more_info_short").style.display = "block";
+    } else {
+      $("more_info_long").style.display = "block";
+      $("more_info_short").style.display = "none";
+    }
+  }
+  function setDirectionSensitiveImages() {
+    if (document.documentElement.dir == 'rtl') {
+      $("twisty_closed_rtl").style.display = "inline";
+    } else {
+      $("twisty_closed").style.display = "inline";
+    }
+  }
+
+  // This allows errors to be skippped by typing "proceed" into the page.
+  var keyPressState = 0;
+  function keyPressHandler(e) {
+    var sequence = "proceed";
+    if (sequence.charCodeAt(keyPressState) == e.keyCode) {
+      keyPressState++;
+      if (keyPressState == sequence.length) {
+        sendCommand(1);
+        keyPressState = 0;
+      }
+    } else {
+      keyPressState = 0;
+    }
+  }
+</script>
+</head>
+<body oncontextmenu="return false;">
+<script>
+document.addEventListener('DOMContentLoaded', setDirectionSensitiveImages);
+document.addEventListener('keypress', keyPressHandler);
+</script>
+  <div id="wrap">
+    <div class="box">
+      <img src="warning_icon.png" alt="SSL Error Icon" onmousedown="return false;" id="icon">
+      <h1 i18n-content="headLine"></h1>
+      <div class="main" i18n-values=".innerHTML:description"></div>
+      <div class="main" i18n-values=".innerHTML:cannotProceed"></div>
+        <form class="submission">
+          <button i18n-values="value:back" name="back" onClick="sendCommand(0);"></button>
+        </form>
+      <div class="example" id="more_info_short">
+      <!--
+       // The img madness here is due to the inlining of the html file
+       // resources. The script that does this looks for subresources like
+       // images and inlines them, so we need to have references to both the
+       // ltr and rtl versions statically. Just doing
+       // i18n-values="src:path_to_correct_image_set_by_c++" won't work, since
+       // the inlined version will just end up with that path string rather
+       // than the inlined image.
+      -->
+        <a href="#" onclick="toggleMoreInfo(false); return false;" onmousedown="return false;"><img id="twisty_closed" src="twisty_closed.png" style="display:none"><img id="twisty_closed_rtl" src="twisty_closed_rtl.png" style="display:none"><span i18n-content="moreInfoTitle" class="moreinfotitle"></span></a>
+      </div>
+      <div class="example" id="more_info_long" style="display:none;">
+        <a href="#" onclick="toggleMoreInfo(true); return false;" onmousedown="return false;"><img src="twisty_open.png"><span i18n-content="moreInfoTitle" class="moreinfotitle"></span></a>
+        <p i18n-values=".innerHTML:moreInfo1"></p>
+        <p i18n-values=".innerHTML:moreInfo2"></p>
+        <p i18n-values=".innerHTML:moreInfo3"></p>
+        <p i18n-values=".innerHTML:moreInfo4"></p>
+        <p i18n-values=".innerHTML:moreInfo5"></p>
+      </div>
+  </div>
+</body>
+</html>

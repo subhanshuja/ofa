@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<preferences>
+  <section id="C37F702C324684E0A1D726FB3CF6250152476FEE">
+    <value id="Type" xml:space="preserve">localstorage</value>
+    <value id="Origin" xml:space="preserve">http://www.cnn.com</value>
+    <value id="DataFile" xml:space="preserve">pstorage/00/15/00000000</value>
+  </section>
+  <section id="9B9DAFA97CF8F0596408E0B9BC44F285DAF6C6CB">
+    <value id="Type" xml:space="preserve">localstorage</value>
+    <value id="Origin" xml:space="preserve">http://stackoverflow.com</value>
+    <value id="DataFile" xml:space="preserve">pstorage/00/02/00000000</value>
+  </section>
+</preferences>

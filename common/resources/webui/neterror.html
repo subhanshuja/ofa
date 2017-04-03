@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html i18n-values="dir:textdirection">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="viewport"
+      content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+  <title i18n-content="title"></title>
+<if expr="is_android or pp_ifdef('ios')">
+  <link rel="stylesheet" href="neterror-mobile.css">
+</if>
+<if expr="not is_android and not pp_ifdef('ios')">
+    <link rel="stylesheet" href="neterror-desktop.css">
+</if>
+  <script>
+    /**
+     * Sets the classes of elements to match their jscontent values.
+     * Elements without jscontent values are ignored.
+     *
+     * This allows styles to be applied to nested elements from
+     * within GRD files.  To work on these elements, this must be
+     * called after jscontent substitution.
+     */
+    function setJsContentElementClasses() {
+      var elements = document.querySelectorAll('[jscontent]');
+      for (var i = 0; i < elements.length; ++i) {
+        elements[i].className = elements[i].getAttribute('jscontent');
+      }
+    }
+
+    document.addEventListener('DOMContentLoaded',
+                              setJsContentElementClasses,
+                              false);
+
+    // A grey border and larger font is used when the error page is
+    // in the main frame.
+    if (window.top.location == window.location)
+      document.documentElement.setAttribute('main-frame', '');
+
+    // The border only uses a gradient when using at least 24-bit color.
+    if (window.screen.colorDepth >= 24)
+      document.documentElement.setAttribute('high-color-depth', '');
+    function searchFor() {
+      var queryString = document.getElementsByName("q")[0].value;
+      window.location.href = 'https://www.google.com/m?q=' + queryString + '&client=ms-opera-mobile';
+    }
+  </script>
+</head>
+<body id="t">
+  <div id="wrap">
+  <div class="box">
+
+<if expr="not is_android and not pp_ifdef('ios')">
+  <div id="image"></div>
+</if>
+
+  <div id="cell">
+   <div id="box">
+    <h1>
+<if expr="is_android or pp_ifdef('ios')">
+      <img src="exclamation_mark.png" alt="" id="icon">
+</if>
+
+     <span jsselect="heading" jsvalues=".innerHTML:msg"></span>
+    </h1>
+
+    <if expr="is_android">
+      <form class="web-search animate" jsvalues="action:searchURL"
+            jsdisplay="searchURL">
+        <input type="hidden" jsselect="searchURLParams"
+               jsvalues="name:key;value:value">
+        <span class="web-search-logo"></span>
+        <div class="suggestion-input-container">
+          <input class="web-search-input" name="q" autocomplete="off"
+                 jsselect="summary" jsvalues="value:hostName">
+        </div>
+        <button onclick=searchFor()
+                type="submit" class="web-search-submit">Search</button>
+      </form>
+    </if>
+
+    <div class="main" id="errorSummary" jsselect="summary">
+     <span jsvalues=".innerHTML:msg"></span>
+    </div>
+
+    <div id="suggestions" jsdisplay="suggestionsHeading">
+     <h2 i18n-content="suggestionsHeading"></h2>
+     <ul>
+      <li jsselect="suggestionsReload">
+        <span jsvalues=".innerHTML:msg"></span>
+      </li>
+      <li jsselect="suggestionsHomepage">
+        <span jscontent="suggestionsHomepageMsg"></span>
+        <a jscontent="hostName" jsvalues="href:homePage"></a>
+      </li>
+      <li jsselect="suggestionsCheckConnection">
+        <span jsvalues=".innerHTML:msg"></span>
+      </li>
+      <li jsselect="suggestionsDNSConfig">
+        <span jsvalues=".innerHTML:msg"></span>
+      </li>
+      <li jsselect="suggestionsDisableNetworkPrediction">
+        <span jsvalues=".innerHTML:msg"></span>
+      </li>
+      <li jsselect="suggestionsFirewallConfig">
+        <span jsvalues=".innerHTML:msg"></span>
+      </li>
+      <li jsselect="suggestionsProxyConfig">
+        <span jsvalues=".innerHTML:msg"></span>
+      </li>
+      <li jsselect="suggestionsProxyDisable">
+        <span jsvalues=".innerHTML:msg"></span>
+      </li>
+      <li jsselect="suggestionsDisableExtension">
+        <span jsvalues=".innerHTML:msg"></span>
+      </li>
+      <li jsselect="suggestionsLearnMore">
+        <span jsvalues=".innerHTML:msg"></span>
+      </li>
+     </ul>
+    </div>
+
+<if expr="pp_ifdef('search_in_error_page') and not is_android">
+    <style jscontent="searchCSS"></style>
+    <form class="web-search animate" jsvalues="action:searchURL"
+        jsdisplay="searchURL">
+      <input type="hidden" jsselect="searchURLParams"
+          jsvalues="name:key;value:value">
+      <span class="web-search-logo"></span>
+      <div class="suggestion-input-container">
+        <input class="web-search-input" name="q" autocomplete="off"
+            jsselect="summary" jsvalues="value:hostName">
+      </div>
+      <button type="submit" class="web-search-submit">Search</button>
+    </form>
+</if>
+   </div>
+  </div>
+
+  </div>
+  </div>
+</body>
+</html>

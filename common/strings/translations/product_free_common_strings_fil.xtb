@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="fil">
+<translation id="3942946088478181888">Tulungan akong maunawaan</translation>
+<translation id="1396529432791646744">Kapag kumukonekta ka sa isang ligtas na website, ang server na nagho-host sa site na iyon ay nagpapakita sa iyong browser ng isang bagay na tinatawag na isang "certificate" upang patunayan ang pagkakakilanlan nito. Ang certificate na ito ay naglalaman ng impormasyon ng pagkakakilanlan, tulad ng address ng website, na pinapatunayan ng ikatlong partido na pinagkakatiwalaan ng iyong cellphone. Sa pamamagitan ng pag-check na ang address sa certificate ay tumutugma sa address ng website, maaaring patunayan na ikaw ay ligtas na nakikipag-ugnayan sa website na nilalayon mo, at hindi sa isang ikatlong partido (tulad ng isang mang-aatake sa iyong network).</translation>
+<translation id="6295228342562451544">Kapag kumukonekta ka sa isang ligtas na website, ang server na nagho-host sa site na iyon ay nagpapakita sa iyong browser ng isang bagay na tinatawag na isang "certificate" upang patunayan ang pagkakakilanlan nito. Ang certificate na ito ay naglalaman ng impormasyon ng pagkakakilanlan, tulad ng address ng website, na pinapatunayan ng ikatlong partido na pinagkakatiwalaan ng iyong computer. Sa pamamagitan ng pag-check na ang address sa certificate ay tumutugma sa address ng website, maaaring patunayan na ikaw ay ligtas na nakikipag-ugnayan sa website na nilalayon mo, at hindi sa isang ikatlong partido (tulad ng isang mang-aatake sa iyong network).</translation>
+<translation id="8187473050234053012">Pinawalang-bisa ang security certificate ng server!</translation>
+<translation id="5598024575303778520">Babala sa panlilinlang</translation>
+<translation id="7311721172731074902">Babala sa Panlilinlang</translation>
+<translation id="1858130628205855959">Maaaring na-hack ang site na ito o may pandarayan. Ang pagbibigay nito ng mga password o personal na impormasyon ay maaaring mailagay ka sa panganib ng pagnanakaw ng pagkakakilanlan o pandaraya hinggil sa pananalapi.</translation>
+<translation id="8357891144266644027">Babala ng mapaminsalang site</translation>
+<translation id="4664012235452972339">Babala ng Mapaminsalang Site</translation>
+<translation id="1030973920598092450">Maaaring na-hack ang site na ito o naglalaman ng mapanghamak na software. Maaaring nakapipinsala ang pagbisita sa pahinang ito.</translation>
+<translation id="4863259811271883558">Iniulat ng <ph name="BEGIN_LINK"/><ph name="PROVIDER_NAME"/><ph name="END_LINK"/></translation>
+<translation id="3141322567138977593">Ligtas na bumalik</translation>
+<translation id="833642844779103272">Ligtas na Bumalik</translation>
+<translation id="4238466718818823211">Balewalain ang babalang ito</translation>
+<translation id="1755698976576372535">Bakit naka-block ang pahinang ito?</translation>
+<translation id="2962647877740028287">Ang aming mga ulat ng pandaraya ay pinapanatili ng mga ikatlong partidong nagbebenta.</translation>
+<translation id="7470668651798735849">Makikita mo dito ang lahat ng iyong notipikasyon mula sa mga website here.</translation>
+<translation id="6426222199977479699">Error sa SSL</translation>
+<translation id="8398877366907290961">Magpatuloy pa rin</translation>
+<translation id="6264485186158353794">Bumalik sa kaligtasan</translation>
+<translation id="2225024820658613551">Hindi ka dapat magpatuloy, &lt;strong&gt;lalo na&lt;/strong&gt; kung hindi mo pa kailanman nakita ang babalang ito dati para sa site na ito.</translation>
+<translation id="5645845270586517071">Error sa Seguridad</translation>
+<translation id="1103666958012677467">Hindi ka maaaring magpatuloy dahil hiniling ng operator ng website ang pinaigting na seguridad para sa domain na ito.</translation>
+<translation id="5463275305984126951">Indeks ng <ph name="LOCATION"/></translation>
+<translation id="8877448029301136595">[pangunahing directory]</translation>
+<translation id="3835522725882634757">Ay, naku! Nagpapadala ang server na ito ng data na hindi nauunawaan ng<ph name="PRODUCT_NAME"/>. Mangyaring <ph name="BEGIN_LINK"/>iulat ang bug<ph name="END_LINK"/>, at isama ang <ph name="BEGIN2_LINK"/>bagong listahan<ph name="END2_LINK"/>.</translation>
+<translation id="5327248766486351172">Pangalan</translation>
+<translation id="8028993641010258682">Laki</translation>
+<translation id="57646104491463491">Petsa noong Binago</translation>
+<translation id="8465929756435120446">May ilang hindi ligtas na nilalaman ang pahinang ito.</translation>
+<translation id="6827416153061837992">Hindi naka-encrypt ang koneksyon na ito.</translation>
+<translation id="9193357432624119544">Error code: <ph name="ERROR_NAME"/></translation>
+<translation id="4910619056351738551">Narito ang ilang mga mungkahi:</translation>
+<translation id="2954705784594331199"><ph name="BEGIN_LINK"/>I-reload<ph name="END_LINK"/> ang pahinang ito sa ibang pagkakataon.</translation>
+<translation id="4977565600485911823">Huwag paganahin ang mga extension mo at <ph name="BEGIN_LINK"/>i-reload<ph name="END_LINK"/>pagkatapos ang webpage na ito.</translation>
+<translation id="1103966635949043187">Pumunta sa home page ng site:</translation>
+<translation id="7747589364844254751">I-check ang iyong koneksyon sa internet. I-restart ang anumang router, modem, o ibang mga kagamitan sa network na maaaring ginagamit mo.</translation>
+<translation id="5548623538190661145">Suriin ang mga setting ng DNS mo. Makipag-ugnayan sa administrador ng network mo kung hindi ka sigurado kung ano ang ibig sabihin nito.</translation>
+<translation id="4545046228395991092">Kung gumagamit ka ng isang proxy server, suriin ang mga setting ng proxy mo o makipag-ugnayan sa administrador ng network mo para tiyakin na gumagana ang proxy server.</translation>
+<translation id="1712673276482711826">Kung gumagamit ka ng isang proxy server, suriin ang mga setting ng proxy mo o makipag-ugnayan sa administrador ng network mo para tiyakin na gumagana ang proxy server. Kung hindi ka naniniwala na dapat kang gumamit ng isang proxy server, ayusin ang mga setting ng proxy mo: <ph name="PLATFORM_TEXT"/></translation>
+<translation id="721197778055552897"><ph name="BEGIN_LINK"/>Mas alamin pa ang<ph name="END_LINK"/> tungkol sa problemang ito.</translation>
+<translation id="8235325155053717782">Error <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="3986287159189541211">Error ng HTTP <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="3225919329040284222">Ang server ay nagpakita ng isang certificate na hindi tumutugma sa mga naka-built in na mga inaasahan. Ang mga inaasahang ito ay kasama sa ilang mga website na may mataas na seguridad upang protektahan ka.</translation>
+<translation id="6957887021205513506">Mukhang isang pamemeke ang certificate ng server.</translation>
+<translation id="6429639049555216915">Kasalukuyang hindi mapuntahan ang app.</translation>
+<translation id="9127307628159259612">Idagdag ang <ph name="PRODUCT_NAME"/> bilang isang pinahihintulutang programa sa mga setting ng iyong firewall o software na antivirus. Kung pinahihintulutan na ang programang ito, subukang alisin ito mula sa listahan ng mga pinahihintulutang programa at idagdag uli ito.</translation>
+<translation id="4544369257849566741">Nawawala mula sa ligtas na pagpapalitan ng signal (handshake) ang extension ng SSL renegotiation. Para sa ilang mga site, na kilala sa pagsuporta sa extension ng renegotiation, kinakailangan ng <ph name="PRODUCT_NAME"/> ang mas ligtas na pagpapalitan ng signal (handshake) upang maiwasan ang isang klase ng mga kilalang pag-atake. Iminumungkahi ng pag-aalis sa extension na ito na hinarang ang koneksyon mo at minanipula habang pinoproseso.</translation>
+<translation id="8162734958263531433">Para gamitin ang pag-debug ng USB, kailangan mo ang gumaganang Android SDK at pag-debug sa USB sa Android device mo. Tingnan ang <ph name="HTML_HELPURL"/> para sa karagdagang impormasyon.</translation>
+<translation id="1875071432292773474">Ilagay ang address na <ph name="ACCESS_POINT"/> sa browser ng desktop mo. Nasa parehong network dapat ang browser ng desktop katulad ng Android device.</translation>
+<translation id="7227425938337339799">Para gumana ang UPnP alinman sa kakailanganin mong maging nasa parehong subnet, o i-bridge ang router para ipadala ang mga pag-broadcast sa buong subnet.</translation>
+<translation id="4553629908098215669">Sa computer mo, i-run ang <ph name="HTMLADBCOMMAND"/>, at mag-navigate sa <ph name="HTMLLOCALHOSTURL"/> gamit ang browser na base sa Chromium.</translation>
+<translation id="4570032796877367747">Camera sa harapan</translation>
+<translation id="2599796128805996109">Likurang camera</translation>
+<translation id="2124507516322945394">Default na mikropono</translation>
+<translation id="1587215898571986504">Speakerphone</translation>
+<translation id="5614598979078259956">Wired na headset</translation>
+<translation id="9031226374756103225">Headset earpiece</translation>
+<translation id="149679617917926491">Bluetooth na headset</translation>
+<translation id="6060685159320643512">Mag-ingat, ang mga pagsubok na ito ay maaaring makasakit</translation>
+<translation id="5199729219167945352">Mga Pagsubok</translation>
+<translation id="533563709691128800">hindi pinagana</translation>
+<translation id="2506903884491778518">Maghanap ng mga pagsubok</translation>
+<translation id="1138663153846032155">Mas gusto ang HTML sa Flash</translation>
+<translation id="2081453640527377956">Mas gusto ang nilalaman ng HTML sa pamamagitan ng pagtatago sa Flash mula sa listahan ng mga plug-in.</translation>
+<translation id="5998167623928667649">Patakbuhin ang lahat ng nilalaman ng Flash kapag naka-set sa "pahintulutan" ang setting ng Flash</translation>
+<translation id="5138177765054221193">Para sa mga site na nai-set na sa "pahintulutan" ang nilalaman ng Flash, patakbuhin ang lahat ng nilalaman kabilang ang anuman na pinagpalagay na hindi mahalaga.</translation>
+<translation id="2112624549618815628">Default (pinagana)</translation>
+<translation id="3696363537446376816">Default (hindi pinagana)</translation>
+<translation id="5773249585542913314">Windows Runtime MIDI API</translation>
+<translation id="7122132768827815392">Gamitin ang Windows Runtime MIDI API para sa WebMIDI (may bisa lang sa Windows 10 o mas bago).</translation>
+<translation id="1375198122581997741">Tungkol sa Bersyon</translation>
+<translation id="7248671827512403053">Aplikasyon</translation>
+<translation id="1710259589646384581">OS</translation>
+<translation id="6897140037006041989">User Agent</translation>
+<translation id="7353601530677266744">Linya ng Utos</translation>
+<translation id="7225807090967870017">Build ID</translation>
+</translationbundle>

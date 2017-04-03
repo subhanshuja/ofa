@@ -1,0 +1,56 @@
+# Copyright (C) 2015 Opera Software ASA.  All rights reserved.
+#
+# This file is an original work developed by Opera Software ASA.
+
+import("//testing/test.gni")
+
+declare_args() {
+  disable_crypto_signature_check = false
+}
+
+source_set("crypto") {
+  sources = [
+    "op_verify_signature.cc",
+    "op_verify_signature.h",
+  ]
+
+  if (disable_crypto_signature_check) {
+    defines = [ "DISABLE_CRYPTO_SIGNATURE_CHECK" ]
+  }
+
+  public_configs = [ "../config:include_config" ]
+
+  deps = [
+    "//third_party/modp_b64",
+  ]
+}
+
+test("opcrypto_unittests") {
+  deps = [
+    ":crypto",
+    ":crypto_test_data",
+    "//base",
+    "//base/allocator",
+    "//base/test:run_all_unittests",  # Entry point for the test exe
+    "//crypto",
+    "//testing/gmock",
+    "//testing/gtest",
+  ]
+
+  configs += [ "../config:include_config" ]
+
+  sources = [
+    "op_verify_signature_unittest.cc",
+  ]
+}
+
+copy("crypto_test_data") {
+  testonly = true
+  sources = [
+    "crypto_test_data/browser.js",
+    "crypto_test_data/browser_bad_signed.js",
+  ]
+  outputs = [
+    "$root_out_dir/crypto_test_data/{{source_file_part}}",
+  ]
+}

@@ -1,0 +1,79 @@
+
+html {
+  background: rgb(247, 247, 247);
+  width: 100%;
+  height: 100%;
+  display: table;
+}
+
+body {
+  font: menu;
+  display: table-cell;
+  vertical-align: middle;
+}
+
+#wrap {
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0,0,0, 0.25);
+  margin: -4em auto 0;
+  max-width: 60em;
+  position: relative;
+  padding: 30px;
+  position:relative;
+}
+
+h1 {
+  color: rgb(158, 30, 37);
+  font-weight: normal;
+}
+
+h2 {
+  font-size: 1em;
+}
+
+.submission {
+  margin: 2em 0px;
+  overflow: auto;
+  padding-top: 2em;
+  position: absolute;
+  bottom: 0;
+  left: 20px;
+  right: 20px;
+}
+
+.submission button {
+  background: rgb(45, 141, 170);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 5px 20px;
+  font-size: 1.05em;
+  font-weight: 300;
+}
+
+.secondary-actions button, .secondary-actions a {
+  color: rgb(45, 141, 170) !important;
+  margin: 5px 20px;
+}
+
+.secondary-actions button[disabled] {
+  opacity: 0.4;
+}
+
+.primary-actions {
+  display: block;
+  float: left;
+}
+
+.secondary-actions {
+  display: block;
+  float: right;
+}
+
+form.web-search {
+  margin-top: 20px;
+}
+
+#suggestions, #errorSummary {
+  margin: 25px 0;
+}

@@ -1,0 +1,25 @@
+# Copyright (C) 2015 Opera Software ASA.  All rights reserved.
+#
+# This file is an original work developed by Opera Software ASA.
+
+source_set("fraud_protection") {
+  sources = [
+    "fraud_advisory.cc",
+    "fraud_advisory.h",
+    "fraud_protection_service.cc",
+    "fraud_protection_service.h",
+    "fraud_rated_server.cc",
+    "fraud_rated_server.h",
+    "fraud_url_rating.cc",
+    "fraud_url_rating.h",
+  ]
+
+  configs += [ "../config:include_config" ]
+
+  deps = [
+    "../constants:opera_constants",
+    "../net",
+    "//third_party/icu",
+    "//third_party/libxml",
+  ]
+}

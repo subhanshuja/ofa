@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="pl">
+<translation id="3929428121849375048">Avast SafeZone</translation>
+<translation id="806546331937022936">Avast</translation>
+<translation id="3609966143444339170">Avast stanowczo odradza odwiedzanie tej strony.</translation>
+<translation id="4206706288435313269">Centrum powiadomień Avast SafeZone</translation>
+<translation id="254978580676301713">SafeZone – powiadomienia</translation>
+<translation id="8084325208922689406">SafeZone – powiadomienia (nieprzeczytanych: <ph name="QUANTITY"/>)</translation>
+<translation id="678670207776683961">SafeZone – powiadomienia</translation>
+<translation id="191361968702850015">SafeZone – powiadomienia (nieprzeczytanych: <ph name="QUANTITY"/>)</translation>
+<translation id="1359674843509087498">Witryna używa przestarzałej konfiguracji zabezpieczeń, przez co przyszłe wersje programu SafeZone nie będą mogły się z nią bezpiecznie łączyć.</translation>
+<translation id="3485921796584936414">W ustawieniach swojej zapory sieciowej lub programu antywirusowego zezwól programowi SafeZone na dostęp do sieci.</translation>
+<translation id="7041993155087650094">Przejdź do menu SafeZone &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; Ustawienia sieci LAN i odznacz „Użyj serwera proxy dla sieci LAN”.</translation>
+<translation id="5366394231680131980">Zmiany zostaną zastosowane po ponownym uruchomieniu programu SafeZone.</translation>
+<translation id="6964843943881946410">Aby wyświetlić hasła przechowywane przez SafeZone, wpisz hasło dostępu do swojego komputera.</translation>
+</translationbundle>

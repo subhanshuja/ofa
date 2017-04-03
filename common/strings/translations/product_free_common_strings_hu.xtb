@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="hu">
+<translation id="3942946088478181888">Részletesebb magyarázat</translation>
+<translation id="1396529432791646744">Amikor egy biztonságos webhelyhez kapcsolódik, a webhely kiszolgálója egy úgynevezett „tanúsítvánnyal” igazolja az adatait a böngésző számára. Ez a tanúsítvány tartalmazza az azonosítási adatokat (például a webhely címét), amelyet egy olyan harmadik személy ellenőrzött, amelyben a mobileszköz megbízik. Ha a webhely címét összevetjük a tanúsítványban szereplő webcímmel, ellenőrizni lehet, hogy a valódi kiszolgálóval fog biztonságosan kommunikálni, nem valamilyen másik kiszolgálóval (például egy támadó a hálózatán).</translation>
+<translation id="6295228342562451544">Amikor egy biztonságos webhelyhez kapcsolódik, a webhely kiszolgálója egy úgynevezett „tanúsítvánnyal” igazolja az adatait a böngésző számára. Ez a tanúsítvány tartalmazza az azonosítási adatokat (például a webhely címét), amelyet egy olyan harmadik személy ellenőrzött, amelyben a számítógép megbízik. Ha a webhely címét összevetjük a tanúsítványban szereplő webcímmel, ellenőrizni lehet, hogy a valódi kiszolgálóval fog biztonságosan kommunikálni, nem valamilyen másik kiszolgálóval (például egy támadó a hálózatán).</translation>
+<translation id="8187473050234053012">A kiszolgáló biztonsági tanúsítványa vissza lett vonva!</translation>
+<translation id="5598024575303778520">Figyelmeztetés adathalász oldalra</translation>
+<translation id="7311721172731074902">Figyelmeztetés adathalász oldalra</translation>
+<translation id="1858130628205855959">A webhelyet feltörhették vagy adathalászatot futtathat. Jelszavak vagy bizalmas adatok megadása esetén azt kockáztatja, hogy az azonosítóját ellopják és/vagy pénzügyi visszaélést követnek el vele.</translation>
+<translation id="8357891144266644027">Figyelmeztetés kártékony webhelyre</translation>
+<translation id="4664012235452972339">Figyelmeztetés kártékony webhelyre</translation>
+<translation id="1030973920598092450">A webhelyet feltörhették vagy támadó szoftvert tartalmazhat. Az oldal kárt tehet a számítógépben.</translation>
+<translation id="4863259811271883558">Jelentette: <ph name="BEGIN_LINK"/><ph name="PROVIDER_NAME"/><ph name="END_LINK"/></translation>
+<translation id="3141322567138977593">Visszalépés biztonságosan</translation>
+<translation id="833642844779103272">Visszalépés biztonságosan</translation>
+<translation id="4238466718818823211">Figyelmeztetés mellőzése</translation>
+<translation id="1755698976576372535">Miért volt letiltva ez a lap?</translation>
+<translation id="2962647877740028287">Az adathalászati jelentéseinket harmadik fél kezeli.</translation>
+<translation id="7470668651798735849">Itt láthatja minden weboldal értesítéseit.</translation>
+<translation id="6426222199977479699">SSL-hiba</translation>
+<translation id="8398877366907290961">Folytatás mindenképp</translation>
+<translation id="6264485186158353794">Visszalépés biztonságosan</translation>
+<translation id="2225024820658613551">Nem ajánlott a továbblépés. &lt;strong&gt;Különösen akkor&lt;/strong&gt; vegye komolyan ezt a figyelmeztetést, ha korábban még soha nem látta ezt a hibát ezen az oldalon.</translation>
+<translation id="5645845270586517071">Biztonsági hiba</translation>
+<translation id="1103666958012677467">Nem folytathatja, mivel a weboldal kezelője kiemelt biztonsági előírást állított be erre a tartományra.</translation>
+<translation id="5463275305984126951"><ph name="LOCATION"/> index</translation>
+<translation id="8877448029301136595">[szülőmappa]</translation>
+<translation id="3835522725882634757">Ó, ne! Ez a kiszolgáló olyan adatokat küld, amit az <ph name="PRODUCT_NAME"/> nem tud értelmezni. Kérem, <ph name="BEGIN_LINK"/>jelentsen hibát<ph name="END_LINK"/>, és mellékelje a <ph name="BEGIN2_LINK"/>nyers listát<ph name="END2_LINK"/>.</translation>
+<translation id="5327248766486351172">Név</translation>
+<translation id="8028993641010258682">Méret</translation>
+<translation id="57646104491463491">Módosítás dátuma</translation>
+<translation id="8465929756435120446">A lapon nem biztonságos tartalom található.</translation>
+<translation id="6827416153061837992">A kapcsolat nincs kódolva.</translation>
+<translation id="9193357432624119544">Hibakód: <ph name="ERROR_NAME"/></translation>
+<translation id="4910619056351738551">Néhány javaslat:</translation>
+<translation id="2954705784594331199"><ph name="BEGIN_LINK"/>Frissítse <ph name="END_LINK"/>az oldal később.</translation>
+<translation id="4977565600485911823">Tiltsa le a bővítményeket, majd <ph name="BEGIN_LINK"/>frissítse <ph name="END_LINK"/>az oldalt.</translation>
+<translation id="1103966635949043187">Nyissa meg a webhely kezdőlapját:</translation>
+<translation id="7747589364844254751">Ellenőrizze az internetkapcsolatot. Indítsa újra a routert, a modemet és a többi hálózati eszközt.</translation>
+<translation id="5548623538190661145">Ellenőrizze a DNS-beállításokat. Ha nem biztos benne, hogy ez mit jelent, keresse fel a hálózati rendszergazdát.</translation>
+<translation id="4545046228395991092">Ha proxykiszolgálót használ, ellenőrizze annak beállításait, vagy forduljon a hálózati rendszergazdához.</translation>
+<translation id="1712673276482711826">Ha proxykiszolgálót használ, ellenőrizze annak beállításait, vagy forduljon a hálózati rendszergazdához. Ha Ön szerint nincs szüksége proxykiszolgálóra, állítsa be a proxybeállításokat ennek megfelelően: <ph name="PLATFORM_TEXT"/></translation>
+<translation id="721197778055552897"><ph name="BEGIN_LINK"/>További tudnivalók<ph name="END_LINK"/> a problémáról.</translation>
+<translation id="8235325155053717782"><ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>) hiba: <ph name="ERROR_TEXT"/></translation>
+<translation id="3986287159189541211"><ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>) HTTP hiba: <ph name="ERROR_TEXT"/></translation>
+<translation id="3225919329040284222">A kiszolgáló olyan tanúsítványt mutatott be, amely nem felel meg az elvárásoknak. Ezek a követelmények a biztonságos használat érdekében vannak bevezetve egyes nagy biztonságú weboldalakon.</translation>
+<translation id="6957887021205513506">A kiszolgáló tanúsítványa hamisítványnak tűnik.</translation>
+<translation id="6429639049555216915">Az alkalmazás jelenleg nem elérhető.</translation>
+<translation id="9127307628159259612">Adja hozzá az <ph name="PRODUCT_NAME"/> programot a tűzfal vagy a vírusirtó megbízható szoftvereket tartalmazó listájához. Ha az már hozzá van adva megbízható alkalmazásként a listához, törölje a listából, majd adja hozzá újra.</translation>
+<translation id="4544369257849566741">Az SSL-újraegyeztető kiterjesztés hiányzik a biztonságos kapcsolatból. Egyes oldalakon, amelyekről lehet tudni, hogy támogatják az újraegyeztető kiterjesztést, az <ph name="PRODUCT_NAME"/> egy biztonságosabb kapcsolatot vár el az ismert támadások elkerülése érdekében. A kiterjesztés hiánya arra utal, hogy a kapcsolatot eltérítették és manipulálták a folyamatban.</translation>
+<translation id="8162734958263531433">Az USB-hibakeresés használatához engedélyezni kell az Android SDK-t és az USB-hibakeresést az Android rendszerű készüléken. További információ itt: <ph name="HTML_HELPURL"/>.</translation>
+<translation id="1875071432292773474">Asztali böngészőjébe írja be ezt a címet: <ph name="ACCESS_POINT"/>. Az asztali böngészőnek ugyanazon a hálózaton kell lennie, mint az androidos eszköznek.</translation>
+<translation id="7227425938337339799">Az UPnP használatához ugyanazon az alhálózaton kell lennie, vagy a routert áthidalásra kell beállítani, hogy az alhálózatok között is továbbítsa a forgalmat.</translation>
+<translation id="4553629908098215669">A számítógépen futtassa az <ph name="HTMLADBCOMMAND"/> alkalmazást, és navigáljon egy Chromium-alapú böngészővel ide: <ph name="HTMLLOCALHOSTURL"/>.</translation>
+<translation id="4570032796877367747">Előlapi kamera</translation>
+<translation id="2599796128805996109">Hátlapi kamera</translation>
+<translation id="2124507516322945394">Alapértelmezett mikrofon</translation>
+<translation id="1587215898571986504">Hangszóró</translation>
+<translation id="5614598979078259956">Vezetékes headset</translation>
+<translation id="9031226374756103225">Fülbe dugható headset</translation>
+<translation id="149679617917926491">Bluetooth headset</translation>
+<translation id="6060685159320643512">Legyen körültekintő, ezek a kísérleti funkciók még elég vadak</translation>
+<translation id="5199729219167945352">Kísérleti funkciók</translation>
+<translation id="533563709691128800">letiltva</translation>
+<translation id="2506903884491778518">Kísérleti funkciók keresése</translation>
+<translation id="1138663153846032155">HTML előnyben részesítése a Flash-sel szemben</translation>
+<translation id="2081453640527377956">HTML előnyben részesítése a Flash elrejtésével a bővítmények listájában.</translation>
+<translation id="5998167623928667649">Összes Flash-tartalom futtatása, ha a Flash beállítása "engedélyezett"</translation>
+<translation id="5138177765054221193">Azokon a webhelyeken, ahol a Flash beállítása "engedélyezett", futtat minden Flash-tartalmat, beleértve a nem fontosnak vélteket is.</translation>
+<translation id="2112624549618815628">Alapértelmezett (engedélyezve)</translation>
+<translation id="3696363537446376816">Alapértelmezett (letiltva)</translation>
+<translation id="5773249585542913314">Windows Runtime MIDI API</translation>
+<translation id="7122132768827815392">Windows Runtime MIDI API használata WebMIDI-hez (csak Windows 10 vagy újabb esetén).</translation>
+<translation id="1375198122581997741">Névjegy Verzió</translation>
+<translation id="7248671827512403053">Alkalmazás</translation>
+<translation id="1710259589646384581">OS</translation>
+<translation id="6897140037006041989">Felhasználói ügynök</translation>
+<translation id="7353601530677266744">Parancssor</translation>
+<translation id="7225807090967870017">Összeállítás azonosító</translation>
+</translationbundle>

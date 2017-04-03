@@ -1,0 +1,22 @@
+# Copyright (C) 2015 Opera Software ASA.  All rights reserved.
+#
+# This file is an original work developed by Opera Software ASA
+
+source_set("fraud_protection_ui") {
+  configs += [ "../config:include_config" ]
+
+  deps = [
+    "../resources",
+    "../strings",
+    "//skia",
+  ]
+
+  sources = [
+    "fraud_protection.cc",
+    "fraud_protection.h",
+    "fraud_protection_delegate.cc",
+    "fraud_protection_delegate.h",
+    "fraud_warning_page.cc",
+    "fraud_warning_page.h",
+  ]
+}

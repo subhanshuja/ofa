@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="fi">
+<translation id="3929428121849375048">Avast SafeZone</translation>
+<translation id="806546331937022936">Avast</translation>
+<translation id="3609966143444339170">Avast ei suosittele tällä sivustolla vierailua.</translation>
+<translation id="4206706288435313269">Avast SafeZone -ilmoituskeskus</translation>
+<translation id="254978580676301713">SafeZone – ilmoitukset</translation>
+<translation id="8084325208922689406">SafeZone – ilmoitukset (lukemattomia: <ph name="QUANTITY"/>)</translation>
+<translation id="678670207776683961">SafeZone – ilmoitukset</translation>
+<translation id="191361968702850015">SafeZone – ilmoitukset (lukemattomia: <ph name="QUANTITY"/>)</translation>
+<translation id="1359674843509087498">Sivusto käyttää vanhentuneita turvallisuusasetuksia, jotka voivat estää uusimpia SafeZone-versioita käyttämästä sivustoa turvallisesti.</translation>
+<translation id="3485921796584936414">Salli verkon käyttö SafeZone-selaimelle laitteesi palomuuri- ja virustorjunta-asetuksissa.</translation>
+<translation id="7041993155087650094">Valitse SafeZone-valikko &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; Lähiverkon asetukset ja poista valinta "Käytä lähiverkossa välityspalvelinta".</translation>
+<translation id="5366394231680131980">Muutokset tulevat voimaan, kun käynnistät SafeZone-selaimen uudelleen.</translation>
+<translation id="6964843943881946410">Syötä tietokoneesi salasana nähdäksesi SafeZone-selaimeen tallennetut salasanat.</translation>
+</translationbundle>

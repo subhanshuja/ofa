@@ -1,0 +1,36 @@
+# Copyright (C) 2017 Opera Software AS.  All rights reserved.
+#
+# This file is an original work developed by Opera Software.
+
+import("//testing/test.gni")
+
+source_set("auth") {
+  sources = [
+    "auth_service_constants.cc",
+    "auth_service_constants.h",
+    "auth_token_consumer.cc",
+    "auth_token_consumer.h",
+    "auth_token_fetcher.cc",
+    "auth_token_fetcher.h",
+  ]
+
+  deps = [
+    "//base",
+    "//net",
+    "//url",
+  ]
+}
+
+test("auth_unittests") {
+  sources = [
+    "auth_token_fetcher_unittest.cc",
+  ]
+
+  deps = [
+    ":auth",
+    "//base/test:run_all_unittests",
+    "//net:test_support",
+    "//testing/gmock",
+    "//testing/gtest",
+  ]
+}

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="pt-BR">
+<translation id="1974060860693918893">Avançado</translation>
+<translation id="3462200631372590220">Ocultar avançado</translation>
+<translation id="3369192424181595722">Erro de relógio</translation>
+<translation id="2625385379895617796">Seu relógio está adiantado</translation>
+<translation id="8932102934695377596">Seu relógio está atrasado</translation>
+<translation id="3858027520442213535">Atualizar data e hora</translation>
+<translation id="725866823122871198">Não é possível estabelecer uma conexão privada com <ph name="BEGIN_BOLD"/><ph name="DOMAIN"/><ph name="END_BOLD"/> porque a data e hora de seu computador (<ph name="DATE_AND_TIME"/>) estão incorretas.</translation>
+<translation id="4879058462256654741">Para estabelecer uma conexão segura, seu relógio precisa estar definido corretamente. Isso ocorre porque os certificados usados pelos sites para se identificar são válidos apenas por períodos específicos. Como o relógio de seu dispositivo está incorreto, não é possível verificar esses certificados.</translation>
+<translation id="1413809658975081374">Erro de privacidade</translation>
+<translation id="3566021033012934673">Sua conexão não é privada</translation>
+<translation id="340013220407300675">Invasores podem estar tentando roubar suas informações de <ph name="BEGIN_BOLD"/><ph name="SITE"/><ph name="END_BOLD"/> (por exemplo, senhas, mensagens ou cartões de crédito).</translation>
+<translation id="629137324635910832">Normalmente, <ph name="SITE"/> usa a criptografia para proteger suas informações. Quando o Opera tentou se conectar a <ph name="SITE"/>, o site retornou credenciais atípicas e incorretas. Isso pode ocorrer quando um invasor tenta fingir ser <ph name="SITE"/> ou quando a tela de entrada no Wi-Fi interrompeu a conexão. Suas informações continuam seguras, pois o Opera interrompeu a conexão antes que qualquer dado fosse trocado.</translation>
+<translation id="4404555778932203074">Não é possível visitar <ph name="SITE"/> agora porque o site enviou credenciais embaralhadas que o Opera não consegue processar. Normalmente, os erros e ataques de rede são temporários. Por isso, é provável que a página funcione mais tarde.</translation>
+<translation id="8882627153668738693">Normalmente, <ph name="SITE"/> usa a criptografia para proteger suas informações. Quando o Avast SafeZone tentou se conectar a <ph name="SITE"/>, o site retornou credenciais atípicas e incorretas. Isso pode ocorrer quando um invasor tenta fingir ser <ph name="SITE"/> ou quando a tela de entrada no Wi-Fi interrompeu a conexão. Suas informações continuam seguras, pois o Avast SafeZone interrompeu a conexão antes que qualquer dado fosse trocado.</translation>
+<translation id="1888865191717601957">Não é possível visitar <ph name="SITE"/> agora porque o site enviou credenciais embaralhadas que o Avast SafeZone não consegue processar. Normalmente, os erros e ataques de rede são temporários. Por isso, é provável que a página funcione mais tarde.</translation>
+<translation id="6264485186158353794">Voltar para segurança</translation>
+<translation id="7704050614460855821"><ph name="BEGIN_LINK"/>Prosseguir para <ph name="SITE"/> (inseguro)<ph name="END_LINK"/></translation>
+<translation id="5556459405103347317">Recarregar</translation>
+<translation id="6051221802930200923">Não é possível visitar <ph name="SITE"/> agora porque o site usa certificados fixos. Normalmente, os erros e ataques de rede são temporários. Por isso, é provável que a página funcione mais tarde.</translation>
+<translation id="2991571918955627853">Não é possível visitar <ph name="SITE"/> agora porque o site usa HSTS. Normalmente, erros e ataques de rede são temporários. Por isso, é provável que a página funcione mais tarde.</translation>
+<translation id="1430489501396597835">Não é possível visitar <ph name="SITE"/> agora porque este certificado foi revogado. Normalmente, os erros e ataques de rede são temporários. Por isso, é provável que a página funcione mais tarde.</translation>
+<translation id="4513896196857653318">Acesse
+          o Menu principal &gt;
+          <ph name="SETTINGS_TITLE"/>
+          &gt;
+          <ph name="ADVANCED_TITLE"/>
+          e desmarque "<ph name="NO_PREFETCH_DESCRIPTION"/>".
+          Se isso não resolver o problema, recomendamos selecionar esta opção
+          novamente para melhorar o desempenho.</translation>
+<translation id="8888594059056485523">Permita que o Opera acesse a rede nas suas configurações de firewall e antivírus.</translation>
+<translation id="8040357206858000048">Acesse Aplicativos &gt; Preferências do Sistema &gt; Rede &gt; Avançado &gt; Proxies e desmarque todos os proxies selecionados.</translation>
+<translation id="1532685482177999023">Acesse o Menu principal &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; Configurações de LAN e desmarque "Usar um servidor proxy para sua LAN".</translation>
+<translation id="6118049677165320383">Suas alterações terão efeito da próxima vez que você reiniciar o navegador.</translation>
+<translation id="5510583790312051907">O relatório de falhas não está disponível.</translation>
+<translation id="1011013207380005827">O Opera é possível graças ao projeto de código aberto <ph name="BEGIN_LINK_CHROMIUM"/>Chromium<ph name="END_LINK_CHROMIUM"/> e outros <ph name="BEGIN_LINK_OSS"/>softwares de código aberto<ph name="END_LINK_OSS"/>.</translation>
+<translation id="3108493547597012279">Você está visualizando uma página segura.</translation>
+<translation id="8530361534096361731">O Opera não foi encerrado corretamente.</translation>
+</translationbundle>

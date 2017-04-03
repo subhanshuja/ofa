@@ -1,0 +1,376 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="ur">
+<translation id="113188000913989374"><ph name="SITE"/> کے مطابق:</translation>
+<translation id="5544037170328430102"><ph name="SITE"/> پر ایک سرایت کردہ صفحے کے مطابق:</translation>
+<translation id="8866959479196209191">اس صفحہ کے مطابق:</translation>
+<translation id="7424977062513257142">اس ویب صفحہ پر ایک سرایت کردہ صفحہ کے مطابق:</translation>
+<translation id="333371639341676808">اس صفحہ کو اضافی ڈائیلاگز بنانے سے روکیں۔</translation>
+<translation id="5622887735448669177">کیا آپ اس سائٹ کو چھوڑنا چاہتے ہیں؟</translation>
+<translation id="425582637250725228">ہوسکتا ہے کہ آپ کی جانب سے کی گئی تبدیلیاں محفوظ نہ ہوں۔</translation>
+<translation id="2677748264148917807">چھوڑدیں</translation>
+<translation id="662080504995468778">رکیں</translation>
+<translation id="3032412215588512954">کیا آپ اس سائٹ کو دوبارہ لوڈ کرنا چاہتے ہیں؟</translation>
+<translation id="5556459405103347317">دوبارہ لوڈ کریں</translation>
+<translation id="2889159643044928134">دوبارہ لوڈ نہ کریں</translation>
+<translation id="2835170189407361413">فارم صاف کریں</translation>
+<translation id="935608979562296692">فارم صاف کریں</translation>
+<translation id="5029568752722684782">کاپی صاف کریں</translation>
+<translation id="2455981314101692989">اس ویب صفحہ نے اس فارم کیلئے خودکار پُر کاری غیر فعال کر دی ہے۔</translation>
+<translation id="7542995811387359312">کریڈٹ کارڈ کیلئے خود کار پُر کاری غیر فعال کردی گئی ہے کیونکہ یہ فارم محفوظ کنکشن استعمال نہیں کرتا۔</translation>
+<translation id="8483780878231876732">اپنے گوگل اکاؤنٹ سے کارڈز استعمال کرنے کے لیے، Chrome میں سائن اِن کریں</translation>
+<translation id="7813600968533626083">Chrome سے تجویز کو ہٹائیں؟</translation>
+<translation id="7569952961197462199">Chrome سے کریڈٹ کارڈ ہٹائیں؟</translation>
+<translation id="4587425331216688090">Chrome سے پتہ ہٹائیں؟</translation>
+<translation id="6671697161687535275">Chromium سے تجویز سے ہٹائیں؟</translation>
+<translation id="7637571805876720304">Chromium سے کریڈٹ کارڈ ہٹائیں؟</translation>
+<translation id="6218753634732582820">Chromium سے پتہ ہٹائیں؟</translation>
+<translation id="4148925816941278100">امریکن ایکسپریس</translation>
+<translation id="1734864079702812349">امیکس</translation>
+<translation id="933712198907837967">ڈائنرس کلب</translation>
+<translation id="3169472444629675720">دریافت کریں</translation>
+<translation id="6008256403891681546">JCB</translation>
+<translation id="3450660100078934250">ماسٹر کارڈ</translation>
+<translation id="7012363358306927923">چائنا یونین پے</translation>
+<translation id="719464814642662924">ویزا</translation>
+<translation id="2113977810652731515">کارڈ</translation>
+<translation id="4668929960204016307">، </translation>
+<translation id="5089810972385038852">ریاست</translation>
+<translation id="6839929833149231406">علاقہ</translation>
+<translation id="7087282848513945231">ملک</translation>
+<translation id="2096368010154057602">محکمہ</translation>
+<translation id="6970216967273061347">ضلع</translation>
+<translation id="7139724024395191329">امارات</translation>
+<translation id="3174168572213147020">جزیرہ</translation>
+<translation id="3885155851504623709">کلیسائی حلقہ</translation>
+<translation id="777702478322588152">کمشنری</translation>
+<translation id="5095208057601539847">صوبہ</translation>
+<translation id="2053553514270667976">زپ کوڈ</translation>
+<translation id="6282194474023008486">پوسٹل کوڈ</translation>
+<translation id="6445051938772793705">ملک</translation>
+<translation id="8804164990146287819">رازداری کی پالیسی</translation>
+<translation id="1132774398110320017">Chrome خودکار پُر کرنے کی سیٹنگز…</translation>
+<translation id="1344588688991793829">Chromium آٹو فل کی سیٹنگز...</translation>
+<translation id="3340978935015468852">سیٹنگز</translation>
+<translation id="8530504477309582336">اس قسم کا کارڈ Google Payments سے تعاون یافتہ نہیں ہے۔ براہ کرم ایک مختلف کارڈ منتخب کریں۔</translation>
+<translation id="59107663811261420">اس قسم کا کارڈ اس تاجر کیلئے Google Payments سے تعاون یافتہ نہیں ہے۔ براہ کرم ایک مختلف کارڈ منتخب کریں۔</translation>
+<translation id="8834246243508017242">رابطوں کا استعامل کرکے خودکار پْر کرنے کو فعال کریں…</translation>
+<translation id="2498091847651709837">نیا کارڈ اسکین کریں</translation>
+<translation id="3542684924769048008">پاس ورڈ استعمال کریں برائے:</translation>
+<translation id="5786044859038896871">کیا آپ اپنی کارڈ کی معلومات بھرنا چاہتے ہیں؟</translation>
+<translation id="5803412860119678065">کیا آپ اپنی <ph name="CARD_DETAIL"/> کی معلومات بھرنا چاہتے ہیں؟</translation>
+<translation id="2463739503403862330">بھریں</translation>
+<translation id="5317780077021120954">محفوظ کریں</translation>
+<translation id="1629803312968146339">کیا آپ چاہتے ہیں کہ Chrome اس کارڈ کو محفوظ کرے؟</translation>
+<translation id="4169947484918424451">کیا آپ چاہتے ہیں کہ Chromium اس کارڈ کومحفوظ کرے؟</translation>
+<translation id="8931333241327730545">کیا آپ یہ کارڈ اپنے Google اکاؤنٹ میں محفوظ کرنا چاہتے ہیں؟</translation>
+<translation id="7578104083680115302">Google کے ساتھ محفوظ کردہ کارڈز استعمال کرکے آلات پر سائٹس اور ایپس پر جلدی سے ادائیگی کریں۔</translation>
+<translation id="7613889955535752492">مثلا: <ph name="EXPIRATION_MONTH"/>/<ph name="EXPIRATION_YEAR"/></translation>
+<translation id="7887683347370398519">اپنا CVC چیک کریں اور دوبارہ کوشش کریں</translation>
+<translation id="4800132727771399293">اپنی اختتامی تاریخ اور CVC چیک کریں اور دوبارہ کوشش کریں</translation>
+<translation id="3063697135517575841">Chrome اس وقت آپ کے کارڈ کی معلومات کی توثیق کرنے سے قاصر تھا۔ براہ کرم بعد میں دوبارہ کوشش کریں۔</translation>
+<translation id="2704951214193499422">Chromium اس وقت آپ کے کارڈ کی معلومات کی توثیق کرنے سے قاصر تھا۔ براہ کرم بعد میں دوبارہ کوشش کریں۔</translation>
+<translation id="5784606427469807560">آپ کے کارڈ کی توثیق کرنے میں ایک مسئلہ تھا۔ اپنا انٹرنیٹ کنکشن چیک کریں اور دوبارہ کوشش کریں۔</translation>
+<translation id="323107829343500871"><ph name="CREDIT_CARD"/> کے لیے CVC درج کریں</translation>
+<translation id="962701380617707048">اپنے کارڈ کی تفصیلات کی تجدید کرنے کے لیے <ph name="CREDIT_CARD"/> کی اختتامی تاریخ اور CVC درج کریں</translation>
+<translation id="8877192140621905067">جب آپ تصدیق کر دیں گے، تو آپ کے کارڈ کی تفصیلات اس ویب سائیٹ کے ساتھ شیئر کر دی جائیں گی</translation>
+<translation id="7390545607259442187">کارڈ کی تصدیق کریں</translation>
+<translation id="3008447029300691911"><ph name="CREDIT_CARD"/> کے لیے CVC درج کریں۔ جب آپ تصدیق کر دیں گے، تو آپ کے کارڈ کی تفصیلات اس ویب سائیٹ کے ساتھ شیئر کر دی جائیں گی۔</translation>
+<translation id="724975217298816891">اپنے کارڈ کی تفصیلات کی تجدید کرنے کے لیے <ph name="CREDIT_CARD"/> کے لیے اختتامی تاریخ اور CVC درج کریں۔ جب آپ تصدیق کر دیں گے، تو آپ کے کارڈ کی تفصیلات اس ویب سائیٹ کے ساتھ شیئر کر دی جائیں گی۔</translation>
+<translation id="3539171420378717834">اس آلے پر اس کارڈ کی ایک کاپی رکھیں</translation>
+<translation id="1107591249535594099">نشان زد ہونے پر، Chrome فارم تیزی سے بھرنے کیلئے اس آلے پر آپ کے کارڈ کی ایک کاپی اسٹور کرے گا۔</translation>
+<translation id="2495093607237746763">نشان زد ہونے پر، Chromium فارم تیزی سے بھرنے کیلئے اس آلے پر آپ کے کارڈ کی ایک کاپی اسٹور کرے گا۔</translation>
+<translation id="5002932099480077015">فعال ہونے پر، Chrome فارم تیزی سے بھرنے کیلئے اس آلے پر آپ کے کارڈ کی ایک کاپی اسٹور کرے گا۔</translation>
+<translation id="2985306909656435243">فعال ہونے پر، Chromium فارم تیزی سے بھرنے کیلئے اس آلے پر آپ کے کارڈ کی ایک کاپی اسٹور کرے گا۔</translation>
+<translation id="8131740175452115882">تصدیق کریں</translation>
+<translation id="7469372306589899959">کارڈ کی تصدیق کرنا</translation>
+<translation id="6895330447102777224">آپ کے کارڈ کی تصدیق ہو گئی ہے</translation>
+<translation id="3901925938762663762">اس کارڈ کی میعاد ختم ہو گئی ہے</translation>
+<translation id="7378810950367401542">/</translation>
+<translation id="230155334948463882">نیا کارڈ ہے؟</translation>
+<translation id="6820686453637990663">CVC</translation>
+<translation id="8349305172487531364">بک مارکس بار</translation>
+<translation id="5190835502935405962">بک مارکس بار</translation>
+<translation id="106701514854093668">ڈیسک ٹاپ بک مارکس</translation>
+<translation id="2985817184168264963">غیر مرتب بُک مارکس</translation>
+<translation id="7365825044069934695">میرے فولڈرز</translation>
+<translation id="2873951654529031587">کوڑے دان</translation>
+<translation id="7956713633345437162">موبائل بک مارکس</translation>
+<translation id="2354001756790975382">دیگر بک مارکس</translation>
+<translation id="6263376278284652872"><ph name="DOMAIN"/> بک مارکس</translation>
+<translation id="5509780412636533143">نظم کردہ بک مارکس</translation>
+<translation id="4300246636397505754">والدین کی تجاویز</translation>
+<translation id="213826338245044447">موبائل بک مارکس</translation>
+<translation id="883848425547221593">دیگر بک مارکس</translation>
+<translation id="1962204205936693436"><ph name="DOMAIN"/> بک مارکس</translation>
+<translation id="7275334191706090484">نظم کردہ بک مارکس</translation>
+<translation id="5872918882028971132">والدین کی تجاویز</translation>
+<translation id="1181037720776840403">ہٹائیں</translation>
+<translation id="939736085109172342">نیا فولڈر</translation>
+<translation id="2149973817440762519">بک مارک کی تدوین کریں</translation>
+<translation id="5327248766486351172">نام</translation>
+<translation id="7400418766976504921">URL</translation>
+<translation id="1254117744268754948">فولڈر منتخب کریں</translation>
+<translation id="8293206222192510085">بک مارک شامل کریں</translation>
+<translation id="5857090052475505287">نیا فولڈر</translation>
+<translation id="6656103420185847513">فولڈر کی تدوین کریں</translation>
+<translation id="7912024687060120840">فولڈر میں:</translation>
+<translation id="3527085408025491307">فولڈر</translation>
+<translation id="3254409185687681395">اس صفحہ کو بک مارک کریں</translation>
+<translation id="8428213095426709021">ترتیبات</translation>
+<translation id="5801568494490449797">ترجیحات</translation>
+<translation id="765676359832457558">ایڈوانسڈ ترتیبات چھپائیں...</translation>
+<translation id="2415454585822379970">ایڈوانسڈ سیٹنگز دکھائیں</translation>
+<translation id="6989763994942163495">ایڈوانسڈ ترتیبات دکھائیں...</translation>
+<translation id="5737306429639033676">صفحہ کے لوڈ کی کارکردگی بہتر بنانے کے لیے نیٹ ورک کی کارروائی کی پیشین گوئی کریں</translation>
+<translation id="9038649477754266430">صفحات کو اور زیادہ تیزی سے لوڈ کرنے کے لیے پیشگوئی کی سروس استعمال کریں</translation>
+<translation id="3355823806454867987">پراکسی کی ترتیبات تبدیل کریں...</translation>
+<translation id="7823073559911777904">پراکسی کی ترتیبات تبدیل کریں...</translation>
+<translation id="4231205248927312226">دوبارہ جمع کرواکر تصدیق کریں</translation>
+<translation id="6451458296329894277">فارم دوبارہ جمع ہونے کی تصدیق کریں</translation>
+<translation id="8241707690549784388">آپ جو صفحہ تلاش کر رہے ہیں اس نے آپ کی درج کردہ معلومات کو استعمال کیا ہے۔ اس صفحہ پر لوٹنے سے آپ نے جو کارروائی کی اس کو دہرانا پڑ سکتا ہے۔ کیا آپ جاری رکھنا چاہتے ہیں؟</translation>
+<translation id="2359808026110333948">جاری</translation>
+<translation id="4522570452068850558">تفصیلات</translation>
+<translation id="3586931643579894722">تفصیلات چھپائیں</translation>
+<translation id="8962083179518285172">تفصیلات چھپائیں</translation>
+<translation id="6042308850641462728">مزید</translation>
+<translation id="2089090684895656482">کم</translation>
+<translation id="3005723025932146533">محفوظ کردہ کاپی دکھائیں</translation>
+<translation id="1506687042165942984">اس صفحہ کی ایک محفوظ کردہ کاپی دکھائیں (مثلا جس کے پرانا ہونے کا علم ہے)۔</translation>
+<translation id="3447661539832366887">اس آلے کے مالک نے ڈائناسور گیم آف کر دی ہے۔</translation>
+<translation id="1152921474424827756"><ph name="URL"/> کی ایک <ph name="BEGIN_LINK"/>عارضی طور پر ذخیرہ کردہ نقل <ph name="END_LINK"/> تک رسائی حاصل کریں</translation>
+<translation id="2030481566774242610">کیا آپ کا مطلب ہے <ph name="LINK"/>؟</translation>
+<translation id="194030505837763158"><ph name="LINK"/> پر جائیں</translation>
+<translation id="3226128629678568754">صفحہ کو لوڈ کرنے کیلئے درکار ڈیٹا دوبارہ جمع کرنے کیلئے ری لوڈ بٹن دبائیں۔</translation>
+<translation id="3155309969919037916">اپنا انٹرنیٹ کنیکشن چیک کریں۔</translation>
+<translation id="6203231073485539293">اپنا انٹرنیٹ کنیکشن چیک کریں</translation>
+<translation id="1519957265434608160">کیبلز کو چیک کریں اور راؤٹر، موڈیم، یا زیر استعمال دیگر نیٹ ورک آلات کو بند کرکے دوبارہ چلائیں۔</translation>
+<translation id="6146055958333702838">کیبلز کو چیک کریں اور راؤٹر، موڈیم، یا زیر استعمال دیگر نیٹ
+ورک آلات کو بند کرکے دوبارہ چلائیں۔</translation>
+<translation id="2319236583141234177">اپنے DNS سٹینگز کو چیک کریں۔</translation>
+<translation id="6321917430147971392">اپنے DNS سٹینگز کو چیک کریں</translation>
+<translation id="8289355894181816810">اگر آپ کو اس کا مطلب معلوم نہیں ہے تو اپنے نیٹ ورک ایڈمنسٹریٹر سے رابطہ کریں۔</translation>
+<translation id="5573959367212558217">نیٹ ورک کی پیشگوئی کو غیرفعال کر کے کوشش کریں۔</translation>
+<translation id="6328639280570009161">نیٹ ورک کی پیشگوئی کو غیرفعال کر کے کوشش کریں</translation>
+<translation id="3630155396527302611">اگر یہ نیٹ ورک تک رسائی کے لیے منظور شدہ پروگرام کے بطور پہلے سے ہی درج ہے تو، اسے فہرست سے
+      خارج اور دوبارہ شامل کر کےکوشش کریں۔</translation>
+<translation id="382518646247711829">اگر آپ پراکسی سرور استعمال کرتے ہیں…</translation>
+<translation id="8454634452929957533">اپنی پراکسی سیٹنگز چیک کریں یا اپنے نیٹ ورک ایڈمنسٹریٹر سے رابطہ کرکے یقینی بنائیں کہ پراکسی سرور کام کر رہا ہے۔ اگر آپ کو یقین نہ ہو کہ آپ پراکسی سرور استعمال کر رہے ہیں: <ph name="PLATFORM_TEXT"/></translation>
+<translation id="3176929007561373547">اپنی پراکسی سیٹنگز چیک کریں یا اپنے نیٹ ورک ایڈمنسٹریٹر سے رابطہ کرکے
+     یقینی بنائیں کہ پراکسی سرور کام کر رہا ہے۔ اگر آپ کو یقین نہ ہو کہ آپ پراکسی
+     سرور استعمال کر رہے ہیں:
+     <ph name="PLATFORM_TEXT"/></translation>
+<translation id="2948083400971632585">آپ سیٹنگز کے صفحہ سے کنیکشن کیلئے کنفیگر کردہ کوئی بھی پراکسیز غیر فعال کر سکتے ہیں۔</translation>
+<translation id="5023310440958281426">اپنے ایڈمنسٹریٹر کی پالیسیاں چیک کریں</translation>
+<translation id="4103763322291513355">بلیک لسٹ کردہ URLs کی فہرست اور آپ کے سسٹم ایڈمنسٹریٹر کے ذریعہ لاگو کردہ دیگر پالیسیاں دیکھنے کیلئے &lt;strong&gt;chrome://policy&lt;/strong&gt; ملاحظہ کریں۔</translation>
+<translation id="1645368109819982629">غیر تعاون یافتہ پروٹوکول</translation>
+<translation id="4075732493274867456">کلائینٹ اور سرورکسی مشترکہ SSL پروٹوکول ورژن یا سائفر سوٹ کو اسپورٹ نہیں کرتے۔</translation>
+<translation id="5869405914158311789">اس سائٹ تک نہیں پہنچا جا سکتا</translation>
+<translation id="2292556288342944218">آپ کی انٹرنیٹ رسائی مسدود ہے</translation>
+<translation id="933612690413056017">انٹرنیٹ کنکشن نہیں ہے</translation>
+<translation id="3093245981617870298">آپ آف لائن ہیں۔</translation>
+<translation id="7716424297397655342">یہ سائٹ عارضی ذخیرہ سے لوڈ نہیں کی جا سکتی</translation>
+<translation id="4708268264240856090">آپ کے انٹرنیٹ کنکشن میں خلل آ گیا تھا</translation>
+<translation id="5452270690849572955">یہ <ph name="HOST_NAME"/> صفحہ نہیں مل سکا</translation>
+<translation id="5431657950005405462">آپ کی فائل نہیں ملی تھی</translation>
+<translation id="7269802741830436641">اس ویب صفحہ کا ایک ری ڈائرکٹ لوپ ہے</translation>
+<translation id="778579833039460630">کوئی ڈیٹا نہیں ملا</translation>
+<translation id="3973234410852337861"><ph name="HOST_NAME"/> مسدود ہے</translation>
+<translation id="4764776831041365478"><ph name="URL"/> پر موجود ویب صفحہ ممکن ہے عارضی طور پر ڈاؤن ہو یا اسے مستقل طور پر کسی نئے ویب پتے پر منتقل کردیا گیا ہو۔</translation>
+<translation id="8498891568109133222"><ph name="HOST_NAME"/> کو جواب دینے میں کافی وقت لگا۔</translation>
+<translation id="2784949926578158345">کنکشن دوبارہ ترتیب دیا گیا تھا۔</translation>
+<translation id="1158211211994409885"><ph name="HOST_NAME"/> نے غیر متوقع طور پر کنکشن بند کردیا۔</translation>
+<translation id="3422472998109090673"><ph name="HOST_NAME"/> ابھی ناقابل رسائی ہے۔</translation>
+<translation id="2909946352844186028">نیٹ ورک میں ایک تبدیلی پائی گئی۔</translation>
+<translation id="6433595998831338502"><ph name="HOST_NAME"/> نے منسلک ہونے سے منع کر دیا۔</translation>
+<translation id="8134994873729925007"><ph name="HOST_NAME"/> کے سرور <ph name="BEGIN_ABBR"/>DNS کا پتہ <ph name="END_ABBR"/>نہیں مل سکا۔</translation>
+<translation id="4021036232240155012">DNS وہ نیٹ ورک سروس ہے جو ویب سائٹ کا نام اس کے انٹرنیٹ پتے میں تبدیل کرتا ہے۔</translation>
+<translation id="5492298309214877701">کمپنی، تنظیم یا اسکول کی انٹرانیٹ پر اس سائٹ کا URL ایک خارجی ویب سائٹ جیسا ہے۔
+   <ph name="LINE_BREAK"/>
+   اپنے سسٹم کے منتظم سے رابطہ کرنے کی کوشش کریں۔</translation>
+<translation id="6305205051461490394"><ph name="URL"/> ناقابل رسائی ہے۔</translation>
+<translation id="8150722005171944719"><ph name="URL"/> پر موجود فائل پڑھے جانے لائق نہیں ہے۔ ممکن ہے اسے ہٹا دیا گیا ہو، منتقل کردیا گیا ہو، یا فائل کی اجازتیں اس تک رسائی سے روک رہی ہوں۔</translation>
+<translation id="7758069387465995638">فائروال یا اینٹی وائرس سافٹ ویئر نے ممکن ہے کنکشن کو مسدود کر دیا ہو۔</translation>
+<translation id="6711464428925977395">پراکسی سروس میں کچھ غلط ہے یا پتہ غلط ہے۔</translation>
+<translation id="2705137772291741111">اس سائٹ کی محفوظ کردہ (عارضی ذخیرہ کردہ) نقل پڑھنے لائق نہیں ہے۔</translation>
+<translation id="6757797048963528358">آپ کا آلہ سو گیا۔</translation>
+<translation id="8149426793427495338">آپ کا کمپیوٹر سو گیا۔</translation>
+<translation id="7518003948725431193">ویب پتہ کیلئے کوئی ویب صفحہ نہیں ملا تھا: <ph name="URL"/></translation>
+<translation id="5510766032865166053">ممکن ہے اس منتقل یا حذف کر دیا کیا ہو۔</translation>
+<translation id="5617949217645503996"><ph name="HOST_NAME"/> نے آپ کو کئی بار ری ڈائرکٹ کیا۔</translation>
+<translation id="139305205187523129"><ph name="HOST_NAME"/> نے کوئی ڈیٹا نہیں بھیجا۔</translation>
+<translation id="255002559098805027"><ph name="HOST_NAME"/> نے ایک غلط جواب بھیجا۔</translation>
+<translation id="8740359287975076522"><ph name="HOST_NAME"/> s &lt;مخففid="dnsتعریف"&gt;DNS پتہ&lt;/مخفف&gt; نہیں مل سکا۔ مسئلے کی تشخیص کرنا۔</translation>
+<translation id="8332188693563227489"><ph name="HOST_NAME"/> تک رسائی مسترد کردی گئی</translation>
+<translation id="2650446666397867134">فائل تک رسائی کی اجازت مسترد کردی گئی</translation>
+<translation id="3109728660330352905">آپ کو یہ صفحہ دیکھنے کی اجازت نہیں ہے۔</translation>
+<translation id="9092364396508701805">صفحہ <ph name="HOST_NAME"/> کام نہیں کر رہا ہے</translation>
+<translation id="759889825892636187"><ph name="HOST_NAME"/> فی الحال یہ درخواست نمٹانے سے قاصر ہے۔</translation>
+<translation id="6830600606572693159"><ph name="URL"/> پر موجود ویب صفحہ فی الحال غیر دستیاب ہے۔ ممکن ہے اس پر زیادہ لوڈ ہو یا دیکھ بھال کیلئے ڈاؤن ہو۔</translation>
+<translation id="7210863904660874423"><ph name="HOST_NAME"/> سیکیورٹی کے معیارات کی پابندی نہیں کرتا ہے۔</translation>
+<translation id="5228309736894624122">SSL پروٹوکول کی خرابی۔</translation>
+<translation id="2803407661478021186">ایک SSLv3 فال بیک سرور کے ساتھ تعامل کرنے میں ناکام رہا، لیکن اب ہم پروٹوکول کے خلاف نئے حملوں کی وجہ سے SSLv3 فال بیکس کو مزید قبول نہیں کرتے۔ کم از کم TLS 1.0 اور ترجیحی طور پر TLS 1.2 کو اسپورٹ کرنے کیلئے سرور کو اپ ڈیٹ کرنے کی ضرورت ہے۔</translation>
+<translation id="5900623698597156974">ایک TLS 1.0 فال بیک سرور کے ساتھ تعامل کرنے میں ناکام رہا، لیکن اب ہم TLS 1.0 فال بیکس کو مزید قبول نہیں کرتے۔ ورژن کے درست اطلاق کے لیے اور ترجیحی طور پر TLS 1.2 کو اسپورٹ کرنے کیلئے سرور کو اپ ڈیٹ کرنے کی ضرورت ہے۔</translation>
+<translation id="9183425211371246419"><ph name="HOST_NAME"/> ایک غیر تعاون یافتہ پروٹوکول استعمال کرتا ہے۔</translation>
+<translation id="5283991396172801811">براؤزر اور سرور میں یہ اتفاق نہیں ہو سکتا کہ کون سا TLS ورژن اور سائفر سوئٹ استعمال کیا جائے۔ وجہ یہ ہو سکتی ہے کہ سرور صرف پرانے پروٹوکولز، جیسے صرف SSL ورژن 3 کو اسپورٹ کرتا ہے۔</translation>
+<translation id="284702764277384724"><ph name="HOST_NAME"/> پر موجود سرور سرٹیفکیٹ جعلی لگتا ہے۔</translation>
+<translation id="2166378884831602661">یہ سائٹ محفوظ کنکشن فراہم نہیں کر سکتا</translation>
+<translation id="1911837502049945214"><ph name="HOST_NAME"/> نے آپ کے لاگ ان سرٹیفکیٹ کو قبول نہیں کیا یا ہو سکتا ہے کہ آپ کے لاگ ان سرٹیفکیٹ کی میعاد ختم ہو گئی ہو۔</translation>
+<translation id="5990559369517809815">سرور کیلئے گزارشات ایک ایکسیٹنشن کے ذریعہ بلاک کردی گئی ہیں۔</translation>
+<translation id="8225771182978767009">اس کمپیوٹر کو تشکیل دینے والے شخص نے یہ سائٹ بلاک کرنے کا انتخاب کیا ہے۔</translation>
+<translation id="8315720913203253727">ویب صفحہ کو ایسے ڈیٹا کی ضرورت ہے جو آپ نے مناسب طور پر ڈسپلے کرنے کیلئے درج کیا تھا۔ آپ اس ڈیٹا کو دوبارہ بھیج سکتےہیں لیکن ایسا کرکے آپ کسی ایسی کارراوئی کو دہرائیں گے جو یہ صفحہ پہلے کرچکا ہے۔ ڈیٹا کو دوبارہ بھیجنے اور اس صفحہ کو ڈسپلے کرنے کیلئے دوبارہ لوڈ کریں کو دبائیں۔</translation>
+<translation id="7549584377607005141">ویب صفحہ کو ایسے ڈیٹا کی ضرورت ہے جو آپ نے مناسب طور پر ڈسپلے کرنے کیلئے درج کیا تھا۔ آپ اس ڈیٹا کو دوبارہ بھیج سکتےہیں لیکن ایسا کرکے آپ کسی ایسی کارراوئی کو دہرائیں گے جو یہ صفحہ پہلے کرچکا ہے۔</translation>
+<translation id="614940544461990577">آزمائیں:</translation>
+<translation id="5610142619324316209">کنکشن چیک کیا جا رہا ہے</translation>
+<translation id="3717027428350673159"><ph name="BEGIN_LINK"/>پراکسی، فائروال اور DNS کنفیگریشن کو چیک کیا جا رہا ہے<ph name="END_LINK"/></translation>
+<translation id="4203896806696719780"><ph name="BEGIN_LINK"/>فائروال اور اینٹی وائرس کنفیگریشنز کو چیک کیا جا رہا ہے<ph name="END_LINK"/></translation>
+<translation id="2032962459168915086"><ph name="BEGIN_LINK"/>پراکسی اور فائروال کو چیک کیا جا رہا ہے<ph name="END_LINK"/></translation>
+<translation id="5070335125961472645"><ph name="BEGIN_LINK"/>پراکسی پتہ چیک کیا جا رہا ہے<ph name="END_LINK"/></translation>
+<translation id="4506599922270137252">سسٹم ایڈمن سے رابطہ کیا جا رہا ہے</translation>
+<translation id="1734878702283171397">سسٹم ایڈمن سے رابطہ کرنے کی کوشش کریں۔</translation>
+<translation id="7451311239929941790">اس مسئلے کے بارے میں<ph name="BEGIN_LINK"/>مزید جانیں <ph name="END_LINK"/></translation>
+<translation id="721197778055552897">اس مسئلے کے بارے میں<ph name="BEGIN_LINK"/>مزید جانیں <ph name="END_LINK"/></translation>
+<translation id="129863573139666797"><ph name="BEGIN_LINK"/>اپنی کوکیز کو صاف کرنے کی کوشش کریں<ph name="END_LINK"/></translation>
+<translation id="8363502534493474904">ایئر پلین موڈ کو بند کرنا</translation>
+<translation id="3714780639079136834">موبائل ڈیٹا یا Wi-Fi آن ہورہا ہے</translation>
+<translation id="2515629240566999685">اپنے علاقہ میں سگنل چیک کرنا</translation>
+<translation id="4130226655945681476">نیٹ ورک کیبل، موڈیم اور راؤٹر چیک کرنا</translation>
+<translation id="1161325031994447685">Wi-Fi سے دوبارہ منسلک ہونا</translation>
+<translation id="2230458221926704099"><ph name="BEGIN_LINK"/>تشخیصات ایپ<ph name="END_LINK"/> کا استعمال کر کے اپنا کنکشن درست کریں</translation>
+<translation id="6685834062052613830">سائن آؤٹ کریں اور سیٹ اپ مکمل کریں</translation>
+<translation id="4558551763791394412">اپنی ایکسٹینشنز کو غیرفعال کر کے کوشش کریں۔</translation>
+<translation id="7090678807593890770"><ph name="LINK"/> کو Google پر تلاش کریں</translation>
+<translation id="2467694685043708798"><ph name="BEGIN_LINK"/>نیٹ ورک ڈائیگناسٹکس چلانا<ph name="END_LINK"/></translation>
+<translation id="4226937834893929579"><ph name="BEGIN_LINK"/>نیٹ ورک ڈائیگناسٹکس چلانے کی کوشش کریں<ph name="END_LINK"/>۔</translation>
+<translation id="4722547256916164131"><ph name="BEGIN_LINK"/>ونڈوز نیٹ ورک ڈائیگناسٹکس چلانا<ph name="END_LINK"/></translation>
+<translation id="1768211456781949159"><ph name="BEGIN_LINK"/>ونڈوز نیٹ ورک ڈائیگناسٹکس چلانے کی کوشش کریں<ph name="END_LINK"/>.</translation>
+<translation id="2730326759066348565"><ph name="BEGIN_LINK"/>کنیکٹویٹی ڈائیگناسٹکس چلانا<ph name="END_LINK"/></translation>
+<translation id="31207688938192855"><ph name="BEGIN_LINK"/>کنیکٹویٹی ڈائیگناسٹکس چلانے کی کوشش کریں<ph name="END_LINK"/>۔</translation>
+<translation id="7793809570500803535"><ph name="SITE"/> پر موجود ویب صفحہ ممکن ہے عارضی طور پر ڈاؤن ہو یا اسے مستقل طور پر کسی نئے ویب پتے پر منتقل کردیا گیا ہو۔</translation>
+<translation id="6060685159320643512">ہوشیار رہیں، یہ تجربات نقصاندہ ہوسکتے ہیں</translation>
+<translation id="5199729219167945352">تجربات</translation>
+<translation id="404928562651467259">تنبیہ</translation>
+<translation id="3648607100222897006">یہ تجرباتی خصوصیات کسی بھی وقت تبدیل، منقطع یا غائب ہو سکتی ہیں۔ اگر آپ ان تجربات میں کسی کو آن کرتے ہیں تو جو کچھ ہو سکتا ہے اس بارے میں ہم بالکل بھی کوئی ضمانت نہیں دیتے ہیں اور آپ کا براؤزر ہم زمانی طور پر جل سکتا ہے۔ مذاق سے قطع نظر، آپ کا براؤزر آپ کا سبھی ڈیٹا حذف کر سکتا ہے یا غیر متوقع طریقوں سے آپ کی سیکیورٹی اور رازداری سے سمجھوتہ ہو سکتا ہے۔ آپ جو بھی تجربات فعال کرتے ہیں وہ اس براؤزر کے سبھی صارفین کیلئے فعال ہوں گی۔ براہ کرم احتیاط سے آگے بڑھیں۔</translation>
+<translation id="6387478394221739770">Chrome کی پرکشش نئی خصوصیات میں دلچسپی ہے؟ chrome.com/beta پر پمارا بیٹا چینل آزمائیں۔</translation>
+<translation id="7674629440242451245">Chrome کی پرکشش نئی خصوصیات میں دلچسپی ہے؟ chrome.com/dev پر پمارا ترقیاتی چینل آزمائیں۔</translation>
+<translation id="4394049700291259645">غیر فعال</translation>
+<translation id="3435896845095436175">فعال</translation>
+<translation id="8647750283161643317">سبھی کو ڈیفالٹ پر متعین کریں</translation>
+<translation id="2282872951544483773">غیر دستیاب تجربات</translation>
+<translation id="889901481107108152">افسوس، یہ تجربہ آپ کے پلیٹ فارم پر دستیاب نہیں۔ ہے۔</translation>
+<translation id="2128531968068887769">اصل کلائنٹ</translation>
+<translation id="7179921470347911571">ابھی دوبارہ شروع کریں</translation>
+<translation id="3286538390144397061">ابھی ری اسٹارٹ کریں</translation>
+<translation id="901974403500617787">جو پرچم سسٹم پیما لاگو ہوتے ہیں انہیں صرف مالک ہی ترتیب دے سکتا ہے: <ph name="OWNER_EMAIL"/>۔</translation>
+<translation id="604124094241169006">خودکار</translation>
+<translation id="8798099450830957504">طے شدہ</translation>
+<translation id="59174027418879706">اہل شدہ</translation>
+<translation id="4176463684765177261">غیر فعال</translation>
+<translation id="2516305470678292029">UI کے متبادل</translation>
+<translation id="237718015863234333">UI کا کوئی متبادل دستیاب نہیں ہے</translation>
+<translation id="2905347027687583044">براہ کرم سائن ان کریں</translation>
+<translation id="5388588172257446328">صارف کا نام:</translation>
+<translation id="3693415264595406141">پاس ورڈ:</translation>
+<translation id="8286036467436129157">سائن ان کریں</translation>
+<translation id="4013794286379809233">براہ کرم سائن ان کریں</translation>
+<translation id="3950820424414687140">سائن ان کریں</translation>
+<translation id="2065985942032347596">تصدیق کی ضرورت ہے</translation>
+<translation id="2317259163369394535"><ph name="DOMAIN"/> کو ایک صارف کا نام اور پاس ورڈ مطلوب ہے۔</translation>
+<translation id="9001074447101275817">پراکسی <ph name="DOMAIN"/> کو ایک صارف کا نام اور پاس ورڈ مطلوب ہے۔</translation>
+<translation id="4381091992796011497">صارف کا نام:</translation>
+<translation id="4304224509867189079">لاگ ان</translation>
+<translation id="1232569758102978740">بلا عنوان</translation>
+<translation id="4325510092712699937">صفحہ خراب ہو گیا</translation>
+<translation id="3638100076508518786">بدقسمتی سے، کسی وجہ سے یہ صفحہ چھوٹ گیا۔ ممکن ہے یہ کسی ایکسٹینشن کا تضاد یا کوئی اور وجہ ہو۔</translation>
+<translation id="7283651035050528610">جاری رکھنے کے لیے صفحہ دوبارہ لوڈ کرنے یا دوسرا صفحہ لوڈ کرنے کی کوشش کریں۔</translation>
+<translation id="1713401550786096559">اس خرابی کے بارے میں مزید</translation>
+<translation id="7221869452894271364">یہ صفحہ دوبارہ لوڈ کریں</translation>
+<translation id="8053390638574070785">یہ صفحہ دوبارہ لوڈ کریں</translation>
+<translation id="3037605927509011580">اوہ، اسنیپ!</translation>
+<translation id="1583429793053364125">یہ ویب صفحہ ڈسپلے کرتے وقت کچھ غلط ہو گیا۔</translation>
+<translation id="2900469785430194048">اس ویب صفحہ کو ڈسپلے کرنے کی کوشش میں Google Chrome کی میموری ختم ہو گئی ہے۔</translation>
+<translation id="6389758589412724634">اس ویب صفحہ کو ڈسپلے کرنے کی کوشش میں Chromium کی میموری ختم ہو گئی ہے۔</translation>
+<translation id="3655670868607891010">اگر یہ آپ کو بار بار ںظر آتا ہے تو، براہ کرم یہ <ph name="HELP_LINK"/> آزمائیں۔</translation>
+<translation id="1374468813861204354">تجاویز</translation>
+<translation id="7554791636758816595">نیا ٹیب</translation>
+<translation id="8728672262656704056">آپ پوشیدہ ہو گئے ہیں</translation>
+<translation id="3167968892399408617">پوشیدگی ٹیبز میں آپ جو صفحات ملاحظہ کرتے ہیں وہ آپ کے سبھی پوشیدگی ٹیبز بند کر دینے کے بعد آپ کے براؤزر کی سرگزشت، کوکی اسٹور، یا تلاش کی سرگزشت کے آس پاس نہیں رہیں گے۔ آپ جو بھی فائلیں ڈاؤن لوڈ کرتے یا بک مارکس بناتے ہیں انہیں رکھا جائے گا۔</translation>
+<translation id="6165508094623778733">مزید جانیں</translation>
+<translation id="785549533363645510">تاہم، آپ غیر مرئی نہیں ہیں۔ پوشیدہ ہو جانا آپ کی براؤزنگ کو آپ کے آجر، انٹرنیٹ خدمت فراہم کنندہ، یا آپ کی زیر ملاحظہ ویب سائٹ سے نہیں چھپاتا ہے۔</translation>
+<translation id="2079545284768500474">کالعدم کریں</translation>
+<translation id="2597378329261239068">یہ دستاویز پاس ورڈ سے محفوظ ہے۔ براہ کرم ایک پاس ورڈ درج کریں۔</translation>
+<translation id="2653659639078652383">جمع کریں</translation>
+<translation id="5045550434625856497">غلط پاس ورڈ</translation>
+<translation id="370665806235115550">لوڈ کر رہا ہے...</translation>
+<translation id="3934680773876859118">PDF دستاویز لوڈ کرنے میں ناکام</translation>
+<translation id="8820817407110198400">بک مارکس</translation>
+<translation id="1032854598605920125">گھڑی کی سمت میں گھمائیں</translation>
+<translation id="7514365320538308">ڈاؤن لوڈ کریں</translation>
+<translation id="1430915738399379752">پرنٹ کریں</translation>
+<translation id="4816492930507672669">صفحہ میں فٹ کریں</translation>
+<translation id="1080116354587839789">چوڑائی میں فٹ کریں</translation>
+<translation id="8903921497873541725">زوم ان کریں</translation>
+<translation id="5975083100439434680">زوم آؤٹ کریں</translation>
+<translation id="1753706481035618306">صفحہ نمبر</translation>
+<translation id="6016158022840135739">{COUNT, plural,
+         =1 {صفحہ 1}
+         other {صفحہ #}}</translation>
+<translation id="2941952326391522266">یہ سرور اس بات کو ثابت نہیں کر سکا کہ یہ <ph name="DOMAIN"/> ہے؛ اس کا سیکیورٹی سرٹیفکیٹ <ph name="DOMAIN2"/> سے ہے۔ یہ غلط کنفیگریشن یا آپ کے کنیکشن کو روک رہے حملہ آور کی وجہ سے ہو سکتا ہے۔</translation>
+<translation id="7761701407923456692">سرور کا سرٹیفیکٹ URL سے مطابقت نہیں رکھتا۔</translation>
+<translation id="1655462015569774233">{1, plural,
+     =1 {یہ سرور اس بات کو ثابت نہیں کر سکا کہ یہ <ph name="DOMAIN"/> ہے؛ اس کے سیکیورٹی سرٹیفکیٹ کی میعاد گزشتہ کل ختم ہو گئی۔ یہ غلط کنفیگریشن یا آپ کے کنکشن کو روک رہے حملہ آور کی وجہ سے ہو سکتا ہے۔ آپ کے کمپیوٹر کی گھڑی فی الحال <ph name="CURRENT_DATE"/> پر سیٹ ہے۔ کیا وہ ٹھیک نظر آتی ہے؟ اگر نہیں تو آپ کو اپنے سسٹم کی گھڑی ٹیک کرنا اور پھر صفحہ کو ریفریش کرنا چاہیے۔}
+      other {یہ سرور اس بات کو ثابت نہیں کر سکا کہ یہ <ph name="DOMAIN"/> ہے؛ اس کے سیکیورٹی سرٹیفکیٹ کی میعاد # دن پہلے ختم ہو گئی۔ یہ غلط کنفیگریشن یا آپ کے کنکشن کو روک رہے حملہ آور کی وجہ سے ہو سکتا ہے۔ آپ کے کمپیوٹر کی گھڑی فی الحال <ph name="CURRENT_DATE"/> پر سیٹ ہے؟ کیا وہ ٹھیک نظر آتی ہے؟ اگر نہیں تو آپ کو اپنے سسٹم کی گھڑی ٹیک کرنا اور پھر صفحہ کو ریفریش کرنا چاہیے۔}}</translation>
+<translation id="8971063699422889582">سرور سرٹیفکیٹ کی میعاد ختم ہوگئی ہے۔</translation>
+<translation id="1706954506755087368">{1, plural,
+     =1 {یہ سرور اس بات کو ثابت نہیں کر سکا کہ یہ <ph name="DOMAIN"/> ہے؛ اس کے سیکیورٹی سرٹیفکیٹ کی میعاد غالبا کل ختم ہو جائے گی۔ یہ غلط کنفیگریشن یا آپ کے کنکشن کو روک رہے حملہ آور کی وجہ سے ہو سکتا ہے۔
+     other {یہ سرور اس بات کو ثابت نہیں کر سکا کہ یہ <ph name="DOMAIN"/> ہے۔ اس کے سیکیورٹی سرٹیفکیٹ کی میعاد غالبا آئندہ # دنو میں ختم ہو جائے گی۔ یہ غلط کنفیگریشن یا آپ کے کنکشن کو روک رہے حملہ آور کی وجہ سے ہو سکتا ہے۔}}</translation>
+<translation id="7938958445268990899">سرور کا سرٹیفکیٹ ابھی تک درست نہیں ہے۔</translation>
+<translation id="540969355065856584">یہ سرور اس بات کو ثابت نہیں کر سکا کہ یہ <ph name="DOMAIN"/> ہے؛ اس کا سیکیورٹی سرٹیفکیٹ اس وقت درست نہیں ہے۔ یہ غلط کنفیگریشن یا آپ کے کنکشن کو روک رہے حملہ آور کی وجہ سے ہو سکتا ہے۔</translation>
+<translation id="5087286274860437796">سرور کا سرٹیفکیٹ اس وقت درست نہیں ہے۔</translation>
+<translation id="2915500479781995473">سرور اس بات کو ثابت نہیں کر سکا کہ یہ <ph name="DOMAIN"/> ہے؛ اس کے سیکیورٹی سرٹیفکیٹ کی میعاد ختم ہو گئی۔ یہ غلط کنفیگریشن یا آپ کے کنکشن کو روک رہے حملہ آور کی وجہ سے ہو سکتا ہے۔ آپ کے کمپیوٹر کی گھڑی فی الحال <ph name="CURRENT_TIME"/> پر سیٹ ہے۔ کیا وہ ٹھیک نظر آتی ہے۔ اگر نہیں تو آپ کو اپنے سسٹم کی گھڑی ٹھیک کرنا اور پھر اس صفحہ کو ریفریش کرنا چاہیے۔</translation>
+<translation id="229702904922032456">روٹ یا انٹرمیڈیٹ سرٹیفکیٹ کی میعاد ختم ہوگئی ہے۔</translation>
+<translation id="3528171143076753409">سرور کا سرٹیفکیٹ قابل اعتبار نہیں ہے۔</translation>
+<translation id="467662567472608290">یہ سرور اس بات کو ثابت نہیں کر سکا کہ یہ <ph name="DOMAIN"/> ہے؛ اس کا سیکیورٹی سرٹیفکیٹ خرابیوں پر مشتمل ہے۔ یہ غلط کنفیگریشن یا آپ کے کنکشن کو روک رہے حملہ آور کی وجہ سے ہو سکتا ہے۔</translation>
+<translation id="2491120439723279231">سرورے کے سرٹیفکیٹ میں غلطیاں ہیں۔</translation>
+<translation id="2413528052993050574">یہ سرور اس بات کو ثابت نہیں کر سکا کہ یہ <ph name="DOMAIN"/> ہے؛ ہو سکتا ہے اس کا سیکیورٹی سرٹیفکیٹ ۔کالعدم کر دیا گیا ہو۔ یہ غلط کنفیگریشن یا آپ کے کنکشن کو روک رہے حملہ آور کی وجہ سے ہو سکتا ہے۔</translation>
+<translation id="2922350208395188000">سرور کے سرٹیفکیٹ کی جانچ نہیں کی جاسکتی۔</translation>
+<translation id="884923133447025588">کالعدم کرنے والا کوئی میکنزم نہیں ملا۔</translation>
+<translation id="4377125064752653719">آپ نے <ph name="DOMAIN"/> تک پہنچنے کی کوشش کی، لیکن سرور نے جو سرٹیفکیٹ پیش کیا اسے اس کے جاری کنندہ نے کالعدم کردیا ہے۔ اس کا مطلب یہ ہے کہ سرور کی پیش کردہ حفاظتی اسناد پر بالکل بھی بھروسہ نہیں کیا جاسکتا۔ ممکن ہے آپ کسی حملہ آور سے مواصلت کررہے ہوں۔</translation>
+<translation id="2386255080630008482">سرور سرٹیفکیٹ کو کالعدم کردیا گیا ہے۔</translation>
+<translation id="9049981332609050619">آپ نے <ph name="DOMAIN"/> تک پہنچنے کی کوشش کی، لیکن سرور نے ایک غلط سرٹیفکیٹ پیش کیا۔</translation>
+<translation id="917450738466192189">سرور کا سرٹیفکیٹ غلط ہے۔</translation>
+<translation id="2171101176734966184">آپ نے <ph name="DOMAIN"/> تک پہنچنے کی کوشش کی، لیکن سرور نے ایک کمزور دستخطی الگورزم کا استعمال کرکے دستخط کردہ سرٹیفکیٹ پیش کیا۔ اس کا مطلب یہ ہے کہ سرور کی پیش کردہ حفاظتی اسناد جعلی ہوسکتی ہیں اور سرور آپ کا متوقع سرور نہیں ہوسکتا (ممکن ہے آپ کسی حملہ آور سے مواصلت کررہے ہوں)۔</translation>
+<translation id="2728127805433021124">سرور کا سرٹیفکیٹ ایک کمزور دستخطی الگورژم کا استعمال کرکے دستخط کیا گیا ہے۔</translation>
+<translation id="121201262018556460">آپ نے <ph name="DOMAIN"/> تک پہنچنے کی کوشش کی، لیکن سرور نے ایک کمزور کلید پر مشتمل سرٹیفکیٹ پیش کیا۔ کسی حملہ آور نے نجی کلید کو توڑا ہوسکتا ہے، اور سرور آپ کا متوقع سرور نہیں ہوسکتا (ممکن ہے آپ کسی حملہ آور سے مواصلت کررہے ہوں)۔</translation>
+<translation id="168841957122794586">سرور سرٹیفکیٹ ایک کمزور کرپٹوگرافک کلید پر مشتمل ہے۔</translation>
+<translation id="7567204685887185387">یہ سرور اس بات کو ثابت نہیں کر سکا کہ یہ <ph name="DOMAIN"/> ہے؛ ہو سکتا ہے اس کا سیکیورٹی سرٹیفکیٹ دھوکے سے جاری کیا گیا ہو۔ یہ غلط کنفیگریشن یا آپ کے کنکشن کو روک رہے حملہ آور کی وجہ سے ہو سکتا ہے۔</translation>
+<translation id="7592362899630581445">سرور کا سرٹیفکیٹ نام کی پابندیوں کی خلاف ورزی کرتا ہے۔</translation>
+<translation id="7050187094878475250">آپ نے <ph name="DOMAIN"/> تک پہنچنے کی کوشش کی لیکن سرور نے ایک ایسا سرٹیفکیٹ پیش کیا جس کے جواز کا وقفہ اتنا طویل ہے کہ اس پر بھروسہ نہیں کیا جا سکتا۔</translation>
+<translation id="6151417162996330722">سرور سرٹیفکیٹ کا ایک جواز کا وقفہ ہوتا ہے جو کافی طویل ہے۔</translation>
+<translation id="4771973620359291008">ایک نامعلوم غلطی پیدا ہوگئی۔</translation>
+<translation id="674375294223700098">سرور سرٹیفکیٹ کی نامعلوم غلطی۔</translation>
+<translation id="3225919329040284222">سرور نے ایک ایسا سرٹیفکیٹ پیش کیا ہے جو اس میں شامل توقعات پر پورا نہیں اترتا۔ یہ توقعات مخصوص، اعلی تحفظ والی ویب سائٹ کیلئے شامل کی گئی ہیں تاکہ آپ محفوظ رہیں۔</translation>
+<translation id="6957887021205513506">سرور کا سرٹیفکیٹ جعلی لگتا ہے۔</translation>
+<translation id="4424024547088906515">یہ سرور اس بات کو ثابت نہیں کر سکا کہ یہ <ph name="DOMAIN"/> ہے؛ اس کے سیکیورٹی سرٹیفکیٹ پر Chrome کو بھروسہ نہیں ہے۔ یہ غلط کنفیگریشن یا آپ کے کنکشن کو روک رہے حملہ آور کی وجہ سے ہو سکتا ہے۔</translation>
+<translation id="1763864636252898013">یہ سرور اس بات کو ثابت نہیں کر سکا کہ یہ <ph name="DOMAIN"/> ہے؛ اس کے سیکیورٹی سرٹیفکیٹ پر آپ کے آلے کے آپریٹنگ سسٹم کو بھروسہ نہیں ہے۔ یہ غلط کنفیگریشن آپ کے کنکشن کو روک رہے حملہ آور کی وجہ سے ہو سکتا ہے۔</translation>
+<translation id="1150979032973867961">یہ سرور اس بات کو ثابت نہیں کر سکا کہ یہ <ph name="DOMAIN"/> ہے؛ اس کے سیکیورٹی سرٹیفکیٹ پر آپ کے کمپیوٹر کے آپریٹنگ سسٹم کو بھروسہ نہیں ہے۔ یہ غلط کنفیگریشن آپ کے کنکشن کو روک رہے حملہ آور کی وجہ سے ہو سکتا ہے۔</translation>
+<translation id="5094747076828555589">یہ سرور اس بات کو ثابت نہیں کر سکا کہ یہ <ph name="DOMAIN"/> ہے؛ اس کے سیکیورٹی سرٹیفکیٹ پر Chromium کو بھروسہ نہیں ہے۔ یہ غلط کنفیگریشن یا آپ کے کنکشن کو روک رہے حملہ آور کی وجہ سے ہو سکتا ہے۔</translation>
+<translation id="7658239707568436148">منسوخ کریں</translation>
+<translation id="6040143037577758943">بند کریں</translation>
+<translation id="8730621377337864115">ہو گیا</translation>
+<translation id="6965382102122355670">او کے</translation>
+<translation id="780301667611848630">نہیں شکریہ</translation>
+<translation id="3479552764303398839">ابھی نہیں</translation>
+<translation id="1008557486741366299">ابھی نہیں</translation>
+<translation id="2896499918916051536">یہ پلگ ان تعاون یافتہ نہیں ہے۔</translation>
+<translation id="1175364870820465910">&amp;پرنٹ کریں...</translation>
+<translation id="129553762522093515">حال ہی میں بند کر دیا گیا</translation>
+<translation id="8870413625673593573">حال ہی میں بند کردہ</translation>
+<translation id="385051799172605136">واپس</translation>
+<translation id="7481312909269577407">آگے</translation>
+<translation id="2824775600643448204">پتہ اور تلاش بار</translation>
+<translation id="2495083838625180221">JSON تصریف کنندہ</translation>
+<translation id="3157931365184549694">بحال کریں</translation>
+<translation id="7634554953375732414">اس سائٹ سے آپ کا کنکش نجی نہیں ہے۔</translation>
+<translation id="5040262127954254034">رازداری</translation>
+</translationbundle>

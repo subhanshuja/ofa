@@ -1,0 +1,18 @@
+# Copyright (C) 2016 Opera Software ASA.  All rights reserved.
+#
+# This file is an original work developed by Opera Software ASA
+
+import("//build/config/opera-common.gni")
+
+source_set("suggestions") {
+  sources = [
+    "op_autocomplete_input.cc",
+    "op_autocomplete_input.h",
+    "op_suggestion_manager.cc",
+    "op_suggestion_manager.h",
+    "op_suggestion_provider.cc",
+    "op_suggestion_provider.h",
+  ]
+
+  configs += [ "$opera/mobile/mobile/build:include_config" ]
+}

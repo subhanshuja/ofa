@@ -1,0 +1,25 @@
+# Copyright (C) 2015 Opera Software ASA.  All rights reserved.
+#
+# This file is an original work developed by Opera Software ASA.
+
+source_set("opera_constants") {
+  sources = [
+    "pref_names.cc",
+    "pref_names.h",
+    "switches.cc",
+    "switches.h",
+  ]
+
+  configs += [ "../config:include_config" ]
+}
+
+source_set("chrome_constants") {
+  sources = [
+    "//chrome/common/chrome_constants.cc",
+    "//chrome/common/chrome_constants.h",
+  ]
+  deps = [
+    "//base",
+    "//chrome/common:version_header",
+  ]
+}

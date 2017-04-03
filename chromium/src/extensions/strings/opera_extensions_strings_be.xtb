@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="be">
+<translation id="4444304522807523469">Атрымаць доступ да сканераў дакумента, далучаных праз USB або лакальную сетку</translation>
+<translation id="5456409301717116725">У гэтым пашырэнні ёсць файл ключа '<ph name="KEY_PATH"/>'. Напэўна, вы не жадаеце гэтага рабіць.</translation>
+<translation id="4233778200880751280">Не ўдалося загрузіць звесткі аб старонцы '<ph name="ABOUT_PAGE"/>'.</translation>
+<translation id="657064425229075395">Не атрымалася загрузіць фонавы скрыпт '<ph name="BACKGROUND_SCRIPT"/>'.</translation>
+<translation id="1803557475693955505">Не ўдалося загрузіць фонавую старонку '<ph name="BACKGROUND_PAGE"/>'.</translation>
+<translation id="149347756975725155">Не ўдалося загрузіць значок пашырэння '<ph name="ICON"/>'.</translation>
+<translation id="3624204664103857160">Не ўдалося загрузіць старонку праграмы запуску '<ph name="PAGE"/>'.</translation>
+<translation id="388442998277590542">Не ўдалося загрузіць старонку выбару '<ph name="OPTIONS_PAGE"/>'.</translation>
+<translation id="2350172092385603347">Лакалізацыя выкарыстана, але ў маніфесце не было пазначана default_locale.</translation>
+<translation id="8602184400052594090">Файл маніфесту не чытаецца або адсутнічае.</translation>
+<translation id="2857834222104759979">Файл маніфесту нядзейны.</translation>
+<translation id="6731255991101203740">Не ўдалося стварыць дырэкторыю, каб распакаваць: '<ph name="DIRECTORY_PATH"/>'</translation>
+<translation id="2753617847762399167">Няправільны шлях (абсалютны або адносны з '..'): '<ph name="IMAGE_PATH"/>'</translation>
+<translation id="2159915644201199628">Нельга дэкадаваць малюнак: '<ph name="IMAGE_NAME"/>'</translation>
+<translation id="641087317769093025">Не атрымалася распакаваць пашырэньне</translation>
+<translation id="7257666756905341374">Чытайце дадзеныя, якія вы капіруеце і ўстаўляеце</translation>
+<translation id="3759933321830434300">Блакіраваць часткі вэб-старонак</translation>
+<translation id="5627523580512561598">пашырэнне <ph name="EXTENSION_NAME"/></translation>
+<translation id="6241530762627360640">Праглядзець інфармацыю пра прылады Bluetooth, звязаныя з вашай сістэмай, і знайсці прылады Bluetooth непадалёку.</translation>
+<translation id="9131487537093447019">Адпраўляць і прымаць паведамленні ад прылад Bluetooth.</translation>
+<translation id="5971037678316050792">Кіраваць станам адаптару і спалучэннем Bluetooth</translation>
+<translation id="2616366145935564096">Прачытайце і змяніце свае дадзеныя на <ph name="WEBSITE_1"/></translation>
+<translation id="5678955352098267522">Прачытайце свае дадзеныя на <ph name="WEBSITE_1"/></translation>
+<translation id="6698810901424468597">Прачытайце і змяніце свае дадзеныя на <ph name="WEBSITE_1"/> і <ph name="WEBSITE_2"/></translation>
+<translation id="4542520061254486227">Прачытайце свае дадзеныя на <ph name="WEBSITE_1"/> і <ph name="WEBSITE_2"/></translation>
+<translation id="6408118934673775994">Прачытайце і змяніце свае дадзеныя на <ph name="WEBSITE_1"/>, <ph name="WEBSITE_2"/> і <ph name="WEBSITE_3"/></translation>
+<translation id="7131040479572660648">Прачытайце свае дадзеныя на <ph name="WEBSITE_1"/>, <ph name="WEBSITE_2"/> і <ph name="WEBSITE_3"/></translation>
+<translation id="8284279544186306258">усе сайты <ph name="WEBSITE_1"/></translation>
+<translation id="4883436287898674711">Усе сайты <ph name="WEBSITE_1"/></translation>
+<translation id="2241053333139545397">Прачытайце і змяніце свае дадзеныя на некалькіх сайтах</translation>
+<translation id="344630545793878684">Прачытайце і змяніце свае дадзеныя на некалькіх сайтах</translation>
+<translation id="4761104368405085019">Выкарыстаўваць ваш мікрафон</translation>
+<translation id="9150045010208374699">Выкарыстоўваць вашу камеру</translation>
+<translation id="1005274289863221750">Выкарыстоўваць ваш мікрафон і камеру</translation>
+<translation id="7893008570150657497">Атрымаць доступ да фатаграфій, музыкі і іншых файлаў мультымедыя з вашага камп'ютара</translation>
+<translation id="7809034755304591547"><ph name="EXTENSION_NAME"/> (ідэнтыфікатар пашырэння "<ph name="EXTENSION_ID"/>") заблакіраваны адміністратарам.</translation>
+<translation id="7217838517480956708">Адміністратар гэтай прылады патрабуе ўсталяваць <ph name="EXTENSION_NAME"/>. Яго нельга выдаліць або змяніць.</translation>
+<translation id="5972529113578162692">Адміністратар гэтай прылады патрабуе ўсталяваць <ph name="EXTENSION_NAME"/>. Яго нельга выдаліць.</translation>
+<translation id="4115165561519362854">Адміністратар гэтай прылады патрабуе, каб <ph name="EXTENSION_NAME"/> быў як мінімум версіі <ph name="EXTENSION_VERSION"/>.Ён не можа быць уключаны, пакуль не будзе абноўлены да гэтай або вышэйшай версіі.</translation>
+<translation id="8662911384982557515">Змяніць хатнюю старонку на: <ph name="HOME_PAGE"/></translation>
+<translation id="6384275966486438344">Змяніць налады пошуку на: <ph name="SEARCH_HOST"/></translation>
+<translation id="7154130902455071009">Змяніць пачатковую старонку на: <ph name="START_PAGE"/></translation>
+<translation id="6344170822609224263">Атрымаць доступ да сеткавых злучэнняў</translation>
+<translation id="730515362922783851">Абменьвацца звесткамі з любой прыладай лакальнай сеткі або інтэрнэту</translation>
+<translation id="2270450558902169558">Абменьвацца звесткамі з любой прыладай дамена <ph name="DOMAIN"/></translation>
+<translation id="2270627217422354837">Абменьвацца звесткамі з любой прыладай даменаў: <ph name="DOMAINS"/></translation>
+<translation id="6075907793831890935">Абменьвацца звесткамі з прыладай пад назвай <ph name="HOSTNAME"/></translation>
+<translation id="7093866338626856921">Абменьвацца звесткамі з прыладамі пад назвай: <ph name="HOSTNAMES"/></translation>
+<translation id="3393440416772303020"><ph name="PRODUCT_NAME"/> (серыйны нумар <ph name="SERIAL_NUMBER"/>)</translation>
+<translation id="8284835137979141223"><ph name="PRODUCT_NAME"/> з <ph name="VENDOR_NAME"/></translation>
+<translation id="6580950983454333167"><ph name="PRODUCT_NAME"/> ад <ph name="VENDOR_NAME"/> (серыйны нумар <ph name="SERIAL_NUMBER"/>)</translation>
+<translation id="6068932090455285721"><ph name="PRODUCT_NAME"/> ад прадаўца <ph name="VENDOR_ID"/></translation>
+<translation id="3466070586188012397"><ph name="PRODUCT_NAME"/> ад прадаўца <ph name="VENDOR_ID"/> (серыйны нумар <ph name="SERIAL_NUMBER"/>)</translation>
+<translation id="7003844668372540529">Невядомы прадукт <ph name="PRODUCT_ID"/> ад <ph name="VENDOR_NAME"/></translation>
+<translation id="6027032947578871493">Невядомы прадукт <ph name="PRODUCT_ID"/> ад <ph name="VENDOR_NAME"/> (серыйны нумар <ph name="SERIAL_NUMBER"/>)</translation>
+<translation id="3163201441334626963">Невядомы прадукт <ph name="PRODUCT_ID"/> ад прадаўца <ph name="VENDOR_ID"/></translation>
+<translation id="3115238746683532089">Невядомы прадукт <ph name="PRODUCT_ID"/> ад прадаўца <ph name="VENDOR_ID"/> (серыйны нумар <ph name="SERIAL_NUMBER"/>)</translation>
+<translation id="616804573177634438">{0, select,
+        single {Прыкладанне "<ph name="APP_NAME"/>" запытвае доступ да адной з вашых прылад.}
+        multiple {Прыкладанне "<ph name="APP_NAME"/>" запытвае доступ да адной ці некалькіх вашых прылад.}
+        other {UNUSED}}</translation>
+<translation id="5630931906013276297">{0, select,
+       single {Выберыце прыладу HID} multiple {Выберыце прылады HID}
+       other {UNUSED}}</translation>
+<translation id="4434145631756268951">{0, select,
+       single {Выберыце прыладу USB} multiple {Выберыце прылады USB}
+       other {UNUSED}}</translation>
+<translation id="8620765578342452535">Наладзіць сеткавыя злучэнні</translation>
+<translation id="5127881134400491887">Кіраваць сеткавымі злучэннямі</translation>
+<translation id="1033780634303702874">Атрымаць доступ да паслядоўных прылад</translation>
+<translation id="2048182445208425546">Атрымаць доступ да сеткавага трафіку</translation>
+<translation id="2087653731648927289">Атрымаць доступ да любога <ph name="PRODUCT_NAME_AND_VENDOR"/> праз USB</translation>
+<translation id="7039326228527141150">Атрымаць доступ да прылад USB з <ph name="VENDOR_NAME"/></translation>
+<translation id="8749863574775030885">Атрымаць доступ да прылад USB ад невядомага прадаўца</translation>
+<translation id="1036511912703768636">Атрымаць доступ да любой з гэтых прылад USB</translation>
+<translation id="452039078290142656">невядомыя прылады з <ph name="VENDOR_NAME"/></translation>
+<translation id="3983586614702900908">прылады ад невядомага прадаўца</translation>
+<translation id="5356315618422219272">Appview: <ph name="APPVIEW_TAG_NAME"/></translation>
+<translation id="7972881773422714442">Options: <ph name="EXTENSIONOPTIONS_TAG_NAME"/></translation>
+<translation id="5960890139610307736">ExtensionView: <ph name="EXTENSIONVIEW_TAG_NAME"/></translation>
+<translation id="677806580227005219">Mimehandler: <ph name="MIMEHANDLERVIEW_TAG_NAME"/></translation>
+<translation id="5026754133087629784">Webview: <ph name="WEBVIEW_TAG_NAME"/></translation>
+<translation id="1445572445564823378">Гэта пашырэнне запавольваецца <ph name="PRODUCT_NAME"/>. Трэба адключыць яго, каб аднавіць працу <ph name="PRODUCT_NAME"/>.</translation>
+<translation id="27822970480436970">Пашырэньне не змагло зьмяніць сеткавы запыт, бо зьмена супярэчыла іншаму пашырэньню.</translation>
+<translation id="8670869118777164560">Гэтаму пашырэнню не ўдалося перанакіраваць сеткавы запыт да <ph name="ATTEMPTED_REDIRECT_DESTINATION"/>, таму што іншае пашырэнне (<ph name="EXTENSION_NAME"/>) перанакіравала яго да <ph name="ACTUAL_REDIRECT_DESTINATION"/>.</translation>
+<translation id="8825366169884721447">Гэтаму пашырэнню не ўдалося змяніць загаловак запыту "<ph name="HEADER_NAME"/>" сеткавага запыту, таму што змяненне супярэчыла іншаму пашырэнню (<ph name="EXTENSION_NAME"/>).</translation>
+<translation id="9111791539553342076">Гэтаму пашырэнню не ўдалося змяніць загаловак адказу "<ph name="HEADER_NAME"/>" сеткавага запыту, таму што змяненне супярэчыла іншаму пашырэнню (<ph name="EXTENSION_NAME"/>).</translation>
+<translation id="8341840687457896278">Гэтаму пашырэнню не ўдалося даць звесткі доступу ў адказ на запыт сеткі, таму што іншае пашырэнне (<ph name="EXTENSION_NAME"/>) дало іншыя звесткі доступу.</translation>
+<translation id="8047248493720652249">Гэтаму пашырэнню не ўдалося назваць спампоўванне "<ph name="ATTEMPTED_FILENAME"/>", таму што іншае пашырэнне (<ph name="EXTENSION_NAME"/>) вызначыла іншае імя файла "<ph name="ACTUAL_FILENAME"/>".</translation>
+<translation id="6840444547062817500">Гэта пашырэнне перазагружае сябе занадта часта.</translation>
+<translation id="288042212351694283">Атрымайце доступ да прылад U2F</translation>
+<translation id="8804398419035066391">Камунікаваць з вэб-сайтамі, якія супрацоўнічаюць</translation>
+<translation id="4811956658694082538">Не ўдалося ўсталяваць пакет з-за збою працэса. Паспрабуйце перазапусціць Opera і паўтарыць спробу.</translation>
+<translation id="1135328998467923690">Пакет нядзейны: '<ph name="ERROR_CODE"/>'.</translation>
+<translation id="8636666366616799973">Пакет нядзейны. Падрабязнасці: '<ph name="ERROR_MESSAGE"/>'.</translation>
+<translation id="2988488679308982380">Не ўдалося ўсталяваць пакет: '<ph name="ERROR_CODE"/>'</translation>
+<translation id="3369521687965833290">Нельга распакаваць пашырэнне. Каб распакаваць яго бяспечна, патрэбен шлях да дырэкторыі вашага профілю, які пачынаецца з літары дыску і не ўтрымлівае пераход, пункт далучэння або сімвальную спасылку. Для вашага профілю такога шляху няма.</translation>
+<translation id="6143635259298204954">Нельга распакаваць пашырэнне. Каб распакаваць яго бяспечна, патрэбен шлях да дырэкторыі вашага профілю, які не ўтрымлівае сімвальную спасылку. Для вашага профілю такога шляху няма.</translation>
+<translation id="8712265948125780616">Распакоўшчык пашырэння</translation>
+<translation id="1256619696651732561">Сродак сінтаксічнага аналізу маніфесту пашырэння</translation>
+</translationbundle>

@@ -1,0 +1,34 @@
+# Copyright (C) 2015 Opera Software ASA.  All rights reserved.
+#
+# This file is an original work developed by Opera Software ASA.
+
+import("//testing/test.gni")
+
+source_set("ini_parser") {
+  deps = [
+    "//base",
+  ]
+
+  sources = [
+    "ini_parser.cc",
+    "ini_parser.h",
+  ]
+
+  configs += [ "../config:include_config" ]
+}
+
+test("ini_parser_unittests") {
+  sources = [
+    "ini_parser_test.cc",
+  ]
+
+  configs += [ "../config:include_config" ]
+
+  deps = [
+    ":ini_parser",
+    "//base/allocator",
+    "//base/test:run_all_unittests",
+    "//testing/gmock",
+    "//testing/gtest",
+  ]
+}

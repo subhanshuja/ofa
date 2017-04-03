@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="id">
+<translation id="1974060860693918893">Lebih lanjut</translation>
+<translation id="3462200631372590220">Sembunyikan lebih lanjut</translation>
+<translation id="3369192424181595722">Jam error</translation>
+<translation id="2625385379895617796">Jam Anda terlalu cepat</translation>
+<translation id="8932102934695377596">Jam Anda terlalu lambat</translation>
+<translation id="3858027520442213535">Perbarui tanggal dan waktu</translation>
+<translation id="725866823122871198">Koneksi privat ke <ph name="BEGIN_BOLD"/><ph name="DOMAIN"/><ph name="END_BOLD"/> tidak bisa dilakukan karena tanggal dan jam di sistem (<ph name="DATE_AND_TIME"/>) tidak akurat.</translation>
+<translation id="4879058462256654741">Untuk melakukan koneksi aman, jam Anda harus akurat. Hal ini karena sertifikat yang digunakan oleh website untuk mengidentifikasi hanya berlaku untuk periode waktu tertentu. Karena jam di perangkat Anda tidak akurat, sertifikat tidak bisa melakukan verifikasi.</translation>
+<translation id="1413809658975081374">Privasi error</translation>
+<translation id="3566021033012934673">Koneksi Anda tidak privat</translation>
+<translation id="340013220407300675">Penyerang bisa jadi sedang mencoba mencuri informasi Anda dari <ph name="BEGIN_BOLD"/><ph name="SITE"/><ph name="END_BOLD"/> (misalnya kata sandi, pesan, atau data kartu kredit).</translation>
+<translation id="629137324635910832"><ph name="SITE"/> biasanya menggunakan enkripsi untuk melindungi informasi Anda.. Saat Opera mencoba tersambung ke <ph name="SITE"/> kali ini, website mengirimkan kembali informasi yang salah dan tidak biasanya. Hal ini biasa terjadi saat penyerang sedang berpura-pura menjadi <ph name="SITE"/> atau Anda harus login ke Wi-Fi terlebih dahulu. Informasi Anda tetap aman karena Opera menghentikan koneksi saat belum ada data yang ditukar.</translation>
+<translation id="4404555778932203074">Anda tidak bisa mengunjungi <ph name="SITE"/> saat ini karena website mengirimkan informasi sensitif yang diacak dan tidak bisa diproses Opera. Masalah pada jaringan atau serangan biasanya hanya sementara, sehingga seharusnya akan bisa diakses nanti.</translation>
+<translation id="8882627153668738693"><ph name="SITE"/> biasanya menggunakan enkripsi untuk melindungi informasi Anda.. Saat Avast SafeZone mencoba tersambung ke <ph name="SITE"/> kali ini, website mengirimkan kembali informasi yang salah dan tidak biasanya. Hal ini biasa terjadi saat penyerang sedang berpura-pura menjadi <ph name="SITE"/> atau Anda harus login ke Wi-Fi terlebih dahulu. Informasi Anda tetap aman karena Avast SafeZone menghentikan koneksi saat belum ada data yang ditukar.</translation>
+<translation id="1888865191717601957">Anda tidak bisa mengunjungi <ph name="SITE"/> saat ini karena website mengirimkan informasi sensitif yang diacak dan tidak bisa diproses SafeZone Avast. Masalah pada jaringan atau serangan biasanya hanya sementara, sehingga seharusnya akan bisa diakses nanti.</translation>
+<translation id="6264485186158353794">Mundur demi keamanan</translation>
+<translation id="7704050614460855821"><ph name="BEGIN_LINK"/>Lanjut ke <ph name="SITE"/> (tidak aman)<ph name="END_LINK"/></translation>
+<translation id="5556459405103347317">Muat Ulang</translation>
+<translation id="6051221802930200923">Anda tidak bisa mengunjungi <ph name="SITE"/> saat ini karena halaman web menggunakan "certificate pinning". Masalah pada jaringan atau serangan biasanya hanya sementara, sehingga seharusnya akan bisa diakses nanti.</translation>
+<translation id="2991571918955627853">Anda tidak bisa mengunjungi <ph name="SITE"/> saat ini karena halaman web menggunakan HSTS. Masalah pada jaringan atau serangan biasanya hanya sementara, sehingga seharusnya akan bisa diakses nanti.</translation>
+<translation id="1430489501396597835">Anda tidak bisa mengunjungi <ph name="SITE"/> saat ini karena sertifikat telah dicabut. Masalah pada jaringan atau serangan biasanya hanya sementara, sehingga seharusnya akan bisa diakses nanti.</translation>
+<translation id="4513896196857653318">Buka
+         Menu utama &gt;
+          <ph name="SETTINGS_TITLE"/>
+          &gt;
+          <ph name="ADVANCED_TITLE"/>
+         dan hapus pilihan "<ph name="NO_PREFETCH_DESCRIPTION"/>."
+          Jika hal ini tidak menyelesaikan masalah, kami menganjurkan untuk memilih opsi ini
+          lagi untuk meningkatkan performa.</translation>
+<translation id="8888594059056485523">Ijinkan Opera untuk mengakses jaringan di dalam firewall atau seting antivirus Anda.</translation>
+<translation id="8040357206858000048">Buka Aplikasi &gt; Preferensi Sistem &gt; Jaringan &gt; Lebih Lanjut &gt; Proksi dan hapus pilihan pada proksi yang telah dipilih.</translation>
+<translation id="1532685482177999023">Buka Menu utama &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; Pengaturan LAN dan hapus pilihan "Gunakan server proksi untuk LAN".</translation>
+<translation id="6118049677165320383">Perubahan yang Anda buat akan berfungsi setelah Anda membuka kembali browser.</translation>
+<translation id="5510583790312051907">Pelaporan kerusakan tidak tersedia.</translation>
+<translation id="1011013207380005827">Dimungkinkan oleh proyek kode terbuka <ph name="BEGIN_LINK_CHROMIUM"/>Chromium<ph name="END_LINK_CHROMIUM"/> dan <ph name="BEGIN_LINK_OSS"/>perangkat lunak kode terbuka<ph name="END_LINK_OSS"/> lainnya.</translation>
+<translation id="3108493547597012279">Anda sedang menampilkan halaman aman.</translation>
+<translation id="8530361534096361731">Opera tidak ditutup dengan benar.</translation>
+</translationbundle>

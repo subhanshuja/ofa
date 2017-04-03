@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="de">
+<translation id="3942946088478181888">Weitere Erklärungen</translation>
+<translation id="1396529432791646744">Stellen Sie eine Verbindung zu einer sicheren Website her, liefert der Hostingserver dieser Website Ihrem Browser ein sogenanntes »Zertifikat« aus, um seine Identität zu bestätigen. Dieses Zertifikat enthält Identitätsinformationen, wie z. B. die Adresse der Website, die von einem Drittanbieter, dem Ihr Mobilgerät vertraut, bestätigt werden. Indem überprüft wird, ob die Adresse im Zertifikat der Adresse der Website entspricht, ist es möglich zu bestätigen, dass Sie sicher mit der gewünschten Website kommunizieren, und nicht mit einem Dritten (z. B. einem Angreifer in Ihrem Netzwerk).</translation>
+<translation id="6295228342562451544">Stellen Sie eine Verbindung zu einer sicheren Website her, liefert der Hostingserver dieser Website Ihrem Browser ein sogenanntes »Zertifikat« aus, um seine Identität zu bestätigen. Dieses Zertifikat enthält Identitätsinformationen, wie z. B. die Adresse der Website, die von einem Drittanbieter, dem Ihr Computer vertraut, bestätigt werden. Indem überprüft wird, ob die Adresse im Zertifikat der Adresse der Website entspricht, ist es möglich zu bestätigen, dass Sie sicher mit der gewünschten Website kommunizieren, und nicht mit einem Dritten (z. B. einem Angreifer in Ihrem Netzwerk).</translation>
+<translation id="8187473050234053012">Das Sicherheitszertifikat des Servers wurde widerrufen!</translation>
+<translation id="5598024575303778520">Betrugsversuch-Warnung</translation>
+<translation id="7311721172731074902">Betrugsversuch-Warnung</translation>
+<translation id="1858130628205855959">Diese Seite wurde möglicherweise gehackt oder ist betrügerisch. Die Eingabe von Passwörtern oder personenbezogenen Daten birgt das Risiko eines Identitätsdiebstahls oder Finanzbetrugs.</translation>
+<translation id="8357891144266644027">Warnung vor einer bösartigen Site</translation>
+<translation id="4664012235452972339">Warnung vor einer bösartigen Site</translation>
+<translation id="1030973920598092450">Diese Seite wurde möglicherweise gehackt oder enthält Schadsoftware. Ein Besuch dieser Seite kann gefährlich sein.</translation>
+<translation id="4863259811271883558">Bericht von <ph name="BEGIN_LINK"/><ph name="PROVIDER_NAME"/><ph name="END_LINK"/></translation>
+<translation id="3141322567138977593">Sicher zurückgehen</translation>
+<translation id="833642844779103272">Sicher zurückgehen</translation>
+<translation id="4238466718818823211">Diese Warnung ignorieren</translation>
+<translation id="1755698976576372535">Warum wurde diese Seite blockiert?</translation>
+<translation id="2962647877740028287">Unsere Betrugsberichte werden von Drittanbietern erstellt.</translation>
+<translation id="7470668651798735849">Hier sehen Sie alle Ihre Benachrichtigungen von Websites.</translation>
+<translation id="6426222199977479699">SSL-Fehler</translation>
+<translation id="8398877366907290961">Trotzdem fortfahren</translation>
+<translation id="6264485186158353794">Zurück zu sicherer Seite</translation>
+<translation id="2225024820658613551">Sie sollten nicht fortfahren, &lt;strong&gt;insbesondere&lt;/strong&gt; dann nicht, wenn Sie diese Warnung vorher für diese Seite noch nie gesehen haben.</translation>
+<translation id="5645845270586517071">Sicherheitsfehler</translation>
+<translation id="1103666958012677467">Sie können nicht fortfahren, da der Webseitenbetreiber erhöhte Sicherheit für diese Domain angefordert hat.</translation>
+<translation id="5463275305984126951">Index von <ph name="LOCATION"/></translation>
+<translation id="8877448029301136595">[übergeordnetes Verzeichnis]</translation>
+<translation id="3835522725882634757">Oje! Dieser Server sendet Daten, die <ph name="PRODUCT_NAME"/> nicht versteht. Bitte erstellen Sie einen <ph name="BEGIN_LINK"/>Fehlerbericht<ph name="END_LINK"/> und fügen Sie die <ph name="BEGIN2_LINK"/>Rohauflistung<ph name="END2_LINK"/> an.</translation>
+<translation id="5327248766486351172">Name</translation>
+<translation id="8028993641010258682">Größe</translation>
+<translation id="57646104491463491">Änderungsdatum</translation>
+<translation id="8465929756435120446">Diese Seite enthält einige nicht sichere Inhalte.</translation>
+<translation id="6827416153061837992">Diese Verbindung ist unverschlüsselt.</translation>
+<translation id="9193357432624119544">Fehlercode: <ph name="ERROR_NAME"/></translation>
+<translation id="4910619056351738551">Hier sind einige Vorschläge:</translation>
+<translation id="2954705784594331199"><ph name="BEGIN_LINK"/>Laden<ph name="END_LINK"/> Sie diese Webseite später neu.</translation>
+<translation id="4977565600485911823">Deaktivieren Sie Ihre Erweiterungen, und <ph name="BEGIN_LINK"/>laden<ph name="END_LINK"/> Sie diese Webseite dann erneut.</translation>
+<translation id="1103966635949043187">Rufen Sie die Startseite der Website auf:</translation>
+<translation id="7747589364844254751">Überprüfen Sie Ihre Internetverbindung. Starten Sie alle von Ihnen verwendeten Netzwerkgeräte, wie Router, Modem usw., neu.</translation>
+<translation id="5548623538190661145">Überprüfen Sie Ihre DNS-Einstellungen. Fragen Sie Ihren Netzwerkadministrator, wenn Sie nicht sicher sind, was dies bedeutet.</translation>
+<translation id="4545046228395991092">Verwenden Sie einen Proxyserver, überprüfen Sie Ihre Proxyserver-Einstellungen oder fragen Sie Ihren Netzwerkadministrator, um sicherzustellen, dass der Proxyserver funktioniert.</translation>
+<translation id="1712673276482711826">Wenn Sie einen Proxyserver verwenden, überprüfen Sie Ihre Proxyserver-Einstellungen oder fragen Sie Ihren Netzwerkadministrator, ob der Proxyserver funktioniert. Wenn Sie keinen Proxyserver verwenden wollen, dann ändern Sie Ihre Proxyserver-Einstellungen: <ph name="PLATFORM_TEXT"/></translation>
+<translation id="721197778055552897"><ph name="BEGIN_LINK"/>Weitere Informationen<ph name="END_LINK"/> zu diesem Problem.</translation>
+<translation id="8235325155053717782">Fehler <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="3986287159189541211">HTTP-Fehler <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="3225919329040284222">Der Server hat ein Zertifikat präsentiert, das nicht den definierten Anforderungen entspricht. Diese Anforderungen werden an bestimmte Websites mit hohem Sicherheitsniveau gestellt, um Sie zu schützen.</translation>
+<translation id="6957887021205513506">Das Zertifikat des Servers scheint eine Fälschung zu sein.</translation>
+<translation id="6429639049555216915">Die App ist derzeit nicht erreichbar.</translation>
+<translation id="9127307628159259612">Fügen Sie <ph name="PRODUCT_NAME"/> in den Einstellungen Ihrer Firewall oder Ihres Antivirenprogramms als zulässiges Programm hinzu. Ist dieses bereits als zulässiges Programm eingetragen, löschen Sie den Eintrag von der Liste der zulässigen Programme und fügen Sie es erneut hinzu.</translation>
+<translation id="4544369257849566741">Für den sicheren Handshake fehlt die Erweiterung für die SSL-Neuverhandlung. Für einige Websites, die bekanntermaßen diese Erweiterung unterstützen, benötigt <ph name="PRODUCT_NAME"/> einen noch sichereren Handshake, um eine Klasse von bekannten Angriffen zu verhindern. Das Fehlen dieser Erweiterung deutet darauf hin, dass Ihre Verbindung unterwegs abgefangen und manipuliert wurde.</translation>
+<translation id="8162734958263531433">Um USB-Debugging zu verwenden, benötigen Sie das Android SDK und aktiviertes USB-Debugging auf Ihrem Android-Gerät. Weitere Informationen finden Sie unter <ph name="HTML_HELPURL"/>.</translation>
+<translation id="1875071432292773474">Geben Sie die Adresse <ph name="ACCESS_POINT"/> in Ihrem Desktop-Browser ein. Der Desktop-Browser muss sich im selben Netzwerk wie das Android-Gerät befinden.</translation>
+<translation id="7227425938337339799">Damit UPnP funktioniert, müssen Sie sich entweder im selben Subnetz befinden oder den Router als Brücke für die Weiterleitung von Sendungen zwischen Subnetzen eingerichtet haben.</translation>
+<translation id="4553629908098215669">Führen Sie auf Ihrem Computer <ph name="HTMLADBCOMMAND"/> aus, und navigieren Sie mit einem Chromium-basierten Browser zu <ph name="HTMLLOCALHOSTURL"/>.</translation>
+<translation id="4570032796877367747">Frontkamera</translation>
+<translation id="2599796128805996109">Rückkamera</translation>
+<translation id="2124507516322945394">Standardmikrofon</translation>
+<translation id="1587215898571986504">Freisprechtelefon</translation>
+<translation id="5614598979078259956">Headset mit Kabel</translation>
+<translation id="9031226374756103225">Headset-Kopfhörer</translation>
+<translation id="149679617917926491">Bluetooth-Headset</translation>
+<translation id="6060685159320643512">Vorsicht, diese Experimente können unerwünschte Nebenwirkungen haben</translation>
+<translation id="5199729219167945352">Experimente</translation>
+<translation id="533563709691128800">Deaktiviert</translation>
+<translation id="2506903884491778518">Experimente suchen</translation>
+<translation id="1138663153846032155">HTML den Vorzug vor Flash geben</translation>
+<translation id="2081453640527377956">HTML-Inhalten den Vorzug geben, indem Flash in der Liste der Plug-ins ausgeblendet wird.</translation>
+<translation id="5998167623928667649">Alle Flash-Inhalte ausführen, wenn Flash-Einstellung auf „Zulassen“ lautet</translation>
+<translation id="5138177765054221193">Bei Websites, für die Flash-Inhalte zugelassen wurden, werden alle Inhalte, auch unwichtige, ausgeführt.</translation>
+<translation id="2112624549618815628">Standard (aktiviert)</translation>
+<translation id="3696363537446376816">Standard (deaktiviert)</translation>
+<translation id="5773249585542913314">MIDI-API für Windows-Runtime</translation>
+<translation id="7122132768827815392">Verwenden Sie die MIDI-API der Windows-Runtime für WebMIDI (wirksam nur bei Windows 10 oder höher).</translation>
+<translation id="1375198122581997741">Über diese Version</translation>
+<translation id="7248671827512403053">Anwendung</translation>
+<translation id="1710259589646384581">Betriebssystem</translation>
+<translation id="6897140037006041989">User Agent</translation>
+<translation id="7353601530677266744">Befehlszeile</translation>
+<translation id="7225807090967870017">Build-ID</translation>
+</translationbundle>

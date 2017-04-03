@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="sv">
+<translation id="1974060860693918893">Avancerade</translation>
+<translation id="3462200631372590220">Dölj avancerade</translation>
+<translation id="3369192424181595722">Klockfel</translation>
+<translation id="2625385379895617796">Din klocka ligger före</translation>
+<translation id="8932102934695377596">Din klocka ligger efter</translation>
+<translation id="3858027520442213535">Uppdatera datum och tid</translation>
+<translation id="725866823122871198">En privat förbindelse till <ph name="BEGIN_BOLD"/><ph name="DOMAIN"/><ph name="END_BOLD"/> kan inte upprättas eftersom din dators datum och tid (<ph name="DATE_AND_TIME"/>) inte stämmer.</translation>
+<translation id="4879058462256654741">För att upprätta en säker förbindelse måste din klocka ställas in på rätt sätt. Detta eftersom certifikat som webbplatser använder för att identifiera sig endast gäller för specifika tidsperioder. Eftersom din enhets klocka är fel kan dessa certifikat inte verifieras.</translation>
+<translation id="1413809658975081374">Sekretessfel</translation>
+<translation id="3566021033012934673">Din anslutning är inte privat</translation>
+<translation id="340013220407300675">Angripare kan försöka stjäla din information från <ph name="BEGIN_BOLD"/><ph name="SITE"/><ph name="END_BOLD"/> (till exempel lösenord, meddelanden eller kreditkort).</translation>
+<translation id="629137324635910832"><ph name="SITE"/> använder normalt kryptering för att skydda din information. När Opera försökte ansluta till <ph name="SITE"/> den här gången skickade webbplatsen tillbaka ovanliga och felaktiga autentiseringsuppgifter. Detta kan hända när en angripare utger sig för att vara <ph name="SITE"/> eller ett Wi-Fi-inloggningsfönster har avbrutit förbindelsen. Din information är fortfarande säker eftersom Opera stoppade förbindelsen innan någon data utbyttes.</translation>
+<translation id="4404555778932203074">Du kan inte gå till <ph name="SITE"/> just nu eftersom webbplatsen skickade krypterade autentiseringsuppgifter som Opera inte kan bearbeta. Nätverksfel och attacker är normalt övergående, så den här sidan kommer förmodligen att fungera igen senare.</translation>
+<translation id="8882627153668738693"><ph name="SITE"/> använder normalt kryptering för att skydda din information. När Avast SafeZone försökte ansluta till <ph name="SITE"/> den här gången skickade webbplatsen tillbaka ovanliga och felaktiga autentiseringsuppgifter. Detta kan hända när en angripare utger sig för att vara <ph name="SITE"/> eller ett Wi-Fi-inloggningsfönster har avbrutit förbindelsen. Din information är fortfarande säker eftersom Avast SafeZone stoppade förbindelsen innan någon data utbyttes.</translation>
+<translation id="1888865191717601957">Du kan inte gå till <ph name="SITE"/> just nu eftersom webbplatsen skickade krypterade autentiseringsuppgifter som Avast SafeZone inte kan bearbeta. Nätverksfel och attacker är normalt övergående, så den här sidan kommer förmodligen att fungera igen senare.</translation>
+<translation id="6264485186158353794">Tillbaka till säkerheten</translation>
+<translation id="7704050614460855821"><ph name="BEGIN_LINK"/>Fortsätt till <ph name="SITE"/> (osäker)<ph name="END_LINK"/></translation>
+<translation id="5556459405103347317">Hämta om</translation>
+<translation id="6051221802930200923">Du kan inte gå till <ph name="SITE"/> just nu eftersom webbplatsen använder certificate pinning. Nätverksfel och attacker är normalt övergående, så den här sidan kommer förmodligen att fungera igen senare.</translation>
+<translation id="2991571918955627853">Du kan inte gå till <ph name="SITE"/> just nu eftersom webbplatsen använder HSTS. Nätverksfel och attacker är normalt övergående, så den här sidan kommer förmodligen att fungera igen senare.</translation>
+<translation id="1430489501396597835">Du kan inte gå till <ph name="SITE"/> just nu eftersom det här certifikatet har återkallats. Nätverksfel och attacker är normalt övergående, så den här sidan kommer förmodligen att fungera igen senare.</translation>
+<translation id="4513896196857653318">Gå till
+          huvudmenyn &gt;
+          <ph name="SETTINGS_TITLE"/>
+          &gt;
+          <ph name="ADVANCED_TITLE"/>
+          och avmarkera "<ph name="NO_PREFETCH_DESCRIPTION"/>."
+          Om detta inte löser problemet rekommenderar vi att välja detta alternativ
+          igen för bättre prestanda.</translation>
+<translation id="8888594059056485523">Tillåt att Opera får tillgång till nätverket i dina inställningar för brandvägg och antivirus.</translation>
+<translation id="8040357206858000048">Gå till Program &gt; Systeminställningar &gt; Nätverk &gt; Avancerat &gt; Proxyservrar och avmarkera de servrar som markerats.</translation>
+<translation id="1532685482177999023">Gå till huvudmenyn &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; LAN-inställningar och avmarkera "Använd en proxyserver för ditt lokala nätverk".</translation>
+<translation id="6118049677165320383">Ändringarna börjar gälla nästa gång du startar om webbläsaren.</translation>
+<translation id="5510583790312051907">Kraschrapportering är inte tillgänglig.</translation>
+<translation id="1011013207380005827">Opera finns till tack vare <ph name="BEGIN_LINK_CHROMIUM"/>Chromium<ph name="END_LINK_CHROMIUM"/>-projektet med öppen källkod och annan <ph name="BEGIN_LINK_OSS"/>programvara med öppen källkod<ph name="END_LINK_OSS"/>.</translation>
+<translation id="3108493547597012279">Du läser en säker sida.</translation>
+<translation id="8530361534096361731">Opera stängdes inte av på rätt sätt.</translation>
+</translationbundle>

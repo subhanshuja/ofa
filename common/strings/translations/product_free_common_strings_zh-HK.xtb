@@ -1,0 +1,284 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="zh-HK">
+<translation id="2978824962390592855">Opera</translation>
+<translation id="3942946088478181888">說明</translation>
+<translation id="1396529432791646744">當您連接到安全的網站，寄存網站的伺服器會向您的瀏覽器展示「憑證」來驗證瀏覽器身份。這個憑證包括身份資料，例如經過您流動裝置信任的第三方驗證並獲得許可的網站地址。我們可以檢查憑證地址是否與網站地址相符，從而確認您在安全的情況下與想要的網站通訊，而不是與第三方通訊 (例如您網絡上的攻擊者)。</translation>
+<translation id="6295228342562451544">當您連接到安全的網站，寄存網站的伺服器會向您的瀏覽器展示「憑證」來驗證瀏覽器身份。這個憑證包括身份資料，例如經過您電腦流動裝置信任的第三方驗證並獲得許可的網站地址。我們可以檢查憑證地址是否與網站地址相符，從而確認您在安全的情況下與想要的網站通訊，而不是與第三方通訊 (例如您網絡上的攻擊者)。</translation>
+<translation id="7073704676847768330">這應該不是您想要的網站！</translation>
+<translation id="2941952326391522266">此伺服器無法證明其是 <ph name="DOMAIN"/>; 其安全性憑證來自 <ph name="DOMAIN2"/>。這可能是由於設定錯誤或黑客竊用您的連線所致。</translation>
+<translation id="7761701407923456692">伺服器憑證與 URL 不符。</translation>
+<translation id="3581034179710640788">網站的安全憑證已過期！</translation>
+<translation id="436701661737309601">對於過期的憑證，憑證簽發者有責任維護「憑證撤銷清單」。如果憑證被盜用，簽發者可以將憑證加入憑證撤銷清單來撤銷，這樣您的瀏覽器將不會再信任此憑證。不過簽發者無需維護已過期憑證的撤銷狀態，因此，即使此憑證曾經對您瀏覽中的網站有效，這時也無法判斷憑證是否被盜用繼而被撤銷，還是憑證仍然處於安全狀態。這樣，系統就無法分辨您現在是否與合法網站通訊，或者無法分辨憑證是否被盜用，並由與您通訊的攻擊者管有。</translation>
+<translation id="8971063699422889582">伺服器的憑證已過期。</translation>
+<translation id="1618661679583408047">伺服器的安全憑證尚未生效！</translation>
+<translation id="825608351287166772">憑證具有有效時期，就好像您可能擁有的任何身份證明文件 (例如護照) 一樣。向您瀏覽器展示的憑證尚未生效。當憑證在有效期外，某些有關憑證狀態的資料 (不管憑證是否被撤銷並不再得到信任) 就不再需要維護。這樣，系統就無法驗證憑證的可信性，而您不應該繼續進行。</translation>
+<translation id="7938958445268990899">伺服器的憑證尚未生效。</translation>
+<translation id="2915500479781995473">此伺服器無法證明其是 <ph name="DOMAIN"/>; 其安全性憑證已經過期。這可能是由於設定錯誤或黑客竊用您的連線所致。 您電腦的時鐘目前設定為 <ph name="CURRENT_TIME"/>。這正確嗎？如果不正確，請調整系統時鐘. 然後重新整理頁面。</translation>
+<translation id="229702904922032456">根或中級憑證已過期。</translation>
+<translation id="374530189620960299">網站的安全憑證不受信任！</translation>
+<translation id="168929553803686581">在這個情況下，憑證未經您流動裝置信任的第三方驗證。任何人都可以建立憑證，聲稱自己是他們選擇的任何網站，因此所有網站都必須經過信任的第三方驗證。如果沒有驗證，憑證內的身份資料就變得沒有意義。這樣，憑證就不可以確認您正在與<ph name="DOMAIN"/> 通訊，而不是與自行產生憑證並聲稱是 <ph name="DOMAIN2"/> 的攻擊者通訊。這時候您應該停止操作。</translation>
+<translation id="6517558746015096434">不過，如果您在自行產生憑證的機構工作，而您正嘗試連接到機構內使用這種憑證的內部網站，您就可以安全解決此問題。您可以將機構的根憑證匯入為「根憑證」，然後由您機構所簽發或驗證的憑證將會受到信任，這樣當您下次嘗試連接內部網站時，就不會再看到此錯誤訊息。要將根憑證加入您的流動裝置並取得協助，請聯絡您機構內的同事。</translation>
+<translation id="2159087636560291862">在這個情況下，憑證未經您電腦信任的第三方驗證。任何人都可以建立憑證，聲稱自己是他們選擇的任何網站，因此所有網站都必須經過信任的第三方驗證。如果沒有驗證，憑證內的身份資料就變得沒有意義。這樣，憑證就不可以確認您正在與<ph name="DOMAIN"/> 通訊，而不是與自行產生憑證並聲稱是 <ph name="DOMAIN2"/> 的攻擊者通訊。這時候您應該停止操作。</translation>
+<translation id="2645575947416143543">但如果您在自行產生憑證的機構工作，而您正嘗試連接到使用這種憑證的機構內部網站，您可以安全地解決此問題。您可以將機構的根憑證匯入為「根憑證」，之後由您機構所簽發或驗證的憑證將會受到信任，而您下一次嘗試連接內部網站時不會再看到此錯誤訊息。要將根憑證加入您的電腦，請聯絡您機構的協助人員。</translation>
+<translation id="3528171143076753409">伺服器的憑證不受信任。</translation>
+<translation id="2649911884196340328">伺服器的安全憑證有錯誤！</translation>
+<translation id="8534801226027872331">在這個情況下，向您瀏覽器展示的憑證有錯誤並且不能解讀。這表示我們無法解讀憑證內的身份資料，或者無法解讀憑證內在安全連線中使用的其他資料。您應該停止操作。</translation>
+<translation id="2491120439723279231">伺服器的憑證有錯誤。</translation>
+<translation id="8318945219881683434">檢查撤銷狀態失敗。</translation>
+<translation id="9141716082071217089">無法檢查伺服器的憑證是否已撤銷。</translation>
+<translation id="2922350208395188000">無法檢查伺服器的憑證。</translation>
+<translation id="884923133447025588">找不到撤銷機制。</translation>
+<translation id="2413528052993050574">此伺服器無法證明其是 <ph name="DOMAIN"/>; 其安全性憑證可能已被撤銷。這可能是由於設定錯誤或黑客竊用您的連線所致。</translation>
+<translation id="8187473050234053012">伺服器的安全憑證已撤銷！</translation>
+<translation id="4377125064752653719">您嘗試連線到 <ph name="DOMAIN"/>，但伺服器展示的憑證已經被簽發者撤銷。這表示伺服器展示的安全認證完全不可信任。您可能正與攻擊者通訊。</translation>
+<translation id="5275799318132317934">在這個情況下，伺服器向您瀏覽器展示的憑證已被簽發者撤銷。這通常表示此憑證的完整性受損，並且不可信任。</translation>
+<translation id="2386255080630008482">已撤銷伺服器的憑證。</translation>
+<translation id="4222982218026733335">伺服器的憑證無效</translation>
+<translation id="9049981332609050619">您嘗試連線到 <ph name="DOMAIN"/>，但伺服器展示的憑證無效。</translation>
+<translation id="3776667127601582921">在這個情況下，伺服器向您瀏覽器展示的憑證或中繼 CA 憑證均屬無效。這表示憑證的格式錯誤、內裡包含無效欄位，或者不受支援。</translation>
+<translation id="917450738466192189">伺服器的憑證無效。</translation>
+<translation id="9145357542626308749">網站的安全憑證是透過效用性低的簽章演算法來簽發！</translation>
+<translation id="2171101176734966184">您嘗試連線到<ph name="DOMAIN"/>，但伺服器展示的憑證是透過效用性低的簽章演算法來簽發。這表示伺服器展示的安全認證可能是偽造，而伺服器可能並不是您預期使用的伺服器 (您可能正與攻擊者通訊)。</translation>
+<translation id="4320833726226688924">在這個情況下，伺服器向您瀏覽器展示的憑證或中繼 CA 憑證均透過效用性低的簽章演算法 (例如 RSA-MD2) 來簽發。電腦專家最近的研究顯示，簽章演算法的效用比之前所想為低，而現今只有很少可信任的網站採用簽章演算法。此憑證可能是偽造。</translation>
+<translation id="2728127805433021124">網站的憑證是透過效用性低的弱簽章演算法來簽發。</translation>
+<translation id="6315723398663634808">伺服器憑證含有效用性低的加密金鑰！</translation>
+<translation id="121201262018556460">您嘗試連線到<ph name="DOMAIN"/>，但伺服器展示的憑證包含效用性低的金鑰。攻擊者可能破壞了私密金鑰，而伺服器可能並不是您預期使用的伺服器 (您可能正與攻擊者通訊)。</translation>
+<translation id="2929033900046795715">在這個情況下，伺服器向您瀏覽器展示的憑證或中繼 CA 憑證含有效用性低的金鑰，例如低於 1024 位元的 RSA 金鑰。因為它相對地容易導出相應的私密金鑰來獲取效用性低的公開金鑰，這樣攻擊者便可以偽造真正伺服器的身份。</translation>
+<translation id="168841957122794586">伺服器憑證含有效用性低的加密金鑰。</translation>
+<translation id="4253787465144837701">伺服器憑證含有不該有的域名。</translation>
+<translation id="7567204685887185387">此伺服器無法證明其是 <ph name="DOMAIN"/>; 其安全性憑證可能為偽造。這可能是由於設定錯誤或黑客竊用您的連線所致。</translation>
+<translation id="7592362899630581445">伺服器中的憑證違反了名字約束。</translation>
+<translation id="5944101742958374175">在收到的憑證中發現特殊例外情況。</translation>
+<translation id="5623463370978611784">收到的憑證已標記為錯誤。請參閱 $1 了解詳情。</translation>
+<translation id="1177437665183591855">伺服器憑證發生不明錯誤</translation>
+<translation id="4771973620359291008">發生不明錯誤。</translation>
+<translation id="674375294223700098">伺服器憑證不明錯誤。</translation>
+<translation id="5598024575303778520">網絡詐騙警告</translation>
+<translation id="7311721172731074902">網絡詐騙警告</translation>
+<translation id="4056154188339276219">本網站已舉報為欺詐。與本網站交換敏感或機密資料可能使您處於身份盜用及/或金融詐騙的風險。</translation>
+<translation id="6494666865857176946">Opera Software 強烈建議您不要瀏覽本網頁。</translation>
+<translation id="8357891144266644027">惡意網站警告</translation>
+<translation id="4664012235452972339">惡意網站警告</translation>
+<translation id="8219093269265469764">瀏覽這個頁面可能會造成危害。這個網站已舉報為散佈惡意軟體。</translation>
+<translation id="4863259811271883558">由 <ph name="BEGIN_LINK"/><ph name="PROVIDER_NAME"/><ph name="END_LINK"/> 舉報</translation>
+<translation id="3141322567138977593">安全返回上一頁</translation>
+<translation id="833642844779103272">安全返回上一頁</translation>
+<translation id="4238466718818823211">忽略這個警告</translation>
+<translation id="1755698976576372535">為什麼這個頁面被封鎖？</translation>
+<translation id="7459549266751278805">Opera 通知中心</translation>
+<translation id="7470668651798735849">從此處的網站可檢視您的所有通知。</translation>
+<translation id="4501379002264542907">Opera - 通知</translation>
+<translation id="1352092048463356430">Opera - 通知（<ph name="QUANTITY"/> 未讀）</translation>
+<translation id="4159400746343093340">Opera - 通知</translation>
+<translation id="6018626517703817463">Opera - 通知（<ph name="QUANTITY"/> 未讀）</translation>
+<translation id="6426222199977479699">SSL 錯誤</translation>
+<translation id="8398877366907290961">無論如何都要繼續</translation>
+<translation id="6264485186158353794">安全返回上一頁</translation>
+<translation id="2225024820658613551">如果您之前沒有在本網站看過這個警告，您&lt;strong&gt;更加&lt;/strong&gt;不應該繼續瀏覽。</translation>
+<translation id="5645845270586517071">安全性錯誤</translation>
+<translation id="1103666958012677467">由於網站管理員已要求提高這個網域的安全性，所以您無法繼續。</translation>
+<translation id="5463275305984126951"><ph name="LOCATION"/>索引</translation>
+<translation id="8877448029301136595">[上層目錄]</translation>
+<translation id="5327248766486351172">名稱</translation>
+<translation id="8028993641010258682">大小</translation>
+<translation id="57646104491463491">修改日期</translation>
+<translation id="3835522725882634757">很抱歉！這個伺服器正在傳送<ph name="PRODUCT_NAME"/>無法解讀的資料。請<ph name="BEGIN_LINK"/>報告錯誤<ph name="END_LINK"/>，並包括<ph name="BEGIN2_LINK"/>原始清單<ph name="END2_LINK"/>。</translation>
+<translation id="4231205248927312226">確認重新提交表格</translation>
+<translation id="6451458296329894277">確認重新提交表格</translation>
+<translation id="2032601515784864742">在這個情況下，憑證中列出的網址與您瀏覽器嘗試前往網址不相符。其中一個可能的原因是，您進行的通訊被出示其他網站憑證的攻擊者攔截，並導致憑證不符。另一個可能的原因是即使憑證不是對所有網站有效，伺服器都設置為多個網站傳回相同的憑證，其中包括您正嘗試瀏覽的網站。<ph name="PRODUCT_NAME"/>可確保您連線到 &lt;strong&gt;<ph name="DOMAIN2"/>&lt;/strong&gt;，但不能確認這網站與您要瀏覽的&lt;strong&gt;<ph name="DOMAIN"/>&lt;/strong&gt; 網站一樣。如要繼續，<ph name="PRODUCT_NAME"/> 將不會進一步檢查任何名稱不符的情況。</translation>
+<translation id="1639773643001837725">此伺服器無法證明其是 <ph name="DOMAIN"/>; 其安全性憑證在 <ph name="DAYS"/> 前已經過期。這可能是由於設定錯誤或黑客竊用您的連線所致。 您電腦的時鐘目前設定為 <ph name="CURRENT_TIME"/>。這正確？如果不正確，請調整系統時鐘. 然後重新整理頁面。</translation>
+<translation id="7235421518178823985">此伺服器無法證明其是 <ph name="DOMAIN"/>; 其安全性憑證應該是來自 <ph name="DAYS"/> 天之後。這可能是由於設定錯誤或黑客竊用您的連線所致。</translation>
+<translation id="1763864636252898013">此伺服器無法證明其是 <ph name="DOMAIN"/>; 其安全性憑證不受裝置的作業系統信任。這可能是由於設定錯誤或黑客竊用您的連線所致。</translation>
+<translation id="467662567472608290">此伺服器無法證明其是 <ph name="DOMAIN"/>; 其安全性憑證含有錯誤。這可能是由於設定錯誤或黑客竊用您的連線所致。</translation>
+<translation id="8465929756435120446">這個頁面含有不安全的內容。</translation>
+<translation id="4522570452068850558">詳細資料</translation>
+<translation id="3586931643579894722">隱藏詳細資料</translation>
+<translation id="8962083179518285172">隱藏詳細資料</translation>
+<translation id="6042308850641462728">更多</translation>
+<translation id="2089090684895656482">更少</translation>
+<translation id="5556459405103347317">重新加載</translation>
+<translation id="9193357432624119544">錯誤代碼：<ph name="ERROR_NAME"/></translation>
+<translation id="4910619056351738551">以下有一些建議：</translation>
+<translation id="2662338103506457097">重新加載此網頁。</translation>
+<translation id="3226128629678568754">按下「重新加載」按鈕來重新提交加載頁面需要的資料。</translation>
+<translation id="8196061687045545167">禁用延伸套件並重新加載此網頁。</translation>
+<translation id="3155309969919037916">請檢查互聯網連線。</translation>
+<translation id="1519957265434608160">檢查所有纜線並重新啟動任何路由器、數據機或其他您可能正在使用的網絡裝置。</translation>
+<translation id="2319236583141234177">檢查您的 DNS 設定。</translation>
+<translation id="8289355894181816810">如果您不明白這是甚麼，請聯絡您的網路管理員。</translation>
+<translation id="5573959367212558217">嘗試禁用網絡預測功能。</translation>
+<translation id="8888594059056485523">在您的防火牆或防毒軟件設定中允許 Opera 存取網絡。</translation>
+<translation id="6456804684535455731">如果 Opera 已經列為可以存取網絡的程式，就嘗試將它從清單中移除，然後再次新增。</translation>
+<translation id="382518646247711829">如果您使用代理伺服器...</translation>
+<translation id="7616012285680677132">請檢查您的代理伺服器設定或聯絡網絡管理員，從而確保代理伺服器正在運作。<ph name="PLATFORM_TEXT"/></translation>
+<translation id="8454634452929957533">請檢查您的代理伺服器設定或聯絡網絡管理員，從而確保代理伺服器正在運作。如果您認為自己沒有使用代理伺服器：<ph name="PLATFORM_TEXT"/></translation>
+<translation id="8040357206858000048">前往應用程式 &gt; 系統偏好設定 &gt; 網絡 &gt; 進階 &gt; 代理伺服器，並取消選擇任何已經勾選的代理伺服器。</translation>
+<translation id="7158277678571698323">前往 Opera 功能表 &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; 區域網絡設定，並取消選擇「在區域網絡中使用代理伺服器」。</translation>
+<translation id="2954705784594331199">稍後<ph name="BEGIN_LINK"/>重新加載<ph name="END_LINK"/>此網頁。</translation>
+<translation id="4977565600485911823">禁用延伸套件，然後<ph name="BEGIN_LINK"/>重新加載<ph name="END_LINK"/>此網頁。</translation>
+<translation id="1103966635949043187">前往網站主頁：</translation>
+<translation id="7747589364844254751">檢查您的互聯網連線。重新啟動任何路由器、數據機或其他您可能正在使用的網絡裝置。</translation>
+<translation id="5548623538190661145">檢查 DNS 設定。如果您不明白這是甚麼，請聯絡您的網路管理員。</translation>
+<translation id="9127307628159259612">在您的防火牆或防毒軟件設定中新增<ph name="PRODUCT_NAME"/>為允許程式。如果它已經是允許的程式，就嘗試從允許程式清單中刪除，然後再次新增。</translation>
+<translation id="4545046228395991092">如果您使用代理伺服器，請檢查您的代理設定或聯絡網絡管理員，從而確保代理伺服器正在運作。</translation>
+<translation id="1712673276482711826">如果您使用代理伺服器，請檢查您的代理設定或聯絡網絡管理員，從而確保代理伺服器正在運作。如果您認為自己沒有使用使用代理伺服器，就調整您的代理伺服器設定：<ph name="PLATFORM_TEXT"/></translation>
+<translation id="721197778055552897"><ph name="BEGIN_LINK"/>進一步了解<ph name="END_LINK"/>這個問題。</translation>
+<translation id="2214283295778284209"><ph name="SITE"/> 無法使用</translation>
+<translation id="4032534284272647190">拒絕存取 <ph name="URL"/>。</translation>
+<translation id="790025292736025802">找不到 <ph name="URL"/></translation>
+<translation id="641480858134062906">加載 <ph name="URL"/> 失敗</translation>
+<translation id="4697214168136963651"><ph name="URL"/> 被封鎖</translation>
+<translation id="9020278534503090146">此網頁無法使用</translation>
+<translation id="9086455579313502267">無法存取網絡</translation>
+<translation id="6771079623344431310">無法連線至代理伺服器</translation>
+<translation id="5303446622366702551">無法連線至互聯網</translation>
+<translation id="6640442327198413730">遺失快取</translation>
+<translation id="4786993863723020412">讀取快取錯誤</translation>
+<translation id="5880867612172997051">網絡存取暫停</translation>
+<translation id="5303618139271450299">找不到此網頁</translation>
+<translation id="7269802741830436641">此網頁含有重新導向循環</translation>
+<translation id="778579833039460630">沒有收到任何數據</translation>
+<translation id="4980112683975062744">從伺服器接收到重複的標題</translation>
+<translation id="7839809549045544450">伺服器有一個效用性低而短暫的 Diffie-Hellman 公開金鑰</translation>
+<translation id="820791781874064845">這個網站被延伸套件封鎖</translation>
+<translation id="4764776831041365478">在 <ph name="URL"/> 的網站可能暫時關閉，或者已經永久移到新的網址。</translation>
+<translation id="2776514516555065663">由於 <ph name="HOST_NAME"/> 需要太長時間回應，因此 <ph name="PRODUCT_NAME"/> 無法加載網站。網站可能關閉，或者您的互聯網連線可能有問題。</translation>
+<translation id="7732608718511994155">與 <ph name="HOST_NAME"/> 的連線中斷。</translation>
+<translation id="6866330586943304386">與 <ph name="HOST_NAME"/> 的連線因為網絡連接變更而中斷。</translation>
+<translation id="3353584498371175254"><ph name="PRODUCT_NAME"/> 嘗試連線至 <ph name="HOST_NAME"/> 失敗。網站可能已經關閉，或者您的網絡配置不正確。</translation>
+<translation id="1775580281086246828">由於搜尋 DNS 失敗，因此找不到 <ph name="HOST_NAME"/> 的伺服器。DNS 是將網站名稱轉為互聯網地址的網絡服務。這個錯誤通常是因為沒有互聯網連線或網絡配置不正確造成；亦可能是因為 DNS 伺服器沒有回應，或者防火牆防止 <ph name="PRODUCT_NAME"/> 存取網絡而導致。</translation>
+<translation id="1900640198039665133"><ph name="PRODUCT_NAME"/>無法連線到網站。這種情況通常是由網絡問題造成，但也可能是防火牆或代理伺服器配置不正確而導致。</translation>
+<translation id="6061713520396617275">無法讀取位於 <ph name="URL"/> 的檔案。檔案可能已經移除、移動，或者檔案權限可能拒絕存取。</translation>
+<translation id="3743996431420410209"><ph name="PRODUCT_NAME"/> 存取網絡時發生問題。<ph name="LINE_BREAK"/> 這可能是因為您的防火牆或防毒軟件錯誤認為 <ph name="PRODUCT_NAME"/> 是您流動裝置上的入侵者並且進行封鎖，使它不能連線至互聯網。</translation>
+<translation id="8525957822916060992">代理伺服器在您的流動裝置和其他伺服器之間扮演著中繼角色。現在，您的系統配置為使用代理伺服器，但 <ph name="PRODUCT_NAME"/> 無法連線到代理伺服器。</translation>
+<translation id="2182771052381938197"><ph name="PRODUCT_NAME"/> 無法顯示網頁，因為您的流動裝置沒有連線到互聯網。</translation>
+<translation id="8504605147845230067"><ph name="ERROR_DESCRIPTION_TEXT"/></translation>
+<translation id="6482869692698550826"><ph name="PRODUCT_NAME"/> 存取網絡時發生問題。<ph name="LINE_BREAK"/> 這可能是因為您的防火牆或防毒軟件錯誤認為 <ph name="PRODUCT_NAME"/> 是您電腦上的入侵者並且進行封鎖，使它不能連線到互聯網。</translation>
+<translation id="6268299223990012826">代理伺服器在您的電腦和其他伺服器之間扮演著中繼角色。現在，您的系統配置為使用代理伺服器，但 <ph name="PRODUCT_NAME"/> 無法連線到代理伺服器。</translation>
+<translation id="2082033521101679150"><ph name="PRODUCT_NAME"/> 無法顯示網頁，因為您的電腦沒有連線到互聯網。</translation>
+<translation id="5025570087133380871"><ph name="ERROR_DESCRIPTION_TEXT"/> <ph name="LINE_BREAK"/> 您可以採取以下的步驟來嘗試診斷問題：<ph name="LINE_BREAK"/> <ph name="PLATFORM_TEXT"/></translation>
+<translation id="3952238365087168585">前往<ph name="BEGIN_BOLD"/>應用程式 &gt; 系統偏好設定 &gt; 網絡 &gt; 進階 &gt; 協助我<ph name="END_BOLD"/>來測試您的連線。</translation>
+<translation id="8907719130223575953">前往<ph name="BEGIN_BOLD"/>開始 &gt; 控制台&gt; 網絡及互聯網 &gt; 網絡及分享中心 &gt; 問題疑難排解 (位於最下面) &gt; 互聯網連線。<ph name="END_BOLD"/></translation>
+<translation id="6426809368065002078">前往<ph name="BEGIN_BOLD"/>開始 &gt; 控制台&gt; 網絡連線 &gt; 新增連線精靈<ph name="END_BOLD"/>來檢查您的連線。</translation>
+<translation id="2430210664810280637">按一下<ph name="BEGIN_BOLD"/>「開始」<ph name="END_BOLD"/>，按一下<ph name="BEGIN_BOLD"/>「執行」<ph name="END_BOLD"/>，輸入<ph name="BEGIN_BOLD"/>「%windir%\network diagnostic\xpnetdiag.exe」<ph name="END_BOLD"/>，然後按一下<ph name="BEGIN_BOLD"/>「確定」<ph name="END_BOLD"/>。</translation>
+<translation id="5098248489969453574">無法在快取中找到網頁。某些資源只能從快取中安全加載，例如從提交的數據中所產生的頁面等。<ph name="LINE_BREAK"/>這個錯誤也可能是因為關機程序不正確而令快取檔案損毀所導致。<ph name="LINE_BREAK"/>如果問題持續，請嘗試清除快取。</translation>
+<translation id="2275837730041455081">若要加快加載網頁的速度，<ph name="PRODUCT_NAME"/> 暫時將已下載的檔案儲存到硬碟。當 <ph name="PRODUCT_NAME"/> 的關機程序不正確，這些檔案就可能會損毀，因而造成這個錯誤。重新加載頁面應可解決這個問題，而使用正確的關機程序可避免這個問題將來再次發生。<ph name="LINE_BREAK"/>如果問題持續，請嘗試清除快取。在某些情況下，這也可能是硬件開始出現故障的症狀。</translation>
+<translation id="9029615070002286968">因為您的流動裝置進入睡眠或休眠模式，因而無法加載網頁。發生這種情況時，系統會關閉網絡連線，而新的網絡請求亦會失敗。重新加載頁面應可解決這個問題。</translation>
+<translation id="4534415571332240241">因為您的電腦進入睡眠或休眠模式，因而無法加載網頁。發生這種情況時，系統會關閉網絡連線，而新的網絡請求亦會失敗。重新加載頁面應可解決這個問題。</translation>
+<translation id="7518003948725431193">所輸入的網址找不到對應的網站：<ph name="URL"/></translation>
+<translation id="9164387458644511612">在 <ph name="URL"/> 的網頁含有太多重新導向記錄。要解決這個問題，您可以清除此網站的 Cookie 或允許使用第三方 Cookie。如果問題無法解決，就可能是伺服器配置出現問題，而不是您的流動裝置有問題。</translation>
+<translation id="3015602778474660457">在 <ph name="URL"/> 的網頁含有太多重新導向記錄。要解決這個問題，您可以清除此網站的 Cookie 或允許使用第三方 Cookie。如果問題無法解決，就可能是伺服器配置出現問題，而不是您的電腦有問題。</translation>
+<translation id="4287689875748136217">伺服器沒有傳送數據，因此無法加載網頁。</translation>
+<translation id="660896802268593778">伺服器的回應含有重複的標題。此問題通常是網站或代理伺服器配置不正確所導致。只有網站或代理伺服器管理員可以解決此問題。</translation>
+<translation id="5954987802886981088">連線至安全的 (HTTPS) 伺服器時可能出現此錯誤。這表示伺服器正在嘗試建立安全連線，但由於配置嚴重不正確，連線變得非常不安全！<ph name="LINE_BREAK"/>在此情況下，我們需要修復伺服器。為了保護您的隱私權，<ph name="PRODUCT_NAME"/> 將不使用不安全的連線。</translation>
+<translation id="8752577199214871617">無法查詢 <ph name="HOST_NAME"/>。</translation>
+<translation id="8235325155053717782">錯誤 <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>)：<ph name="ERROR_TEXT"/></translation>
+<translation id="3986287159189541211">HTTP 錯誤 <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>)：<ph name="ERROR_TEXT"/></translation>
+<translation id="4405141258442788789">操作逾時。</translation>
+<translation id="3118046075435288765">伺服器意外關閉連線。</translation>
+<translation id="2784949926578158345">連線已經重新設置。</translation>
+<translation id="9020142588544155172">伺服器拒絕連線。</translation>
+<translation id="8494979374722910010">嘗試連線到伺服器失敗。</translation>
+<translation id="2909946352844186028">偵測到網絡變更。</translation>
+<translation id="5949910269212525572">無法解決伺服器上的 DNS 地址。</translation>
+<translation id="5498951625591520696">無法連線到伺服器。</translation>
+<translation id="3950924596163729246">無法存取網絡。</translation>
+<translation id="4147376274874979956">無法存取檔案。</translation>
+<translation id="4535734014498033861">代理伺服器連線失敗。</translation>
+<translation id="6728024709633626254">互聯網連線遺失。</translation>
+<translation id="201192063813189384">從快取中讀取數據時發生錯誤。</translation>
+<translation id="3393716657345709557">在快取中找不到要求的文章。</translation>
+<translation id="7450732239874446337">網絡 IO 暫停。</translation>
+<translation id="6391832066170725637">找不到檔案或目錄。</translation>
+<translation id="3748412725338508953">太多重新導向記錄。</translation>
+<translation id="2950186680359523359">伺服器關閉連線而沒有傳送任何數據。</translation>
+<translation id="2929266020546499971">接收到多個不同內容長度的標題。系統不允許出現這種情況，因為要避免 HTTP 回應分割攻擊。</translation>
+<translation id="2297038239859335744">接收到多個不同內容配置的標題。系統不允許出現這種情況，因為要避免 HTTP 回應分割攻擊。</translation>
+<translation id="3336388975352605720">接收到多個不同的位置標題。系統不允許出現這種情況，因為要避免 HTTP 回應分割攻擊。</translation>
+<translation id="6626108645084335023">等待 DNS 探查。</translation>
+<translation id="1195447618553298278">錯誤不明。</translation>
+<translation id="6066742401428748382">拒絕存取網頁</translation>
+<translation id="2650446666397867134">拒絕存取檔案</translation>
+<translation id="3261690198327056381">您沒有授權存取位於 <ph name="URL"/> 的網站。您可能需要登入。</translation>
+<translation id="3903912596042358459">伺服器拒絕完成該請求。</translation>
+<translation id="904949795138183864">位於 <ph name="URL"/> 的網頁不再存在。</translation>
+<translation id="5319054530310231888">要求的資源不再存在，而且沒有任何轉向地址。預計這個狀況會永久發生。</translation>
+<translation id="8295070100601117548">伺服器錯誤</translation>
+<translation id="1055268999302881517">網站在擷取 <ph name="URL"/> 時發生錯誤。網站可能關閉以進行維護或者配置不正確。</translation>
+<translation id="2279770628980885996">伺服器在嘗試執行請求時發生意外情況。</translation>
+<translation id="4060383410180771901">該網站無法處理 <ph name="URL"/> 的請求。</translation>
+<translation id="477518548916168453">伺服器不支援用來完成該請求所需的功能。</translation>
+<translation id="3940082421246752453">伺服器不支援該請求內使用的 HTTP 版本。</translation>
+<translation id="7544229255782699242">嘗試加載 <ph name="URL"/> 時收到無效的回應。伺服器可能關閉以進行維護或者配置不正確。</translation>
+<translation id="7052500709156631672">閘道或代理伺服器從上游伺服器中收到無效的回應。</translation>
+<translation id="5741201586401781900">位於 <ph name="URL"/> 的網頁目前無法使用。網頁可能超載或關閉以進行維護。</translation>
+<translation id="6094756196753418043">伺服器目前無法處理該請求。此代碼指明這個狀況只是暫時發生，而伺服器將會於延遲後繼續使用。</translation>
+<translation id="2084412568823043027"><ph name="URL"/> 伺服器的回應時間太長，而且數據可能會超載。</translation>
+<translation id="1202290638211552064">閘道或代理伺服器在等待上游伺服器回應時逾時。</translation>
+<translation id="1146498888431277930">SSL 連線錯誤</translation>
+<translation id="4350711002179453268">無法與伺服器建立安全連線。這可能是伺服器的問題，或者可能是伺服器正在要求您沒有的用戶端驗證憑證。</translation>
+<translation id="5228309736894624122">SSL 通訊協定錯誤</translation>
+<translation id="8016174103774548813">SSL 伺服器可能已過時。</translation>
+<translation id="5549435349608496346">無法安全連線至伺服器。此網站之前可能正常運作，但連線至此等網站已出現危及所有用戶的安全風險，為安全起見已禁用。</translation>
+<translation id="2803407661478021186">SSLv3 後援可與伺服器連線，但因有新的協議攻擊，我們不再接受 SSLv3 後援。伺服器需更新至支援 TLS 1.0 或以上版本，建議 TLS 1.2 版本。</translation>
+<translation id="2345460471437425338">主機憑證不正確。</translation>
+<translation id="3225919329040284222">該伺服器展示的憑證不符合內置功能預期。系統內都會包括這些預期，從而確定您瀏覽特定、高安全性的網站，保證您安全上網。</translation>
+<translation id="6957887021205513506">該伺服器的憑證似乎是偽造的。</translation>
+<translation id="4544369257849566741">安全的訊號交換機制中缺少了 SSL 重新協商延伸功能。對於某些眾所周知支援重新協商延伸功能的網站，<ph name="PRODUCT_NAME"/> 需要更安全的訊號交換機制來預防一系列的已知攻擊。若系統缺少了這個延伸功能，即表示您的連線在傳送途中被干擾並操控。</translation>
+<translation id="8515737884867295000">基於憑證的驗證失敗。</translation>
+<translation id="1214288039821587584">此伺服器需要驗證憑證，並不接受由瀏覽器傳送的憑證。您的憑證可能已經過期，或者伺服器可能不信任此簽發者。如果您有憑證，可以使用不同的憑證再試一次，或者您要從其他地方獲取有效的憑證。</translation>
+<translation id="9013589315497579992">SSL 用戶端驗證憑證損壞。</translation>
+<translation id="5620046725797389119">這很可能是寄存網頁的伺服器超載或發生錯誤。為了避免延伸功能造成太大的流量並使情況變差，<ph name="PRODUCT_NAME"/> 已經暫時停止允許延伸功能連線至此 URL 的請求。</translation>
+<translation id="2271281383664374369">延伸功能連線至此 URL 的請求已經暫時停止。</translation>
+<translation id="3225579507836276307">第三方的延伸功能已經封鎖系統存取此網頁。</translation>
+<translation id="5990559369517809815">延伸功能已經封鎖連線至伺服器的請求。</translation>
+<translation id="8315720913203253727">此網頁需要使用您之前輸入的數據才能正確顯示。您可以重新傳送這些數據，但如果這樣做，您就需要重複此頁面之前進行的任何動作。按一下「重新加載」來重新傳送這些數據並顯示此頁面。</translation>
+<translation id="6429639049555216915">現時無法連線到應用程式。</translation>
+<translation id="8162734958263531433">要使用 USB 偵錯功能，您需要在 Android 裝置上啟用 Android SDK 和 USB 偵錯功能。參閱 <ph name="HTML_HELPURL"/> 來了解更多詳情。</translation>
+<translation id="1875071432292773474">在桌面瀏覽器上輸入網址<ph name="ACCESS_POINT"/>。桌面瀏覽器和您的 Android 裝置必須使用同一個網絡。</translation>
+<translation id="7227425938337339799">為使 UPnP 運作，您需要使用同一個子網絡，或者橋接路由器，以在子網絡之間轉發廣播。</translation>
+<translation id="4553629908098215669">在您的電腦上，執行 <ph name="HTMLADBCOMMAND"/>，並使用 Chromium 瀏覽器瀏覽 <ph name="HTMLLOCALHOSTURL"/>。</translation>
+<translation id="5873732809085338161">如需啟用桌面瀏覽器的不安全 WebSockets 請至 <ph name="HTMLOPERAFLAG"/> (Opera 24+) 或 <ph name="HTMLCHROMEFLAG"/> (Chrome 36+)</translation>
+<translation id="4570032796877367747">前照相機</translation>
+<translation id="2599796128805996109">後照相機</translation>
+<translation id="1780524213916974482">左照相機</translation>
+<translation id="1198988598070704831">右照相機</translation>
+<translation id="2124507516322945394">預設麥克風</translation>
+<translation id="1587215898571986504">聽筒</translation>
+<translation id="5614598979078259956">無線</translation>
+<translation id="9031226374756103225">耳麥式耳機</translation>
+<translation id="149679617917926491">藍牙耳機</translation>
+<translation id="6060685159320643512">注意，這些試驗可能有風險</translation>
+<translation id="5199729219167945352">試驗</translation>
+<translation id="2712869172826980984">注意！</translation>
+<translation id="8102444033747951866">這些標記控制試驗或不穩定的功能。這些功能可能無法正常運作，或可能使瀏覽器意外關閉。您可能會遺失數據，或者您的隱私權或安全性可能會被削弱。這些功能可能隨時生效、失效或停止運作。請注意可能會有風險！</translation>
+<translation id="9187827965378254003">啊，目前似乎沒有試驗可供進行。</translation>
+<translation id="2282872951544483773">無法試驗</translation>
+<translation id="6426993025560594914">您在所使用的平台上均可進行所有試驗！</translation>
+<translation id="889901481107108152">對不起，這個試驗無法在您使用的平台上提供！</translation>
+<translation id="3015639418649705390">現在重新啟動</translation>
+<translation id="7179921470347911571">現在重新啟動</translation>
+<translation id="8647750283161643317">重新設定為預設</translation>
+<translation id="1134886108896378542">重新設定為預設</translation>
+<translation id="4394049700291259645">禁用</translation>
+<translation id="3435896845095436175">啟用</translation>
+<translation id="604124094241169006">自動</translation>
+<translation id="8798099450830957504">預設</translation>
+<translation id="8815310998417289610">啟用</translation>
+<translation id="7826518276255108913">禁用</translation>
+<translation id="2005166128312586988">您的變更將會在重新啟動 Opera 後生效。</translation>
+<translation id="7961015016161918242">未曾同步</translation>
+<translation id="6342069812937806050">剛才</translation>
+<translation id="684302243018322820">如需查看 Opera 已儲存的密碼，請輸入您的電腦密碼。</translation>
+<translation id="533563709691128800">已禁用</translation>
+<translation id="2506903884491778518">搜尋試驗</translation>
+<translation id="2112624549618815628">預設 (已啟用)</translation>
+<translation id="3696363537446376816">預設 (已禁用)</translation>
+<translation id="1375198122581997741">關於版本</translation>
+<translation id="7248671827512403053">應用程式</translation>
+<translation id="1710259589646384581">作業系統</translation>
+<translation id="6897140037006041989">使用者代理</translation>
+<translation id="7353601530677266744">命令行</translation>
+<translation id="7225807090967870017">内部版本 ID</translation>
+</translationbundle>

@@ -1,0 +1,4 @@
+# Chromium continuous
+
+--no-pkg
+--gyp_params "fastbuild=2 remove_webcore_debug_symbols=1"

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="cs">
+<translation id="3929428121849375048">Avast SafeZone</translation>
+<translation id="806546331937022936">Avast</translation>
+<translation id="3609966143444339170">Avast důrazně nedoporučuje návštěvu této stránky.</translation>
+<translation id="4206706288435313269">Oznamovací centrum Avast SafeZone</translation>
+<translation id="254978580676301713">SafeZone - oznámení</translation>
+<translation id="8084325208922689406">SafeZone - oznámení (nepřečteno: <ph name="QUANTITY"/>)</translation>
+<translation id="678670207776683961">SafeZone - Oznámení</translation>
+<translation id="191361968702850015">SafeZone - Oznámení (nepřečteno: <ph name="QUANTITY"/>)</translation>
+<translation id="1359674843509087498">Stránka používá zastaralé nastavení zabezpečení, a proto nemusí být budoucí verze aplikace SafeZone schopné zajistit bezpečný přístup na stránku.</translation>
+<translation id="3485921796584936414">Povolte aplikaci SafeZone přístup k síti v nastavení vašeho firewallu či antivirového software.</translation>
+<translation id="7041993155087650094">Jděte do menu aplikace SafeZone &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; Nastavení LAN a odznačte volbu „Použít proxy server pro vaši LAN“.</translation>
+<translation id="5366394231680131980">Vaše změny budou použity po novém spuštění aplikace SafeZone.</translation>
+<translation id="6964843943881946410">Chcete-li zobrazit hesla uchovávaná aplikací SafeZone, prosím zadejte heslo k vašemu systémovému účtu.</translation>
+</translationbundle>

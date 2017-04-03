@@ -1,0 +1,72 @@
+# Copyright (C) 2015 Opera Software ASA.  All rights reserved.
+#
+# This file is an original work developed by Opera Software ASA.
+
+import("//build/buildflag_header.gni")
+import("//build/config/opera-common.gni")
+import("$opera/common/sitepatcher/args.gni")
+
+source_set("browser") {
+  configs += [ "$opera/common/config:include_config" ]
+
+  deps = [
+    "../crypto",
+    "../message_generator",
+    "//skia",
+    ":sitepatcher_cert",
+  ]
+
+  sources = [
+    "browser/browserjs_key.h",
+    "browser/op_site_patcher.cc",
+    "browser/op_site_patcher.h",
+    "browser/op_site_patcher_config.cc",
+    "browser/op_site_patcher_config.h",
+    "config.h",
+  ]
+
+  if (is_android) {
+    sources += [
+      "browser/op_update_checker.cc",
+      "browser/op_update_checker.h",
+      "browser/op_update_downloader.cc",
+      "browser/op_update_downloader.h",
+    ]
+  } else {
+    sources += [
+      "browser/op_update_checker_client.cc",
+      "browser/op_update_checker_register_prefs.cc",
+      "browser/op_update_checker_register_prefs.h",
+      "browser/site_patch_component_installer.cc",
+      "browser/site_patch_component_installer.h",
+    ]
+  }
+}
+
+source_set("renderer") {
+  configs += [ "$opera/common/config:include_config" ]
+
+  deps = [
+    "../message_generator",
+    "//third_party/WebKit/public:blink",
+  ]
+
+  sources = [
+    "renderer/op_script_injector.cc",
+    "renderer/op_script_injector.h",
+    "renderer/op_script_store.cc",
+    "renderer/op_script_store.h",
+    "renderer/op_site_prefs.cc",
+    "renderer/op_site_prefs.h",
+  ]
+
+  defines = [ "OPR_VERSION=\"$opr_version\"" ]
+}
+
+buildflag_header("sitepatcher_cert") {
+  header = "sitepatcher_cert_config.h"
+  header_dir = "common/sitepatcher"
+  flags = [
+    "USE_SITEPATCHER_TEST_CERTIFICATE=$enable_sitepatcher_test",
+  ]
+}

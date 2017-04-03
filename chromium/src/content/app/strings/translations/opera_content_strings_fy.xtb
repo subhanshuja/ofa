@@ -1,0 +1,194 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="fy">
+<translation id="4522570452068850558">Details</translation>
+<translation id="5317780077021120954">Bewarje</translation>
+<translation id="8141602879876242471">Yn dizze yndeks kinne jo ek sykje. Fier syk wurden yn: </translation>
+<translation id="6643016212128521049">Wiskje</translation>
+<translation id="2148716181193084225">Hjoed</translation>
+<translation id="248395913932153421">Dei</translation>
+<translation id="8987927404178983737">Moanne</translation>
+<translation id="6015796118275082299">Jier</translation>
+<translation id="2653659639078652383">Ferstjoere</translation>
+<translation id="5939518447894949180">Resette</translation>
+<translation id="7364796246159120393">Triem kieze</translation>
+<translation id="1637811476055996098">Triemmen kieze</translation>
+<translation id="795667975304826397">Gjin triem kiezen</translation>
+<translation id="8444882422881193423"><ph name="NUMBER_OF_FILES"/> triemmen</translation>
+<translation id="668171684555832681">Oare...</translation>
+<translation id="1758486001363313524">Oare...</translation>
+<translation id="9132465097189459683">Oare...</translation>
+<translation id="5843503607508392247">Oare...</translation>
+<translation id="739024184232394898">Oare...</translation>
+<translation id="1921819250265091946">dd</translation>
+<translation id="3732799496749320381">mm</translation>
+<translation id="8199524924445686405">jjjj</translation>
+<translation id="4975562563186953947"><ph name="SELECTED_COUNT"/> selektearre</translation>
+<translation id="1591562245178063882">Dizze moanne</translation>
+<translation id="8117451130807776954">Dizze wike</translation>
+<translation id="5966707198760109579">Wike</translation>
+<translation id="2548326553472216322">Gjin resinte sykaksjes</translation>
+<translation id="6663448176199120256">Resinte sykaksjes</translation>
+<translation id="1235745349614807883">Resinte sykaksjes wiskje</translation>
+<translation id="6398862346408813489">Moanne seleksje paniel sjen litte</translation>
+<translation id="5117590920725113268">Folgjende moanne sjen litte</translation>
+<translation id="4201051445878709314">Foarige moanne sjen litte</translation>
+<translation id="9155987714137265666"><ph name="WEEK"/>Uteinsette op<ph name="WEEK_START_DATE"/></translation>
+<translation id="1342835525016946179">artikel</translation>
+<translation id="1359897965706325498">banier</translation>
+<translation id="1188858454923323853">komplimint</translation>
+<translation id="2291999235780842123">karfakje</translation>
+<translation id="4254339807215791271">ynhâld ynformaasje</translation>
+<translation id="3486220673238053218">defenysje</translation>
+<translation id="8583702881314752957">defenysje list</translation>
+<translation id="3808586225841795776">term</translation>
+<translation id="5406322316791861025">figuur</translation>
+<translation id="4597532268155981612">formulier</translation>
+<translation id="2674318244760992338">fuottekst</translation>
+<translation id="6692633176391053278">stepper</translation>
+<translation id="10623998915015855">Wiksel knop</translation>
+<translation id="8597182159515967513">koptekst</translation>
+<translation id="8244226242650769279">ôfbylding map</translation>
+<translation id="3040011195152428237">keppeling</translation>
+<translation id="5048533449481078685">list markearder</translation>
+<translation id="8851136666856101339">haad</translation>
+<translation id="2942448076852699108">markearre ynhâld</translation>
+<translation id="9108370397979208512">rekenje</translation>
+<translation id="9048119486235211610">navigaasje</translation>
+<translation id="1589122976691792535">regio</translation>
+<translation id="8053789581856978548">sykjen tekst fjild</translation>
+<translation id="1930711995431081526">tastân</translation>
+<translation id="3706100364254443312">wikselje</translation>
+<translation id="7740050170769002709">HTML ynhâld</translation>
+<translation id="9138385573473225930">warskôging</translation>
+<translation id="1806710327868736751">warskôgings_dialoochskerm</translation>
+<translation id="3924558731517983934">programma</translation>
+<translation id="6934078000481955284">blok oanhelling</translation>
+<translation id="167575180612809735">dwaande oanjouwer</translation>
+<translation id="5643186887447432888">knop</translation>
+<translation id="8511325616783751178">dellûk knop</translation>
+<translation id="947831847158436616">sel</translation>
+<translation id="421884353938374759">kleur keur</translation>
+<translation id="727747134524199931">kolom koptekst</translation>
+<translation id="3199563858620722075">kombo fak</translation>
+<translation id="5516424706154626233">datum keur</translation>
+<translation id="2335594187091864976">datum en tiid keur</translation>
+<translation id="1281252709823657822">dialoochskerm</translation>
+<translation id="6885760532393684712">triemtafel</translation>
+<translation id="7802800022689234070">yn-/útfâld trijehoekje</translation>
+<translation id="9062295712474918030">dokumint</translation>
+<translation id="2940813599313844715">objekt</translation>
+<translation id="4151657705144244502">grafysk</translation>
+<translation id="3557673793733683882">koptekst <ph name="HEADING_LEVEL"/></translation>
+<translation id="648732519525291180">tiid keur</translation>
+<translation id="6023896073578205740">fak mei list</translation>
+<translation id="6637586476836377253">loch</translation>
+<translation id="1206619573307042055">beweechlike tekst</translation>
+<translation id="966787709310836684">menu</translation>
+<translation id="4248100235867064564">menubalke</translation>
+<translation id="4413860115965805769">menuknop</translation>
+<translation id="1018939186200882850">menu item</translation>
+<translation id="6164829606128959761">meter</translation>
+<translation id="3086746722712840547">notysje</translation>
+<translation id="1880518467580572141">omline</translation>
+<translation id="2759744352195237655">útbrekke knop</translation>
+<translation id="5034860022980953847">fuortgong oanjouwer</translation>
+<translation id="8461852803063341183">karknop</translation>
+<translation id="2896972712917208084">kar groep</translation>
+<translation id="512758898067543763">rige koptekst</translation>
+<translation id="6739588121953935928">liniaal</translation>
+<translation id="3960700977367013758">skowbalke</translation>
+<translation id="479989351350248267">sykje</translation>
+<translation id="1206693055195146388">skower</translation>
+<translation id="5987525920412732405">spin knop</translation>
+<translation id="7891486169920085145">spjalter</translation>
+<translation id="7491962110804786152">ljepper</translation>
+<translation id="3078740164268491126">tabel</translation>
+<translation id="2508569020611168319">ljepper list</translation>
+<translation id="4757246831282535685">ljepper paniel</translation>
+<translation id="561939826962581046">tiid</translation>
+<translation id="3175736971608411871">tiidsklok</translation>
+<translation id="8433900881053900389">arkbalke</translation>
+<translation id="6755330956360078551">ynformaasje balon</translation>
+<translation id="4661075872484491155">beam</translation>
+<translation id="1821985195704844674">beam ruster</translation>
+<translation id="5453733299334684579">beam item</translation>
+<translation id="6845533974506654842">drukke</translation>
+<translation id="1842960171412779397">selektearje</translation>
+<translation id="6119846243427417423">aktivearje</translation>
+<translation id="5476505524087279545">ûntfinke</translation>
+<translation id="838869780401515933">oanfinke</translation>
+<translation id="4202807286478387388">springe</translation>
+<translation id="9002566407876343676">iepen</translation>
+<translation id="2931838996092594335">klik</translation>
+<translation id="1822429046913737220">AM/PM</translation>
+<translation id="1014825444426747588">leech</translation>
+<translation id="7673697353781729403">Oeren</translation>
+<translation id="8541249477527128034">media betjoering</translation>
+<translation id="2723001399770238859">lûd</translation>
+<translation id="4763480195061959176">fideo</translation>
+<translation id="6843725295806269523">dimme</translation>
+<translation id="5546461542133609677">ûntdimme</translation>
+<translation id="2572483411312390101">ôfspylje</translation>
+<translation id="7789962463072032349">skoftsje</translation>
+<translation id="7057186640035488495">tiidsline</translation>
+<translation id="6270583010843788609">tiidsline miniatuer</translation>
+<translation id="7223624360433298498">ferstrutsen tiid</translation>
+<translation id="7720026100085573005">oerbleaune tiid</translation>
+<translation id="658823671542763450">folslein skerm yngean</translation>
+<translation id="5468998798572797635">folslein skerm ferlitte</translation>
+<translation id="9050748414552849310">ûndertiteling sjen litte</translation>
+<translation id="6853785296079745596">ûndertiteling ferbergje</translation>
+<translation id="1832974991323546415">ôfspylje op in ekstern apparaat</translation>
+<translation id="8613126697340063924">kontrôle ekstern ôfspyljen</translation>
+<translation id="1020833440720551630">lûdsspoar dimme</translation>
+<translation id="6101327004457443354">lûdsspoar hearre litte</translation>
+<translation id="8785498733064193001">ôfspyljen begjinne</translation>
+<translation id="5641012560118721995">ôfspyljen skoftsje</translation>
+<translation id="6404546809543547843">tiidsline markearder</translation>
+<translation id="3785482301506746191">tiidsline markearder</translation>
+<translation id="6359256949422175976">tiidsline markearder miniatuer</translation>
+<translation id="901493112792887934">tiid yn sekonden</translation>
+<translation id="3632707345189162177">tal sekonden fan de film oer</translation>
+<translation id="2901282870647571346">film tastân</translation>
+<translation id="819205353528511139">film folslein skerm ôfspylje</translation>
+<translation id="8115662671911883373">ûndertiteling no werjaan</translation>
+<translation id="7740016676195725605">ûndertiteling no net werjaan</translation>
+<translation id="4103419683916926126">Milisekonden</translation>
+<translation id="8534579021159131403">Minuten</translation>
+<translation id="1088086359088493902">Sekonden</translation>
+<translation id="5944544982112848342">2048 (Hege graad)</translation>
+<translation id="2846343701378493991">1024 (Middelde graad)</translation>
+<translation id="2247351761944213033">Wike <ph name="WEEKNUMBER"/>, <ph name="YEAR"/></translation>
+<translation id="5466621249238537318">Selektearje ien of mear triemmen.</translation>
+<translation id="835897206747267392">Unjildige wearde.</translation>
+<translation id="1729654308190250600">Folje in e-postadres yn.</translation>
+<translation id="49969490063480558">Fier in diel yn folgjend mei '<ph name="ATSIGN"/>'. '<ph name="INVALIDADDRESS"/>' is net kompleet.</translation>
+<translation id="5307600278924710095">Fier in diel yn folgjend mei '<ph name="ATSIGN"/>'. '<ph name="INVALIDADDRESS"/>' is net kompleet.</translation>
+<translation id="4664250907885839816">In diel folgjend mei '<ph name="ATSIGN"/>' soe net it '<ph name="INVALIDCHARACTER"/>' symboal befetsje moatte.</translation>
+<translation id="2060505056492490888">'<ph name="DOT"/>' wurd op in ferkearde posysje yn '<ph name="INVALIDDOMAIN"/>' brûkt.</translation>
+<translation id="383465348367842624">In diel folgjend mei '<ph name="ATSIGN"/>' soe net it '<ph name="INVALIDCHARACTER"/>' symboal befetsje moatte.</translation>
+<translation id="7888071071722539607">In '<ph name="ATSIGN"/>' ynslute yn it e-postadres. '<ph name="INVALIDADDRESS"/>' mist in '<ph name="ATSIGN"/>'.</translation>
+<translation id="2908441821576996758">In mei komma skieden list fan e-postadressen ynfiere.</translation>
+<translation id="5164977714490026579">Wearde moat grutter dan of lyk wêze oan <ph name="MINIMUM"/>.</translation>
+<translation id="2746543609216772311">Wearde moat <ph name="MINIMUM_DATE_OR_TIME"/> of letter wêze.</translation>
+<translation id="3450233048674729344">Wearde moat minder dan of lyk wêze oan <ph name="MAXIMUM"/>.</translation>
+<translation id="1938124657309484470">Wearde moat <ph name="MAXIMUM_DATE_OR_TIME"/> of earder wêze.</translation>
+<translation id="3075154866155599887">In jildige wearde ynfiere. It fjild is net kompleet of hat in ûnjildige datum.</translation>
+<translation id="4812940957355064477">In nûmer ynfiere.</translation>
+<translation id="2507943997699731163">Dit fjild ynfolje.</translation>
+<translation id="2761667185364618470">Selektearje dit fakje as jo fierder wolle.</translation>
+<translation id="8451268428117625855">Selektearje in triem.</translation>
+<translation id="8750798805984357768">Selektearje ien fan dizze opsjes.</translation>
+<translation id="7263440858009898357">Selektearje in item út de list.</translation>
+<translation id="1171774979989969504">In e-postadres ynfiere.</translation>
+<translation id="310520048233152454">in URL-adres ynfiere.</translation>
+<translation id="709897737746224366">It fereaske formaat brûke.</translation>
+<translation id="4360991593054037559">In jildige wearde ynfolje. <ph name="VALID_VALUE_LOW"/> en <ph name="VALID_VALUE_HIGHER"/> binne de twa weardes dy't tychtby en jildich binne.</translation>
+<translation id="2613802280814924224">In jildige wearde ynfolje. <ph name="VALID_VALUE"/> is de wearde dy tichtby en jildich is.</translation>
+<translation id="2226276347425096477">Dizze tekst ynkoartsje nei <ph name="MAX_CHARACTERS"/> tekens of minder (Jo brûke no <ph name="CURRENT_LENGTH"/> tekens).</translation>
+<translation id="3822383571486410024">Dizze tekst fergrutsje nei <ph name="MIN_CHARACTERS"/> tekens of mear (jo brûke no <ph name="CURRENT_LENGTH"/> tekens).</translation>
+<translation id="583281660410589416">Unbekend</translation>
+<translation id="5860033963881614850">Ut</translation>
+<translation id="5919473608089529604">Koe ynstekker net lade.</translation>
+</translationbundle>

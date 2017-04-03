@@ -1,0 +1,284 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="eu">
+<translation id="2978824962390592855">Opera</translation>
+<translation id="3942946088478181888">Lagundu ulertzen</translation>
+<translation id="1396529432791646744">Webgune seguru batera konektatzen zarenean, webgune hori ostatatzen duen zerbitzariak "ziurtagiria" deritzon zerbaitekin aurkezten du zure arakatzailea, bere identitatea egiaztatzeko. Ziurtagiriak identifikatzeko informazioa du, hala nola webgunearen helbidea. Helbide hori zure gailu mugikorrerako fidagarri den hirugarren batek egiaztatzen du. Ziurtagiriko helbidea webguneko helbidearekin bat datorrela begiratuta, nahi zenuen webgunearekin, eta ez hirugarren batekin (sareko erasotzaile bat, esaterako), seguru komunikatzen ari zarela egiazta daiteke.</translation>
+<translation id="6295228342562451544">Webgune seguru batera konektatzen zarenean, webgune hori ostatatzen duen zerbitzariak "ziurtagiria" deritzon zerbaitekin aurkezten du zure arakatzailea, bere identitatea egiaztatzeko. Ziurtagiriak identifikatzeko informazioa du, hala nola webgunearen helbidea. Helbide hori zure ordenagailurako fidagarri den hirugarren batek egiaztatzen du. Ziurtagiriko helbidea webguneko helbidearekin bat datorrela begiratuta, nahi zenuen webgunearekin, eta ez hirugarren batekin (sareko erasotzaile bat, esaterako), seguru komunikatzen ari zarela egiazta daiteke.</translation>
+<translation id="7073704676847768330">Segur aski hau ez da bilatzen ari zaren webgunea.</translation>
+<translation id="2941952326391522266">Zerbitzariak ezin izan du frogatu <ph name="DOMAIN"/> dela; segurtasun-ziurtagiriaren jatorria hau da: <ph name="DOMAIN2"/>. Baliteke konfigurazioa okerra izatea edo erasotzaileren bat zure konexioan sartzen aritzea.</translation>
+<translation id="7761701407923456692">Zerbitzariaren ziurtagiria ez dator bat URLarekin.</translation>
+<translation id="3581034179710640788">Webgunearen segurtasun-ziurtagiria iraungi da.</translation>
+<translation id="436701661737309601">Iraungi gabeko ziurtagirietan, ziurtagiriaren jaulkitzailea ez da "errebokazio-zerrenda" deritzona mantentzearen arduradun. Inoiz ziurtagiria arriskuan badago, jaulkitzaileak erreboka dezake errebokazio-zerrendan gehituta. Ondorioz, arakatzaileak ziurtagiria fidagarritzat hartzeari utziko dio. Errebokazio-egoera ez da beharrezkoa iraungitako ziurtagirietan. Beraz, ziurtagiria ikusten ari zaren webgunerako baliozkoa bazen ere, egoera horretan ezin da zehaztu ziurtagiria arriskuan jarri ote den eta, ondorioz, errebokatu den, edo segurua izaten jarraitzen ote duen. Zentzu hertsian esanda, ezin da esan egiazko webgune batekin komunikatzen ari ote zaren, edo ziurtagiria aldatu ote den eta komunikatzen ari zaren erasotzaile baten eskuetan dagoen.</translation>
+<translation id="8971063699422889582">Zerbitzariaren ziurtagiria iraungi da.</translation>
+<translation id="1618661679583408047">Zerbitzariaren segurtasun-ziurtagiria ez da oraindik baliozkoa.</translation>
+<translation id="825608351287166772">Ziurtagiriek baliozko epea dute, daukazun edozein identitate-dokumentu (pasaportea, esaterako) bezala. Arakatzaileari aurkeztutako ziurtagiria ez da oraindik baliozkoa. Ziurtagiria baliozko epetik kanpo dagoenean, ez da mantendu behar ziurtagiriaren egoerari buruzko informazio zehatza (errebokatu ote den eta fidatzeari utzi behar ote zaion). Zentzu hertsian esanda, ezin da ziurtagiria fidagarria den egiaztatu. Ez zenuke jarraitu behar.</translation>
+<translation id="7938958445268990899">Zerbitzariaren ziurtagiria ez da oraindik baliozkoa.</translation>
+<translation id="2915500479781995473">Zerbitzariak ezin izan du frogatu <ph name="DOMAIN"/> dela; segurtasun-ziurtagiria iraungita dago. Baliteke konfigurazioa okerra izatea edo erasotzaileren bat zure konexioan sartzen aritzea. Ordenagailuko ordua hau da: <ph name="CURRENT_TIME"/>. Zuzena al da? Hala ez bada, aldatu sistemako ordua eta, ondoren, freskatu orria.</translation>
+<translation id="229702904922032456">Erroko edo tarteko ziurtagiria iraungi da.</translation>
+<translation id="374530189620960299">Webgunearen segurtasun-ziurtagiria ez da fidagarria.</translation>
+<translation id="168929553803686581">Kasu honetan, ziurtagiria ez du zure gailu mugikorrerako fidagarria den hirugarren batek egiaztatu. Edonork sor dezake ziurtagiri bat, aukeratzen duen edozein webgune dela esanez; hori dela-eta, hirugarren fidagarri batek egiaztatu behar du. Egiaztapen hori gabe, ziurtagiriaren identitate-informazioak ez dauka baliorik. Ondorioz, ezin da egiaztatu <ph name="DOMAIN"/> webgunearekin komunikatzen ari zarenik eta ez <ph name="DOMAIN2"/> dela dioen ziurtagiri propioa sortu duen erasotzaile batekin. Ez zenuke aurrera jarraitu behar.</translation>
+<translation id="6517558746015096434">Alabaina, bere ziurtagiriak sortzen dituen erakunde batean lan egiten baduzu, eta halako ziurtagiri bat erabiliz erakunde horretako barneko webgune batera konektatu nahian bazabiltza, arazoa modu seguruan konpon dezakezu. Inportatu erakundearen erroko ziurtagiriak "erroko ziurtagiri" gisa, eta zure erakundeak jaulkitako edo egiaztatutako ziurtagiriak fidagarri izango dira. Horrela, ez duzu errore hau ikusiko barneko webgune batera konektatzen saiatzen zaren hurrengo aldian. Jarri harremanetan erakundearen laguntza teknikoarekin gailu mugikorrean beste erroko ziurtagiri bat gehitzen laguntzeko.</translation>
+<translation id="2159087636560291862">Kasu honetan, ziurtagiria ez du zure ordenagailurako fidagarria den hirugarren batek egiaztatu. Edonork sor dezake ziurtagiri bat, aukeratzen duen edozein webgune dela esanez; hori dela-eta, hirugarren fidagarri batek egiaztatu behar du. Egiaztapen hori gabe, ziurtagiriko identitate-informazioak ez dauka baliorik. Ondorioz, ezin da egiaztatu <ph name="DOMAIN"/> webgunearekin komunikatzen ari zarenik eta ez <ph name="DOMAIN2"/> dela dioen ziurtagiri propioa sortu duen erasotzaile batekin. Ez zenuke aurrera jarraitu behar.</translation>
+<translation id="2645575947416143543">Alabaina, bere ziurtagiriak sortzen dituen erakunde batean lan egiten baduzu, eta halako ziurtagiri bat erabiliz erakunde horretako barneko webgune batera konektatu nahian bazabiltza, arazoa modu seguruan konpon dezakezu. Inportatu erakundearen erroko ziurtagiriak "erroko ziurtagiri" gisa, eta zure erakundeak jaulkitako edo egiaztatutako ziurtagiriak fidagarri izango dira. Horrela, ez duzu errore hau ikusiko barneko webgune batera konektatzen saiatzen zaren hurrengo aldian. Jarri harremanetan erakundearen laguntza teknikoarekin ordenagailuan beste erroko ziurtagiri bat gehitzen laguntzeko.</translation>
+<translation id="3528171143076753409">Zerbitzariaren ziurtagiria ez da fidagarria.</translation>
+<translation id="2649911884196340328">Zerbitzariaren segurtasun-ziurtagiriak erroreak ditu.</translation>
+<translation id="8534801226027872331">Kasu honetan, zure arakatzailean aurkeztutako arakatzaileak erroreak ditu eta ez dugu ulertzen. Baliteke ziurtagiriko identitate-informazioa ezin ulertzea, edo ziurtagiriko bestelako informazioren bat konexio babesteko erabili izana. Ez zenuke jarraitu behar.</translation>
+<translation id="2491120439723279231">Zerbitzariaren ziurtagiriak erroreak ditu.</translation>
+<translation id="8318945219881683434">Ezin izan da errebokazioa egiaztatu.</translation>
+<translation id="9141716082071217089">Ezin da zerbitzariaren ziurtagiria errebokatu ote den egiaztatu.</translation>
+<translation id="2922350208395188000">Ezin da zerbitzariaren ziurtagiria egiaztatu.</translation>
+<translation id="884923133447025588">Ez da errebokazio-mekanismorik aurkitu.</translation>
+<translation id="2413528052993050574">Zerbitzariak ezin izan du frogatu <ph name="DOMAIN"/> dela. Segurtasun-ziurtagiria errebokatu izan daiteke. Baliteke konfigurazioa okerra izatea edo erasotzaileren bat zure konexioan sartzen aritzea.</translation>
+<translation id="8187473050234053012">Zerbitzariaren segurtasun-ziurtagiria errebokatu da.</translation>
+<translation id="4377125064752653719"><ph name="DOMAIN"/> webgunera joaten saiatu zara, baina jaulkitzaileak zerbitzariak aurkeztutako ziurtagiria errebokatu du. Horrek zera esan nahi du: ezin dela inolaz ere zerbitzariak aurkeztutako segurtasun-kredentzialaz fidatu. Baliteke erasotzaile batekin komunikatzen aritzea.</translation>
+<translation id="5275799318132317934">Kasu honetan, jaulkitzaileak arakatzaileari aurkeztutako ziurtagiria errebokatu du. Horrek, normalean, esan nahi du ziurtagiriaren zuzentasuna arriskua jarri dela, eta ziurtagiria ez dela fidagarria.</translation>
+<translation id="2386255080630008482">Zerbitzariaren ziurtagiria errebokatu da.</translation>
+<translation id="4222982218026733335">Zerbitzariaren ziurtagiri baliogabea</translation>
+<translation id="9049981332609050619"><ph name="DOMAIN"/> webgunera joaten saiatu zara, baina zerbitzariak ziurtagiri baliogabe bat aurkeztu du.</translation>
+<translation id="3776667127601582921">Kasu honetan, zure arakatzaileari aurkeztutako zerbitzariaren ziurtagiria edo tarteko CA ziurtagiri bat baliogabea da. Ziurtagiria gaizki eratuta dagoela, eremu baliogabeak dituela edo ez dela onartzen esan nahi du.</translation>
+<translation id="917450738466192189">Zerbitzariaren ziurtagiria baliogabea da.</translation>
+<translation id="9145357542626308749">Webgunearen segurtasun-ziurtagiria sinadura-algoritmo ahul batekin sinatu da.</translation>
+<translation id="2171101176734966184"><ph name="DOMAIN"/> webgunera joaten saiatu zara, baina zerbitzariak sinadura-algoritmo ahul batekin sinatutako ziurtagiria aurkeztu du. Horrek zera esan nahi du: baliteke zerbitzariak aurkeztutako segurtasun-kredentzialak faltsutuak izana edo baliteke zerbitzaria espero duzun zerbitzaria ez izatea (baliteke erasotzaile batekin komunikatzen aritzea).</translation>
+<translation id="4320833726226688924">Kasu honetan, arakatzaileari aurkeztutako zerbitzariaren ziurtagiria edo tarteko CA ziurtagiria sinadura-algoritmo ahul batekin sinatu da, RSA-MD2, esaterako. Informatika-zientzialariek duela gutxi egindako ikerketak erakutsi du sinadura-algoritmoa uste zena baino ahulagoa dela, eta sinadura-algoritmo hori oso webgune fidagarri gutxik erabiltzen dutela gaur egun. Baliteke ziurtagiri hauek faltsutu izatea.</translation>
+<translation id="2728127805433021124">Zerbitzariaren ziurtagiria sinadura-algoritmo ahul batekin sinatu da.</translation>
+<translation id="6315723398663634808">Zerbitzariaren ziurtagiriak gako kriptografiko ahula du.</translation>
+<translation id="121201262018556460"><ph name="DOMAIN"/> webgunera joaten saiatu zara, baina zerbitzariak gako ahul bat duen ziurtagiria aurkeztu du. Baliteke erasotzaile batek gako pribatua hautsi izana, eta baliteke zerbitzaria espero duzun zerbitzaria ez izatea (baliteke erasotzaile batekin komunikatzen aritzea).</translation>
+<translation id="2929033900046795715">Kasu honetan, arakatzaileari aurkeztutako zerbitzari-ziurtagiriak edo tarteko CA ziurtagiri batek gako ahula du, 1024 bit edo gutxiagoko RSA gakoa, esaterako. Gako publiko ahulari dagokion gako pribatua lortzea nahiko erraza denez, erasotzaile batek benetako ziurtagiriaren identitatea faltsutu zezakeen.</translation>
+<translation id="168841957122794586">Zerbitzariaren ziurtagiriak gako kriptografiko ahula du.</translation>
+<translation id="4253787465144837701">Zerbitzariaren ziurtagiriak ez luke domeinu-izenik izan behar.</translation>
+<translation id="7567204685887185387">Zerbitzariak ezin izan du frogatu <ph name="DOMAIN"/> dela. Segurtasun-ziurtagiria iruzurrez jaulki izan daiteke. Baliteke konfigurazioa okerra izatea edo erasotzaileren bat zure konexioan sartzen aritzea.</translation>
+<translation id="7592362899630581445">Zerbitzariaren ziurtagiriak izenen murriztapenak urratzen ditu.</translation>
+<translation id="5944101742958374175">Jasotako ziurtagiriaren maiuskula/minuskula berezien salbuespena aurkitu da.</translation>
+<translation id="5623463370978611784">Jasotako ziurtagiria oker gisa markatu da. Informazio gehiago eskuratzeko, ikusi $1.</translation>
+<translation id="1177437665183591855">Zerbitzariaren ziurtagiri-errore ezezaguna</translation>
+<translation id="4771973620359291008">Errore ezezagun bat gertatu da.</translation>
+<translation id="674375294223700098">Zerbitzariaren ziurtagiri-errore ezezaguna.</translation>
+<translation id="5598024575303778520">Iruzur-abisua</translation>
+<translation id="7311721172731074902">Iruzur-abisua</translation>
+<translation id="4056154188339276219">Webgunea iruzurrezko webgune gisa salatu da. Webgune honekin informazio garrantzitsua edo isilpekoa trukatuz gero, zure identitatea norbaitek lapurtzeko eta/edo finantza-iruzurra sufritzeko arriskuan duzu.</translation>
+<translation id="6494666865857176946">Opera Software softwareak orri hau ez bisitatzeko eskatzen dizu.</translation>
+<translation id="8357891144266644027">Webgune maltzurraren abisua</translation>
+<translation id="4664012235452972339">Webgune maltzurraren abisua</translation>
+<translation id="8219093269265469764">Orri hau bisitatzea kaltegarria izan daiteke. Software maltzurra banatzen duela salatu da.</translation>
+<translation id="4863259811271883558">Salatzailea: <ph name="BEGIN_LINK"/><ph name="PROVIDER_NAME"/><ph name="END_LINK"/></translation>
+<translation id="3141322567138977593">Itzuli modu seguruan</translation>
+<translation id="833642844779103272">Itzuli modu seguruan</translation>
+<translation id="4238466718818823211">Ez ikusi abisua</translation>
+<translation id="1755698976576372535">Zergatik blokeatu da orri hau?</translation>
+<translation id="7459549266751278805">Opera jakinarazpenen gunea</translation>
+<translation id="7470668651798735849">Webguneetako jakinarazpen guztiak ikus ditzakezu bertan.</translation>
+<translation id="4501379002264542907">Opera - Jakinarazpenak</translation>
+<translation id="1352092048463356430">Opera - Jakinarazpenak (<ph name="QUANTITY"/> irakurri gabe)</translation>
+<translation id="4159400746343093340">Opera - Jakinarazpenak</translation>
+<translation id="6018626517703817463">Opera - Jakinarazpenak (<ph name="QUANTITY"/> irakurri gabe)</translation>
+<translation id="6426222199977479699">SSL errorea</translation>
+<translation id="8398877366907290961">Jarraitu, halere</translation>
+<translation id="6264485186158353794">Itzuli segurtasunera</translation>
+<translation id="2225024820658613551">Ez jarraitu; &lt;strong&gt;batik bat&lt;/strong&gt; ez baduzu inoiz abisu hau ikusi webgune honetan.</translation>
+<translation id="5645845270586517071">Segurtasun-errorea</translation>
+<translation id="1103666958012677467">Ezin duzu jarraitu, webgunearen operadoreak domeinu honen segurtasun handiagoa eskatu baitu.</translation>
+<translation id="5463275305984126951"><ph name="LOCATION"/> aurkibidea</translation>
+<translation id="8877448029301136595">[direktorio nagusia]</translation>
+<translation id="5327248766486351172">Izena</translation>
+<translation id="8028993641010258682">Tamaina</translation>
+<translation id="57646104491463491">Aldatze-data</translation>
+<translation id="3835522725882634757">Zerbitzaria <ph name="PRODUCT_NAME"/> webguneak ulertu ezin dituen datuak bidaltzen ari da. <ph name="BEGIN_LINK"/>Eman errorearen berri<ph name="END_LINK"/> eta gehitu <ph name="BEGIN2_LINK"/>zerrenda gordina<ph name="END2_LINK"/>.</translation>
+<translation id="4231205248927312226">Berretsi inprimakia berriro bidali dela</translation>
+<translation id="6451458296329894277">Berretsi inprimakia berriro bidali dela</translation>
+<translation id="2032601515784864742">Kasu honetan, ziurtagirian zerrendatutako helbidea ez dator bat arakatzailea joaten saiatu den helbidearekin. Arrazoi bat izan daiteke beste webgune baterako (eta bat ez etortzea eragin dezake) ziurtagiria aurkezten duen erasotzaile batek zure komunikazioak atzeman izana. Beste arrazoi bat izan daiteke zerbitzaria hainbat webgunetarako ziurtagiri bera itzultzeko konfiguratuta egotea, baita bisitatzen saiatzen zaren hori ere, nahiz eta ziurtagiria webgune horietarako guztietarako baliozkoa ez izan. <ph name="PRODUCT_NAME"/> aplikazioak ziurta diezazuke &lt;strong&gt;<ph name="DOMAIN2"/>&lt;/strong&gt; webgunera joan zarela, baina ezin du egiaztatu joan nahi zenuen &lt;strong&gt;<ph name="DOMAIN"/>&lt;/strong&gt; webgunea webgune bera denik. Jarraitzen baduzu, <ph name="PRODUCT_NAME"/> aplikazioak ezin izango du bat ez etortze gehiago egiaztatu.</translation>
+<translation id="1639773643001837725">Zerbitzariak ezin izan du frogatu <ph name="DOMAIN"/> dela; segurtasun-ziurtagiria duela <ph name="DAYS"/> egun iraungi zen. Baliteke konfigurazioa okerra izatea edo erasotzaileren bat zure konexioan sartzen aritzea. Ordenagailuko ordua hau da: <ph name="CURRENT_TIME"/>. Zuzena al da? Hala ez bada, aldatu sistemako ordua eta, ondoren, freskatu orria.</translation>
+<translation id="7235421518178823985">Zerbitzariak ezin izan du frogatu <ph name="DOMAIN"/> dela; segurtasun-ziurtagiria <ph name="DAYS"/> egun barrukoa omen da. Baliteke konfigurazioa okerra izatea edo erasotzaileren bat zure konexioan sartzen aritzea.</translation>
+<translation id="1763864636252898013">Zerbitzariak ezin izan du frogatu <ph name="DOMAIN"/> dela; gailuaren sistema eragileak ez du segurtasun-ziurtagiria fidagarritzat hartzen. Baliteke konfigurazioa okerra izatea edo erasotzaileren bat zure konexioan sartzen aritzea.</translation>
+<translation id="467662567472608290">Zerbitzariak ezin izan du frogatu <ph name="DOMAIN"/> dela; segurtasun-ziurtagiriak erroreak ditu. Baliteke konfigurazioa okerra izatea edo erasotzaileren bat zure konexioan sartzen aritzea.</translation>
+<translation id="8465929756435120446">Orriak eduki ez-segurua du.</translation>
+<translation id="4522570452068850558">Xehetasunak</translation>
+<translation id="3586931643579894722">Ezkutatu xehetasunak</translation>
+<translation id="8962083179518285172">Ezkutatu xehetasunak</translation>
+<translation id="6042308850641462728">Gehiago</translation>
+<translation id="2089090684895656482">Gutxiago</translation>
+<translation id="5556459405103347317">Kargatu berriro</translation>
+<translation id="9193357432624119544">Errore-kodea: <ph name="ERROR_NAME"/></translation>
+<translation id="4910619056351738551">Hona hemen iradokizun batzuk:</translation>
+<translation id="2662338103506457097">Kargatu berriro web-orri hau.</translation>
+<translation id="3226128629678568754">Orria kargatzeko beharrezko datuak berriro bidaltzeko, sakatu Kargatu berriro botoia.</translation>
+<translation id="8196061687045545167">Desgaitu luzapenak eta kargatu berriro web-orri hau.</translation>
+<translation id="3155309969919037916">Egiaztatu Interneteko konexioa.</translation>
+<translation id="1519957265434608160">Egiaztatu kableak eta berrabiarazi bideratzaileak, modemak edo erabiltzen ari zaren bestelako sare-gailuak.</translation>
+<translation id="2319236583141234177">Egiaztatu DNS ezarpenak.</translation>
+<translation id="8289355894181816810">Ez badakizu oso ondo honek zer esan nahi duen, jarri harremanetan sare-administratzailearekin.</translation>
+<translation id="5573959367212558217">Saiatu sare-iragarpena desgaitzen.</translation>
+<translation id="8888594059056485523">Onartu Opera arakatzaileari suebakiko sarean edo antibirusaren ezarpenetan sartzen.</translation>
+<translation id="6456804684535455731">Dagoeneko sarean sartzeko onartutako programa gisa zerrendatuta badago, saiatu zerrendatik kentzen eta berriro gehitzen.</translation>
+<translation id="382518646247711829">Proxy-zerbitzari bat erabiltzen baduzu...</translation>
+<translation id="7616012285680677132">Proxy-zerbitzariak funtzionatzen duela ziurtatzeko, egiaztatu proxy-ezarpenak edo jarri harremanetan sare-administratzailearekin. <ph name="PLATFORM_TEXT"/></translation>
+<translation id="8454634452929957533">Proxy-zerbitzariak funtzionatzen duela ziurtatzeko, egiaztatu proxy-ezarpenak edo jarri harremanetan sare-administratzailearekin. Ez uste baduzu proxy-zerbitzaria erabili behar zenukeenik: <ph name="PLATFORM_TEXT"/></translation>
+<translation id="8040357206858000048">Joan Aplikazioak &gt; Sistemaren hobespenak &gt; Sarea &gt; Aurreratua &gt; Proxyak pantailara eta desautatu hautatu dagoen edozein proxy.</translation>
+<translation id="7158277678571698323">Joan Opera menura &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; LAN ezarpenak pantailara eta desautatu "Erabili LAN sarearen proxy-zerbitzaria".</translation>
+<translation id="2954705784594331199"><ph name="BEGIN_LINK"/>Kargatu berriro<ph name="END_LINK"/> web-orri hau geroago.</translation>
+<translation id="4977565600485911823">Desgaitu luzapenak eta <ph name="BEGIN_LINK"/>kargatu berriro<ph name="END_LINK"/> web-orri hau.</translation>
+<translation id="1103966635949043187">Joan webgunearen hasierako orrira:</translation>
+<translation id="7747589364844254751">Egiaztatu Interneteko konexioa. Berrabiarazi bideratzaileak, modemak edo erabiltzen ari zaren bestelako sare-gailuak.</translation>
+<translation id="5548623538190661145">Egiaztatu DNS ezarpenak. Ez badakizu oso ondo honek zer esan nahi duen, jarri harremanetan sare-administratzailearekin.</translation>
+<translation id="9127307628159259612">Gehitu <ph name="PRODUCT_NAME"/> onartutako programa gisa zure suebakiaren edo antibirusaren softwarearen ezarpenetan. Dagoeneko onartutako programa bada, saiatu onartutako programen zerrendatik ezabatzen eta berriro gehitzen.</translation>
+<translation id="4545046228395991092">Proxy-zerbitzari bat erabiltzen baduzu, proxy-zerbitzariak funtzionatzen duela ziurtatzeko, egiaztatu proxy-ezarpenak edo jarri harremanetan sare-administratzailearekin.</translation>
+<translation id="1712673276482711826">Proxy-zerbitzari bat erabiltzen baduzu, proxy-zerbitzariak funtzionatzen duela ziurtatzeko, egiaztatu proxy-ezarpenak edo jarri harremanetan sare-administratzailearekin. Ez baduzu uste proxy-zerbitzaria erabili behar zenukeenik: <ph name="PLATFORM_TEXT"/></translation>
+<translation id="721197778055552897">Lortu arazo honi buruzko <ph name="BEGIN_LINK"/>informazio gehiago<ph name="END_LINK"/>.</translation>
+<translation id="2214283295778284209"><ph name="SITE"/> ez dago erabilgarri.</translation>
+<translation id="4032534284272647190"><ph name="URL"/> webgunerako sarbidea ukatu da.</translation>
+<translation id="790025292736025802">Ez da <ph name="URL"/> aurkitu</translation>
+<translation id="641480858134062906">Ezin izan da <ph name="URL"/> kargatu</translation>
+<translation id="4697214168136963651"><ph name="URL"/> blokeatu da</translation>
+<translation id="9020278534503090146">Web-orria ez dago erabilgarri</translation>
+<translation id="9086455579313502267">Ezin da sarean sartu</translation>
+<translation id="6771079623344431310">Ezin da proxy-zerbitzarira konektatu</translation>
+<translation id="5303446622366702551">Ezin da Internetera konektatu</translation>
+<translation id="6640442327198413730">Cachea galdu da</translation>
+<translation id="4786993863723020412">Errorea cachea irakurtzean</translation>
+<translation id="5880867612172997051">Sarerako sarbidea eten da</translation>
+<translation id="5303618139271450299">Ez da web-orria aurkitu</translation>
+<translation id="7269802741830436641">Web-orri honek birbideratzeko begizta bat du</translation>
+<translation id="778579833039460630">Ez da daturik jaso</translation>
+<translation id="4980112683975062744">Goiburu bikoiztuak jaso dira zerbitzaritik</translation>
+<translation id="7839809549045544450">Zerbitzariak Diffie-Hellman gako publiko iragankor ahula du</translation>
+<translation id="820791781874064845">Luzapen batek web-orria blokeatu du</translation>
+<translation id="4764776831041365478">Baliteke <ph name="URL"/> web-orria aldi baterako hondatuta egotea edo baliteke behin betiko beste web-helbide batera mugitu izana.</translation>
+<translation id="2776514516555065663"><ph name="PRODUCT_NAME"/> aplikazioak ezin izan du web-orria kargatu, <ph name="HOST_NAME"/> ostalariak denbora gehiegi pasa baitu erantzuteko. Baliteke webgunea hondatuta egotea edo baliteke arazoak izatea Interneteko konexioarekin.</translation>
+<translation id="7732608718511994155"><ph name="HOST_NAME"/> ostalarirako konexioa eten da.</translation>
+<translation id="6866330586943304386">Interneteko konexioan izan den aldaketa batek <ph name="HOST_NAME"/> ostalarirako konexioa eten du.</translation>
+<translation id="3353584498371175254"><ph name="PRODUCT_NAME"/> aplikazioak <ph name="HOST_NAME"/> ostalarian konektatzeko saiakera baztertu da. Baliteke webgunea hondatuta egotea edo baliteke zure sarea behar bezala konfiguratuta ez egotea.</translation>
+<translation id="1775580281086246828">Ezin da <ph name="HOST_NAME"/> ostalariko zerbitzaria aurkitu, ezin izan baita DNSa aurkitu. DNSa webgunearen izena Interneteko helbidera itzultzen duen sareko zerbitzua da. Errore hau, normalean, Interneteko konexiorik ez izateak edo gaizki konfiguratutako sare bat izateak eragiten du. Baliteke erantzun bakarreko DNS zerbitzari bat edo <ph name="PRODUCT_NAME"/> aplikazioari sarea atzitzea eragozten dion suebaki bat izatea.</translation>
+<translation id="1900640198039665133"><ph name="PRODUCT_NAME"/> aplikazioa ezin da webgunera joan. Normalean sare-arazoengatik gertatzen da, baina baliteke suebakia edo proxy-zerbitzaria gaizki konfiguratuta egoteagatik ere gertatzea.</translation>
+<translation id="6061713520396617275">Ezin da <ph name="URL"/> helbideko fitxategia irakurri. Baliteke fitxategia kendu edo mugitu izana edo baliteke fitxategiaren baimenek sarbidea eragoztea.</translation>
+<translation id="3743996431420410209"><ph name="PRODUCT_NAME"/> aplikazioak arazoak ditu sarea atzitzeko. <ph name="LINE_BREAK"/> Baliteke suebakiak edo antibirusak <ph name="PRODUCT_NAME"/> aplikazioa gailu mugikorrean arrotza dela pentsatzea eta Interneterako konexioa blokeatzea.</translation>
+<translation id="8525957822916060992">Proxy-zerbitzaria gailu mugikorraren eta beste zerbitzari batzuen artean bitartekari gisa jokatzen duen zerbitzaria da. Une honetan, sistema proxy bat erabiltzeko konfiguratuta dago, baina <ph name="PRODUCT_NAME"/> aplikazioa ezin da hara konektatu.</translation>
+<translation id="2182771052381938197"><ph name="PRODUCT_NAME"/> aplikazioak ezin du web-orria bistaratu, gailu mugikorra ez baitago Internetera konektatuta.</translation>
+<translation id="8504605147845230067"><ph name="ERROR_DESCRIPTION_TEXT"/></translation>
+<translation id="6482869692698550826"><ph name="PRODUCT_NAME"/> aplikazioak arazoak ditu sarea atzitzeko. <ph name="LINE_BREAK"/> Baliteke suebakiak edo antibirusak <ph name="PRODUCT_NAME"/> aplikazioa ordenagailuan arrotza dela pentsatzea eta Interneterako konexioa blokeatzea.</translation>
+<translation id="6268299223990012826">Proxy-zerbitzaria ordenagailuaren eta beste zerbitzari batzuen artean bitartekari gisa jokatzen duen zerbitzaria da. Une honetan, sistema proxy bat erabiltzeko konfiguratuta dago, baina <ph name="PRODUCT_NAME"/> aplikazioa ezin da hara konektatu.</translation>
+<translation id="2082033521101679150"><ph name="PRODUCT_NAME"/> aplikazioak ezin du web-orria bistaratu, ordenagailua ez baitago Internetera konektatuta.</translation>
+<translation id="5025570087133380871"><ph name="ERROR_DESCRIPTION_TEXT"/> <ph name="LINE_BREAK"/> Arazoaren diagnosia egiten saiatzeko, egin urrats hauek: <ph name="LINE_BREAK"/> <ph name="PLATFORM_TEXT"/></translation>
+<translation id="3952238365087168585">Joan <ph name="BEGIN_BOLD"/> Aplikazioak &gt; Sistemaren hobespenak &gt; Sarea &gt; Lagun nazazu <ph name="END_BOLD"/> pantailara, konexioa aztertzeko.</translation>
+<translation id="8907719130223575953">Joan <ph name="BEGIN_BOLD"/> Hasiera &gt; Kontrol-panela &gt; Sarea eta Internet &gt; Sarea eta partekatze-gunea &gt; Arazoak konpondu (behealdean) &gt; Interneteko konexioak <ph name="END_BOLD"/> pantailara.</translation>
+<translation id="6426809368065002078">Joan <ph name="BEGIN_BOLD"/> Hasiera &gt; Kontrol-panela &gt; Sare-konexioak &gt; Konexio-laguntzaile berria <ph name="END_BOLD"/> pantailara, konexioa aztertzeko.</translation>
+<translation id="2430210664810280637">Sakatu <ph name="BEGIN_BOLD"/>Hasiera<ph name="END_BOLD"/>, sakatu <ph name="BEGIN_BOLD"/>Exekutatu<ph name="END_BOLD"/>, idatzi <ph name="BEGIN_BOLD"/>%windir%\networkdiagnostic\xpnetdiag.exe<ph name="END_BOLD"/> eta sakatu <ph name="BEGIN_BOLD"/>Ados<ph name="END_BOLD"/>.</translation>
+<translation id="5098248489969453574">Ez da web-orria cachean aurkitu. Zenbait baliabide cachetik soilik karga daitezke modu seguruan, adibidez bidalitako datuetatik sortutako orriak. <ph name="LINE_BREAK"/> Errore hau baliteke behar bezala ez ixteagatik sortutako cache-hondatze batek eragin izana. <ph name="LINE_BREAK"/> Arazoak jarraitzen badu, saiatu cachea garbitzen.</translation>
+<translation id="2275837730041455081">Web-orriak azkartzeko, <ph name="PRODUCT_NAME"/> aplikazioak deskargatutako fitxategiak diskoan gordetzen ditu aldi baterako. Ez denean <ph name="PRODUCT_NAME"/> behar bezala ixten, fitxategi horiek hondatu egiten dira eta errore bat sortzen da. Orria berriro kargatuta arazoak konpondu beharko luke, eta, gerora, orriak behar bezala ixtea errore hau berriro gertatzea ekidingo luke. <ph name="LINE_BREAK"/> Arazoak jarraitzen badu, saiatu cachea garbitzen. Batzuetan, hardwarea hondatzen hasita dagoen seinale ere izaten da.</translation>
+<translation id="9029615070002286968">Ezin izan da web-orria kargatu, gailu mugikorra lo edo hibernatu moduan sartu delako. Hori gertatzen denean, sare-konexioak itxi egiten dira eta sare-eskaera berriak huts egiten du. Arazoak orria berriro kargatuta konpondu beharko luke.</translation>
+<translation id="4534415571332240241">Ezin izan da web-orria kargatu, ordenagailua lo edo hibernatu moduan sartu delako. Hori gertatzen denean, sare-konexioak itxi egiten dira eta sare-eskaera berriak huts egiten du. Arazoak orria berriro kargatuta konpondu beharko luke.</translation>
+<translation id="7518003948725431193">Ez da web-helbide honetarako web-orririk aurkitu: <ph name="URL"/></translation>
+<translation id="9164387458644511612"><ph name="URL"/> helbideko web-orriak birbideratze gehiegi izan ditu. Webgunearen cookieak garbitzeak edo hirugarrenen cookieak onartzeak arazoa konpon dezake. Bestela, baliteke zerbitzariaren konfigurazio-arazo bat izatea eta ez gailu mugikorrarena.</translation>
+<translation id="3015602778474660457"><ph name="URL"/> helbideko web-orriak birbideratze gehiegi izan ditu. Webgunearen cookieak garbitzeak edo hirugarrenen cookieak onartzeak arazoa konpon dezake. Bestela, baliteke zerbitzariaren konfigurazio-arazo bat izatea eta ez ordenagailuarena.</translation>
+<translation id="4287689875748136217">Ezin izan da web-orria kargatu, zerbitzariak ez baitu daturik bidali.</translation>
+<translation id="660896802268593778">Zerbitzariko erantzunak goiburu bikoiztuak zituen. Arazoa normalean gaizki konfiguratutako webgune edo proxy baten ondorio da. Webgunearen edo proxyaren administratzaileak soilik konpon dezake arazo hori.</translation>
+<translation id="5954987802886981088">Errore hau zerbitzari seguru batera (HTTPS) konektatzen saiatzean gerta daiteke. Zerbitzaria konexio seguru bat konfiguratzen saiatzen ari dela esan nahi du, baina, zorigaiztoko konfigurazio oker baten ondorioz, konexioak ezin du segurua izan. <ph name="LINE_BREAK"/> Hala, zerbitzaria konpondu behar da. <ph name="PRODUCT_NAME"/> aplikazioak ez du seguruak ez diren konexiorik erabiltzen, zure pribatutasuna babeste aldera.</translation>
+<translation id="8752577199214871617">Ezin izan da <ph name="HOST_NAME"/> bilatu.</translation>
+<translation id="8235325155053717782"><ph name="ERROR_NUMBER"/> errorea (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="3986287159189541211">HTTP errorea <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="4405141258442788789">Eragiketak denbora-muga gainditu du.</translation>
+<translation id="3118046075435288765">Zerbitzariak ustekabean itxi du konexioa.</translation>
+<translation id="2784949926578158345">Konexioa berrezarri da.</translation>
+<translation id="9020142588544155172">Zerbitzariak konexioa ukatu du.</translation>
+<translation id="8494979374722910010">Ezin da zerbitzarira konektatu.</translation>
+<translation id="2909946352844186028">Sare-aldaketa bat detektatu da.</translation>
+<translation id="5949910269212525572">Ezin da zerbitzariaren DNS helbidea ebatzi.</translation>
+<translation id="5498951625591520696">Ezin da zerbitzarira joan.</translation>
+<translation id="3950924596163729246">Ezin da sarean sartu.</translation>
+<translation id="4147376274874979956">Ezin da fitxategian sartu.</translation>
+<translation id="4535734014498033861">Proxy-zerbitzariaren konexioak huts egin du.</translation>
+<translation id="6728024709633626254">Interneteko konexioa galdu da.</translation>
+<translation id="201192063813189384">Errorea cacheko datuak irakurtzean.</translation>
+<translation id="3393716657345709557">Ez da eskatutako sarrera cachean aurkitu.</translation>
+<translation id="7450732239874446337">IO sarea eten da.</translation>
+<translation id="6391832066170725637">Ezin izan da fitxategia edo direktorioa aurkitu.</translation>
+<translation id="3748412725338508953">Gehiegitan birbideratu da.</translation>
+<translation id="2950186680359523359">Zerbitzariak daturik bidali gabe itxi du konexioa.</translation>
+<translation id="2929266020546499971">Hainbat eduki-luzera goiburu jaso dira. Hori ez da onartzen, HTTP erantzuna zatitzen duen erasoen kontra babesteko.</translation>
+<translation id="2297038239859335744">Hainbat eduki-izaera goiburu jaso dira. Hori ez da onartzen, HTTP erantzuna zatitzen duen erasoen kontra babesteko.</translation>
+<translation id="3336388975352605720">Hainbat kokapen-goiburu jaso dira baina ez da hori onartzen, HTTP erantzuna zatitzen duen erasoen kontra babesteko.</translation>
+<translation id="6626108645084335023">DNS probaren zain.</translation>
+<translation id="1195447618553298278">Errore ezezaguna.</translation>
+<translation id="6066742401428748382">Web-orrirako sarbidea ukatu da</translation>
+<translation id="2650446666397867134">Fitxategirako sarbidea ukatu da</translation>
+<translation id="3261690198327056381">Ez duzu <ph name="URL"/> helbideko web-orrian sartzeko baimenik. Baliteke saioa hasi behar izatea.</translation>
+<translation id="3903912596042358459">Zerbitzariak uko egin dio eskaera betetzeari.</translation>
+<translation id="904949795138183864"><ph name="URL"/> helbideko web-orria jada ez dago.</translation>
+<translation id="5319054530310231888">Eskatutako baliabidea jada ez dago, eta ez dago birbideratzeko helbiderik. Behin betiko izango dela dirudi.</translation>
+<translation id="8295070100601117548">Zerbitzari-errorea</translation>
+<translation id="1055268999302881517">Webguneak errore bat aurkitu du <ph name="URL"/> helbidea eskuratzean. Baliteke mantentze-lanek iraun bitartean eskuragarri ez egotea edo gaizki konfiguratuta egotea.</translation>
+<translation id="2279770628980885996">Ustekabeko baldintza aurkitu da zerbitzaria eskaera betetzen saiatu denean.</translation>
+<translation id="4060383410180771901">Webguneak ezin izan du <ph name="URL"/> helbidearen eskaera kudeatu.</translation>
+<translation id="477518548916168453">Zerbitzariak ez du eskaera betetzeko behar den funtzionalitatea onartzen.</translation>
+<translation id="3940082421246752453">Zerbitzariak ez du eskaeran erabilitako HTTP bertsioa onartzen.</translation>
+<translation id="7544229255782699242">Erantzun baliogabea jaso da <ph name="URL"/> helbidea kargatzen saiatzean. Baliteke mantentze-lanek iraun bitartean zerbitzaria eskuragarri ez egotea edo gaizki konfiguratuta egotea.</translation>
+<translation id="7052500709156631672">Jasotako atebideak edo proxy-zerbitzariak erantzun baliogabea jaso du zuzeneko erreprodukzioaren zerbitzaritik.</translation>
+<translation id="5741201586401781900"><ph name="URL"/> helbideko web-orria ez dago une honetan erabilgarri. Baliteke gainkargatuta edo mantentze-lanek iraun bitartean hondatuta egotea.</translation>
+<translation id="6094756196753418043">Zerbitzariak ezin izan du eskaera kudeatu. Kode honek aldi baterako kodea adierazten du, eta zerbitzariak funtzionatzen jarraituko du atzerapen baten ondoren.</translation>
+<translation id="2084412568823043027"><ph name="URL"/> helbidearen zerbitzariak denbora gehiegi pasa du erantzuten. Baliteke gainkargatuta egotea.</translation>
+<translation id="1202290638211552064">Jasotako atebidearen edo proxy-zerbitzariaren denbora-muga iraungi da zuzeneko erreprodukzioaren zerbitzariaren erantzunaren zain.</translation>
+<translation id="1146498888431277930">SSL konexio-errorea</translation>
+<translation id="4350711002179453268">Ezin izan da zerbitzarira modu seguruan konektatu. Baliteke zerbitzariarekin arazo bat izatea edo baliteke ez duzun bezeroaren autentifikazio-ziurtagiri bat eskatzea.</translation>
+<translation id="5228309736894624122">SSL protokolo-errorea.</translation>
+<translation id="8016174103774548813">Baliteke SSL zerbitzaria zaharkituta egotea.</translation>
+<translation id="5549435349608496346">Ezin izan da zerbitzarira modu seguruan konektatu. Baliteke webguneak lehen funtzionatu izana, baina orain gune horietara konektatzea erabiltzaile guztientzako segurtasun-arriskutzat hartzea eta, ondorioz, zure segurtasunerako desgaitu izatea.</translation>
+<translation id="2803407661478021186">SSLv3 atzera-dei baten bidez lortu da zerbitzariarekin konektatzea, baina jada ez ditugu onartzen SSLv3 atzera-deiak, protokoloaren aurkako erasoak direla-eta. Zerbitzaria eguneratu behar da, gutxienez TLS 1.0 protokoloarekin bateragarria izan dadin (ahal izanez gero, TLS 1.2 protokoloarekin).</translation>
+<translation id="2345460471437425338">Ostalariaren ziurtagiri okerra.</translation>
+<translation id="3225919329040284222">Zerbitzariak integratutako aurreikuspenekin bat ez datorren ziurtagiria aurkeztu du. Aurreikuspen horiek segurtasun handiko zenbait webgunetan gehitzen dira, zu babeste aldera.</translation>
+<translation id="6957887021205513506">Zerbitzariaren ziurtagiria faltsutze bat dela dirudi.</translation>
+<translation id="4544369257849566741">SSL birnegoziazio-luzapena falta zen konexio seguruan. Birnegoziazio-luzapena onartzen dela jakina den zenbait webgunetan, <ph name="PRODUCT_NAME"/> aplikazioak konexio seguruago bat behar du, eraso ezagunen mota bat ekiditeko. Luzapen hori ez egoteak konexioa atzeman edo bidean aldatu dela iradokitzen du.</translation>
+<translation id="8515737884867295000">Ziurtagirian oinarritutako autentifikazioak huts egin du</translation>
+<translation id="1214288039821587584">Zerbitzariak autentifikazio-ziurtagiria behar du, eta ez du arakatzaileak bidalitakoa onartu. Baliteke zure ziurtagiria iraungi izana edo baliteke jaulkitzaileak zerbitzariaz ez fidatzea. Beste ziurtagiri batekin saia zaitezke berriro, beste bat baduzu, edo beste nonbaitetik eskura dezakezu baliozko ziurtagiria.</translation>
+<translation id="9013589315497579992">SSL bezeroaren autentifikazio-ziurtagiri okerra.</translation>
+<translation id="5620046725797389119">Ziurrenik web-orria ostatatzen duen zerbitzaria gainkargatu da edo errore bat aurkitu da. Luzapenek trafiko gehiegi sortzea eta egoera okertzea ekiditeko, <ph name="PRODUCT_NAME"/> aplikazioak URL honetarako luzapenen eskaerak onartzeari utzi dio aldi baterako.</translation>
+<translation id="2271281383664374369">URL honetarako luzapen-eskaerak aldi baterako mugatu dira.</translation>
+<translation id="3225579507836276307">Hirugarren baten luzapenak web-orria atzitzea blokeatu du.</translation>
+<translation id="5990559369517809815">Luzapen batek zerbitzarirako eskaerak blokeatu ditu.</translation>
+<translation id="8315720913203253727">Web-orriak lehenago idatzi duzun datuak eskatu ditu, behar bezala bistaratzeko. Datu horiek berriro bidal ditzakezu, baina, hori eginez gero, orri honek lehenago gauzatutako edozein ekintza errepikatuko da. Sakatu Kargatu berriro, datuak berriro bidaltzeko eta orri hau bistaratzeko.</translation>
+<translation id="6429639049555216915">Ezin da une honetan aplikaziora joan.</translation>
+<translation id="8162734958263531433">USB araztea erabiltzeko, Android SDK eta USB arazteak gaituta egon behar dira Android gailuan. Informazio gehiago lortzeko, ikusi <ph name="HTML_HELPURL"/>.</translation>
+<translation id="1875071432292773474">Idatzi <ph name="ACCESS_POINT"/> helbidea mahaigaineko ordenagailuan. Mahaigaineko arakatzaileak eta Android gailuak sare berean egon behar dute.</translation>
+<translation id="7227425938337339799">UPnP protokoloak funtzionatzeko, azpisare berean egon behar duzu edo bideratzailea zubitu behar duzu, difusioak azpisareetara birbidaltzeko.</translation>
+<translation id="4553629908098215669">Ordenagailuan, exekutatu <ph name="HTMLADBCOMMAND"/> eta nabigatu <ph name="HTMLLOCALHOSTURL"/> helbidera, Chromium arakatzailean oinarritutako arakatzaile batekin.</translation>
+<translation id="5873732809085338161">Ordenagailuko arakatzailean WebSockets ez-seguruak gaitzeko, zoaz <ph name="HTMLOPERAFLAG"/> (Opera 24+) edo <ph name="HTMLCHROMEFLAG"/> (Chrome 36+) aukeretara.</translation>
+<translation id="4570032796877367747">Aurreko kamera</translation>
+<translation id="2599796128805996109">Atzeko kamera</translation>
+<translation id="1780524213916974482">Ezkerreko kamera</translation>
+<translation id="1198988598070704831">Eskuineko kamera</translation>
+<translation id="2124507516322945394">Mikrofono lehenetsia</translation>
+<translation id="1587215898571986504">Bozgorailua</translation>
+<translation id="5614598979078259956">Diadema-aurikular haridunak</translation>
+<translation id="9031226374756103225">Aurikularrak</translation>
+<translation id="149679617917926491">Bluetooth aurikularrak</translation>
+<translation id="6060685159320643512">Kontuz, honelako esperimentuek kosk egin diezazukete</translation>
+<translation id="5199729219167945352">Esperimentuak</translation>
+<translation id="2712869172826980984">ADI!</translation>
+<translation id="8102444033747951866">Marka hauek eginbide esperimentalak edo ezegonkorrak kontrolatzen dituzte. Baliteke ez funtzionatzea edo arakatzailea huts eginaraztea. Baliteke datuak galtzea, edo zure pribatutasuna eta segurtasuna ahultzea. Baliteke eginbideak edonoiz agertu, desagertu edo funtzionatzeari uztea. Egon adi aldaketei.</translation>
+<translation id="9187827965378254003">Une honetan, badirudi ez dagoela esperimenturik erabilgarri.</translation>
+<translation id="2282872951544483773">Esperimentuak ez daude erabilgarri</translation>
+<translation id="6426993025560594914">Esperimentu guztiak erabilgarri daude zure plataforman.</translation>
+<translation id="889901481107108152">Esperimentu hau ez dago erabilgarri zure plataforman.</translation>
+<translation id="3015639418649705390">Berrabiarazi orain</translation>
+<translation id="7179921470347911571">Berrabiarazi orain</translation>
+<translation id="8647750283161643317">Berrezarri ezarpen lehenetsi guztiak</translation>
+<translation id="1134886108896378542">Berrezarri ezarpen lehenetsi guztiak</translation>
+<translation id="4394049700291259645">Desgaitu</translation>
+<translation id="3435896845095436175">Gaitu</translation>
+<translation id="604124094241169006">Automatikoa</translation>
+<translation id="8798099450830957504">Lehenetsia</translation>
+<translation id="8815310998417289610">Gaituta</translation>
+<translation id="7826518276255108913">Desgaituta</translation>
+<translation id="2005166128312586988">Opera berrabiarazten duzunean jarriko dira indarrean aldaketak.</translation>
+<translation id="7961015016161918242">Inoiz ez</translation>
+<translation id="6342069812937806050">Orain bakarrik</translation>
+<translation id="684302243018322820">Gordetako Opera pasahitzak ikusteko, idatzi ordenagailuko pasahitza.</translation>
+<translation id="533563709691128800">desgaituta</translation>
+<translation id="2506903884491778518">Bilatu esperimentuak</translation>
+<translation id="2112624549618815628">Lehenetsia (gaituta)</translation>
+<translation id="3696363537446376816">Lehenetsia (desgaituta)</translation>
+<translation id="1375198122581997741">Bertsioari buruz</translation>
+<translation id="7248671827512403053">Aplikazioa</translation>
+<translation id="1710259589646384581">Sistema eragilea</translation>
+<translation id="6897140037006041989">Erabiltzaile-agentea</translation>
+<translation id="7353601530677266744">Komando-lerroa</translation>
+<translation id="7225807090967870017">Konpilazio IDa</translation>
+</translationbundle>

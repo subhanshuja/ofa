@@ -1,0 +1,669 @@
+# Copyright (C) 2016 Opera Software ASA.  All rights reserved.
+#
+# This file is an original work developed by Opera Software ASA
+
+import("//build/config/opera-common.gni")
+import("$opera/mobile/mobile/build/args.gni")
+import("//build/buildflag_header.gni")
+import("//build/config/android/rules.gni")
+import("//build_overrides/v8.gni")
+import("//tools/grit/repack.gni")
+import("repack_locales.gni")
+import("$opera/common/sitepatcher/args.gni")
+
+declare_args() {
+  turbo2_proxy_host_zero_rate_slot = ""
+  locales = [
+    "ar", "be", "bg", "bn", "ca", "cs", "da", "de", "el", "en-GB", "en-US", "es",
+    "es-419", "fa", "fi", "fil", "fr", "fr-CA", "he", "hi", "hr", "hu", "id", "it",
+    "ja", "ko", "ms", "my", "nb", "nl", "pl", "pt-BR", "pt-PT", "ro", "ru",
+    "si", "sk", "sl", "sr", "sv", "sw", "ta", "th", "tr", "uk", "ur", "vi", "zh-CN", "zh-TW"
+  ]
+
+  if (!use_zawgyi_encoding) {
+    locales += [ "my-ZG" ]
+  }
+
+  enable_browser_provider = false
+}
+
+source_set("version_impl") {
+  sources = [
+    "common/opera_version_info.cc",
+    "common/opera_content_client.cc",
+    "common/opera_content_client.h",
+    "common/opera_switches.cc",
+    "common/opera_switches.h",
+  ]
+
+  configs += [
+    "$opera/mobile/mobile/build:include_config",
+    "$opera/mobile/mobile/build:chr_version_config",
+    "$opera/mobile/mobile/build:opr_version_config",
+  ]
+
+  deps = [
+    "../common/settings",
+    ":jni_headers",
+  ]
+
+  if (is_public_source_release) {
+    deps -= [":jni_headers"]
+    deps += [":copy_bundled_jni_headers"]
+    include_dirs = [
+      "${target_gen_dir}/jni_headers/mobile",
+    ]
+  }
+}
+
+static_library("chill") {
+  sources = [
+    "app/native_interface.cc",
+    "app/native_interface.h",
+    "app/opera_breakpad_client.cc",
+    "app/opera_breakpad_client.h",
+    "app/opera_main_delegate.cc",
+    "app/opera_main_delegate.h",
+    "app/tester_mode.cc",
+    "app/tester_mode.h",
+    "browser/articles/article.cc",
+    "browser/articles/article.h",
+    "browser/articles/article_overlay.cc",
+    "browser/articles/article_overlay.h",
+    "browser/about_flags.cc",
+    "browser/about_flags.h",
+    "browser/analytics/url_visit_listener.cc",
+    "browser/analytics/url_visit_listener.h",
+    "browser/authentication_dialog.cc",
+    "browser/authentication_dialog.h",
+    "browser/background_sync/background_sync_launcher_android.cc",
+    "browser/background_sync/background_sync_launcher_android.h",
+    "browser/background_sync/opera_background_sync_controller.cc",
+    "browser/background_sync/opera_background_sync_controller.h",
+    "browser/banners/app_banner_data_fetcher.cc",
+    "browser/banners/app_banner_data_fetcher.h",
+    "browser/banners/app_banner_manager.cc",
+    "browser/banners/app_banner_manager.h",
+    "browser/banners/app_banner_settings_helper.cc",
+    "browser/banners/app_banner_settings_helper.h",
+    "browser/blocked_window_params.cc",
+    "browser/blocked_window_params.h",
+    "browser/builtin_suggestion_provider.cc",
+    "browser/builtin_suggestion_provider.h",
+    "browser/certificates/certificate_utils.h",
+    "browser/certificates/certificate_utils.cc",
+    "browser/chromium_tab.cc",
+    "browser/chromium_tab.h",
+    "browser/chromium_tab_delegate.cc",
+    "browser/chromium_tab_delegate.h",
+    "browser/clear_data_machine.h",
+    "browser/clear_data_machine_impl.cc",
+    "browser/cobranding/obml_request.cc",
+    "browser/cobranding/obml_request.h",
+    "browser/content_settings/host_content_settings_map_factory.cc",
+    "browser/content_settings/host_content_settings_map_factory.h",
+    "browser/context_menu_helper.cc",
+    "browser/context_menu_helper.h",
+    "browser/download/download_helper.h",
+    "browser/download/download_item_observer.cc",
+    "browser/download/download_item_observer.h",
+    "browser/download/download_manager_observer.cc",
+    "browser/download/download_manager_observer.h",
+    "browser/download/download_storage.cc",
+    "browser/download/download_storage.h",
+    "browser/download/download_target_arguments.h",
+    "browser/download/opera_download_manager_delegate.cc",
+    "browser/download/opera_download_manager_delegate.h",
+    "browser/favorites/speed_dial_data_fetcher.cc",
+    "browser/favorites/speed_dial_data_fetcher.h",
+    "browser/favorites/thumbnail_request_interceptor.cc",
+    "browser/favorites/thumbnail_request_interceptor.h",
+    "browser/favorites/thumbnail_request_interceptor_helper.h",
+    "browser/file_select_helper.cc",
+    "browser/file_select_helper.h",
+    "browser/find_in_page.cc",
+    "browser/find_in_page.h",
+    "browser/flags_json_storage.cc",
+    "browser/flags_json_storage.h",
+    "browser/history/history_entry.h",
+    "browser/history/history_manager.cc",
+    "browser/history/history_manager.h",
+    "browser/history/history_suggestion_provider.cc",
+    "browser/history/history_suggestion_provider.h",
+    "browser/history/history_util.cc",
+    "browser/history/history_util.h",
+    "browser/history_tab_helper.cc",
+    "browser/history_tab_helper.h",
+    "browser/javascript_dialog_manager_delegate.h",
+    "browser/login/oauth2_account.cc",
+    "browser/login/oauth2_account.h",
+    "browser/login/oauth2_account_service.cc",
+    "browser/login/oauth2_account_service.h",
+    "browser/login/oauth2_account_service_factory.cc",
+    "browser/login/oauth2_account_service_factory.h",
+    "browser/login/oauth2_account_service_observer.h",
+    "browser/media_capture_devices_dispatcher.cc",
+    "browser/media_capture_devices_dispatcher.h",
+    "browser/media_stream_devices_controller.cc",
+    "browser/media_stream_devices_controller.h",
+    "browser/migration/obml_converter_web_ui_controller.cc",
+    "browser/migration/obml_converter_web_ui_controller.h",
+    "browser/migration/obml_converter_web_ui_controller_factory.cc",
+    "browser/migration/obml_converter_web_ui_controller_factory.h",
+    "browser/migration/obml_font_info.h",
+    "browser/migration/obml_migration_callback_arguments.h",
+    "browser/migration/obml_migration_runner.cc",
+    "browser/migration/obml_migration_runner.h",
+    "browser/migration/obml_migrator.cc",
+    "browser/migration/obml_migrator.h",
+    "browser/navigation_history.h",
+    "browser/net/cookie_policy.cc",
+    "browser/net/cookie_policy.h",
+    "browser/net/opera_ct_policy_enforcer.cc",
+    "browser/net/opera_ct_policy_enforcer.h",
+    "browser/net/opera_net_log.cc",
+    "browser/net/opera_net_log.h",
+    "browser/net/opera_network_delegate.cc",
+    "browser/net/opera_network_delegate.h",
+    "browser/net/opera_url_request_context_getter.cc",
+    "browser/net/opera_url_request_context_getter.h",
+    "browser/net/tld_validity.cc",
+    "browser/net/tld_validity.h",
+    "browser/net/turbo_delegate.cc",
+    "browser/net/turbo_delegate.h",
+    "browser/net/turbo_zero_rating_delegate.h",
+    "browser/notifications/notification_bridge.h",
+    "browser/notifications/notification_dispatcher.cc",
+    "browser/notifications/notification_dispatcher.h",
+    "browser/notifications/opera_platform_notification_service.cc",
+    "browser/notifications/opera_platform_notification_service.h",
+    "browser/old_bookmark_collection.cc",
+    "browser/old_bookmark_collection.h",
+    "browser/opera_access_token_store.cc",
+    "browser/opera_access_token_store.h",
+    "browser/opera_browser_context.cc",
+    "browser/opera_browser_context.h",
+    "browser/opera_browser_context_keyed_service_factories.cc",
+    "browser/opera_browser_context_keyed_service_factories.h",
+    "browser/opera_browser_main_parts.cc",
+    "browser/opera_browser_main_parts.h",
+    "browser/opera_content_browser_client.cc",
+    "browser/opera_content_browser_client.h",
+    "browser/opera_devtools_manager_delegate.cc",
+    "browser/opera_devtools_manager_delegate.h",
+    "browser/opera_fraud_protection.cc",
+    "browser/opera_fraud_protection_delegate.cc",
+    "browser/opera_fraud_protection_delegate.h",
+    "browser/opera_fraud_protection_service.cc",
+    "browser/opera_fraud_protection_service.h",
+    "browser/opera_javascript_dialog_manager.cc",
+    "browser/opera_javascript_dialog_manager.h",
+    "browser/opera_jni_registrar.cc",
+    "browser/opera_jni_registrar.h",
+    "browser/opera_quota_permission_context.cc",
+    "browser/opera_quota_permission_context.h",
+    "browser/opera_resource_context.cc",
+    "browser/opera_resource_context.h",
+    "browser/opera_resource_dispatcher_host_delegate.cc",
+    "browser/opera_resource_dispatcher_host_delegate.h",
+    "browser/opera_select_file_policy.cc",
+    "browser/opera_select_file_policy.h",
+    "browser/opera_web_contents_delegate.cc",
+    "browser/opera_web_contents_delegate.h",
+    "browser/opera_web_contents_observer.cc",
+    "browser/opera_web_contents_observer.h",
+    "browser/opera_web_contents_view_delegate.cc",
+    "browser/opera_web_contents_view_delegate.h",
+    "browser/password_manager/password_form_manager.cc",
+    "browser/password_manager/password_form_manager.h",
+    "browser/permissions/opera_permission_manager.cc",
+    "browser/permissions/opera_permission_manager.h",
+    "browser/permissions/permission_bridge.h",
+    "browser/permissions/permission_callback.cc",
+    "browser/permissions/permission_callback.h",
+    "browser/permissions/permission_status.h",
+    "browser/persistent_tab_helper.cc",
+    "browser/persistent_tab_helper.h",
+    "browser/popup_blocking_helper.cc",
+    "browser/popup_blocking_helper.h",
+    "browser/push_messaging/opera_push_messaging_service.cc",
+    "browser/push_messaging/opera_push_messaging_service.h",
+    "browser/push_messaging/push_messaging_app_identifier.cc",
+    "browser/push_messaging/push_messaging_app_identifier.h",
+    "browser/push_messaging/push_messaging_constants.cc",
+    "browser/push_messaging/push_messaging_constants.h",
+    "browser/push_messaging/push_messaging_json_storage.cc",
+    "browser/push_messaging/push_messaging_json_storage.h",
+    "browser/push_messaging/push_messaging_visibility_enforcer.cc",
+    "browser/push_messaging/push_messaging_visibility_enforcer.h",
+    "browser/save_page_helper.cc",
+    "browser/save_page_helper.h",
+    "browser/service_tab_launcher.cc",
+    "browser/service_tab_launcher.h",
+    "browser/skia/skia_utils.cc",
+    "browser/skia/skia_utils.h",
+    "browser/ssl/opera_ssl_host_state_delegate.cc",
+    "browser/ssl/opera_ssl_host_state_delegate.h",
+    "browser/suggestion_manager_factory.cc",
+    "browser/suggestion_manager_factory.h",
+    "browser/system_properties.cc",
+    "browser/system_properties.h",
+    "browser/ui/compositor/compositor_ui.cc",
+    "browser/ui/compositor/compositor_ui.h",
+    "browser/ui/login_interstitial_delegate.cc",
+    "browser/ui/login_interstitial_delegate.h",
+    "browser/ui/opera_bluetooth_chooser_android.cc",
+    "browser/ui/opera_bluetooth_chooser_android.h",
+    "browser/ui/tabs/asynchronous_upload_queue.cc",
+    "browser/ui/tabs/asynchronous_upload_queue.h",
+    "browser/ui/tabs/background_theme.cc",
+    "browser/ui/tabs/background_theme.h",
+    "browser/ui/tabs/bitmap_sink.cc",
+    "browser/ui/tabs/bitmap_sink.h",
+    "browser/ui/tabs/flinger.cc",
+    "browser/ui/tabs/flinger.h",
+    "browser/ui/tabs/image_quad.cc",
+    "browser/ui/tabs/image_quad.h",
+    "browser/ui/tabs/input.cc",
+    "browser/ui/tabs/input.h",
+    "browser/ui/tabs/interpolator.h",
+    "browser/ui/tabs/overview.cc",
+    "browser/ui/tabs/overview.h",
+    "browser/ui/tabs/private_mode_placeholder.cc",
+    "browser/ui/tabs/private_mode_placeholder.h",
+    "browser/ui/tabs/selector_view.cc",
+    "browser/ui/tabs/selector_view.h",
+    "browser/ui/tabs/shaders.cc",
+    "browser/ui/tabs/shaders.h",
+    "browser/ui/tabs/snap_animate.cc",
+    "browser/ui/tabs/snap_animate.h",
+    "browser/ui/tabs/synchronous_upload_queue.cc",
+    "browser/ui/tabs/synchronous_upload_queue.h",
+    "browser/ui/tabs/tab_image_quad.cc",
+    "browser/ui/tabs/tab_image_quad.h",
+    "browser/ui/tabs/tab_selector_renderer.cc",
+    "browser/ui/tabs/tab_selector_renderer.h",
+    "browser/ui/tabs/tab_view.cc",
+    "browser/ui/tabs/tab_view.h",
+    "browser/ui/tabs/thumbnail_cache.cc",
+    "browser/ui/tabs/thumbnail_cache.h",
+    "browser/ui/tabs/thumbnail_feeder.cc",
+    "browser/ui/tabs/thumbnail_feeder.h",
+    "browser/ui/tabs/thumbnail_store.cc",
+    "browser/ui/tabs/thumbnail_store.h",
+    "browser/ui/tabs/upload_queue.cc",
+    "browser/ui/tabs/upload_queue.h",
+    "browser/webapps/add_to_homescreen_data_fetcher.cc",
+    "browser/webapps/add_to_homescreen_data_fetcher.h",
+    "browser/webapps/favicon_selector.cc",
+    "browser/webapps/favicon_selector.h",
+    "browser/webapps/manifest_icon_downloader.cc",
+    "browser/webapps/manifest_icon_downloader.h",
+    "browser/webapps/manifest_icon_selector.cc",
+    "browser/webapps/manifest_icon_selector.h",
+    "browser/webui/about_ui.cc",
+    "browser/webui/about_ui.h",
+    "browser/webui/cobrand_settings_ui.cc",
+    "browser/webui/cobrand_settings_ui.h",
+    "browser/webui/debug_zero_rating_ui.cc",
+    "browser/webui/debug_zero_rating_ui.h",
+    "browser/webui/flags_ui.cc",
+    "browser/webui/flags_ui.h",
+    "browser/webui/logcat_ui.cc",
+    "browser/webui/logcat_ui.h",
+    "browser/webui/net_internals_ui.cc",
+    "browser/webui/net_internals_ui.h",
+    "browser/webui/opera_web_ui_controller_factory.cc",
+    "browser/webui/opera_web_ui_controller_factory.h",
+    "browser/webui/version_ui.cc",
+    "browser/webui/version_ui.h",
+    "browser/yandex_promotion/yandex_promotion_tab_helper.cc",
+    "browser/yandex_promotion/yandex_promotion_tab_helper.h",
+    "common/app_banner_messages.h",
+    "common/cpu_util.cc",
+    "common/cpu_util.h",
+    "common/logcat_util.cc",
+    "common/logcat_util.h",
+    "common/opera_descriptors.h",
+    "common/opera_messages.cc",
+    "common/opera_messages.h",
+    "common/opera_render_view_messages.h",
+    "common/opera_url_constants.cc",
+    "common/opera_url_constants.h",
+    "common/password_form_messages.h",
+    "common/paths.h",
+    "common/webapps/web_application_info.cc",
+    "common/webapps/web_application_info.h",
+    "common/yandex_promotion_messages.h",
+    "renderer/banners/app_banner_client.cc",
+    "renderer/banners/app_banner_client.h",
+    "renderer/error_page_search_data_provider_impl.cc",
+    "renderer/error_page_search_data_provider_impl.h",
+    "renderer/opera_content_renderer_client.cc",
+    "renderer/opera_content_renderer_client.h",
+    "renderer/opera_render_frame_observer.cc",
+    "renderer/opera_render_frame_observer.h",
+    "renderer/opera_render_process_observer.cc",
+    "renderer/opera_render_process_observer.h",
+    "renderer/opera_render_view_observer.cc",
+    "renderer/opera_render_view_observer.h",
+    "renderer/password_form_observer.cc",
+    "renderer/password_form_observer.h",
+    "renderer/webapps/web_apps.cc",
+    "renderer/webapps/web_apps.h",
+    "renderer/yandex_promotion/exception_messages.cc",
+    "renderer/yandex_promotion/exception_messages.h",
+    "renderer/yandex_promotion/yandex_promotion.cc",
+    "renderer/yandex_promotion/yandex_promotion.h",
+    "renderer/yandex_promotion/yandex_promotion_bindings.cc",
+    "renderer/yandex_promotion/yandex_promotion_bindings.h",
+    "renderer/yandex_promotion/yandex_promotion_bindings_delegate.h",
+  ]
+
+  configs += [
+    "$opera/mobile/mobile/build:include_config",
+    "$opera/mobile/mobile/build:chr_version_config",
+    "$opera/mobile/mobile/build:opr_version_config",
+  ]
+
+  defines = [ "OPERA_DEVTOOLS_SOCKET_NAME=\"$package_name.devtools\"" ]
+
+  if (turbo2_proxy_host_zero_rate_slot != "") {
+    defines += [ "TURBO2_PROXY_HOST_ZERO_RATE_SLOT=\"$turbo2_proxy_host_zero_rate_slot\"" ]
+  }
+
+  deps = [
+    ":opera_pak",
+    ":copy_jars",
+    ":copy_resources",
+    ":jni_headers",
+    ":version_impl",
+    ":sitepatcher_config",
+    "../../resources",
+    "../common/bitmap",
+    "../common/breakpad",
+    "../common/color_util",
+    "../common/favorites",
+    "../common/java_bridge",
+    "../common/old_bookmarks",
+    "../common/opengl_utils",
+    "../common/settings",
+    "../common/suggestions",
+    "../common/swig_utils",
+    "../common/sync",
+    "../common/url_fixer_upper",
+    "../common/utils",
+
+    "$opera/common/auth",
+    "$opera/common/error_pages",
+    "$opera/common/fraud_protection",
+    "$opera/common/fraud_protection_ui",
+    "$opera/common/net:chromium_compatible_net_resource_provider",
+    "$opera/common/migration",
+    "$opera/common/sitepatcher:browser",
+    "$opera/common/sitepatcher:renderer",
+    "$opera/common/strings",
+    "$opera/mobile/common/favorites",
+    "//base",
+    "//base:i18n",
+    "//cc",
+    "//chrome/app:chromium_strings",
+    "//chrome/app:generated_resources",
+    "//components/autofill/content/common",
+    "//components/autofill/core/common",
+    "//components/crash/content/app",
+    "//components/crash/content/browser",
+    "//components/content_settings/core/browser",
+    "//components/content_settings/core/common",
+    "//components/flags_ui",
+    "//components/flags_ui:switches",
+    "//components/gcm_driver:gcm_driver",
+    "//components/history/core/browser",
+    "//components/keyed_service/content",
+    "//components/mime_util",
+    "//components/navigation_interception",
+    "//components/prefs",
+    "//components/resources",
+    "//components/strings",
+    "//components/visitedlink/browser",
+    "//components/visitedlink/renderer",
+    "//components/web_contents_delegate_android",
+    "//components/network_session_configurator",
+    "//content",
+    "//content/public/app:both",
+    "//content/public/browser",
+    "//content/public/renderer",
+    "//content/public/utility",
+    "//device/geolocation",
+    "//net",
+    "//services/shell/public/cpp",
+    "//storage/browser",
+    "//storage/common",
+    "//third_party/android_tools:cpu_features",
+    "//third_party/lzma_sdk",
+    "//third_party/WebKit/public:blink",
+    "//ui/android",
+    "//ui/display",
+    "//ui/events:gesture_detection",
+    "//ui/gl",
+    "//ui/shell_dialogs",
+  ]
+
+  if (enable_browser_provider) {
+    deps += [ "../../projects/BrowserProvider:browser_provider" ]
+
+    defines += [ "ENABLE_BROWSER_PROVIDER" ]
+  }
+
+  if (is_public_source_release) {
+    deps -= [":jni_headers"]
+    deps += [":copy_bundled_jni_headers"]
+    include_dirs = [
+      "${target_gen_dir}/jni_headers/mobile",
+    ]
+  }
+
+  libs = [ "EGL" ]
+}
+
+repack("opera_pak") {
+
+  wam_gen_dir = get_label_info("../../resources", "target_gen_dir")
+
+  sources = [
+    "$root_gen_dir/blink/public/resources/blink_image_resources_100_percent.pak",
+    "$root_gen_dir/blink/public/resources/blink_resources.pak",
+    "$root_gen_dir/content/content_resources.pak",
+    "$root_gen_dir/content/shell/shell_resources.pak",
+    "$root_gen_dir/net/net_resources.pak",
+    "$root_gen_dir/ui/resources/ui_resources_100_percent.pak",
+    "$root_gen_dir/ui/resources/webui_resources.pak",
+
+    "$root_gen_dir/opera_common/common_resources.pak",
+
+    "$wam_gen_dir/wam_resources.pak",
+  ]
+
+  deps = [
+    "//content:resources",
+    "//content/shell:resources",
+    "//net:net_resources",
+    "//third_party/WebKit/public:image_resources",
+    "//third_party/WebKit/public:resources",
+    "//ui/resources",
+
+    "$opera/common/resources",
+
+    "../../resources",
+  ]
+
+  output = "$root_out_dir/opera.pak"
+}
+
+locale_pak_resources("locale_pak_resources") {
+  sources = []
+  foreach(locale, locales) {
+    sources += [ "$root_gen_dir/$locale.pak" ]
+  }
+  deps = [ ":opera_repack_locales" ]
+}
+
+opera_repack_locales("opera_repack_locales") {
+  input_locales = locales
+}
+
+# Copy files to gyp compatible output path
+copy("copy_jars") {
+  chill_dir = "$opera/mobile/mobile/src/chill"
+  swipe_refresh_dir = get_label_info("../../projects/third_party/android_swipe_refresh:android_swipe_refresh_java", "dir")
+
+  sources = [
+    "$root_out_dir/lib.java$chill_dir/chill_java.jar",
+    "$root_out_dir/lib.java$swipe_refresh_dir/android_swipe_refresh_java.jar",
+    "$root_out_dir/lib.java/base/base_java.jar",
+    "$root_out_dir/lib.java/components/navigation_interception/android/navigation_interception_java.jar",
+    "$root_out_dir/lib.java/components/web_contents_delegate_android/web_contents_delegate_android_java.jar",
+    "$root_out_dir/lib.java/content/public/android/content_java.jar",
+    "$root_out_dir/lib.java/device/battery/android/battery_monitor_android.jar",
+    "$root_out_dir/lib.java/device/vibration/android/vibration_manager_android.jar",
+    "$root_out_dir/lib.java/media/base/android/media_java.jar",
+    "$root_out_dir/lib.java/media/capture/content/android/screen_capture_java.jar",
+    "$root_out_dir/lib.java/media/capture/video/android/capture_java.jar",
+    "$root_out_dir/lib.java/media/midi/midi_java.jar",
+    "$root_out_dir/lib.java/mojo/android/system_java.jar",
+    "$root_out_dir/lib.java/net/android/net_java.jar",
+    "$root_out_dir/lib.java/mojo/public/java/bindings.jar",
+    "$root_out_dir/lib.java/mojo/public/java/system.jar",
+    "$root_out_dir/lib.java/third_party/WebKit/public/blink_headers_java.jar",
+    "$root_out_dir/lib.java/ui/accessibility/ui_accessibility_java.jar",
+    "$root_out_dir/lib.java/ui/android/ui_java.jar",
+  ]
+
+  outputs = [ "$root_out_dir/lib.java/{{source_file_part}}" ]
+
+  deps = [
+    ":chill_java",
+    "../../projects/third_party/android_swipe_refresh:android_swipe_refresh_java",
+    "//base:base_java",
+    "//components/navigation_interception/android:navigation_interception_java",
+    "//components/web_contents_delegate_android:web_contents_delegate_android_java",
+    "//content/public/android:content_java",
+    "//device/battery:mojo_bindings_java",
+    "//device/battery/android:battery_monitor_android",
+    "//device/bluetooth:java",
+    "//device/geolocation:geolocation_java",
+    "//device/power_save_blocker:java",
+    "//device/vibration:mojo_bindings_java",
+    "//device/vibration/android:vibration_manager_android",
+    "//device/usb:java",
+    "//media/base/android:media_java",
+    "//media/capture/content/android:screen_capture_java",
+    "//media/capture/video/android:capture_java",
+    "//media/midi:midi_java",
+    "//mojo/android:system_java",
+    "//net/android:net_java",
+    "//mojo/public/java:bindings",
+    "//mojo/public/java:system",
+    "//third_party/WebKit/public:blink_headers_java",
+    "//ui/accessibility:ui_accessibility_java",
+    "//ui/android:ui_java",
+    "//ui/base/mojo:mojo_bindings_java",
+  ]
+}
+
+copy("copy_resources") {
+  locale_gen_dir = get_label_info(":locale_pak_resources", "target_gen_dir")
+
+  sources = [
+    "$locale_gen_dir/locale_pak_resources.resources.zip",
+    "$root_gen_dir/content/public/android/content_java_resources.resources.zip",
+    "$root_gen_dir/content/public/android/content_strings_grd.resources.zip",
+    "$root_gen_dir/ui/android/ui_java_resources.resources.zip",
+    "$root_gen_dir/ui/android/ui_strings_grd.resources.zip",
+    "$root_gen_dir/components/web_contents_delegate_android/web_contents_delegate_android_java_resources.resources.zip",
+  ]
+
+  outputs = [ "$root_out_dir/res.java/{{source_file_part}}" ]
+
+  deps = [
+    ":locale_pak_resources",
+    "//components/web_contents_delegate_android:web_contents_delegate_android_java_resources",
+    "//content/public/android:content_java_resources",
+    "//content/public/android:content_strings_grd",
+    "//ui/android:ui_java_resources",
+    "//ui/android:ui_strings_grd",
+  ]
+}
+
+android_library("chill_java") {
+  srcjar_deps = [
+    ":chill_java_enums_jar",
+  ]
+
+  deps = [
+    "//third_party/android_tools:android_support_annotations_java",
+  ]
+}
+
+
+java_cpp_enum("chill_java_enums_jar") {
+  sources = [
+    "browser/login/oauth2_account_service.h",
+  ]
+}
+
+copy("copy_bundled_jni_headers") {
+  target_name = get_label_info(":chill", "name")
+  sources = [ "$opera/mobile/mobile/bundled_jni/${target_name}" ]
+  outputs = [ "${target_gen_dir}/jni_headers" ]
+}
+
+generate_jni("jni_headers") {
+  sources = [
+        "../com/opera/android/articles/ArticleOverlay.java",
+        "../com/opera/android/browser/BackgroundSyncLauncher.java",
+        "../com/opera/android/browser/ServiceTabLauncher.java",
+        "../com/opera/android/browser/dialog/BluetoothChooserDialog.java",
+        "../com/opera/android/dashboard/newsfeed/data/Article.java",
+        "../com/opera/android/library_manager/LibraryManager.java",
+        "../com/opera/android/oauth2/LoginResult.java",
+        "../com/opera/android/oauth2/OAuth2Account.java",
+        "../com/opera/android/search/YandexPromotionTabHelper.java",
+        "../com/opera/android/utilities/DisplayUtil.java",
+        "../org/chromium/components/gcm_driver/GCMDriver.java",
+  ]
+
+  jni_package = "mobile"
+}
+
+_sitepatcher_args = "pnum=4277330&version=${opr_version}&buildno=${opr_build_number}"
+
+declare_args() {
+  opr_sitepatcher_origin = "http://xml.opera.com"
+  opr_sitepatcher_update_check_url = "${opr_sitepatcher_origin}/json/update/android/?${_sitepatcher_args}"
+  opr_sitepatcher_browser_js_url = "${opr_sitepatcher_origin}/json/userjs/android/?${_sitepatcher_args}"
+  opr_sitepatcher_prefs_override_url = "${opr_sitepatcher_origin}/json/spoof/android/?${_sitepatcher_args}"
+  opr_sitepatcher_web_bluetooth_url = "${opr_sitepatcher_origin}/json/btblacklist/android/?${_sitepatcher_args}"
+  opr_sitepatcher_update_check_interval_sec = 86400
+}
+
+if (enable_sitepatcher_test) {
+  opr_sitepatcher_origin = "http://t.oslo.osa/platforms/WAM/Sitepatcher/get.php"
+  opr_sitepatcher_update_check_url ="${opr_sitepatcher_origin}?${_sitepatcher_args}"
+  opr_sitepatcher_browser_js_url ="${opr_sitepatcher_origin}?type=browserjs&${_sitepatcher_args}"
+  opr_sitepatcher_prefs_override_url ="${opr_sitepatcher_origin}?type=spoof&${_sitepatcher_args}"
+  opr_sitepatcher_web_bluetooth_url ="${opr_sitepatcher_origin}?type=webbt&${_sitepatcher_args}"
+  opr_sitepatcher_update_check_interval_sec = 60
+}
+
+buildflag_header("sitepatcher_config") {
+  header = "sitepatcher_config.h"
+  header_dir = "chill/browser"
+  flags = [
+    "OPR_SITEPATCHER_UPDATE_CHECK_URL=\"$opr_sitepatcher_update_check_url\"",
+    "OPR_SITEPATCHER_BROWSER_JS_URL=\"$opr_sitepatcher_browser_js_url\"",
+    "OPR_SITEPATCHER_PREFS_OVERRIDE_URL=\"$opr_sitepatcher_prefs_override_url\"",
+    "OPR_SITEPATCHER_WEB_BLUETOOTH_URL=\"$opr_sitepatcher_web_bluetooth_url\"",
+    "OPR_SITEPATCHER_UPDATE_CHECK_INTERVAL_SEC=$opr_sitepatcher_update_check_interval_sec",
+  ]
+}

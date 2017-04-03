@@ -1,0 +1,284 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="ln">
+<translation id="2978824962390592855">Opera</translation>
+<translation id="3942946088478181888">Salisa ngai na yeba</translation>
+<translation id="1396529432791646744">Soki oconnecté na website securisé, serveur ezalaka hôtesse ya site yango ekolakisa yo eloko moko babengi kombo “cetificat” pona kovérifié identité na yango. Certificat yango ezalaka okati na yango makambo ya identité lolokola adresi ya webisite, oyo ezalaka vérifié na moto ya misatu oyo masini na yo ya mobile ate confiance. Tango okoverifié ete adresi ya certificat ezo matché adresi ya webisite, okoki koyeba ete ozali solo kocommuniqué na webisite okaneli kokota kokota, bobele oza na esika ya moto mosusu te (lokola mutu oyo aza koattaque réseau na yo).</translation>
+<translation id="6295228342562451544">Soki oconneté na website securisé, serveur ezalaka hôtesse ya site yango ekolakisa yo eloko moko babengi “cetificat” po na kovérifié identité na yango. Certificat yango ezalaka okati na yango makambo ya identité lokola adresi ya website, oyo ezalaka vérifié na moto ya misatu oyo ordinateur na yo ati confiance. Tango okoverifié ete adresi ya certificat ezo koyokana na adresi ya webisite, okoki koyeba ete ozali solo kocommuniqué na webisite okaneli kokota, bobele oza na esika ya munguna te (lokola mutu oyo aza koattaque réseau na yo).</translation>
+<translation id="7073704676847768330">Oyo mbala mosusu eza yango te site ozali koluka!</translation>
+<translation id="2941952326391522266">Serveur oyo ekoki kovérifé te ete eza <ph name="DOMAIN"/>; certificat ya securité na yango ewuti na <ph name="DOMAIN2"/>.ekozala révoqué. Oyo ekozala po na configuration eza mabe to monguna aza kocapté connexion na yo.</translation>
+<translation id="7761701407923456692">Certificat ya serveur ezo matche URL te.</translation>
+<translation id="3581034179710640788">Certificat ya sécurité ya site ekomi expiré!</translation>
+<translation id="436701661737309601">Po na certificat oyo eza expiré te, moto apesaki certificat wana aza responsable ya kozala na eloko moko babengaka “liste ya révocation”. Soko certificat babebisi yango, moto apesaki yango akoki korevoqué yango nakotiaka yango na liste ya revocation, mpe sima na yango, certificat oyo ekobungisa confiance, mpe ekozala lisusu na kilo te na surfeur nayo. Statut ya revocation eza exigé te ebombama pona bacertificat oyo esi esila valeur; yango wana ntango certificat yango ezalaka valable na webisite oza kovisité, na esika oyo elongobani te ete certificat ezali compromis bongo sima nango revoqué, to soko ezali kaka sécurisé. Landela yango, ezali possible te toyeba soki oza kocommuniqué na website yasolo to oyo certificat nango ezali compromis, bongo sikoyo ezali na maboko ya munguna oyo yo oza kocommuniqué na ye.</translation>
+<translation id="8971063699422889582">Certificat ya serveur ezali expiré.</translation>
+<translation id="1618661679583408047">Certificat sécurisé ya serveur elongobani nainu te!</translation>
+<translation id="825608351287166772">Bacertificat ezalaka na tango ya bondimami, ndenge moko na badocument nioso ya identité (lokola passeport) oyo okoki kozala nayango. Certificat bazo lakisa na navigateur nayo ezali naino valide te. Tango certificat ezali libanda ya tango nango ya validité, bainformation mosusu etali statut ya certificat (soko ezali revoqué bongo batia yango lisusu confiance te) ezali exigé bamaintenir yango te. Yango wana ezali pasi po toyeba été certificat oyo elongobani. Kocontinué te.</translation>
+<translation id="7938958445268990899">Certificat ya serveur ezali naino valide te.</translation>
+<translation id="2915500479781995473">Serveur oyo ekoki kovérifé te ete eza <ph name="DOMAIN"/>; certificat ya securité na yango ekomi expiré. Oyo eko kozala ete configuation eza mabe to mungunia azo capté connection nayo. Montre ya ordinateur nayo eza sik'oyo na <ph name="CURRENT_TIME"/>. Owana eza malamu? Soki te, esengeli ocorigé montre ya systeme nayo bonge orafraichir likasa oyo.</translation>
+<translation id="229702904922032456">Certificat ya source to ya intermediaire ekomi expiré.</translation>
+<translation id="374530189620960299">Certificat sécurisé ya site oyo ezali ya confiance te!</translation>
+<translation id="168929553803686581">Na cas oyo, certificat ezali vérifié na moto ya misato te oyo mobile nayo ekoki kotia confiance. Moto nioso akoki kosala certificat elobelaka website nioso bakopona, na tina na yango ezali malamu penza bavérifié yango na moto ya misato. Soko verification ya ndenge wana ezangi, information etali identité ekomami na certificat wana ezali na tina te. Na kolandela yango, ezali pasi penza po na koyeba ete ozali kocommuniqué na <ph name="DOMAIN"/> na esika ya munguna oyo asalaki certificat ya ye mei elobi eza<ph name="DOMAIN2"/>. Kolandela oleka point oyo te.</translation>
+<translation id="6517558746015096434">Kasi soko osalaka na organization oyo ebotaka ba certificat ya ye mei, soko ozali komeka koconnecté na website ya kati ya organisation, kosalela certificat wana, okoki korésoudre mokakatano wana etali sécurité. Okoki koimporté certificat ya mosisa ya organisation esala lokola “certificat ya mosisa,” bongo bacertificat ekopesama na organisation na yo ekobanda kopesama confiance pe okomona lisusu erreur oyo te mbala okomeka koconnecté na website ya kati. Ocontacté basali ya organization na yo po basalisi yo na kobakisa bacertificat ya mosisa na mobile nayo.</translation>
+<translation id="2159087636560291862">Na cas oyo, certificat eza verié te na moto ya misato oyo ordinateur nayo atie confiance. Moto nionso akoki kosala certificat elobelaka website nionso bakopona, na tina na yango ezali malamu penza bavérifié yango na moto ya misato. Soko verification yandenge wana ezangi, information etali identité ekomami na certificat wana ezali na tina te. Na kolandela yango, ezali pasi penza pona koyeba ete ozali kocommuniqué na <ph name="DOMAIN"/> na esika ya mungunia oyo asalaki certificat ya ye mei elobi eza<ph name="DOMAIN2"/>. Kolandela oleka point oyo te.</translation>
+<translation id="2645575947416143543">Kasi soko osalaka na organization oyo ebotaka ba certificat ya ye mei, soko ozali komeka koconnecté na websiite yakati ya organisation, kosalela certificat wana, okoki korésoudre mokakatano wana etali sécurité. Okoki koimporté certificat ya mosisa ya organisation esala lokola “certificat ya mosisa,” bongo bacertificat ekopesama to ekozala vérifié na organisation nayo ekopesama confiance pe okomona lisusu erreur oyo te mbala okomeka koconnecté na website ya kati. Ocontacté basali ya organization nayo po baassisté yo na kobakisa bacertificat ya mosisa na ordinateur na yo.</translation>
+<translation id="3528171143076753409">Certificat ya serveur ezali ya confiance te.</translation>
+<translation id="2649911884196340328">Certificat sécurisé ya serveur ezali na baerreur!</translation>
+<translation id="8534801226027872331">Na cas oyo, certificat olakisi na surfeur nayo eza na baerreur pe ekoki koyebana te. Oyo ekoki koloba été to koki koyeba identité ya information ezali na kati ya certificat, to bainformation mosusu ezali na kati ya certificat oyo basaleli pona kosécurisé connexion. Kolandela te.</translation>
+<translation id="2491120439723279231">Certificat ya serveur ezali na baerreur.</translation>
+<translation id="8318945219881683434">Vérification ya révocation efoiré.</translation>
+<translation id="9141716082071217089">Ekoki te kovérifié soko certificat ya serveur ezalaki révoqué.</translation>
+<translation id="2922350208395188000">Bakoki kovérifié certificat ya serveur te.</translation>
+<translation id="884923133447025588">Mecanisme ya révocation emonani te.</translation>
+<translation id="2413528052993050574">Serveur oyo ekoki kovérifé te ete eza <ph name="DOMAIN"/>; certificat ya securité na yango eko kozala révoqué. Oyo eko kozala pona configuration eza mabe to monguna aza kocapté connexion nayo.</translation>
+<translation id="8187473050234053012">Certificat sécurisé ya serveur ezali révoqué!</translation>
+<translation id="4377125064752653719">Omeki koatteindre <ph name="DOMAIN"/>, kasi certificat oyo serveur ezo représnté ezali révoqueé na moto apesaki yango. Oyo elingi koloba ete bacrédence ya serveur esengeli ata moke te epesama confiance. Tokanisi ozo communiqué na munguna.</translation>
+<translation id="5275799318132317934">Na cas oyo, certificat surfeur na yo alaksi ezali révoqué na moto apesaki yango. Oyo mingi-mingi elingi koloba été intégrité ya certificat oyo ezali compromis, yango wana certificat eza lisusu eloko ya kotia confiance te.</translation>
+<translation id="2386255080630008482">Certificat ya serveur ezali révoque.</translation>
+<translation id="4222982218026733335">Certificat ya serveur ezali invalide</translation>
+<translation id="9049981332609050619">Omeki koatteindre <ph name="DOMAIN"/>, kasi serveur eprésenté certificat oyo ezali invalide.</translation>
+<translation id="3776667127601582921">Na cas oyo, certificat ya serveur to certificat ya CA intevmédiaire balakisi na surfeur nayo ezali invalide, Oyo elingi kolba ete certificat ezali malformé, exa na bachamps invalide, to ezali appuyé.</translation>
+<translation id="917450738466192189">Certificat ya serveur ezali invalide.</translation>
+<translation id="9145357542626308749">Certificat sécurisé ya site eza signé na algorythme ya faible!</translation>
+<translation id="2171101176734966184">Omeki ko atteindre <ph name="DOMAIN"/>, kasi serveur elakisi certificat oyo eza signé kosalela na algorythme ya faible. Oyo elingi koloba ete bacredence ya sécurité oyo serveur alakisi ezali yakoyiba, bongo serveur mablal mosusu ezali oyo okanisi ekozala te (tango mosusu ozo communiqué na munguna).</translation>
+<translation id="4320833726226688924">Na cas oyo, certificat ya serveur to CA intermediaire oyo balakisi na navigateur na yo etiami signature kosalela algorythme ya signature ya faible lokola RSA-MD2. Recherche ya mikolo oyo na basavant ya ordinateur elakisi ete algorythme ya signature ezali faible koleka oyo yakala endimamaki, bongo signature ya algorythme basalelaka yango mingi-mingi lisusu te na bawebsite ya confiance lelo. Certificat oyo ekoki kozala ya moyibi.</translation>
+<translation id="2728127805433021124">Certificat ya serveur na yo esignami kosalela signature ya algorythme.</translation>
+<translation id="6315723398663634808">Certificat ya serveur eza na fongola ya cryptography ya faible!</translation>
+<translation id="121201262018556460">Omeki koatteindre <ph name="DOMAIN"/>, kasi serveur elakisi certificat ezali na fungola ya faible. Mungunia akokaki kobuka fungola ya privé bongo serveur mbala mosusu ezali penza serveur oyo okanisaki ezali te (tango mosusu ozali kocommmuniqué na munguna).</translation>
+<translation id="2929033900046795715">Na cas oyo, certificat ya serveur to certificat CA intermediaire elakisami na navigateur na yo ezali na fungola ya faible, lokola fungola ya RSA eza na babit ekomi 1024 te. Lokola ezali pasi penza te na kosala fungola ya privé ekokana pona fongola ya public, munguna akoki koyiba identité ya serveur ya solo.</translation>
+<translation id="168841957122794586">Certificat ya serveur ezali na fongola ya cryptography faible.</translation>
+<translation id="4253787465144837701">Certificat ya serveur eza na kombo ya domaine esengeli ezala wana te.</translation>
+<translation id="7567204685887185387">Serveur oyo ekoki kovérifé te ete eza <ph name="DOMAIN"/>; certificat ya securité nango eko kozala epesamaki na moyibi. Oyo eko kozala po na configuration ya mabe to munguna azo capté connexion na yo.</translation>
+<translation id="7592362899630581445">Certificat ya serveur eviolé bacontrainte ya kombo.</translation>
+<translation id="5944101742958374175">Exception ya cas special emonani na certificat eyambami.</translation>
+<translation id="5623463370978611784">Certificat eyambami epesami drapeau po eza na erreur. Sala otala $1 badetaille mingi koleka.</translation>
+<translation id="1177437665183591855">Erreur ya certificat na serveur eyebani te</translation>
+<translation id="4771973620359291008">Erreur eyebani te ewuti kosalama.</translation>
+<translation id="674375294223700098">Erreur ya certificat na serveur eyebani te.</translation>
+<translation id="5598024575303778520">Liyebisi ya likama ya fraude</translation>
+<translation id="7311721172731074902">Likebisi ya likama ya koyibama</translation>
+<translation id="4056154188339276219">Site oyo efundami ete ezali ya moyibi. Bopesi ya information sensitive to confidentielle na site oyo ekoki ko tia yo na risque ya koyibisa identité nayo pe/to ya koyibisa mbongo.</translation>
+<translation id="6494666865857176946">Opera Software ezo pekisa yo makasi penza otala page oyo.</translation>
+<translation id="8357891144266644027">Likebisi ya site ya kolo</translation>
+<translation id="4664012235452972339">Likebisi ya site ya kolo</translation>
+<translation id="8219093269265469764">Visite na page oyo ekoki kozala liwa. Efundami été ekoki kokotisa software ya kokoso ya mabe.</translation>
+<translation id="4863259811271883558">Reporté na <ph name="BEGIN_LINK"/><ph name="PROVIDER_NAME"/><ph name="END_LINK"/></translation>
+<translation id="3141322567138977593">Zonga sima na kimia</translation>
+<translation id="833642844779103272">Zonga sima na kimia</translation>
+<translation id="4238466718818823211">Bosana likebisi oyo</translation>
+<translation id="1755698976576372535">Po na nini lokasa oyo eza blocké?</translation>
+<translation id="7459549266751278805">Centre ya mayebisi ya Opera</translation>
+<translation id="7470668651798735849">Awa okoki komona mayebisi na yo nionso ewuti na bawebsite.</translation>
+<translation id="4501379002264542907">Mayebisi - Opera</translation>
+<translation id="1352092048463356430">Mayebisi- Opera (<ph name="QUANTITY"/> etangami te)</translation>
+<translation id="4159400746343093340">Mayebisi - Opera</translation>
+<translation id="6018626517703817463">Mayebisi - Opera (<ph name="QUANTITY"/> etangami te)</translation>
+<translation id="6426222199977479699">Erreur ya SSL</translation>
+<translation id="8398877366907290961">Koba kaka</translation>
+<translation id="6264485186158353794">Bozongi na kimia</translation>
+<translation id="2225024820658613551">Kolandela te, &lt;strong&gt;surtout &lt;/strong&gt; soki naino omona likebisi oyo te na site oyo.</translation>
+<translation id="5645845270586517071">Erreur ya sécurité</translation>
+<translation id="1103666958012677467">Okoki kolandela te tina operatoeur ya website oyo asengi babutisa sécurité na domaine oyo.</translation>
+<translation id="5463275305984126951">Indexe ya <ph name="LOCATION"/></translation>
+<translation id="8877448029301136595">[directoire ya boboti]</translation>
+<translation id="5327248766486351172">Kombo</translation>
+<translation id="8028993641010258682">Dimension</translation>
+<translation id="57646104491463491">Dati ya Modification</translation>
+<translation id="3835522725882634757">O, te! Serveur oyo ezo tinda badonné <ph name="PRODUCT_NAME"/> ekoki kososolama te. Sala <ph name="BEGIN_LINK"/>ofunda niama<ph name="END_LINK"/>, pe tia na kati <ph name="BEGIN2_LINK"/>molongo ya liste <ph name="END2_LINK"/>.</translation>
+<translation id="4231205248927312226">Confirmé formulaire uta na resoumission</translation>
+<translation id="6451458296329894277">Confirmé formulaire uta na resoumission</translation>
+<translation id="2032601515784864742">Na cas oyo, adresi bati na certificat ezo matché te na adresi ya website oyo esika navigateur na yo emekaki kokende. Tokoki koyanola yango na ndenge ete ba comunication na yo eza ko yambama na moto moko ya munguna oyo azali kolakisa certificat ya website mosusu. Ntina mosusu ekoki kozala ete serveur esalama po ezongisa certificat moko po na bawebsite ebele, kotisa na kati oyo ozo meka kovisité, atako certificat yango ezali valide te na bawebsite nionso. <ph name="PRODUCT_NAME"/> eko koloba te na solo ete osili koatteindre &lt;strong&gt;<ph name="DOMAIN2"/>&lt;/strong&gt;, kasi oko kovérifié te ete oyo ezali kaka site moko na &lt;strong&gt;<ph name="DOMAIN"/>&lt;/strong&gt; oyo olukaki okota. Soki olandeli, <ph name="PRODUCT_NAME"/> eko verifié lisusu te bozangi kokokana ya kombo.</translation>
+<translation id="1639773643001837725">Serveur oyo ekoki kovérifé te ete eza <ph name="DOMAIN"/>; certificat ya securité na yango eza expiré<ph name="DAYS"/> mo(mi)kolo eleki. Oyo eko kozala pona configuration mabe to mungunia azo capté connection nayo. Montre ya ordinateur nayo eza sik'oyo na <ph name="CURRENT_TIME"/>. Owana eza malamu? Soki te, ocorrigé montre ya systeme nayo pe orafraichir lokasa oyo.</translation>
+<translation id="7235421518178823985">Serveur oyo ekoki kovérifé te ete eza <ph name="DOMAIN"/>; certificat ya securité nango eko kowuta na <ph name="DAYS"/> (mi)kolo na tango ya sima. Oyo eko kozala pona configuration mabe to munguna aza kocapté connexion na yo.</translation>
+<translation id="1763864636252898013">Serveur oyo ekoki kovérifé te ete eza <ph name="DOMAIN"/>; Certificat ya securité nango eza na confiance ya systeme ya operation ya na appareil nayo te. Oyo eko kozala pona configuration mabe to mungunia azo capté connection nayo.</translation>
+<translation id="467662567472608290">Serveur oyo ekoki kovérifé te ete eza <ph name="DOMAIN"/>; certificat ya securité na yango eza na baerreur. Oyo ekozala po na configuration eza mabe to monguna aza kocapté connexion na yo.</translation>
+<translation id="8465929756435120446">Lokasa oyo eza na kamwa contenu eza sécurisé te.</translation>
+<translation id="4522570452068850558">Badétails</translation>
+<translation id="3586931643579894722">Bomba badétaille</translation>
+<translation id="8962083179518285172">Bomba badétaille</translation>
+<translation id="6042308850641462728">Mingi</translation>
+<translation id="2089090684895656482">Moins</translation>
+<translation id="5556459405103347317">Télérechargé</translation>
+<translation id="9193357432624119544">Code ya Erreur: <ph name="ERROR_NAME"/></translation>
+<translation id="4910619056351738551">Oyo ezali kamwa basuggestion:</translation>
+<translation id="2662338103506457097">Orechargé webpage oyo.</translation>
+<translation id="3226128629678568754">Fina buto ya recharge po na kotia lisusu badonné elongobani pona kochargé lokasa.</translation>
+<translation id="8196061687045545167">Désactivé baextension na yo bongo orechargé lokasa ya web oyo.</translation>
+<translation id="3155309969919037916">Verifié connexion na yo ya internet.</translation>
+<translation id="1519957265434608160">Vérifié bacable nioso pe redémarrer barouteurs nionso, bamodem, to basini mosusu ya réseau ozo kokoa kosalela.</translation>
+<translation id="2319236583141234177">Vérifé baparamètre na yo ya DNS.</translation>
+<translation id="8289355894181816810">Ocontacté mokambi na yo ya réseau soko oza sûre te oyo soko eza nini.</translation>
+<translation id="5573959367212558217">Meka kodésactivé baprédiction ya réseau.</translation>
+<translation id="8888594059056485523">Tika Opera ekota na réseau kati ya parefeu na yo to baparametre ya antivirus.</translation>
+<translation id="6456804684535455731">Soki eza déjà na liste lokola programme oyo eza na ndingisa ya kokota na réseau, meka kolongola yango na list pe bakisa yango lisusu.</translation>
+<translation id="382518646247711829">Soki osaleli serveur ya proxy...</translation>
+<translation id="7616012285680677132">Vérifié baparamètre ya serveur proxy nayo to contacté mokambi ya réseau nayo ozal sûr serveur proxy eza kosala. <ph name="PLATFORM_TEXT"/></translation>
+<translation id="8454634452929957533">Vérifié baparamètre ya serveur proxy nayo to contacté mokambi ya réseau na yo ozali sûr serveur proxy eza kosala. Soko ondimi te esengeli osaleli serveur: <ph name="PLATFORM_TEXT"/></translation>
+<translation id="8040357206858000048">Kende na baapplication&gt; baPréférence ya Système &gt; Réseau &gt; Avancé &gt; baProxy pe déselectionné baproxy nioso ezali selectionné.</translation>
+<translation id="7158277678571698323">Kende na Opera menu &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; LAN baParamètre pe Déselect "Salela serveur proxy po na LAN na yo".</translation>
+<translation id="2954705784594331199"><ph name="BEGIN_LINK"/>Rechargé<ph name="END_LINK"/> page ya web oyo sima.</translation>
+<translation id="4977565600485911823">Désactivé baextension na yo mpe bongo <ph name="BEGIN_LINK"/>rechargé<ph name="END_LINK"/> lokasa ya web oyo.</translation>
+<translation id="1103966635949043187">Kende na lokasa ya accueille ya site:</translation>
+<translation id="7747589364844254751">Verifié baconnection ya internet. Redémarré routeur nioso, modem, to masini mosusu ya reseau okoki kozala kosalela.</translation>
+<translation id="5548623538190661145">Vérifié baparamètre nayo ya DNS. Ocontacté mokambi nayo ya réseau soko oza sûre te oyo soko eza nini.</translation>
+<translation id="9127307628159259612">Bakisa <ph name="PRODUCT_NAME"/> lokola progrmme permi na pare-feu na yo to na baparamètre ya antivirus. Soki ezali déjà programme permi, meka kolongola yango na liste ya baprogramme permi pe bakisa yango lisusu.</translation>
+<translation id="4545046228395991092">Soko osalelaka serveur proxy, vérifié baparamètre proxy to contacté mokambi ya réseau na yo po ozala sûre serveur proxy na yo ezo sala.</translation>
+<translation id="1712673276482711826">Soko osalelaka sereur proxy, vérifié baparamètre ya proxy na yo to contacté mokambi ya baréseau na yo po ozala sûre serveur proxy na yo ezo sala. Soko ondimi te ete esengeli osalela serveur proxy, réglé baparamètee ya proxy na yo: <ph name="PLATFORM_TEXT"/></translation>
+<translation id="721197778055552897"><ph name="BEGIN_LINK"/>Yekola mingi <ph name="END_LINK"/> maye matali mokakatano oyo.</translation>
+<translation id="2214283295778284209"><ph name="SITE"/> ezali disponible te</translation>
+<translation id="4032534284272647190">Bokoti na <ph name="URL"/> eboyami.</translation>
+<translation id="790025292736025802"><ph name="URL"/> emonani te</translation>
+<translation id="641480858134062906"><ph name="URL"/> kochargé esalemi te</translation>
+<translation id="4697214168136963651"><ph name="URL"/> ezalaki blocké</translation>
+<translation id="9020278534503090146">Page ya web oyo ezali disponible te</translation>
+<translation id="9086455579313502267">Ekoki te kokota na réseau</translation>
+<translation id="6771079623344431310">Ekoki te koconnecté na serveur proxy</translation>
+<translation id="5303446622366702551">Ekoki te koconnecté na internet</translation>
+<translation id="6640442327198413730">Echec ya ebombeli</translation>
+<translation id="4786993863723020412">Erreur yakotanga ebombeli</translation>
+<translation id="5880867612172997051">Bokoti na réseau eza suspendu</translation>
+<translation id="5303618139271450299">Page oyo ya web emonani te</translation>
+<translation id="7269802741830436641">Page ya web oyo eza boucle redirigé</translation>
+<translation id="778579833039460630">Badonné ata moko te eyambami</translation>
+<translation id="4980112683975062744">Baligne ya motu doublé eyambami na serveur</translation>
+<translation id="7839809549045544450">Serveur eza na fungola ephemeral public Diffie-Hellman elemba</translation>
+<translation id="820791781874064845">Lokasa ya web oyo ezal blocké na extension</translation>
+<translation id="4764776831041365478">Lokasa ya web na <ph name="URL"/> ekoki kozala ya kokufa na tango oyo to bakei na yango libela na adresi mosusu.</translation>
+<translation id="2776514516555065663"><ph name="PRODUCT_NAME"/> ekokaki kochragé page ya web te <ph name="HOST_NAME"/> ezwi tango eleki mingi po erépondre. Website ekoki kozala ya kokufa, to oza komona kokoso na connection ya internet na yo.</translation>
+<translation id="7732608718511994155">Connection na <ph name="HOST_NAME"/> ekatanaki.</translation>
+<translation id="6866330586943304386">Connection na <ph name="HOST_NAME"/> ekatamaki na changement ya connection na réseau.</translation>
+<translation id="3353584498371175254"><ph name="PRODUCT_NAME"/>momekano ya connection na <ph name="HOST_NAME"/> ebwakami. Website eko kozala yakokufa, to reseau na yo eza configuré na ndenge elongobani te.</translation>
+<translation id="1775580281086246828">Serveur na <ph name="HOST_NAME"/> ekoki komonana te, pona botali ya DNS efoiré. DNS eza service ya réseau oyo ebongolaka kombo ya website na adresi ya internet nango. Erreur ya boye ewutaka mingi na kozanga connection na internet to réseau ezalaki deconfiguré. Ekoki pe kowuta na serveur DNS eza koréagir te to parefeu eza kopekisa <ph name="PRODUCT_NAME"/> bokoti na réseau.</translation>
+<translation id="1900640198039665133"><ph name="PRODUCT_NAME"/> ekoki koatteindre website te. Oyo ewutaka mingi-mingi na mikakatano ya réseau, kasi tango mosusu ekoki kowuta na déconfiguration ya parefeu to serveur proxy.</translation>
+<translation id="6061713520396617275">Fiché na <ph name="URL"/> ezo tangama te. Tango mosus balongoli yango, ekei pai mosusu, to bapermission eza kopekisa batu batanga yango.</translation>
+<translation id="3743996431420410209"><ph name="PRODUCT_NAME"/> eza na kokoso ya kokota na réseau. <ph name="LINE_BREAK"/> Oyo eko kowuta na parefeu to antivirus nayo mutu eza na software oyo ezo kokanisa mabe ete <ph name="PRODUCT_NAME"/> eza monkoteli na mobile nayo bongo ezo blocké yango econnecté na réseau te.</translation>
+<translation id="8525957822916060992">Serveur proxy eza serveur oyo esalaka lokola intermediare okati ya mobile nayo na baserveur mosusu. Sika-sikoyo, systeme nayo eza configuré po esalaka na proxy, kasi <ph name="PRODUCT_NAME"/> ekoki koconnecté na yango te.</translation>
+<translation id="2182771052381938197"><ph name="PRODUCT_NAME"/> ekoki kolakisa page ya web te natina ete mobila nayo eza connecté na internet te.</translation>
+<translation id="8504605147845230067"><ph name="ERROR_DESCRIPTION_TEXT"/></translation>
+<translation id="6482869692698550826"><ph name="PRODUCT_NAME"/> eza na kokoso ya kokota na réseau. <ph name="LINE_BREAK"/> Oyo eko kowuta na parefeu to antivirus nayo mutu eza na software oyo eza kokanisa mabe ete <ph name="PRODUCT_NAME"/> ezo monkoteli na mobile nayo bongo ezo blocké yango econnecté na réseau te.</translation>
+<translation id="6268299223990012826">Serveur proxy eza serveur oyo esalaka lokola intermediare okati ya ordinateur nayo na baserveur mosusu. Sika-sikoyo, systeme nayo eza konfiguré po esalaka na proxy, kasi <ph name="PRODUCT_NAME"/> ekoki koconnecé nayango te.</translation>
+<translation id="2082033521101679150"><ph name="PRODUCT_NAME"/> ekoki kolakisa page ya web te natina ete ordinateur nayo eza connecté na internet te.</translation>
+<translation id="5025570087133380871"><ph name="ERROR_DESCRIPTION_TEXT"/> <ph name="LINE_BREAK"/> Okoki komeka kodianostiqué mokakatano na kolandela baetape oyo: <ph name="LINE_BREAK"/> <ph name="PLATFORM_TEXT"/></translation>
+<translation id="3952238365087168585">Kende na <ph name="BEGIN_BOLD"/> baApplication &gt; baPréférence ya System &gt; Réseau &gt; Assisté ngai <ph name="END_BOLD"/> po otester connection nayo.</translation>
+<translation id="8907719130223575953">Go to <ph name="BEGIN_BOLD"/> Banda &gt; Panneau ya Commande &gt; Réseau na Internet &gt; Réseau na Centre ya Bokaboli &gt; Depannage ya Mikakatano (na se) &gt; Connection ya Internet. <ph name="END_BOLD"/></translation>
+<translation id="6426809368065002078">Go to <ph name="BEGIN_BOLD"/> Banda &gt; Panneau ya Commande &gt; BaConnection ya Réseau &gt; Ndoki ya Sika ya Connection <ph name="END_BOLD"/> pona kotesté connection nayo.</translation>
+<translation id="2430210664810280637">Beta <ph name="BEGIN_BOLD"/>Banda<ph name="END_BOLD"/>, beta <ph name="BEGIN_BOLD"/>Exécuté<ph name="END_BOLD"/>, type <ph name="BEGIN_BOLD"/>%windir%\dianostiqué réseau \xpnetdiag.exe<ph name="END_BOLD"/>, bongo obeta <ph name="BEGIN_BOLD"/>OK<ph name="END_BOLD"/>.</translation>
+<translation id="5098248489969453574">Lokasa ya web emonani te na ebombeli. Barésource mosusu elingaka kaka barchargé yango nakimia uta na ebombeli, lokola makasa esalami uta na badonné bakotisaki. <ph name="LINE_BREAK"/> Erreur oyo ekoki pe kowuta na bopoli ya ebombeli ebotami na bokangi ya mabe ya ordinateur. <ph name="LINE_BREAK"/> Soki mokakatano ezali kaka, meka osokola ebombeli.</translation>
+<translation id="2275837730041455081">Po na mbango ya makasa ya web, <ph name="PRODUCT_NAME"/> ebombaka na kamwa tango moke bafiché déchargé na disque. Tango <ph name="PRODUCT_NAME"/> ekangamaka malamu te, bafiché yango ekoki kobeba, yango nde epesaka esseur. Korechargé page ekorésoudre mokakatano oyo, pe kokangaka yango malamu ekopekisa mokakatano oyo ezalaka lisusu tango ya sima. <ph name="LINE_BREAK"/> Soko mokakatanu ezali kaka, meka kovidé ebombeli. Na mabaku mosusu, oyo ekoki kozala symptome ya matériel ebandi kobeba.</translation>
+<translation id="9029615070002286968">Ekoki kochargé te page ya web te po mobile nayo ekoti na mode ya kolala to ya hiver. Tango oyo esalamaka, baconnection ya réseau ekangamaka bongo bosengi ya baréseau ya sika esimbaka te. Recharge ya lokasa ekoréoudre mokakatano yango.</translation>
+<translation id="4534415571332240241">Ekoki kochargé te lokasa ya web te po mobile nayo ekoti na mode ya kolala to ya hiver. Tango oyo esalamaka, baconnection ya réseau ekangamaka bongo bosengi ya baréseau ya sika esimbaka te. Recharge ya lokasa ekoréoudre mokakatano yango.</translation>
+<translation id="7518003948725431193">Lokasa ata moko emonani te po na adresi ya web: <ph name="URL"/></translation>
+<translation id="9164387458644511612">Lokasa ya web na <ph name="URL"/> ebendi baredirect mingi koleka. Bolongoli ya babisikiti na yo na site oyo to bolekisi babisikiti ya mutu ya misatu eko kosukisa mokakatano. Soki te, ekoki kozala mokaktano ya configuration ya serveur, mokakatano ya mobile na yo te.</translation>
+<translation id="3015602778474660457">Lokasa ya web na <ph name="URL"/> ebendi baredirect mingi koleka. Bolongoli ya babisikiti nayo na site oyo to bolekisi babisikiti ya mutu ya misatu eko kosukisa mokakatano. Soki te, ekoki kozala mokaktano ya configuration ya serveur, mokakatano ya ordinateur na yo te.</translation>
+<translation id="4287689875748136217">Ekoki kochargé page ya web te po serveur etindi badonné te.</translation>
+<translation id="660896802268593778">Réponse ewuti na serveur eza na mitu doublé. Mokakatano ya boye mingi-mingi ewutaka na déconfiguration ya website to proxy. Mukambi ya website to proxi kaka moto akoki kosilisa yango.</translation>
+<translation id="5954987802886981088">Ereur oyo eko koya tango ya koconnecté na serveur sécurisé (HTTPS). Elakisi ete serveur ezo meka kotia connection sécurisé kasi, pona défiguration epola penza, connection ekoki kozala sécurisé ata moke te! <ph name="LINE_BREAK"/> Nacas oyo, serveur esengeli ebongisama. <ph name="PRODUCT_NAME"/> eko kosalela connection eza sécurisé te pona koprotégé boprivé nayo.</translation>
+<translation id="8752577199214871617">Ekoki totala te <ph name="HOST_NAME"/>.</translation>
+<translation id="8235325155053717782">Erreur <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="3986287159189541211">Erreur ya HTTP <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="4405141258442788789">Tango ya operation esi esili.</translation>
+<translation id="3118046075435288765">Serveur ekangi connection na ntango elongobani te.</translation>
+<translation id="2784949926578158345">Bareinstallé connection.</translation>
+<translation id="9020142588544155172">Serveur eboyi connection.</translation>
+<translation id="8494979374722910010">Komeka koconnecté na serveur esimbi te.</translation>
+<translation id="2909946352844186028">Changement ya réseau emonani.</translation>
+<translation id="5949910269212525572">Ekoki te korésourdre likambo ya adresi ya DNS.</translation>
+<translation id="5498951625591520696">Ekoki te koatteindre serveur.</translation>
+<translation id="3950924596163729246">Ekoki te kokota na réseau.</translation>
+<translation id="4147376274874979956">Ekoki te kokota na fichier.</translation>
+<translation id="4535734014498033861">Connection na serveur proxy esimbi te.</translation>
+<translation id="6728024709633626254">Connection na internet ebungi.</translation>
+<translation id="201192063813189384">Erreur ya botangi badonné na ebombeli.</translation>
+<translation id="3393716657345709557">Bokoti esengami emonani te na ebombeli.</translation>
+<translation id="7450732239874446337">Réseau IO eza suspendu.</translation>
+<translation id="6391832066170725637">Fichier to directoire ekoki komonana te.</translation>
+<translation id="3748412725338508953">Baredirect eleki mingi penza.</translation>
+<translation id="2950186680359523359">Serveur ekangi connection kozanga kotinda badonné ata moko.</translation>
+<translation id="2929266020546499971">Bacontenu Molai ya moto ebele ekesana eyambami. Oyo endimami te po na kobatela HTTP contre battaque ekabwana.</translation>
+<translation id="2297038239859335744">Bacontenu Molai ya moto ebele ekesana eyambami. Oyo endimami te po na kobatela HTTP contre battaque ekabwana.</translation>
+<translation id="3336388975352605720">Bacontenu Molai ya motu ebele ekesana eyambami. Oyo endimami te po na kobatela HTTP contre battaque ekabwana.</translation>
+<translation id="6626108645084335023">Ezo zela enquête ya DNS.</translation>
+<translation id="1195447618553298278">Erreur eyebani te.</translation>
+<translation id="6066742401428748382">Bokoti na page ya web eboyami</translation>
+<translation id="2650446666397867134">Bokoti na fiché endimami te</translation>
+<translation id="3261690198327056381">Ozali na ndingisa ya kokota na page ya web te na <ph name="URL"/>. Oko kozala na besoin okota na kati.</translation>
+<translation id="3903912596042358459">Serveur eboyi kosatisfaire demande.</translation>
+<translation id="904949795138183864">Page ya web na <ph name="URL"/> ezalaka lisusu te.</translation>
+<translation id="5319054530310231888">Resource ya demande ezalaka lisusu te, pe adresi yakolandesela eza te. Oyo ezali bobele condition ya libela.</translation>
+<translation id="8295070100601117548">Erreur ya serveur</translation>
+<translation id="1055268999302881517">Website ekutani na erreur ntango ya kofongola <ph name="URL"/>. Ekoki kozala na se po na maintenance to configuration eza mabe.</translation>
+<translation id="2279770628980885996">Condition ezelami te emonani ntango serveur ezalaki komeka kosatisfaire demande.</translation>
+<translation id="4060383410180771901">Website ekoki komanipulé demande te po na <ph name="URL"/>.</translation>
+<translation id="477518548916168453">Serveur esupportaka fonctionalité elongobani po na kosatisfaire demande.</translation>
+<translation id="3940082421246752453">Serveur esupportaka te version ya HTTP basaleli po na demande.</translation>
+<translation id="7544229255782699242">Réponse invalide eyambami tango yakomeka charge <ph name="URL"/>. Serveur ekoki kozala nase pona maintenance to eza configuré malamu te.</translation>
+<translation id="7052500709156631672">Serveur gateway to proxy eyambi réponse invalide na serveur ya amont.</translation>
+<translation id="5741201586401781900">Page ya web na <ph name="URL"/> eza disponible te sikoyo. Ekoki kozala surchargé to na se po na maintenance.</translation>
+<translation id="6094756196753418043">Serveur ekoki komanipulé demande te sikoyo. Code oyo elakisi ete oyo ezali condition ya kamwa tango kaka, bongo serveur ekobonga na yango sima ya kamwa ntango.</translation>
+<translation id="2084412568823043027">Serveur pona <ph name="URL"/> ezwi tango mingi koleka po erépondre. Ekoki kozala surchargé.</translation>
+<translation id="1202290638211552064">Serveur ya gateway to proxy esilaki tango tango ezalaki kozela réponse ya seveur ya amont.</translation>
+<translation id="1146498888431277930">Erreur ya connection ya SSL</translation>
+<translation id="4350711002179453268">Ekoki te kosala connection sécurisé na serveur. Oyo ekoki kozala mokakatano na serveur, to ezo senga certificat ya authetification ya client oyo ozali na yango te.</translation>
+<translation id="5228309736894624122">Erreur ya protocole ya SSL.</translation>
+<translation id="8016174103774548813">Serveur SSL mbala mosusu ezali dépassé.</translation>
+<translation id="5549435349608496346">Eza koka te koconnecté na securité na serveur. Webisite oyo esalaki liboso, kasi connecion na basite ya boye emonani ete ekov komeme bariske ya kozanga securité na basaleli banso yango wana eza désactivé pona securité nayo.</translation>
+<translation id="2803407661478021186">SSLv3 ya repechage ekokaki kopesa mbote na serveur, kasi toko kondima lisusu SSLv3 ya repechage te pona baattaque ya sika na protocole. Serveur esengeli ezala mis-a-jour pona kosoutenir minimum ya TLS 1.0 pe tolingi TLS 1.2.</translation>
+<translation id="2345460471437425338">Certificat eza incorrect po na moyambi.</translation>
+<translation id="3225919329040284222">Serveur elakisi certificat oyo ezo koyokana na baexpectation etongama na kati te. Baexpectation oyo batia yango pona kosécurisé makasi penza website pe po na kobatela yo.</translation>
+<translation id="6957887021205513506">Certificat ya serveur emonani lokola eza ya moyibi.</translation>
+<translation id="4544369257849566741">Renegotiation ya extension SSL ezalaki kozanga na mbote sécurisé. Pona basite mosusu, oyo eyebani esupportaka extension ya renegotiation, <ph name="PRODUCT_NAME"/> esengaka mbote ezalaka sécurisé makasi penza pona kopekisa kelasi ya baattaque eyebani. Omission ya extension oyo ezo suggéré ete connection nayo ezalaki intercepté mpe manipulé na nzela.</translation>
+<translation id="8515737884867295000">Authetication basalaka na certificat esimbi te</translation>
+<translation id="1214288039821587584">Serveur ezo senga certificat ya authentication, pe endimi te oyo etindami na navigateur. Mbala mosusu certificat nayo eza expiré to seveur ezangi confiance na mutu apesaki yango. Oko komeka lisusu na certificat mosusu, soko ozali na yango, to esengeli ozwa certificat ya valide na ewuta epai mosusu.</translation>
+<translation id="9013589315497579992">Certifica ya authentication ya client ya SSL eza mabe.</translation>
+<translation id="5620046725797389119">Mbala mosusu ezali ete serveur ezo hosté page ya web oyo basurchargé yango to ekutani na erreur. Pona kopekisa kolekisa baextension oyo eprovocaka batrafique mingi koleka pe ekomisaka situation bwale, <ph name="PRODUCT_NAME"/> eza koboya na kamwa tango kolekisa bademande na nzela ya extension ya URL oyo.</translation>
+<translation id="2271281383664374369">Bademande ya extension oyo na URL basi baniati yango na kamwa ntango oyo.</translation>
+<translation id="3225579507836276307">Extension ya mutu ya misato eblocké bokoti na page ya web oyo.</translation>
+<translation id="5990559369517809815">Demande na serveur ezali blocké na extension.</translation>
+<translation id="8315720913203253727">Lokasa ya web oyo esengi badonné okotisaki liboso po emonana malamu. Okoki kotinda badonné yango lisusu, kasi soki osali yango okozongela action nioso osaleaki liboso. Fina Recharge po otinda donné wana pe kolakisa lokasa oyo.</translation>
+<translation id="6429639049555216915">App ekoki kozwama te sikoyo.</translation>
+<translation id="8162734958263531433">Pona kosalela USB déborgage, esengeli osalela Android SDK pe USB déborgage activé na masini Android na yo. Tala <ph name="HTML_HELPURL"/> po na information molai.</translation>
+<translation id="1875071432292773474">Kotisa adresi <ph name="ACCESS_POINT"/> na surfeur ya poste ya mosala nayo. Navigateur ya poste ya mosala esengeli ezala na reseau moko na masini Android.</translation>
+<translation id="7227425938337339799">Po UPnP esala esengeli ozala to na sousréseau moko, to tia pont na routeur po na kotindika makambo na basousréseau.</translation>
+<translation id="4553629908098215669">Na ordinateur nayo, exécuté <ph name="HTMLADBCOMMAND"/>, pe navigué na <ph name="HTMLLOCALHOSTURL"/> surfeur basala na Chromium.</translation>
+<translation id="5873732809085338161">Pona koactivé Socket ya Web oyo eza sécurisé te na navigateur ya écran na yo ya surface, kende na <ph name="HTMLOPERAFLAG"/> (Opera 24+) to <ph name="HTMLCHROMEFLAG"/> (Chrome 36+).</translation>
+<translation id="4570032796877367747">Camera ya face</translation>
+<translation id="2599796128805996109">Zongisa camera sima</translation>
+<translation id="1780524213916974482">Camera ya gauche</translation>
+<translation id="1198988598070704831">Camera ya droite</translation>
+<translation id="2124507516322945394">Micro Défaut</translation>
+<translation id="1587215898571986504">Hautparleur</translation>
+<translation id="5614598979078259956">Ecouteur filé</translation>
+<translation id="9031226374756103225">Ecouteur ya matoi</translation>
+<translation id="149679617917926491">Ecouteur ya Bluetooth</translation>
+<translation id="6060685159320643512">Sala-keba, bamomekano oyo ekoki kosuwa</translation>
+<translation id="5199729219167945352">Bamomekano</translation>
+<translation id="2712869172826980984">KEBA!</translation>
+<translation id="8102444033747951866">Badrapeau oyo econtrolaka bacarateristique ya experience to oyo echangeaka. Mbala mosusu eko koka kosala te, to ekoki kocausé surfeur nayo epotakana. Okoki kobungisa badonné, to kiprivé nayo, to sécurité ekoki kolemba. Bacarateristique ekoki koya, kokende, to kotika kasala tango moko. Keba—awa zala badragon!</translation>
+<translation id="9187827965378254003">Wee, ezo monana lokola momekano ata moko eza disponible te.</translation>
+<translation id="2282872951544483773">Bamomekano ezali disponible te</translation>
+<translation id="6426993025560594914">Bamomekano nionso ezali disponible na plateform na yo!</translation>
+<translation id="889901481107108152">Mawa, momekano oyo ezali disponible te na plateforme na yo.</translation>
+<translation id="3015639418649705390">Relancé Sikoyo</translation>
+<translation id="7179921470347911571">Relancé Sikoyo</translation>
+<translation id="8647750283161643317">Reinstallé nionso na défaut</translation>
+<translation id="1134886108896378542">Reinstallé nionso na défaut</translation>
+<translation id="4394049700291259645">Longola esala te</translation>
+<translation id="3435896845095436175">Zongisa esala</translation>
+<translation id="604124094241169006">Automatiki</translation>
+<translation id="8798099450830957504">Défaut</translation>
+<translation id="8815310998417289610">Ezongisami kosala</translation>
+<translation id="7826518276255108913">Elongwe na kosala</translation>
+<translation id="2005166128312586988">Bachangement na yo eko banda kosala tango oko relancé Opera.</translation>
+<translation id="7961015016161918242">Ata moke te</translation>
+<translation id="6342069812937806050">Kaka sikoyo</translation>
+<translation id="684302243018322820">Mpo na komona mots de passe ebombama na Opera, nasengo okotisa mot de passe ya ordinateur na yo.</translation>
+<translation id="533563709691128800">elongolami mpo na kosala te</translation>
+<translation id="2506903884491778518">Bamomekano ya boluki</translation>
+<translation id="2112624549618815628">Défaut (activé)</translation>
+<translation id="3696363537446376816">Defaut (désactivé)</translation>
+<translation id="1375198122581997741">Etali Versio</translation>
+<translation id="7248671827512403053">Demande</translation>
+<translation id="1710259589646384581">SO</translation>
+<translation id="6897140037006041989">Agent Mosaleli</translation>
+<translation id="7353601530677266744">Ligne ya Commande</translation>
+<translation id="7225807090967870017">Tonga ID</translation>
+</translationbundle>

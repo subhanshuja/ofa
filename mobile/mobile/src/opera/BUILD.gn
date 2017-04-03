@@ -1,0 +1,35 @@
+# Copyright (C) 2016 Opera Software ASA.  All rights reserved.
+#
+# This file is an original work developed by Opera Software ASA
+
+import("//build/config/opera-common.gni")
+
+shared_library("libopera") {
+  # These need to be here (rather than in chill, for instance) in
+  # order to export the symbols for dlsym:ing.
+  sources = [
+    "../chill/app/opera_library_loader.cc",
+    "../chill/browser/net/turbo_zero_rating_delegate.cc",
+    "../chill/browser/net/turbo_zero_rating_delegate.h",
+
+    "../../../common/favorites/favorites_delegate.cc",
+
+    "../../bin/swig/opera/op.cpp",
+    "../../bin/swig/opera/op.h",
+  ]
+
+  configs += [ "$opera/mobile/mobile/build:include_config" ]
+  configs += [ "//third_party/WebKit/public:blink_headers_config" ]
+  configs -= [ "//build/config/android:hide_native_jni_exports" ]
+
+  defines = [ "SWIG_JAVA_NO_DETACH_CURRENT_THREAD" ]
+
+  deps = [
+    "//skia",
+    "../chill",
+  ]
+
+  if (is_component_build) {
+    deps += [ "//build/android:cpplib_stripped" ]
+  }
+}

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="ca">
+<translation id="1974060860693918893">Avançat</translation>
+<translation id="3462200631372590220">Oculta avançat</translation>
+<translation id="3369192424181595722">Error de rellotge</translation>
+<translation id="2625385379895617796">El rellotge va avançat</translation>
+<translation id="8932102934695377596">El rellotge va endarrerit</translation>
+<translation id="3858027520442213535">Actualitza data i hora</translation>
+<translation id="725866823122871198">No es pot establir una connexió privada a <ph name="BEGIN_BOLD"/><ph name="DOMAIN"/><ph name="END_BOLD"/> perquè la data i l'hora de l'ordinador (<ph name="DATE_AND_TIME"/>) no són correctes.</translation>
+<translation id="4879058462256654741">Per establir una connexió segura, cal configurar correctament el rellotge. Això és així perquè els certificats que utilitzen aquests llocs web per identificar-se només són vàlids durant un període de temps determinat. Com que el rellotge del dispositiu no està ben configurat, aquests certificats no es poden verificar.</translation>
+<translation id="1413809658975081374">Error de privadesa</translation>
+<translation id="3566021033012934673">La connexió no és privada</translation>
+<translation id="340013220407300675">Pot ser que algun atacant estigui provant d'agafar la teva informació de <ph name="BEGIN_BOLD"/><ph name="SITE"/><ph name="END_BOLD"/> (per exemple, contrasenyes, missatges o números de targeta de crèdit).</translation>
+<translation id="629137324635910832">Normalment, <ph name="SITE"/> xifra la teva informació per protegir-la. Quan Opera ha provat de connectar-se a <ph name="SITE"/>, el lloc web ha enviat unes credencials incorrectes i poc habituals. Això pot passar quan un atacant intenta fer-se passar per <ph name="SITE"/>, o quan una pantalla d'inici de sessió a la Wi-Fi ha interromput la connexió. La teva informació segueix estant protegida perquè Opera ha aturat la connexió abans que es produís cap intercanvi de dades.</translation>
+<translation id="4404555778932203074">No pots visitar <ph name="SITE"/> ara mateix perquè el lloc web ha enviat credencials codificades que l'Opera no pot processar. Els errors i atacs de la xarxa acostumen a ser temporals, per la qual cosa és molt probable que aquesta pàgina torni a funcionar més endavant.</translation>
+<translation id="8882627153668738693">Normalment, <ph name="SITE"/> xifra la teva informació per protegir-la. Quan Avast SafeZone ha provat de connectar-se a <ph name="SITE"/>, el lloc web ha enviat unes credencials incorrectes i poc habituals. Això pot passar quan un atacant intenta fer-se passar per <ph name="SITE"/>, o quan una pantalla d'inici de sessió a la Wi-Fi ha interromput la connexió. La teva informació segueix estant protegida perquè Avast SafeZone ha aturat la connexió abans que es produís cap intercanvi de dades.</translation>
+<translation id="1888865191717601957">No pots visitar <ph name="SITE"/> ara mateix perquè el lloc web ha enviat credencials codificades que l'Avast SafeZone no pot processar. Els errors i atacs de la xarxa acostumen a ser temporals, per la qual cosa és molt probable que aquesta pàgina torni a funcionar més endavant.</translation>
+<translation id="6264485186158353794">Torna a la seguretat</translation>
+<translation id="7704050614460855821"><ph name="BEGIN_LINK"/>Continua a <ph name="SITE"/> (no és segur)<ph name="END_LINK"/></translation>
+<translation id="5556459405103347317">Torna a carregar</translation>
+<translation id="6051221802930200923">No podeu visitar <ph name="SITE"/> ara mateix perquè el lloc web utilitza ancoratge de certificats. Els errors i atacs de la xarxa acostumen a ser temporals, per la qual segurament aquesta pàgina torni a funcionar més endavant.</translation>
+<translation id="2991571918955627853">No podeu visitar <ph name="SITE"/> ara mateix perquè el lloc web utilitza HSTS. Els errors i atacs de la xarxa acostumen a ser temporals, per la qual segurament aquesta pàgina torni a funcionar més endavant.</translation>
+<translation id="1430489501396597835">No pots visitar <ph name="SITE"/> ara mateix perquè aquest certificat s'ha revocat. Els errors i atacs de la xarxa acostumen a ser temporals, per la qual cosa és molt probable que aquesta pàgina torni a funcionar més endavant.</translation>
+<translation id="4513896196857653318">Vés a
+          Menú principal &gt;
+          <ph name="SETTINGS_TITLE"/>
+          &gt;
+          <ph name="ADVANCED_TITLE"/>
+          i deselecciona "<ph name="NO_PREFETCH_DESCRIPTION"/>".
+          Si el problema no es resol, torna a seleccionar aquesta opció
+          per tal de millorar el rendiment.</translation>
+<translation id="8888594059056485523">Permet que Opera accedeixi a la xarxa amb la teva configuració de tallafoc o antivirus.</translation>
+<translation id="8040357206858000048">Vés a Aplicacions &gt; Preferències del sistema &gt; Xarxa &gt; Avançat &gt; Servidors intermediaris i anul·la la selecció dels servidors intermediaris que s'hagin seleccionat.</translation>
+<translation id="1532685482177999023">Vés al Menú principal &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; Configuració de la LAN i deselecciona "Utilitza un servidor intermediari per a la LAN".</translation>
+<translation id="6118049677165320383">Els canvis s'aplicaran la propera vegada que tornis iniciar el navegador.</translation>
+<translation id="5510583790312051907">L'opció per notificar fallades del sistema no està disponible.</translation>
+<translation id="1011013207380005827">Opera és una realitat gràcies al projecte de codi obert <ph name="BEGIN_LINK_CHROMIUM"/>Chromium<ph name="END_LINK_CHROMIUM"/>i a altres tipus de <ph name="BEGIN_LINK_OSS"/>programari de codi obert<ph name="END_LINK_OSS"/>.</translation>
+<translation id="3108493547597012279">Estàs visualitzant una pàgina segura.</translation>
+<translation id="8530361534096361731">Opera no s'ha tancat correctament.</translation>
+</translationbundle>

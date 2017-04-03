@@ -1,0 +1,194 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="gd">
+<translation id="4522570452068850558">Mion-fhiosrachadh</translation>
+<translation id="5317780077021120954">Sàbhail</translation>
+<translation id="8141602879876242471">Gabhaidh an clàr-amais seo a rannsachadh. Cuir a-steach faclan-luirg: </translation>
+<translation id="6643016212128521049">Falamhaich</translation>
+<translation id="2148716181193084225">An-diugh</translation>
+<translation id="248395913932153421">Latha</translation>
+<translation id="8987927404178983737">Mìos</translation>
+<translation id="6015796118275082299">Bliadhna</translation>
+<translation id="2653659639078652383">Cuir a-null</translation>
+<translation id="5939518447894949180">Ath-shuidhich</translation>
+<translation id="7364796246159120393">Tagh faidhle</translation>
+<translation id="1637811476055996098">Tagh faidhlichean</translation>
+<translation id="795667975304826397">Cha do thagh thu faidhle</translation>
+<translation id="8444882422881193423">Faidhlichean <ph name="NUMBER_OF_FILES"/></translation>
+<translation id="668171684555832681">Eile...</translation>
+<translation id="1758486001363313524">Eile...</translation>
+<translation id="9132465097189459683">Eile...</translation>
+<translation id="5843503607508392247">Eile...</translation>
+<translation id="739024184232394898">Eile...</translation>
+<translation id="1921819250265091946">ll</translation>
+<translation id="3732799496749320381">mm</translation>
+<translation id="8199524924445686405">bbbb</translation>
+<translation id="4975562563186953947"><ph name="SELECTED_COUNT"/> air a thaghadh</translation>
+<translation id="1591562245178063882">Am mìos seo</translation>
+<translation id="8117451130807776954">An t-seachdain-sa</translation>
+<translation id="5966707198760109579">Seachdain</translation>
+<translation id="2548326553472216322">Cha do lorg thu dad o chionn ghoirid</translation>
+<translation id="6663448176199120256">Na lorg thu roimhe</translation>
+<translation id="1235745349614807883">Falamhaich na lorg thu roimhe</translation>
+<translation id="6398862346408813489">Seall a' phanail taghaidh mìosail</translation>
+<translation id="5117590920725113268">Seall an ath-mhìos</translation>
+<translation id="4201051445878709314">Seall am mìos roimhe</translation>
+<translation id="9155987714137265666"><ph name="WEEK"/>, a’ tòiseachadh <ph name="WEEK_START_DATE"/></translation>
+<translation id="1342835525016946179">artaigeal</translation>
+<translation id="1359897965706325498">bratach</translation>
+<translation id="1188858454923323853">co-shlànach</translation>
+<translation id="2291999235780842123">bogsa-cromaige</translation>
+<translation id="4254339807215791271">fiosrachadh mun t-susbaint</translation>
+<translation id="3486220673238053218">deifinisean</translation>
+<translation id="8583702881314752957">liosta nan deifiniseanan</translation>
+<translation id="3808586225841795776">briathar</translation>
+<translation id="5406322316791861025">figear</translation>
+<translation id="4597532268155981612">foirm</translation>
+<translation id="2674318244760992338">bann-coise</translation>
+<translation id="6692633176391053278">stepper</translation>
+<translation id="10623998915015855">putan toglachaidh</translation>
+<translation id="8597182159515967513">bann-cinn</translation>
+<translation id="8244226242650769279">mapa deilbh</translation>
+<translation id="3040011195152428237">ceangal</translation>
+<translation id="5048533449481078685">comharra liosta</translation>
+<translation id="8851136666856101339">prìomh-shusbaint</translation>
+<translation id="2942448076852699108">susbaint chomharraichte</translation>
+<translation id="9108370397979208512">matamataig</translation>
+<translation id="9048119486235211610">seòladaireachd</translation>
+<translation id="1589122976691792535">roinn-dùthcha</translation>
+<translation id="8053789581856978548">raon teacsa nan lorg</translation>
+<translation id="1930711995431081526">staid</translation>
+<translation id="3706100364254443312">dèan suids</translation>
+<translation id="7740050170769002709">Susbaint HTML</translation>
+<translation id="9138385573473225930">caismeachd</translation>
+<translation id="1806710327868736751">alert_dialog</translation>
+<translation id="3924558731517983934">aplacaid</translation>
+<translation id="6934078000481955284">blockquote</translation>
+<translation id="167575180612809735">taisbeanair traingeid</translation>
+<translation id="5643186887447432888">putan</translation>
+<translation id="8511325616783751178">putan teàrnaidh</translation>
+<translation id="947831847158436616">cealla</translation>
+<translation id="421884353938374759">roghnaichear nan dathan</translation>
+<translation id="727747134524199931">ceann-sgrìobhadh cuilbh</translation>
+<translation id="3199563858620722075">bogsa combo</translation>
+<translation id="5516424706154626233">roghnaichear cinn-là</translation>
+<translation id="2335594187091864976">roghainnean a’ chinn-là ’s an ama</translation>
+<translation id="1281252709823657822">còmhradh</translation>
+<translation id="6885760532393684712">eòlaire</translation>
+<translation id="7802800022689234070">triantan sgaoileadh fiosrachaidh</translation>
+<translation id="9062295712474918030">sgrìobhainn</translation>
+<translation id="2940813599313844715">oibseact</translation>
+<translation id="4151657705144244502">grafaig</translation>
+<translation id="3557673793733683882">ceann-sgrìobhadh <ph name="HEADING_LEVEL"/></translation>
+<translation id="648732519525291180">roghnaichear ama</translation>
+<translation id="6023896073578205740">bogsa liosta</translation>
+<translation id="6637586476836377253">loga</translation>
+<translation id="1206619573307042055">teacsa na ruith</translation>
+<translation id="966787709310836684">clàr-taice</translation>
+<translation id="4248100235867064564">bàr a’ chlàir-thaice</translation>
+<translation id="4413860115965805769">putan a’ chlàir-thaice</translation>
+<translation id="1018939186200882850">ball a’ chlàir-thaice</translation>
+<translation id="6164829606128959761">meidheadair</translation>
+<translation id="3086746722712840547">nòta</translation>
+<translation id="1880518467580572141">oir-loidhne</translation>
+<translation id="2759744352195237655">priob-phutan</translation>
+<translation id="5034860022980953847">taisbeanair an adhartais</translation>
+<translation id="8461852803063341183">putan-rèidio</translation>
+<translation id="2896972712917208084">buidheann rèidio</translation>
+<translation id="512758898067543763">ceann-sgrìobhadh ràgha</translation>
+<translation id="6739588121953935928">rùilear</translation>
+<translation id="3960700977367013758">bàr-sgrolaidh</translation>
+<translation id="479989351350248267">lorg</translation>
+<translation id="1206693055195146388">sleamhnachan</translation>
+<translation id="5987525920412732405">putan-toinnidh</translation>
+<translation id="7891486169920085145">sgoltair</translation>
+<translation id="7491962110804786152">taba</translation>
+<translation id="3078740164268491126">clàr</translation>
+<translation id="2508569020611168319">liosta thabaichean</translation>
+<translation id="4757246831282535685">panail thabaichean</translation>
+<translation id="561939826962581046">àm</translation>
+<translation id="3175736971608411871">tìmear</translation>
+<translation id="8433900881053900389">bàr-inneal</translation>
+<translation id="6755330956360078551">gliocas-sgrìn</translation>
+<translation id="4661075872484491155">craobh</translation>
+<translation id="1821985195704844674">griod craoibhe</translation>
+<translation id="5453733299334684579">ball craoibhe</translation>
+<translation id="6845533974506654842">briog</translation>
+<translation id="1842960171412779397">tagh</translation>
+<translation id="6119846243427417423">cuir an gnìomh</translation>
+<translation id="5476505524087279545">thoir air falbh a' chromag</translation>
+<translation id="838869780401515933">cuir cromag ris</translation>
+<translation id="4202807286478387388">gearr leum</translation>
+<translation id="9002566407876343676">fosgail</translation>
+<translation id="2931838996092594335">briog</translation>
+<translation id="1822429046913737220">m/f</translation>
+<translation id="1014825444426747588">bàn</translation>
+<translation id="7673697353781729403">Uairean a thìde</translation>
+<translation id="8541249477527128034">uidheam-smachd mheadhanan</translation>
+<translation id="2723001399770238859">fuaim</translation>
+<translation id="4763480195061959176">video</translation>
+<translation id="6843725295806269523">mùch</translation>
+<translation id="5546461542133609677">till an fhuaim</translation>
+<translation id="2572483411312390101">cluich</translation>
+<translation id="7789962463072032349">cuir 'na stad</translation>
+<translation id="7057186640035488495">an t-àm san fhilm</translation>
+<translation id="6270583010843788609">dealbhag loidhne-ama an fhilm</translation>
+<translation id="7223624360433298498">an ùine a dh'fhalbh</translation>
+<translation id="7720026100085573005">an ùine a tha air fhàgail</translation>
+<translation id="658823671542763450">tòisich air an làn-sgrìn</translation>
+<translation id="5468998798572797635">fàg an làn-sgrìn</translation>
+<translation id="9050748414552849310">seall na fo-thiotalan dùinte</translation>
+<translation id="6853785296079745596">falaich na fo-thiotalan dùinte</translation>
+<translation id="1832974991323546415">cluich air an uidheam chèin</translation>
+<translation id="8613126697340063924">stiùirich a' chluich chèin</translation>
+<translation id="1020833440720551630">mùch an fhuaim</translation>
+<translation id="6101327004457443354">till an fhuaim</translation>
+<translation id="8785498733064193001">tòisich air a chluich</translation>
+<translation id="5641012560118721995">cuir 'na stad</translation>
+<translation id="6404546809543547843">sgrubair àm na fuaime</translation>
+<translation id="3785482301506746191">sgrubair àm an fhilm</translation>
+<translation id="6359256949422175976">dealbhag sgrubair àm an fhilm</translation>
+<translation id="901493112792887934">an t-àm làithreach ann an diogan</translation>
+<translation id="3632707345189162177">na tha air fhàgail ann an diogan</translation>
+<translation id="2901282870647571346">staid làithreach an fhilm</translation>
+<translation id="819205353528511139">cluich am film sa mhodh làn-sgrìn</translation>
+<translation id="8115662671911883373">seall na fo-thiotalan dùinte</translation>
+<translation id="7740016676195725605">na seall na fo-thiotalan dùinte tuilleadh</translation>
+<translation id="4103419683916926126">Mille-dhiogan</translation>
+<translation id="8534579021159131403">Mionaidean</translation>
+<translation id="1088086359088493902">Diogan</translation>
+<translation id="5944544982112848342">2048 (Àrd-ìre)</translation>
+<translation id="2846343701378493991">1024 (Meadhan-ìre)</translation>
+<translation id="2247351761944213033">Seachdain <ph name="WEEKNUMBER"/>, <ph name="YEAR"/></translation>
+<translation id="5466621249238537318">Tagh co-dhiù aon fhaidhle.</translation>
+<translation id="835897206747267392">Luach mì-dhligheach.</translation>
+<translation id="1729654308190250600">Cuir a-steach seòladh puist-d nach eil falamh.</translation>
+<translation id="49969490063480558">Cuir a-steach rudeigin an dèidh "<ph name="ATSIGN"/>". Chan eil "<ph name="INVALIDADDRESS"/>" iomlan.</translation>
+<translation id="5307600278924710095">Cuir a-steach rudeigin le "<ph name="ATSIGN"/>" 'na dhèidh. Chan eil "<ph name="INVALIDADDRESS"/>" iomlan.</translation>
+<translation id="4664250907885839816">Cha bu chòir dhan t-samhla "<ph name="ATSIGN"/>" a bhith sa phàirt an dèidh "<ph name="INVALIDCHARACTER"/>".</translation>
+<translation id="2060505056492490888">Tha “<ph name="DOT"/>” san àite chearr ann an “<ph name="INVALIDDOMAIN"/>”.</translation>
+<translation id="383465348367842624">Cha bu chòir dhan t-samhla "<ph name="INVALIDCHARACTER"/>" a bhith sa phàirt a tha "<ph name="ATSIGN"/>" 'na dhèidh.</translation>
+<translation id="7888071071722539607">Gabh a-steach "<ph name="ATSIGN"/>" san t-seòladh phuist-d. Tha "<ph name="ATSIGN"/>" a dhìth air "<ph name="INVALIDADDRESS"/>".</translation>
+<translation id="2908441821576996758">Cuir a-steach liosta dhe na seòlaidhean puist-dhealain le cromagan eatarra.</translation>
+<translation id="5164977714490026579">Feumaidh an luach a bhith co-ionnann ri no nas motha na <ph name="MINIMUM"/>.</translation>
+<translation id="2746543609216772311">Feumaidh an luach a bhith <ph name="MINIMUM_DATE_OR_TIME"/> no às a dhèidh sin.</translation>
+<translation id="3450233048674729344">Feumaidh an luach a bhith co-ionnann ri no nas lugha na <ph name="MAXIMUM"/>.</translation>
+<translation id="1938124657309484470">Feumaidh an luach a bhith <ph name="MAXIMUM_DATE_OR_TIME"/> no nas tràithe na sin.</translation>
+<translation id="3075154866155599887">Cuir a-steach luach dligheach. Cha deach an raon a choileanadh no chuir thu ann ceann-là a tha cearr.</translation>
+<translation id="4812940957355064477">Cuir a-steach àireamh.</translation>
+<translation id="2507943997699731163">Lìon an raon seo.</translation>
+<translation id="2761667185364618470">Cuir cromag ris a' bhogsa seo ma tha thu airson leantainn air adhart.</translation>
+<translation id="8451268428117625855">Tagh faidhle.</translation>
+<translation id="8750798805984357768">Tagh aon dhe na roghainnean seo.</translation>
+<translation id="7263440858009898357">Tagh ball dhen liosta.</translation>
+<translation id="1171774979989969504">Cuir a-steach seòladh puist-d.</translation>
+<translation id="310520048233152454">Cuir a-steach URL.</translation>
+<translation id="709897737746224366">Lean ris an fhòrmat a chaidh iarraidh.</translation>
+<translation id="4360991593054037559">Cuir a-steach luach dligheach. 'S iad <ph name="VALID_VALUE_LOW"/> agus <ph name="VALID_VALUE_HIGHER"/> an dà luach as fhaisge.</translation>
+<translation id="2613802280814924224">Cuir a-steach luach dligheach. 'S e <ph name="VALID_VALUE"/> an luach as fhaisge.</translation>
+<translation id="2226276347425096477">Thoir air falbh caractaran gus nach bi ann ach <ph name="MAX_CHARACTERS"/> no nas lugha (tha <ph name="CURRENT_LENGTH"/> caractaran ann an-dràsta).</translation>
+<translation id="3822383571486410024">Leudaich an teacsa seo gus am bi e nas fhaide na <ph name="MIN_CHARACTERS"/> caractar (tha <ph name="CURRENT_LENGTH"/> caractaran ann an-dràsta).</translation>
+<translation id="583281660410589416">Chan eil fhios</translation>
+<translation id="5860033963881614850">Dheth</translation>
+<translation id="5919473608089529604">Cha b’ urrainn dhuinn am plugan seo a luchdadh.</translation>
+</translationbundle>

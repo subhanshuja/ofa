@@ -1,0 +1,375 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="me">
+<translation id="113188000913989374"><ph name="SITE"/> kaže:</translation>
+<translation id="5544037170328430102">Ugrađena strana na adresi <ph name="SITE"/> kaže:</translation>
+<translation id="8866959479196209191">Ova strana kaže:</translation>
+<translation id="7424977062513257142">Ugrađena strana na ovoj web adresi kaže:</translation>
+<translation id="333371639341676808">Spriječi ovu stranicu da otvara dodatne dijaloge.</translation>
+<translation id="5622887735448669177">Da li želite da napustite ovaj sajt?</translation>
+<translation id="425582637250725228">Izmjene koje ste napravili možda nijesu sačuvane.</translation>
+<translation id="2677748264148917807">Napusti</translation>
+<translation id="662080504995468778">Ostani</translation>
+<translation id="3032412215588512954">Da li želite da ponovo učitate ovaj sajt?</translation>
+<translation id="5556459405103347317">Osvježi</translation>
+<translation id="2889159643044928134">Nemoj učitati ponovo</translation>
+<translation id="2835170189407361413">Obriši obrazac</translation>
+<translation id="935608979562296692">OBRIŠI OBRAZAC</translation>
+<translation id="5029568752722684782">Obriši kopiju</translation>
+<translation id="2455981314101692989">Ova web stranica je onemogućila automatsko popunjavanje ovog obrasca.</translation>
+<translation id="7542995811387359312">Onemogućeno je automatsko popunjavanje podataka o kreditnim karticama zato što ovaj obrazac ne koristi bezbjednu konekciju.</translation>
+<translation id="8483780878231876732">Da biste koristili kartice sa Vašeg Google naloga, prijavite se na Chrome</translation>
+<translation id="7813600968533626083">Obrisati podatke o automatskom popunjavanju obrazaca iz Chroma?</translation>
+<translation id="7569952961197462199">Obrisati podatke o kreditnim karticama iz Chroma?</translation>
+<translation id="4587425331216688090">Obrisati podatke o adresama iz Chroma?</translation>
+<translation id="6671697161687535275">Obrisati podatke o automatskom popunjavanju obrazaca iz Chromiuma?</translation>
+<translation id="7637571805876720304">Obrisati podatke o kreditnim karticama iz Chromiuma?</translation>
+<translation id="6218753634732582820">Obrisati podatke o adresama iz Chromiuma?</translation>
+<translation id="4148925816941278100">American Express</translation>
+<translation id="1734864079702812349">Amex</translation>
+<translation id="933712198907837967">Diners Club</translation>
+<translation id="3169472444629675720">Discover</translation>
+<translation id="6008256403891681546">JCB</translation>
+<translation id="3450660100078934250">MasterCard</translation>
+<translation id="7012363358306927923">China UnionPay</translation>
+<translation id="719464814642662924">Visa</translation>
+<translation id="2113977810652731515">Kartica</translation>
+<translation id="4668929960204016307">, </translation>
+<translation id="5089810972385038852">Država</translation>
+<translation id="6839929833149231406">Zona</translation>
+<translation id="7087282848513945231">Okrug</translation>
+<translation id="2096368010154057602">Odsjek</translation>
+<translation id="6970216967273061347">Oblast</translation>
+<translation id="7139724024395191329">Emirat</translation>
+<translation id="3174168572213147020">Ostrvo</translation>
+<translation id="3885155851504623709">Parohija</translation>
+<translation id="777702478322588152">Prefektura</translation>
+<translation id="5095208057601539847">Provincija</translation>
+<translation id="2053553514270667976">Poštanski broj</translation>
+<translation id="6282194474023008486">Poštanski broj</translation>
+<translation id="6445051938772793705">Zemlja</translation>
+<translation id="8804164990146287819">Smjernice za privatnost</translation>
+<translation id="1132774398110320017">Podešavanja automatskog popunjavanja za Chrome...</translation>
+<translation id="1344588688991793829">Podešavanja automatskog popunjavanja za Chromium...</translation>
+<translation id="3340978935015468852">podešavanja</translation>
+<translation id="8530504477309582336">Google Payments ne podržava ovu vrstu kartice. Molimo izaberite drugu karticu.</translation>
+<translation id="59107663811261420">Google Payments ne podržava ovu vrstu kartice za ovog prodavca. Molimo izaberite drugu karticu.</translation>
+<translation id="8834246243508017242">Uključi Automatsko popunjavanje koristeći Kontakte…</translation>
+<translation id="2498091847651709837">Skeniraj novu karticu</translation>
+<translation id="3542684924769048008">Koristi lozinku za:</translation>
+<translation id="5786044859038896871">Da li želite upisati podatke Vaše kartice?</translation>
+<translation id="5803412860119678065">Da li želite upisati podatke <ph name="CARD_DETAIL"/>?</translation>
+<translation id="2463739503403862330">Upiši</translation>
+<translation id="5317780077021120954">Sačuvaj</translation>
+<translation id="1629803312968146339">Da li želite da Chrome sačuva ovu karticu?</translation>
+<translation id="4169947484918424451">Da li želite da Chromium sačuva ovu karticu?</translation>
+<translation id="8931333241327730545">Da li želite da sačuvate ovu karticu na Vaš Google nalog?</translation>
+<translation id="7578104083680115302">Brzo plaćajte na sajtovima i iz aplikacija na različitim uređajima pomoću kartica koje ste sačuvali kod Googla.</translation>
+<translation id="7613889955535752492">Ističe: <ph name="EXPIRATION_MONTH"/>/<ph name="EXPIRATION_YEAR"/></translation>
+<translation id="7887683347370398519">Provjerite CVC i pokušajte ponovo</translation>
+<translation id="4800132727771399293">Provjerite datum isteka i CVC i pokušajte ponovo</translation>
+<translation id="3063697135517575841">Chrome nije mogao potvrditi Vašu karticu. Pokušajte ponovo kasnije.</translation>
+<translation id="2704951214193499422">Chromium nije mogao potvrditi Vašu karticu. Pokušajte ponovo kasnije.</translation>
+<translation id="5784606427469807560">Došlo je do problema pri potvrđivanju Vaše kartice. Provjerite internet konekciuju i pokušajte ponovo.</translation>
+<translation id="323107829343500871">Unesite kontrolni kod (CVC) za <ph name="CREDIT_CARD"/></translation>
+<translation id="962701380617707048">Unesite datum isteka i kontrolni kod (CVC) ze <ph name="CREDIT_CARD"/> da biste ažurirali podatke o kartici</translation>
+<translation id="8877192140621905067">Kada potvrdite, detalji o Vašoj kartici biće podijeljeni sa ovim sajtom</translation>
+<translation id="7390545607259442187">Potvrda kartice</translation>
+<translation id="3008447029300691911">Unesite kontrolni kod (CVC) za <ph name="CREDIT_CARD"/>. Kada potvrdite, detalji o Vašoj kartici biće podijeljeni sa ovim sajtom.</translation>
+<translation id="724975217298816891">Unesite datum isteka i kontrolni kod (CVC) ze <ph name="CREDIT_CARD"/> da biste ažurirali podatke o kartici. Kada potvrdite, detalji o Vašoj kartici biće podijeljeni sa ovim sajtom</translation>
+<translation id="3539171420378717834">Sačuvaj kopiju ove kartice na uređaju</translation>
+<translation id="1107591249535594099">Ukoliko je uključeno, Chrome će sačuvati kopiju Vaše kartice u ovom uređaju, radi bržeg popunjavanja obrazaca.</translation>
+<translation id="2495093607237746763">Ukoliko je uključeno, Chromium će sačuvati kopiju Vaše kartice u ovom uređaju, radi bržeg popunjavanja obrazaca.</translation>
+<translation id="5002932099480077015">Ukoliko je dozvoljeno, Chrome će sačuvati kopiju Vaše kartice u ovom uređaju, radi bržeg popunjavanja obrazaca.</translation>
+<translation id="2985306909656435243">Ukoliko je dozvoljeno, Chromium će sačuvati kopiju Vaše kartice u ovom uređaju, radi bržeg popunjavanja obrazaca.</translation>
+<translation id="8131740175452115882">Potvrdi</translation>
+<translation id="7469372306589899959">Potvrđivanje kartice</translation>
+<translation id="6895330447102777224">Vaša kartica je potvrđena</translation>
+<translation id="3901925938762663762">Kartica je istekla</translation>
+<translation id="7378810950367401542">/</translation>
+<translation id="230155334948463882">Nova kartica?</translation>
+<translation id="6820686453637990663">CVC</translation>
+<translation id="8349305172487531364">Traka sa markerima</translation>
+<translation id="5190835502935405962">Traka sa markerima</translation>
+<translation id="106701514854093668">Desktop markeri</translation>
+<translation id="2985817184168264963">Nepoređani markeri</translation>
+<translation id="7365825044069934695">Moji folderi</translation>
+<translation id="2873951654529031587">Korpa za otpatke</translation>
+<translation id="7956713633345437162">Mobilni markeri</translation>
+<translation id="2354001756790975382">Ostali markeri</translation>
+<translation id="6263376278284652872"><ph name="DOMAIN"/> markeri</translation>
+<translation id="5509780412636533143">Upravljani markeri</translation>
+<translation id="4300246636397505754">Roditeljski predlozi</translation>
+<translation id="213826338245044447">Mobilni markeri</translation>
+<translation id="883848425547221593">Ostali markeri</translation>
+<translation id="1962204205936693436"><ph name="DOMAIN"/> markeri</translation>
+<translation id="7275334191706090484">Upravljani markeri</translation>
+<translation id="5872918882028971132">Roditeljski predlozi</translation>
+<translation id="1181037720776840403">Obriši</translation>
+<translation id="939736085109172342">Novi folder</translation>
+<translation id="2149973817440762519">Izmijeni marker</translation>
+<translation id="5327248766486351172">Ime</translation>
+<translation id="7400418766976504921">URL adresa</translation>
+<translation id="1254117744268754948">Izaberite folder</translation>
+<translation id="8293206222192510085">Dodaj marker</translation>
+<translation id="5857090052475505287">Novi folder</translation>
+<translation id="6656103420185847513">Izmjena foldera</translation>
+<translation id="7912024687060120840">U folderu:</translation>
+<translation id="3527085408025491307">Folder</translation>
+<translation id="3254409185687681395">Markiraj ovu stranu</translation>
+<translation id="8428213095426709021">Podešavanja</translation>
+<translation id="5801568494490449797">Parametri</translation>
+<translation id="765676359832457558">Sakrij napredna podešavanja...</translation>
+<translation id="2415454585822379970">Prikaži napredna podešavanja</translation>
+<translation id="6989763994942163495">Prikaži napredna podešavanja...</translation>
+<translation id="5737306429639033676">Predvidi mrežne akcije u cilju povećanja performansi učitavanja stranice</translation>
+<translation id="9038649477754266430">Koristi uslugu prognoziranja, radi bržeg učitavanja stranica.</translation>
+<translation id="3355823806454867987">Promijeni proxy podešavanja...</translation>
+<translation id="7823073559911777904">Promijeni proxy podešavanja...</translation>
+<translation id="4231205248927312226">Potvrda ponovnog slanja obrasca</translation>
+<translation id="6451458296329894277">Potvrda ponovnog slanja obrasca</translation>
+<translation id="8241707690549784388">Strana koju tražite koristila je prethodno unešene informacije. Povratak na ovu stranu može prouzrokovati ponavljanje akcije koju ste napravili. Da li želite da nastavite?</translation>
+<translation id="2359808026110333948">Nastavi</translation>
+<translation id="4522570452068850558">Detalji</translation>
+<translation id="3586931643579894722">Sakrij detalje</translation>
+<translation id="8962083179518285172">Sakrij detalje</translation>
+<translation id="6042308850641462728">Više</translation>
+<translation id="2089090684895656482">Manje</translation>
+<translation id="3005723025932146533">Prikaži sačuvanu kopiju</translation>
+<translation id="1506687042165942984">Prikaži sačuvanu kopiju ove stranice (tj. onu za koju se zna da je istekla).</translation>
+<translation id="3447661539832366887">Vlasnik ovog uređaja je isključio igru sa dinosaurusom.</translation>
+<translation id="1152921474424827756">Pristupi <ph name="BEGIN_LINK"/>keširanoj kopiji<ph name="END_LINK"/> od <ph name="URL"/></translation>
+<translation id="2030481566774242610">Da li ste mislili <ph name="LINK"/>?</translation>
+<translation id="194030505837763158">Idi na <ph name="LINK"/></translation>
+<translation id="3226128629678568754">Pritisnite dugme za ponovno učitavanje da biste ponovo proslijedili podatke neophodne za učitavanje stranice.</translation>
+<translation id="3155309969919037916">Provjerite internet konekciju.</translation>
+<translation id="6203231073485539293">Provjerite internet konekciju.</translation>
+<translation id="1519957265434608160">Provjerite kablove i restartujte svaki ruter, modem, ili drugi mrežni uređaj koji koristite.</translation>
+<translation id="6146055958333702838">Provjerite kablove i restartujte svaki ruter, modem, ili drugi mrežni
+    uređaj koji koristite.</translation>
+<translation id="2319236583141234177">Provjerite DNS podešavanja.</translation>
+<translation id="6321917430147971392">Provjerite DNS podešavanja</translation>
+<translation id="8289355894181816810">Kontaktirajte administratora Vaše mreže, ukoliko nijeste sigurni šta ovo znači.</translation>
+<translation id="5573959367212558217">Probajte da onemogućite predviđanje mreže.</translation>
+<translation id="6328639280570009161">Probajte da onemogućite predviđanje mreže</translation>
+<translation id="3630155396527302611">Ako je ona već prikazana među programima koji smiju pristupiti mreži,
+      pokušajte da je uklonite sa liste, a zatim da je ponovo dodate.</translation>
+<translation id="382518646247711829">Ako koristite proxy server...</translation>
+<translation id="8454634452929957533">Provjerite podešаvanja proxy servera, ili kontaktirajte administratora Vaše mreže, da biste bili sigurni da proxy server funkcioniše. Ako mislite da ne biste trenali koristiti proxy server: <ph name="PLATFORM_TEXT"/></translation>
+<translation id="3176929007561373547">Provjerite podešаvanja proxy servera, ili kontaktirajte administratora Vaše mreže,
+      da biste bili sigurni da proxy server funkcioniše. Ako mislite da ne biste trebali
+      koristiti proxy server:
+      <ph name="PLATFORM_TEXT"/></translation>
+<translation id="2948083400971632585">Možete isključiti svaki proxy koji je konfigurisan za konekciju na stranici podešavanja.</translation>
+<translation id="5023310440958281426">Provjerite administratorske polise</translation>
+<translation id="4103763322291513355">Posjetite &lt;strong&gt;chrome://policy&lt;/strong&gt; da biste vidjeli listu URL adresa na crnoj listi i ostale polise koje je postavio administrator Vašeg sistema.</translation>
+<translation id="1645368109819982629">Nepodržan protokol</translation>
+<translation id="4075732493274867456">Klijent i server ne podržavaju zajednički verziju SSL protokola ili vrstu šifrovanja.</translation>
+<translation id="5869405914158311789">Ovom sajtu se ne može pristupiti</translation>
+<translation id="2292556288342944218">Vaš internet pristupje blokiran</translation>
+<translation id="933612690413056017">Nema internet konekcije</translation>
+<translation id="3093245981617870298">Vi ste offline.</translation>
+<translation id="7716424297397655342">Ovaj sajt ne može biti učitan iz keš memorije</translation>
+<translation id="4708268264240856090">Vaša konekcija je prekinuta</translation>
+<translation id="5452270690849572955">Strana <ph name="HOST_NAME"/> nije pronađena</translation>
+<translation id="5431657950005405462">Vaš fajl nije pronađen</translation>
+<translation id="7269802741830436641">Web stranica ima redirekcionu petlju</translation>
+<translation id="778579833039460630">Nema primljenih podataka</translation>
+<translation id="3973234410852337861"><ph name="HOST_NAME"/> je blokiran</translation>
+<translation id="4764776831041365478">Veb stranica na adresi <ph name="URL"/> je možda trenutno isključena, ili trajno premještena na novu adresu.</translation>
+<translation id="8498891568109133222"><ph name="HOST_NAME"/> je trebalo previše vremena da odgovori.</translation>
+<translation id="2784949926578158345">Konekcija je resetovana.</translation>
+<translation id="1158211211994409885"><ph name="HOST_NAME"/> je neočekivano zatvorio konekciju.</translation>
+<translation id="3422472998109090673"><ph name="HOST_NAME"/> je trenutno nedostupan.</translation>
+<translation id="2909946352844186028">Detektovana je promjena mreže.</translation>
+<translation id="6433595998831338502"><ph name="HOST_NAME"/> je odbio konekciju.</translation>
+<translation id="8134994873729925007"><ph name="BEGIN_ABBR"/>DNS adresa<ph name="END_ABBR"/> <ph name="HOST_NAME"/> servera nije pronađena.</translation>
+<translation id="4021036232240155012">DNS je mrežni servis koji prevodi ima web sajta u njegovu internet adresu.</translation>
+<translation id="5492298309214877701">Ovaj sajt na intranetu kompanije, organizacije, ili škole ima istu URL adresu kao eksterni web sajt.
+    <ph name="LINE_BREAK"/>
+    Pokušajte da kontaktirate administratora sistema.</translation>
+<translation id="6305205051461490394"><ph name="URL"/> je nedostupan.</translation>
+<translation id="8150722005171944719">Fajl na adresi <ph name="URL"/> nije čitljiv. Možda je uklonjen, premješten, ili su ukinuta prava pristupa.</translation>
+<translation id="7758069387465995638">Firewall ili antivirusni software su možda blokirali konekciju.</translation>
+<translation id="6711464428925977395">Nešto nije u redu sa proxy serverom, ili je adresa neispravna.</translation>
+<translation id="2705137772291741111">Sačuvana (keširana) kopija ovog sajta je nečitljiva.</translation>
+<translation id="6757797048963528358">Your uređaj je uspavan.</translation>
+<translation id="8149426793427495338">Your kompjuter je uspavan.</translation>
+<translation id="7518003948725431193">Nijedna veb stranica nije pronađena na adresi: <ph name="URL"/></translation>
+<translation id="5510766032865166053">Možda je premješten ili obrisan.</translation>
+<translation id="5617949217645503996"><ph name="HOST_NAME"/> je redirektovan previše puta.</translation>
+<translation id="139305205187523129"><ph name="HOST_NAME"/> nije poslao nikakve podatke.</translation>
+<translation id="255002559098805027"><ph name="HOST_NAME"/> je poslao neispravan odgovor.</translation>
+<translation id="8740359287975076522"><ph name="HOST_NAME"/>: &lt;abbr id="dnsDefinition"&gt;DNS adresa&lt;/abbr&gt; nije pronađena. Dijagnostifikovanje problema.</translation>
+<translation id="8332188693563227489">Pristup <ph name="HOST_NAME"/> nije dozvoljen</translation>
+<translation id="2650446666397867134">Pristup fajlu nije dozvoljen</translation>
+<translation id="3109728660330352905">Nemate odobrenja da pristupite ovoj strani.</translation>
+<translation id="9092364396508701805">Strana <ph name="HOST_NAME"/> ne radi</translation>
+<translation id="759889825892636187"><ph name="HOST_NAME"/> trenutno nije u mogućnosti da obradi ovaj zahtjev.</translation>
+<translation id="6830600606572693159">Veb stranica na adresi <ph name="URL"/> je trenutno nedostupna. Možda je preopterećena, ili ugašena zbog održavanja.</translation>
+<translation id="7210863904660874423"><ph name="HOST_NAME"/> ne podržava sigurnosne standarde.</translation>
+<translation id="5228309736894624122">Greška u SSL protokolu.</translation>
+<translation id="2803407661478021186">SSLv3 fallback je bio u mogućnosti da se sporazumije sa serverom, ali više ne podržavamo SSLv3 fallback zbog novih napada na ovaj protokol. Server mora biti ažuriran da podržava minimalno TLS 1.0, a poželjno TLS 1.2.</translation>
+<translation id="5900623698597156974">TLS 1.0 fallback je bio u mogućnosti da se sporazumije sa serverom, ali više ne podržavamo TLS 1.0 fallback. Server mora biti ažuriran da pravilno implementira pregovaranje verzije i poželjno je da podržava TLS 1.2.</translation>
+<translation id="9183425211371246419"><ph name="HOST_NAME"/> koristi nepodržan protokol.</translation>
+<translation id="5283991396172801811">Pretraživač i server se ne mogu dogovoriti koju TLS verziju i vrstu šifrovanja da koriste. Razlog može biti u tome što server podržava samo stare protokole, npr. SSL verziju 3.</translation>
+<translation id="284702764277384724">Sertifikat servera <ph name="HOST_NAME"/> djeluje kao da je falsifikovan.</translation>
+<translation id="2166378884831602661">Ovaj sajt yahtijeva zaštićenu konekciju</translation>
+<translation id="1911837502049945214"><ph name="HOST_NAME"/> nije prihvatio Vaš sertifikat za prijavu ili je sertifikat istekao.</translation>
+<translation id="5990559369517809815">Zahtjev serveru je blokirala ekstenzija.</translation>
+<translation id="8225771182978767009">Osoba koja je podesila ovaj računar odabrala je da blokira ovaj sajt.</translation>
+<translation id="8315720913203253727">Web stranica zahtijeva podatke koje ste ranije unijeli da bi bila ispravno prikazana. Možete ponovo poslati podatke, ali tako ćete ponoviti bilo koju akciju koju ste prethodno već izvršili. Pritisnite Osvježi da biste ponovo poslali podatke i prikazali ovu stranicu.</translation>
+<translation id="7549584377607005141">Web stranica zahtijeva podatke koje ste ranije unijeli da bi bila ispravno prikazana. Možete ponovo poslati podatke, ali tako ćete ponoviti bilo koju akciju koju ste prethodno već izvršili.</translation>
+<translation id="614940544461990577">Pokušajte:</translation>
+<translation id="5610142619324316209">Provjerite konekciju</translation>
+<translation id="3717027428350673159"><ph name="BEGIN_LINK"/>Provjerite podešavanja proxyja, firewalla, i DNS-a<ph name="END_LINK"/></translation>
+<translation id="4203896806696719780"><ph name="BEGIN_LINK"/>Provjerite podešavanja firewalla i antivirusa<ph name="END_LINK"/></translation>
+<translation id="2032962459168915086"><ph name="BEGIN_LINK"/>Provjerite proxy i firewall<ph name="END_LINK"/></translation>
+<translation id="5070335125961472645"><ph name="BEGIN_LINK"/>Provjerite proxy adresu<ph name="END_LINK"/></translation>
+<translation id="4506599922270137252">Kontaktirajte administratora sistema</translation>
+<translation id="1734878702283171397">Pokušajte kontaktirati administratora sistema.</translation>
+<translation id="7451311239929941790"><ph name="BEGIN_LINK"/>Naučiti više<ph name="END_LINK"/> o ovom problemu.</translation>
+<translation id="721197778055552897"><ph name="BEGIN_LINK"/>Naučite više<ph name="END_LINK"/> o ovom problemu.</translation>
+<translation id="129863573139666797"><ph name="BEGIN_LINK"/>Pokušajte sa brisanjem cookija<ph name="END_LINK"/></translation>
+<translation id="8363502534493474904">Isjključite avionski režim</translation>
+<translation id="3714780639079136834">Iskljulite mobilne podatke ili Wi-Fi</translation>
+<translation id="2515629240566999685">Provjerite signal u Vašoj oblasti</translation>
+<translation id="4130226655945681476">Provjerite mrežne kablove, modem i ruter</translation>
+<translation id="1161325031994447685">Ponovo se povežite na Wi-Fi</translation>
+<translation id="2230458221926704099">Popravite svoju konekciju pomoću <ph name="BEGIN_LINK"/>aplikacije za dijagnostiku<ph name="END_LINK"/></translation>
+<translation id="6685834062052613830">Odjavite se i završite podešavanje</translation>
+<translation id="4558551763791394412">Pokušajte da isključite ekstenzije</translation>
+<translation id="7090678807593890770">Pronađi na Googleu <ph name="LINK"/></translation>
+<translation id="2467694685043708798"><ph name="BEGIN_LINK"/>Pokrenuti dijagnostiku mrežne<ph name="END_LINK"/></translation>
+<translation id="4226937834893929579"><ph name="BEGIN_LINK"/>Pokušajte pokrenuti dijagnostiku mrežne<ph name="END_LINK"/></translation>
+<translation id="4722547256916164131"><ph name="BEGIN_LINK"/>Pokrenuti Windows dijagnostiku mrežne<ph name="END_LINK"/></translation>
+<translation id="1768211456781949159"><ph name="BEGIN_LINK"/>Pokušajte pokrenuti Windows dijagnostiku mrežne<ph name="END_LINK"/></translation>
+<translation id="2730326759066348565"><ph name="BEGIN_LINK"/>Pokrenuti dijagnostiku konekcije<ph name="END_LINK"/></translation>
+<translation id="31207688938192855"><ph name="BEGIN_LINK"/>Pokupajte pokrenuti dijagnostiku konekcije<ph name="END_LINK"/></translation>
+<translation id="7793809570500803535">Veb stranica na adresi <ph name="SITE"/> je možda trenutno isključena, ili trajno premještena na novu adresu.</translation>
+<translation id="6060685159320643512">Pažljivo, ovi eksperimenti mogu da ugrizu</translation>
+<translation id="5199729219167945352">Eksperimenti</translation>
+<translation id="404928562651467259">UPOZORENJE</translation>
+<translation id="3648607100222897006">Ove eksperimentalne funkcionalnosti mogu se promijeniti, pokvariti, ili nestati u bilo koje vrijeme. Ne dajemo apsolutno nikakvu garanciju za bilo šta ukoliko uključite neki od ovih eksperimenata i Vaš pretraživač može spontano sagorjeti. Šalu na stranu, Vaš pretraživač može obrisati sve Vaše podatke, ili se bezbjednost i privatnost mogu ugroziti na neočikivane načine. Bilo koji eksperiment koji uključite biće uključen svim korisnicima ovog pretraživača. Molimo da nastavite sa oprezom.</translation>
+<translation id="6387478394221739770">Zainteresovani za nove cool Chrome mogućnosti? Posjetite naš beta kanal na adresi chrome.com/beta.</translation>
+<translation id="7674629440242451245">Zainteresovani za nove cool Chrome mogućnosti? Posjetite naš kanal za programere na adresi chrome.com/dev.</translation>
+<translation id="4394049700291259645">Isključi</translation>
+<translation id="3435896845095436175">Uključi</translation>
+<translation id="8647750283161643317">Vrati sve na podrazumijevano stanje</translation>
+<translation id="2282872951544483773">Nedostupni eksperimenti</translation>
+<translation id="889901481107108152">Žao nam je, ovaj eksperiment nije dostupan na Vašoj platformi.</translation>
+<translation id="2128531968068887769">Izvorni pretraživač</translation>
+<translation id="7179921470347911571">Ponovo pokreni sada</translation>
+<translation id="3286538390144397061">Restartuj sada</translation>
+<translation id="901974403500617787">Parametri koji se odnose na čitav sistem mogu biti postavljeni samo od strane vlasnika: <ph name="OWNER_EMAIL"/>.</translation>
+<translation id="604124094241169006">Automatski</translation>
+<translation id="8798099450830957504">Podrazumijevano</translation>
+<translation id="59174027418879706">Uključeni</translation>
+<translation id="4176463684765177261">Isključeno</translation>
+<translation id="2516305470678292029">Alternativni korisnički interfejsi</translation>
+<translation id="237718015863234333">Nema alternativnih korisničkih interfejsa</translation>
+<translation id="2905347027687583044">Molimo das se prijavite</translation>
+<translation id="5388588172257446328">Korisničko ime:</translation>
+<translation id="3693415264595406141">Lozinka:</translation>
+<translation id="8286036467436129157">Prijava</translation>
+<translation id="4013794286379809233">Molimo das se prijavite</translation>
+<translation id="3950820424414687140">Prijavi se</translation>
+<translation id="2065985942032347596">Zahtijeva se autentifikacija</translation>
+<translation id="2317259163369394535">„<ph name="DOMAIN"/>“ zahtijeva korisničko ime i lozinku.</translation>
+<translation id="9001074447101275817">Proxy „<ph name="DOMAIN"/>“ zahtijeva korisničko ime i lozinku.</translation>
+<translation id="4381091992796011497">Korisničko ime:</translation>
+<translation id="4304224509867189079">Lozinka</translation>
+<translation id="1232569758102978740">Bez naslova</translation>
+<translation id="4325510092712699937">Stranica je prestala da radi</translation>
+<translation id="3638100076508518786">Nažalost, nešto je prouzrokovalo da ova stranica prestane da radi. Možda je došlo do konflikta sa ekstenzijom, ili iz nekog drugog razloga.</translation>
+<translation id="7283651035050528610">Pokušajte osvježi stranu, ili preći na drugu stranicu da biste nastavili.</translation>
+<translation id="1713401550786096559">Još o ovoj grešci</translation>
+<translation id="7221869452894271364">Osvježi ovu stranicu</translation>
+<translation id="8053390638574070785">Učitaj ovu stranicu</translation>
+<translation id="3037605927509011580">O, ne!</translation>
+<translation id="1583429793053364125">Nešto je krenulo naopako prilikom prikaza web stranice.</translation>
+<translation id="2900469785430194048">Google Chrome je ostao bez slobodne memorije prilikom pokušaja ispisa ove web stranice.</translation>
+<translation id="6389758589412724634">Chromium je ostao bez slobodne memorije prilikom pokušaja ispisa ove web stranice.</translation>
+<translation id="3655670868607891010">Ukoliko ovo često gledate, pokušajte ove <ph name="HELP_LINK"/>.</translation>
+<translation id="1374468813861204354">predloge</translation>
+<translation id="7554791636758816595">Novi tab</translation>
+<translation id="8728672262656704056">Sada ste inkognito</translation>
+<translation id="3167968892399408617">Stranice koje pogledate u inkognito tabu neće ostati u istoriji Vašeg pretraživača, cookijima, ili istoriji pretraživanja nakon što zatvorite sve inkognito tabove. Svi fajlovi koje preuzmete ili markeri koje napravite biće zadržani.</translation>
+<translation id="6165508094623778733">Naučite više</translation>
+<translation id="785549533363645510">Međutim, nijeste nevidljivi. Prelazak u inkognito režim neće sakriti Vaše pretraqživanje od Vašeg poslodavca, internet provajdera, ili web sajtova koje posjetite.</translation>
+<translation id="2079545284768500474">Poništi</translation>
+<translation id="2597378329261239068">Ovaj dokument je zaštićen lozinkom. Unesite lozinku.</translation>
+<translation id="2653659639078652383">Pošalji</translation>
+<translation id="5045550434625856497">Neispravna lozinka</translation>
+<translation id="370665806235115550">Učitavanje…</translation>
+<translation id="3934680773876859118">Greška pri učitavanju PDF dokumenta</translation>
+<translation id="8820817407110198400">Markeri</translation>
+<translation id="1032854598605920125">Rotiraj u smjeru kazaljke na satu</translation>
+<translation id="7514365320538308">Preuzimanje</translation>
+<translation id="1430915738399379752">Štampa</translation>
+<translation id="4816492930507672669">Uklopi prema stranici</translation>
+<translation id="1080116354587839789">Uklopi po širini</translation>
+<translation id="8903921497873541725">Uvećanje</translation>
+<translation id="5975083100439434680">Umanjenje</translation>
+<translation id="1753706481035618306">Broj strane</translation>
+<translation id="6016158022840135739">{COUNT, plural,
+         other {Strana #}}</translation>
+<translation id="2941952326391522266">Ovaj server nije mogao dokazati da je <ph name="DOMAIN"/>; njegov sigurnosni sertifikat je od <ph name="DOMAIN2"/>. Ovo je možda prouzrokovala pogrešna konfiguracija, ili je napadač presreo Vašu konekciju.</translation>
+<translation id="7761701407923456692">Sertifikat servera se ne podudaranja sa URL adresom.</translation>
+<translation id="1655462015569774233">{1, plural,
+     =1 {Ovaj server nije mogao dokazati da je <ph name="DOMAIN"/>; njegov sigurnosni sertifikat je istekao juče. Ovo je možda prouzrokovala pogrešna konfiguracija, ili je napadač presreo Vašu konekciju. Sat na Vašem računaru trenutno je podešen na <ph name="CURRENT_DATE"/>. Da li Vam to izgleda dobro? Ukoliko ne, trebali biste ispraviti sistemsko vrijeme i osvježiti stranicu.}
+     other {Ovaj server nije mogao dokazati da je <ph name="DOMAIN"/>; njegov sigurnosni sertifikat je istekao prije # dana. Ovo je možda prouzrokovala pogrešna konfiguracija, ili je napadač presreo Vašu konekciju. Sat na Vašem računaru trenutno je podešen na <ph name="CURRENT_DATE"/>. Da li Vam to izgleda dobro? Ukoliko ne, trebali biste ispraviti sistemsko vrijeme i osvježiti stranicu.}}</translation>
+<translation id="8971063699422889582">Sertifikat servera je istekao.</translation>
+<translation id="1706954506755087368">{1, plural,
+     =1 {Ovaj server nije mogao dokazati da je <ph name="DOMAIN"/>; njegov sigurnosni sertifikat navodno je od sjutra. Ovo je možda prouzrokovala pogrešna konfiguracija, ili je napadač presreo Vašu konekciju.}
+     other {Ovaj server nije mogao dokazati da je <ph name="DOMAIN"/>; njegov sigurnosni sertifikat navodno je počinje # dana u budućnosti. Ovo je možda prouzrokovala pogrešna konfiguracija, ili je napadač presreo Vašu konekciju.}}</translation>
+<translation id="7938958445268990899">Sertifikat servera još uvijek nije važeći.</translation>
+<translation id="540969355065856584">Ovaj server nije mogao dokazati da je <ph name="DOMAIN"/>; njegov sigurnosni sertifikat nije važeći u ovom trenutku. Ovo je možda prouzrokovala pogrešna konfiguracija, ili je napadač presreo Vašu konekciju.</translation>
+<translation id="5087286274860437796">Sertifikat servera nije važeći u ovom trenutku.</translation>
+<translation id="2915500479781995473">Ovaj server nije mogao dokazati da je <ph name="DOMAIN"/>; njegov sigurnosni sertifikat je istekao. Ovo je možda prouzrokovala pogrešna konfiguracija, ili je napadač presreo Vašu konekciju. Sat na Vašem računaru trenutno je podešen na <ph name="CURRENT_TIME"/>. Da li Vam to izgleda dobro? Ukoliko ne, trebali biste ispraviti sistemsko vrijeme i osvježiti stranicu.</translation>
+<translation id="229702904922032456">Korijeni ili posredni sertifikat je istekao.</translation>
+<translation id="3528171143076753409">Sertifikat servera nije pouzdan.</translation>
+<translation id="467662567472608290">Ovaj server nije mogao dokazati da je <ph name="DOMAIN"/>; njegov sigurnosni sertifikat sadrži greške. Ovo je možda prouzrokovala pogrešna konfiguracija, ili je napadač presreo Vašu konekciju.</translation>
+<translation id="2491120439723279231">Sertifikat servera sadrži greške.</translation>
+<translation id="2413528052993050574">Ovaj server nije mogao dokazati da je <ph name="DOMAIN"/>; njegov sigurnosni sertifikat je možda ukinut. Ovo je možda prouzrokovala pogrešna konfiguracija, ili je napadač presreo Vašu konekciju.</translation>
+<translation id="2922350208395188000">Sertifikat servera ne može biti provjeren.</translation>
+<translation id="884923133447025588">Nije pronađen mehanizam za opoziv.</translation>
+<translation id="4377125064752653719">Pokušali ste pristupiti adresi <ph name="DOMAIN"/>, ali je sertifikat koji je server predstavio opozvan od izdavaoca. Ovo znači da se sigurnosnim akreditivima koje je server predstavio apsolutno ne može vjerovati. Možda komunicirate sa napadačem.</translation>
+<translation id="2386255080630008482">Sertifikat servera ne može biti opozvan.</translation>
+<translation id="9049981332609050619">Pokušali ste da pristupite adresi <ph name="DOMAIN"/>, ali je server prikazao nevažeći sertifikat.</translation>
+<translation id="917450738466192189">Sertifikat servera je neispravan.</translation>
+<translation id="2171101176734966184">Pokušali ste da pristupite adresi <ph name="DOMAIN"/>, ali je server prikazao sertifikat potpisan slabim algoritmom za potpisivanje. Ovo znači da su sigurnosnim akreditivi koje je server predstavio možda falsifikovani, i da server možda nije onaj koji očekujete (možda komunicirate sa napadačem).</translation>
+<translation id="2728127805433021124">Sertifikat servera je potpisan slabim algoritmom za potpisivanje.</translation>
+<translation id="121201262018556460">Pokušali ste da pristupite adresi <ph name="DOMAIN"/>, ali je server prikazao sertifikat koji sadrži slab ključ. Možda je napadač razbio privatni ključ i server možda nije onaj koji očekujete (moguće je da komunicirate sa napadačem).</translation>
+<translation id="168841957122794586">Sertifikat servera sadrži slab ključ za šifrovanje.</translation>
+<translation id="7567204685887185387">Ovaj server nije mogao dokazati da je <ph name="DOMAIN"/>; njegov sigurnosni sertifikat je možda izdat na prevaru. Ovo je možda prouzrokovala pogrešna konfiguracija, ili je napadač presreo Vašu konekciju.</translation>
+<translation id="7592362899630581445">Sertifikat servera krši ograničenje naziva.</translation>
+<translation id="7050187094878475250">Pokušali ste da pristupite adresi <ph name="DOMAIN"/>, ali je server prikazao sertifikat čiji je period važenja predug da bi mu se moglo vjerovati.</translation>
+<translation id="6151417162996330722">Period važenja serverskog sertifikata je predug.</translation>
+<translation id="4771973620359291008">Došlo je do nepoznate greške u Opera Linku.</translation>
+<translation id="674375294223700098">Nepoznata greška sertifikata servera.</translation>
+<translation id="3225919329040284222">Server je prikazao sertifikat koji se ne podudara sa ugrađenim očekivanjima. Ova očekivanja su uključena kod određenih sajtova visoke bezbjednosti, da biste bili zaštićeni.</translation>
+<translation id="6957887021205513506">Sertifikat servera izgleda kao da je falsifikovan.</translation>
+<translation id="4424024547088906515">Ovaj server nije mogao dokazati da je <ph name="DOMAIN"/>; Chrome nema povjerenja u njegov sigurnosni sertifikat. Ovo je možda prouzrokovala pogrešna konfiguracija, ili je napadač presreo Vašu konekciju.</translation>
+<translation id="1763864636252898013">Ovaj server nije mogao dokazati da je <ph name="DOMAIN"/>; operativni sistem Vašeg uređaja nema povjerenja u njegov sigurnosni sertifikat. Ovo je možda prouzrokovala pogrešna konfiguracija, ili je napadač presreo Vašu konekciju.</translation>
+<translation id="1150979032973867961">Ovaj server nije mogao dokazati da je <ph name="DOMAIN"/>; operativni sistem Vašeg uređaja nema povjerenja u njegov sigurnosni sertifikat. Ovo je možda prouzrokovala pogrešna konfiguracija, ili je napadač presreo Vašu konekciju.</translation>
+<translation id="5094747076828555589">Ovaj server nije mogao dokazati da je <ph name="DOMAIN"/>; Chromium nema povjerenja u njegov sigurnosni sertifikat. Ovo je možda prouzrokovala pogrešna konfiguracija, ili je napadač presreo Vašu konekciju.</translation>
+<translation id="7658239707568436148">Odustani</translation>
+<translation id="6040143037577758943">Zatvori</translation>
+<translation id="8730621377337864115">Gotovo</translation>
+<translation id="6965382102122355670">U redu</translation>
+<translation id="780301667611848630">Ne, hvala</translation>
+<translation id="3479552764303398839">Ne sada</translation>
+<translation id="1008557486741366299">Ne sada</translation>
+<translation id="2896499918916051536">Ovaj dodatak nije podržan.</translation>
+<translation id="1175364870820465910">&amp;Odštampaj...</translation>
+<translation id="129553762522093515">Nedavno zatvoreno</translation>
+<translation id="8870413625673593573">Nedavno zatvoreno</translation>
+<translation id="385051799172605136">Nazad</translation>
+<translation id="7481312909269577407">Naprijed</translation>
+<translation id="2824775600643448204">Traka za adresu i pretragu</translation>
+<translation id="2495083838625180221">JSON Parser</translation>
+<translation id="3157931365184549694">Povrati</translation>
+<translation id="7634554953375732414">Vaša konekcija prema ovom sajtu nije privatna.</translation>
+<translation id="5040262127954254034">Privatnost</translation>
+</translationbundle>

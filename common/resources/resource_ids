@@ -1,0 +1,15 @@
+{
+  "SRCDIR": ".",
+
+  # We can safely assign the same range to each PRODUCT common_resources.grd file because
+  # they describe resources for different product, we never use them at the same
+  # time. Each product-specific file should contain the same set of resources.
+  "opera_common_resources.grd": {
+    "includes": [31000],
+    "structures": [32000],
+  },
+  "safezone_common_resources.grd": {
+    "includes": [31000],
+    "structures": [32000],
+  },
+}

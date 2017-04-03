@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="me">
+<translation id="3929428121849375048">Avast SafeZone</translation>
+<translation id="806546331937022936">Avast</translation>
+<translation id="3609966143444339170">Avast Vas izričito savjetuje da ne posjećujete ovu stranicu.</translation>
+<translation id="4206706288435313269">Avast SafeZone center za obavještenja</translation>
+<translation id="254978580676301713">SafeZone - obavještenja</translation>
+<translation id="8084325208922689406">SafeZone - obavještenja (<ph name="QUANTITY"/> nepročitanih)</translation>
+<translation id="678670207776683961">SafeZone - obavještenja</translation>
+<translation id="191361968702850015">SafeZone - obavještenja (<ph name="QUANTITY"/> nepročitanih)</translation>
+<translation id="1359674843509087498">Sajt koristi zastarela sigurnosna podešavanja koja moju spriječiti buduće verzije SafeZone softvera da mu bezbjedno pristupe.</translation>
+<translation id="3485921796584936414">Dozvola da SafeZone može pristupi mreži u podešavanjima firewalla ili antivirusnog programa.</translation>
+<translation id="7041993155087650094">Pokrenite SafeZone meni &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; LAN podešavanja i isključite "Koristi proxy podešavanja za LAN".</translation>
+<translation id="5366394231680131980">Vaše izmjene stupiće na snagu kada ponovo pokrenete SafeZone.</translation>
+<translation id="6964843943881946410">Da biste vidjeli lozinke koje je sačuvalo SafeZone, unesite lozinku za Vaš kompjuter.</translation>
+</translationbundle>

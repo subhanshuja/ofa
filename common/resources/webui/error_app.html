@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html i18n-values="dir:textdirection">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<title i18n-content="title"></title>
+<style type="text/css">
+html {
+  margin:0;
+  padding:0;
+  height:100%;
+}
+
+body {
+  background:#fff;
+  box-sizing:border-box;
+  color:#222;
+  font-family:sans-serif;
+  font-size:1em;
+  line-height:1.5;
+  margin:0;
+  padding:0.5em 1em;
+  overflow-wrap:break-word;
+}
+
+#error {
+  width:640px;
+  max-width:100%;
+  text-align:left;
+  margin:0 auto;
+  position:relative;
+}
+
+html[dir='rtl'] #error {
+  text-align:right;
+}
+
+img {
+  border:0;
+}
+
+#icon {
+  display:block;
+  width:33%;
+  max-width:148px;
+  margin:1.5em auto 2em auto;
+  height:auto;
+}
+
+.main {
+  margin-top:1em;
+  }
+
+h1 {
+  font-family:sans-serif-condensed, sans-serif;
+  font-size:1.1em;
+  line-height:1.2;
+}
+
+h2 {
+  font-size:1.1em;
+  margin:1em 0;
+}
+
+button {
+  display:block;
+  box-sizing:border-box;
+  width:100%;
+  margin:0 0 1.5em 0;
+  font-size:1em;
+  padding:0.3em 0.75em;
+}
+
+.faded {
+  opacity:0.6;
+  font-size:0.8em;
+  font-weight:normal;
+}
+
+form {
+  margin:1.5em 0 0 0;
+  padding:0;
+}
+
+a {
+  color:#1096d5;
+  text-decoration:none;
+}
+
+ul {
+  list-style-position:inside;
+  padding:0;
+  margin:0 0 1.5em 0;
+}
+
+.moreinfotitle {
+  padding-left:0.5em;
+}
+
+.submission {
+  padding-bottom:1.4em;
+}
+
+#suggestions, #errorDetails {
+  margin-top:1em;
+}
+
+@media all and (orientation: landscape) {
+  body { padding:1em 1.5em; }
+  #icon { width:28%; float:right; margin:0.25em 0 0.5em 0.5em; }
+  h1 { padding-top:0.5em; }
+  }
+</style>
+</head>
+
+<body id="t">
+
+<div id="error" jsvalues=".title:url">
+  <img src="exclamation_mark.png" alt="icon" id="icon">
+  <h1 id="name" jsvalues=".innerText:name"></h1>
+  <div class="main" id="msg" jsvalues=".innerText:msg"></div>
+  <div id="suggestions" jsselect="suggestionsLearnMore"><span jsvalues=".innerHTML:msg"></span></div>
+</div>
+
+</body>
+</html>

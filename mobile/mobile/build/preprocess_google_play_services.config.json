@@ -1,0 +1,16 @@
+{
+  "lib_version": "7.8.0",
+  "clients": [
+    "play-services-analytics",
+    "play-services-base",
+    "play-services-cast",
+    "play-services-gcm"
+  ],
+  "_comment": [
+    "When updating clients don't forget to update AaptFlags in android.mk",
+    "We need analytics for com.google.android.gms.ads.identifier.AdvertisingIdClient",
+    "We need base to get the GMS version (from values/version.xml)"
+  ],
+  "locale_whitelist": [
+  ]
+}

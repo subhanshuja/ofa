@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="ms">
+<translation id="3942946088478181888">Bantu saya fahami</translation>
+<translation id="1396529432791646744">Apabila anda menyambung ke tapak web selamat, pelayan yang mengehos tapak itu mengemukakan sesuatu yang dipanggil "sijil" kepada penyemak imbas anda untuk mengesahkan identitinya. Sijil ini mengandungi maklumat identiti, seperti alamat tapak web, yang disahkan oleh pihak ketiga yang dipercayai oleh peranti mudah alih anda. Dengan memastikan bahawa alamat dalam sijil sepadan dengan alamat tapak web, anda dapat disahkan berkomunikasi dengan tapak web yang dihasratkan dengan selamat, bukannya dengan pihak ketiga (seperti penyerang pada rangkaian anda).</translation>
+<translation id="6295228342562451544">Apabila anda menyambung ke tapak web selamat, pelayan yang mengehos tapak itu mengemukakan sesuatu yang dipanggil "sijil" kepada penyemak imbas anda untuk mengesahkan identitinya. Sijil ini mengandungi maklumat identiti, seperti alamat tapak web, yang disahkan oleh pihak ketiga yang dipercayai oleh komputer anda. Dengan memastikan bahawa alamat dalam sijil sepadan dengan alamat tapak web, anda dapat disahkan berkomunikasi dengan tapak web yang dihasratkan dengan selamat, bukannya dengan pihak ketiga (seperti penyerang pada rangkaian anda).</translation>
+<translation id="8187473050234053012">Sijil keselamatan pelayan telah dibatalkan!</translation>
+<translation id="5598024575303778520">Amaran penipuan</translation>
+<translation id="7311721172731074902">Amaran Penipuan</translation>
+<translation id="1858130628205855959">Tapak ini mungkin digodam atau menipu. Memberinya kata laluan atau maklumat peribadi boleh meletakkan anda dalam risiko kecurian identiti atau penipuan kewangan.</translation>
+<translation id="8357891144266644027">Amaran tapak berniat jahat</translation>
+<translation id="4664012235452972339">Amaran Tapak Berniat Jahat</translation>
+<translation id="1030973920598092450">Tapak ini mungkin digodam atau mengandungi perisian berniat jahat. Melawati halaman ini mungkin berbahaya.</translation>
+<translation id="4863259811271883558">Dilaporkan oleh <ph name="BEGIN_LINK"/><ph name="PROVIDER_NAME"/><ph name="END_LINK"/></translation>
+<translation id="3141322567138977593">Kembali dengan selamat</translation>
+<translation id="833642844779103272">Kembali Dengan Selamat</translation>
+<translation id="4238466718818823211">Abaikan amaran ini</translation>
+<translation id="1755698976576372535">Mengapakah halaman ini disekat?</translation>
+<translation id="2962647877740028287">Laporan penipuan kami diselenggara oleh vendor pihak ketiga.</translation>
+<translation id="7470668651798735849">Anda boleh melihat semua pemberitahuan anda dari tapak web di sini.</translation>
+<translation id="6426222199977479699">Ralat SSL</translation>
+<translation id="8398877366907290961">Teruskan juga</translation>
+<translation id="6264485186158353794">Kembali ke tempat yang selamat</translation>
+<translation id="2225024820658613551">Anda tidak harus meneruskan, &lt;strong&gt;terutamanya&lt;/strong&gt; jika anda tidak pernah melihat amaran ini untuk tapak ini.</translation>
+<translation id="5645845270586517071">Ralat Keselamatan</translation>
+<translation id="1103666958012677467">Anda tidak boleh meneruskan kerana pengendali tapak web telah meminta keselamatan dipertingkatkan untuk domain ini.</translation>
+<translation id="5463275305984126951">Indeks bagi <ph name="LOCATION"/></translation>
+<translation id="8877448029301136595">[parent directory]</translation>
+<translation id="3835522725882634757">Oh, tidak! Pelayan ini menghantar data <ph name="PRODUCT_NAME"/> tidak boleh fahami. Sila <ph name="BEGIN_LINK"/>laporkan pepijat<ph name="END_LINK"/> dan masukkan <ph name="BEGIN2_LINK"/>penyenaraian kasar<ph name="END2_LINK"/>.</translation>
+<translation id="5327248766486351172">Nama</translation>
+<translation id="8028993641010258682">Saiz</translation>
+<translation id="57646104491463491">Tarikh Diubah Suai</translation>
+<translation id="8465929756435120446">Halaman ini terdapat kandungan yang tidak selamat.</translation>
+<translation id="6827416153061837992">Sambungan ini tidak disulitkan.</translation>
+<translation id="9193357432624119544">Kod ralat: <ph name="ERROR_NAME"/></translation>
+<translation id="4910619056351738551">Berikut ialah beberapa cadangan:</translation>
+<translation id="2954705784594331199"><ph name="BEGIN_LINK"/>Muatkan semula<ph name="END_LINK"/> halaman web ini kemudian.</translation>
+<translation id="4977565600485911823">Nyahdayakan sambungan anda, kemudian <ph name="BEGIN_LINK"/>muatkan semula <ph name="END_LINK"/> halaman web ini.</translation>
+<translation id="1103966635949043187">Pergi ke laman utama tapak:</translation>
+<translation id="7747589364844254751">Semak sambungan internet anda. Mulakan semula sebarang penghala, modem atau peranti rangkaian lain yang mungkin anda gunakan.</translation>
+<translation id="5548623538190661145">Semak tetapan DNS anda. Hubungi pentadbir rangkaian anda jika anda tidak pasti maksud perkara ini.</translation>
+<translation id="4545046228395991092">Jika anda menggunakan pelayan proksi, semak tetapan proksi anda atau hubungi pentadbir rangkaian anda untuk memastikan pelayan proksi berfungsi.</translation>
+<translation id="1712673276482711826">Jika anda menggunakan pelayan proksi, semak tetapan proksi anda atau hubungi pentadbir rangkaian anda untuk memastikan pelayan proksi berfungsi. Jika anda percaya anda tidak seharusnya menggunakan pelayan proksi, laraskan tetapan proksi anda: <ph name="PLATFORM_TEXT"/></translation>
+<translation id="721197778055552897"><ph name="BEGIN_LINK"/>Ketahui lebih lanjut<ph name="END_LINK"/> mengenai masalah ini.</translation>
+<translation id="8235325155053717782">Ralat <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>):<ph name="ERROR_TEXT"/></translation>
+<translation id="3986287159189541211">Ralat HTTP <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="3225919329040284222">Pelayan mengemukakan sijil yang tidak sepadan dengan jangkaan terbina dalam. Jangkaan ini disertakan untuk tapak web tertentu yang berkeselamatan tinggi agar dapat melindungi anda.</translation>
+<translation id="6957887021205513506">Sijil pelayan nampaknya palsu.</translation>
+<translation id="6429639049555216915">Aplikasi ini tidak dapat dicapai pada masa ini.</translation>
+<translation id="9127307628159259612">Tambah <ph name="PRODUCT_NAME"/> sebagai program yang dibenarkan dalam tetapan perisian tembok api atau antivirus anda. Jika ia sudah merupakan program yang dibenarkan, cuba padamkannya dari senarai program yang dibenarkan dan tambah semula.</translation>
+<translation id="4544369257849566741">Sambungan perundingan semula SSL tiada pada jabat tangan selamat. Untuk sesetengah tapak, yang diketahui menyokong sambungan perundingan semula, <ph name="PRODUCT_NAME"/> memerlukan jabat tangan yang lebih selamat untuk menghalang kelas serangan yang diketahui. Peninggalan sambungan ini menunjukkan bahawa sambungan anda telah dipintas dan dimanipulasi semasa dalam transit.</translation>
+<translation id="8162734958263531433">Untuk menggunakan penyahpepijatan USB, anda perlu mendayakan Android SDK dan penyahpepijatan USB pada peranti Android anda. Lihat <ph name="HTML_HELPURL"/> untuk mendapatkan maklumat lanjut.</translation>
+<translation id="1875071432292773474">Masukkan alamat <ph name="ACCESS_POINT"/> pada penyemak imbas desktop anda. Penyemak imbas desktop mestilah pada rangkaian yang sama seperti peranti Android.</translation>
+<translation id="7227425938337339799">Untuk UPnP berfungsi, anda perlu berada pada subnet yang sama atau mewujudkan titi penghala untuk memajukan siaran merentas subnet.</translation>
+<translation id="4553629908098215669">Pada komputer anda, jalankan <ph name="HTMLADBCOMMAND"/>, dan navigasi ke <ph name="HTMLLOCALHOSTURL"/> menggunakan penyemak imbas berasaskan Chromium.</translation>
+<translation id="4570032796877367747">Kamera depan</translation>
+<translation id="2599796128805996109">Kamera belakang</translation>
+<translation id="2124507516322945394">Mikrofon lalai</translation>
+<translation id="1587215898571986504">Fon pembesar suara</translation>
+<translation id="5614598979078259956">Set kepala berwayar</translation>
+<translation id="9031226374756103225">Cuping telinga set kepala</translation>
+<translation id="149679617917926491">Set kepala Bluetooth</translation>
+<translation id="6060685159320643512">Berhati-hati, eksperimen ini mungkin memberi kesan buruk</translation>
+<translation id="5199729219167945352">Eksperimen</translation>
+<translation id="533563709691128800">dinyahdayakan</translation>
+<translation id="2506903884491778518">Cari eksperimen</translation>
+<translation id="1138663153846032155">Keutamaan HTML over Flash</translation>
+<translation id="2081453640527377956">Lebih utamakan kandungan HTML dengan menyembunyikan Flash daripada senarai pasang masuk.</translation>
+<translation id="5998167623928667649">Jalankan semua kandungan Flash apabila tetapan Flash ditetapkan kepada "benarkan"</translation>
+<translation id="5138177765054221193">Untuk tapak yang telah ditetapkan kepada "benarkan" kandungan Flash, jalankan semua kandungan termasuk mana-mana yang telah dianggap tidak penting.</translation>
+<translation id="2112624549618815628">Lalai (didayakan)</translation>
+<translation id="3696363537446376816">Lalai (dinyahdayakan)</translation>
+<translation id="5773249585542913314">Windows Runtime MIDI API</translation>
+<translation id="7122132768827815392">Gunakan Windows Runtime MIDI API untuk WebMIDI (berkuat kuasa hanya pada Windows 10 atau kemudian).</translation>
+<translation id="1375198122581997741">Mengenai Versi</translation>
+<translation id="7248671827512403053">Aplikasi</translation>
+<translation id="1710259589646384581">OS</translation>
+<translation id="6897140037006041989">Ejen Pengguna</translation>
+<translation id="7353601530677266744">Baris Perintah</translation>
+<translation id="7225807090967870017">ID Binaan</translation>
+</translationbundle>

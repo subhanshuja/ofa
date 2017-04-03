@@ -1,0 +1,284 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="sl">
+<translation id="2978824962390592855">Opera</translation>
+<translation id="3942946088478181888">Razložite mi, prosim</translation>
+<translation id="1396529432791646744">Ko vzpostavite povezavo z varnim spletnim mestom, strežnik, kjer gostuje spletno mesto, brskalniku prikaže »potrdilo«, ki dokazuje identiteto. V tem potrdilu so podatki o identiteti, na primer naslov spletnega mesta, to pa preveri tretja oseba, kateri prenosna naprava zaupa. Če preverite, ali se naslov v potrdilu ujema z naslovom spletnega mesta, lahko izveste, ali varno komunicirate z želenim spletnim mestom, in ne s tretjo osebo (na primer z napadalcem v omrežju).</translation>
+<translation id="6295228342562451544">Ko vzpostavite povezavo z varnim spletnim mestom, strežnik, kjer gostuje spletno mesto, brskalniku prikaže »potrdilo«, ki dokazuje identiteto. V tem potrdilu so podatki o identiteti, na primer naslov spletnega mesta, to pa preveri tretja oseba, kateri računalnik zaupa. Če preverite, ali se naslov v potrdilu ujema z naslovom spletnega mesta, lahko izveste, ali varno komunicirate z želenim spletnim mestom, in ne s tretjo osebo (na primer z napadalcem v omrežju).</translation>
+<translation id="7073704676847768330">To najverjetneje ni spletno mesto, ki ga iščete!</translation>
+<translation id="2941952326391522266">Ta strežnik ni mogel dokazati, da je <ph name="DOMAIN"/>; njegovo varnostno potrdilo je iz <ph name="DOMAIN2"/>. To je mogoče povzročila napačna konfiguracija ali pa je napadalec prestregel vašo povezavo.</translation>
+<translation id="7761701407923456692">Potrdilo strežnika se ne ujema s spletnim naslovom.</translation>
+<translation id="3581034179710640788">Varnostno potrdilo spletnega mesta je poteklo!</translation>
+<translation id="436701661737309601">Izdajatelj veljavnega potrdila je dolžan ustvariti tako imenovan »seznam ukinjenih potrdil«. Če je varnost potrdila kadar koli ogrožena, ga lahko izdajatelj ukine tako, da ga doda na seznam ukinjenih potrdil. Potrdilu, ki je na seznamu ukinjenih potrdil, vaš brskalnik ne zaupa več. Za potekla potrdila ni treba hraniti podatkov o morebitni ukinitvi. Čeprav je bilo potrdilo veljavno za spletno mesto, ki ga obiskujete, v tem trenutku ni več mogoče vedeti, ali je bila ogrožena varnost potrdila in je bilo potrdilo naknadno ukinjeno ali pa je potrdilo še naprej varno. Zato ni mogoče reči, ali komunicirate z legitimnim spletnim mestom ali pa je bila varnost potrdila ogrožena in je zdaj v rokah napadalca, s katerim komunicirate.</translation>
+<translation id="8971063699422889582">Potrdilo strežnika je poteklo.</translation>
+<translation id="1618661679583408047">Varnostno potrdilo strežnika ni še veljavno!</translation>
+<translation id="825608351287166772">Potrdila imajo rok veljavnosti, podobno kot drugi identifikacijski dokumenti (na primer potni list), ki ga morda imate. Potrdilo, ki je bilo poslano brskalniku, še ni veljavno. Če je potrdilo zunaj obdobja veljavnosti, nekatere informacije o stanju potrdila (na primer, ali je bilo ukinjeno in ni več vredno zaupanja) niso vedno na voljo. Tako ni mogoče preveriti, ali je potrdilo vredno zaupanja. Priporočamo, da postopek prekinete.</translation>
+<translation id="7938958445268990899">Potrdilo strežnika še ni veljavno.</translation>
+<translation id="2915500479781995473">Ta strežnik ni mogel dokazati, da je <ph name="DOMAIN"/>; njegovo varnostno potrdilo je poteklo. To je mogoče povzročila napačna konfiguracija ali pa je napadalec prestregel vašo povezavo. Ura v računalniku je trenutno nastavljena na <ph name="CURRENT_TIME"/>. Ali je pravilna? Če ni, popravite sistemsko uro in osvežite to stran.</translation>
+<translation id="229702904922032456">Korensko ali vmesno potrdilo je poteklo.</translation>
+<translation id="374530189620960299">Varnostno potrdilo spletnega mesta ni vredno zaupanja!</translation>
+<translation id="168929553803686581">V tem primeru potrdila ni preverila tretja oseba, ki ji vaša prenosna naprava zaupa. Vsakdo lahko ustvari potrdilo in se izdaja za poljubno spletno mesto. Zato morajo potrdila preveriti tretje osebe. Brez tega preverjanja so podatki o identiteti v potrdilu brez pomena. Zato ni mogoče preveriti, ali komunicirate s spletnim mestom <ph name="DOMAIN"/> ali pa z napadalcem, ki je ustvaril svoje potrdilo in se izdaja za <ph name="DOMAIN2"/>. Svetujemo, da postopek na tej točki prekinete.</translation>
+<translation id="6517558746015096434">Če pa ste zaposleni v organizaciji, ki ustvarja svoja lastna potrdila, in skušate s takšnim potrdilom vzpostaviti povezavo z notranjim spletnim mestom organizacije, lahko varno odpravite to težavo. Korensko potrdilo organizacije lahko uvozite kot »korensko potrdilo«. Potrdila, ki jih bo vaša organizacija izdala ali preverila, bodo vredna zaupanja. Ko boste naslednjič vzpostavljali povezavo z notranjim spletnim mestom, te napake ne boste več videli. Če želite pomoč pri dodajanju novega korenskega potrdila v prenosno napravo, se obrnite na oddelek za pomoč v organizaciji.</translation>
+<translation id="2159087636560291862">V tem primeru potrdila ni preverila tretja oseba, ki ji vaš računalnik zaupa. Vsakdo lahko ustvari potrdilo in se izdaja za poljubno spletno mesto. Zato morajo potrdila preveriti tretje osebe. Brez tega preverjanja so podatki o identiteti v potrdilu brez pomena. Zato ni mogoče preveriti, ali komunicirate s spletnim mestom <ph name="DOMAIN"/> ali pa z napadalcem, ki je ustvaril svoje potrdilo in se izdaja za <ph name="DOMAIN2"/>. Svetujemo, da postopek na tej točki prekinete.</translation>
+<translation id="2645575947416143543">Če pa ste zaposleni v organizaciji, ki ustvarja svoja lastna potrdila, in skušate s takšnim potrdilom vzpostaviti povezavo z notranjim spletnim mestom organizacije, lahko varno odpravite to težavo. Korensko potrdilo organizacije lahko uvozite kot »korensko potrdilo«. Potrdila, ki jih bo vaša organizacija izdala ali preverila, bodo vredna zaupanja. Ko boste naslednjič vzpostavljali povezavo z notranjim spletnim mestom, te napake ne boste več videli. Če želite pomoč pri dodajanju novega korenskega potrdila v računalnik, se obrnite na oddelek za pomoč v organizaciji.</translation>
+<translation id="3528171143076753409">Potrdilo strežnika še ni vredno zaupanja.</translation>
+<translation id="2649911884196340328">V varnostnem potrdilu strežnika so napake!</translation>
+<translation id="8534801226027872331">V tem primeru so v potrdilu, ki je poslano brskalniku, napake in ga ni mogoče razumeti. To lahko pomeni, da ne moremo razumeti podatkov o identiteti v potrdilu ali pa nekih drugih podatkov v potrdilu, ki so potrebni za zavarovanje povezave. Svetujemo, da ne nadaljujete.</translation>
+<translation id="2491120439723279231">V potrdilu strežnika so napake.</translation>
+<translation id="8318945219881683434">Preklica veljavnosti ni mogoče preveriti.</translation>
+<translation id="9141716082071217089">Ni mogoče preveriti, ali je bilo potrdilo strežnika preklicano.</translation>
+<translation id="2922350208395188000">Potrdila strežnika ni mogoče preveriti.</translation>
+<translation id="884923133447025588">Ni bilo mogoče najti mehanizma za preklic veljavnosti.</translation>
+<translation id="2413528052993050574">Ta strežnik ni mogel dokazati, da je <ph name="DOMAIN"/>; njegovo varnostno potrdilo je mogoče preklicano. To je mogoče povzročila napačna konfiguracija ali pa je napadalec prestregel vašo povezavo.</translation>
+<translation id="8187473050234053012">Varnostno potrdilo strežnika je preklicano!</translation>
+<translation id="4377125064752653719">Skušali ste obiskati spletno mesto <ph name="DOMAIN"/>, vendar pa je izdajatelj potrdila, ki je bilo poslano strežniku, to potrdilo preklical. Svetujemo, da ne zaupate varnostnim potrdilom, ki jih je poslal strežnik. Morda komunicirate z napadalcem.</translation>
+<translation id="5275799318132317934">V tem primeru je izdajatelj potrdila, ki je bilo poslano brskalniku, to potrdilo preklical. To po navadi pomeni, da je bila ogrožena varnost potrdila in da potrdilu ne gre zaupati.</translation>
+<translation id="2386255080630008482">Potrdilo strežnika je bilo preklicano.</translation>
+<translation id="4222982218026733335">Neveljavno potrdilo strežnika</translation>
+<translation id="9049981332609050619">Skušali ste obiskati spletno mesto <ph name="DOMAIN"/>, vendar je strežnik poslal neveljavno potrdilo.</translation>
+<translation id="3776667127601582921">V tem primeru potrdilo strežnika ali vmesno potrdilo overitelja digitalnih potrdil, poslano brskalniku, ni veljavno. To lahko pomeni, da je potrdilo slabo oblikovano, da vsebuje neveljavna polja ali pa ni podprto.</translation>
+<translation id="917450738466192189">Potrdilo strežnika ni veljavno.</translation>
+<translation id="9145357542626308749">Varnostno potrdilo spletnega mesta uporablja šibak algoritem podpisa!</translation>
+<translation id="2171101176734966184">Skušali ste obiskati spletno mesto <ph name="DOMAIN"/>, vendar je strežnik poslal potrdilo, ki je podpisano s šibkim algoritmom podpisa. To pomeni, da so bile varnostne poverilnice, ki jih je poslal strežnik, morda ponarejene, strežnik pa morda ni strežnik, ki ga želite (morda komunicirate z napadalcem).</translation>
+<translation id="4320833726226688924">V tem primeru je potrdilo strežnika ali vmesno potrdilo overitelja digitalnih potrdil, ki je bilo poslano brskalniku, podpisano s šibkim algoritmom podpisa, kot je na primer RSA-MD2. Nedavne raziskave računalniških strokovnjakov so pokazale, da je algoritem podpisa šibkejši, kot je bilo sprva ocenjeno, zaupanja vredna spletna mesta pa dandanes le še redko uporabljajo algoritem podpisa. Potrdilo je bilo morda ponarejeno.</translation>
+<translation id="2728127805433021124">Potrdilo strežnika je podpisano s šibkim algoritmom podpisa.</translation>
+<translation id="6315723398663634808">V potrdilu strežnika je šibek kriptografski ključ!</translation>
+<translation id="121201262018556460">Skušali ste obiskati spletno mesto <ph name="DOMAIN"/>, vendar je strežnik poslal potrdilo s šibkim ključem. Morda je napadalec strl zasebni ključ, strežnik pa morda ni strežnik, ki ste ga želeli (morda komunicirate z napadalcem).</translation>
+<translation id="2929033900046795715">V tem primeru je v potrdilu strežnika ali vmesnem potrdilu overitelja digitalnih potrdil, ki je bilo poslano brskalniku, šibek ključ, kot je na primer ključ RSA z manj kot 1024 biti. Ker je iz šibkega javnega ključa razmeroma preprosto izpeljati pripadajoč zasebni ključ, je napadalec morda ponaredil identiteto izvirnega strežnika.</translation>
+<translation id="168841957122794586">V potrdilu strežnika je šibek kriptografski ključ.</translation>
+<translation id="4253787465144837701">Potrdilo strežnika vsebuje ime domene, ki ne bi smela biti tam.</translation>
+<translation id="7567204685887185387">Ta strežnik ni mogel dokazati, da je <ph name="DOMAIN"/>; njegovo varnostno potrdilo je mogoče bilo izdano z goljufijo. To je mogoče povzročila napačna konfiguracija ali pa je napadalec prestregel vašo povezavo.</translation>
+<translation id="7592362899630581445">Potrdilo strežnika krši omejitve glede imen.</translation>
+<translation id="5944101742958374175">Za prejeto potrdilo je bila najdena posebna izjema.</translation>
+<translation id="5623463370978611784">Prejeto potrdilo je bilo označeno kot napačno. Če želite več informacij, glejte $1.</translation>
+<translation id="1177437665183591855">Neznana napaka potrdila strežnika</translation>
+<translation id="4771973620359291008">Prišlo je do neznane napake.</translation>
+<translation id="674375294223700098">Neznana napaka potrdila strežnika.</translation>
+<translation id="5598024575303778520">Opozorilo o prevari</translation>
+<translation id="7311721172731074902">Opozorilo o prevari</translation>
+<translation id="4056154188339276219">To spletno mesto je bilo prijavljeno kot lažno. Če si s tem spletnim mestom izmenjate občutljive ali zaupne informacije, lahko postanete žrtev tatvine osebnosti in/ali finančne goljufije.</translation>
+<translation id="6494666865857176946">Družba Opera Software močno odsvetuje obisk te spletne strani.</translation>
+<translation id="8357891144266644027">Opozorilo o zlonamernem spletnem mestu</translation>
+<translation id="4664012235452972339">Opozorilo o zlonamernem spletnem mestu</translation>
+<translation id="8219093269265469764">Z obiskom spletnega mesta se lahko izpostavite tveganjem. Spletno mesto je bilo prijavljeno, da distribuira zlonamerno programsko opremo.</translation>
+<translation id="4863259811271883558">Spletno mesto je prijavila družba <ph name="BEGIN_LINK"/><ph name="PROVIDER_NAME"/><ph name="END_LINK"/></translation>
+<translation id="3141322567138977593">Pojdi nazaj na varen način</translation>
+<translation id="833642844779103272">Pojdi nazaj na varen način</translation>
+<translation id="4238466718818823211">Prezri to opozorilo</translation>
+<translation id="1755698976576372535">Zakaj je bila spletna stran blokirana?</translation>
+<translation id="7459549266751278805">Središče za obvestila Opera</translation>
+<translation id="7470668651798735849">Tukaj lahko vidite vsa obvestila spletnih strani.</translation>
+<translation id="4501379002264542907">Opera - obvestila</translation>
+<translation id="1352092048463356430">Opera - obvestila (<ph name="QUANTITY"/> neprebrano)</translation>
+<translation id="4159400746343093340">Opera - obvestila</translation>
+<translation id="6018626517703817463">Opera - obvestila (<ph name="QUANTITY"/> neprebrano)</translation>
+<translation id="6426222199977479699">Napaka SSL</translation>
+<translation id="8398877366907290961">Kljub temu nadaljuj</translation>
+<translation id="6264485186158353794">Nazaj v varnost</translation>
+<translation id="2225024820658613551">Svetujemo, da ne nadaljujete, &lt;strong&gt;še posebej&lt;/strong&gt;, če za to spletno mesto še nikoli niste videli tega opozorila.</translation>
+<translation id="5645845270586517071">Napaka varnosti</translation>
+<translation id="1103666958012677467">Ne morete nadaljevati, ker je operater spletnega mesta za to domeno zahteval višjo raven varnosti.</translation>
+<translation id="5463275305984126951">Kazalo <ph name="LOCATION"/></translation>
+<translation id="8877448029301136595">[nadrejen imenik]</translation>
+<translation id="5327248766486351172">Ime</translation>
+<translation id="8028993641010258682">Velikost</translation>
+<translation id="57646104491463491">Datum spremembe</translation>
+<translation id="3835522725882634757">Ojej! Strežnik pošilja podatke, ki jih <ph name="PRODUCT_NAME"/> ne razume. Prosimo, <ph name="BEGIN_LINK"/>prijavite težavo<ph name="END_LINK"/> in vključite <ph name="BEGIN2_LINK"/>grob seznam<ph name="END2_LINK"/>.</translation>
+<translation id="4231205248927312226">Potrdite vnovično pošiljanje obrazca</translation>
+<translation id="6451458296329894277">Potrdite vnovično pošiljanje obrazca</translation>
+<translation id="2032601515784864742">V tem primeru se naslov, ki je naveden v potrdilu, ne ujema z naslovom spletnega mesta, ki ga je skušal obiskati vaš brskalnik. Eden od možnih vzrokov za to je, da vašo komunikacijo prestreza napadalec, ki pošilja potrdilo drugega spletnega mesta, zaradi česar bi lahko prišlo do neujemanja. Drug možen razlog za to je, da je strežnik nastavljen tako, da vrne isto potrdilo za več spletnih mest, vključno s spletnim mestom, ki ga želite obiskati, čeprav to potrdilo ni veljavno za vsa ta spletna mesta. <ph name="PRODUCT_NAME"/> lahko z gotovostjo trdi, da ste obiskali spletno mesto &lt;strong&gt;<ph name="DOMAIN2"/>&lt;/strong&gt;, ne more pa preveriti, da gre za isto spletno mesto kot &lt;strong&gt;<ph name="DOMAIN"/>&lt;/strong&gt;, ki ste ga nameravali obiskati. Če nadaljujete, brskalnik <ph name="PRODUCT_NAME"/> ne bo več preverjal morebitnih neujemanj imena.</translation>
+<translation id="1639773643001837725">Ta strežnik ni mogel dokazati, da je <ph name="DOMAIN"/>; njegovo varnostno potrdilo je poteklo pred <ph name="DAYS"/> dnevi. To je mogoče povzročila napačna konfiguracija ali pa je napadalec prestregel vašo povezavo. Ura v računalniku je trenutno nastavljena na <ph name="CURRENT_TIME"/>. Ali je pravilna? Če ni, popravite sistemsko uro in osvežite to stran.</translation>
+<translation id="7235421518178823985">Ta strežnik ni mogel dokazati, da je <ph name="DOMAIN"/>; njegovo varnostno potrdilo je domnevno iz <ph name="DAYS"/> dni v prihodnosti. To je mogoče povzročila napačna konfiguracija ali pa je napadalec prestregel vašo povezavo.</translation>
+<translation id="1763864636252898013">Ta strežnik ni mogel dokazati, da je <ph name="DOMAIN"/>; operacijski sistem vaše naprave ne zaupa njegovemu varnostnemu potrdilu. To je mogoče povzročila napačna konfiguracija ali pa je napadalec prestregel vašo povezavo.</translation>
+<translation id="467662567472608290">Ta strežnik ni mogel dokazati, da je <ph name="DOMAIN"/>; njegovo varnostno potrdilo vsebuje napake. To je mogoče povzročila napačna konfiguracija ali pa je napadalec prestregel vašo povezavo.</translation>
+<translation id="8465929756435120446">Na strani je nevarna vsebina.</translation>
+<translation id="4522570452068850558">Podrobnosti</translation>
+<translation id="3586931643579894722">Skrij podrobnosti</translation>
+<translation id="8962083179518285172">Skrij podrobnosti</translation>
+<translation id="6042308850641462728">Več</translation>
+<translation id="2089090684895656482">Manj</translation>
+<translation id="5556459405103347317">Znova naloži</translation>
+<translation id="9193357432624119544">Koda napake: <ph name="ERROR_NAME"/></translation>
+<translation id="4910619056351738551">Nekaj predlogov:</translation>
+<translation id="2662338103506457097">Znova naložite spletno stran.</translation>
+<translation id="3226128629678568754">Če želite znova poslati podatke, potrebne za nalaganje spletne strani, pritisnite gumb za vnovično nalaganje.</translation>
+<translation id="8196061687045545167">Onemogočite razširitve in znova naložite spletno stran.</translation>
+<translation id="3155309969919037916">Preverite internetno povezavo.</translation>
+<translation id="1519957265434608160">Preverite kable in znova zaženite usmerjevalnike, modeme ali druge omrežne naprave, ki jih morda uporabljate.</translation>
+<translation id="2319236583141234177">Preverite nastavitve sistema DNS.</translation>
+<translation id="8289355894181816810">Če ne veste, kaj to pomeni, se obrnite na skrbnika omrežja.</translation>
+<translation id="5573959367212558217">Poskusite onemogočite zaščito omrežja.</translation>
+<translation id="8888594059056485523">V nastavitvah požarnega zidu ali protivirusnega programa dovolite brskalniku Opera, da dostopi do omrežja.</translation>
+<translation id="6456804684535455731">Če je v nastavitvah že nastavljen kot program, ki ima dovoljenje za dostop do omrežja, ga poskusite odstraniti s seznama in ga znova dodajte.</translation>
+<translation id="382518646247711829">Če uporabljate strežnik proxy...</translation>
+<translation id="7616012285680677132">Preverite nastavitve strežnika proxy ali pa se obrnite na skrbnika omrežja in preverite, ali strežnik proxy deluje. <ph name="PLATFORM_TEXT"/></translation>
+<translation id="8454634452929957533">Preverite nastavitve strežnika proxy ali pa se obrnite na skrbnika omrežja in preverite, ali strežnik proxy deluje. Če menite, da ne potrebujete strežnika proxy: <ph name="PLATFORM_TEXT"/></translation>
+<translation id="8040357206858000048">Premaknite se v razdelek »Programi« &gt; »Nastavitve sistema« &gt; »Omrežje« &gt; »Napredno« &gt; »Strežniki proxy« in prekličite izbor morebitnih strežnikov proxy, ki so izbrani.</translation>
+<translation id="7158277678571698323">Premaknite se v meni brskalnika Opera &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; »Nastavitve omrežja LAN« in prekličite izbor možnosti »Uporabi strežnik proxy za omrežje LAN«.</translation>
+<translation id="2954705784594331199"><ph name="BEGIN_LINK"/>Znova naložite<ph name="END_LINK"/> spletno mesto pozneje.</translation>
+<translation id="4977565600485911823">Onemogočite razširitve in <ph name="BEGIN_LINK"/>znova naložite<ph name="END_LINK"/> spletno stran.</translation>
+<translation id="1103966635949043187">Pojdite na domačo stran spletnega mesta:</translation>
+<translation id="7747589364844254751">Preverite internetno povezavo. Znova zaženite usmerjevalnik, modem ali druge omrežne naprave, ki jih morda uporabljate.</translation>
+<translation id="5548623538190661145">Preverite nastavitve sistema DNS. Če ne veste, kaj to pomeni, se obrnite na skrbnika omrežja.</translation>
+<translation id="9127307628159259612">V nastavitvah požarnega zidu ali protivirusne programske opreme dodajte brskalnik <ph name="PRODUCT_NAME"/> kod program z dovoljenjem za dostop. Če je brskalnik že na seznamu dovoljenih programov, ga odstranite s seznama in ga znova dodajte.</translation>
+<translation id="4545046228395991092">Če uporabljate strežnik proxy, preverite nastavitve strežnika ali pa se obrnite na skrbnika omrežja in preverite, ali strežnik proxy deluje.</translation>
+<translation id="1712673276482711826">Če uporabljate strežnik proxy, preverite nastavitve strežnika ali pa se obrnite na skrbnika omrežja in preverite, ali strežnik proxy deluje. Če menite, da ne potrebujete strežnika proxy, prilagodite nastavitve strežnika: <ph name="PLATFORM_TEXT"/></translation>
+<translation id="721197778055552897"><ph name="BEGIN_LINK"/>Več informacij<ph name="END_LINK"/> o tej težavi.</translation>
+<translation id="2214283295778284209"><ph name="SITE"/> ni na voljo</translation>
+<translation id="4032534284272647190">Dostop do programa <ph name="URL"/> je zavrnjen.</translation>
+<translation id="790025292736025802">Programa <ph name="URL"/> ni mogoče najti</translation>
+<translation id="641480858134062906">Programa <ph name="URL"/> ni mogoče naložiti</translation>
+<translation id="4697214168136963651"><ph name="URL"/> je blokiran</translation>
+<translation id="9020278534503090146">Spletna stran ni na voljo</translation>
+<translation id="9086455579313502267">Do omrežja ni mogoče dostopiti</translation>
+<translation id="6771079623344431310">Ni mogoče vzpostaviti povezave s strežnikom proxy</translation>
+<translation id="5303446622366702551">Ni mogoče vzpostaviti povezave z internetom</translation>
+<translation id="6640442327198413730">Zgrešeni predmeti v predpomnilniku</translation>
+<translation id="4786993863723020412">Napaka pri branju predpomnilnika</translation>
+<translation id="5880867612172997051">Do omrežja začasno ni mogoče dostopati</translation>
+<translation id="5303618139271450299">Spletne strani ni mogoče najti</translation>
+<translation id="7269802741830436641">Spletna stran ima zanko preusmeritve</translation>
+<translation id="778579833039460630">Ni prejetih podatkov</translation>
+<translation id="4980112683975062744">Iz strežnika so prispele podvojene glave</translation>
+<translation id="7839809549045544450">V strežniku je šibak ključ javni ključ »Diffie-Hellman Ephemeral«</translation>
+<translation id="820791781874064845">Spletno stran je blokirala razširitev</translation>
+<translation id="4764776831041365478">Spletna stran na naslovu <ph name="URL"/> morda začasno ne deluje ali pa je bila trajno premaknjena na nov spletni naslov.</translation>
+<translation id="2776514516555065663">Brskalnik <ph name="PRODUCT_NAME"/> ni mogel naložiti spletne strani, ker se je gostitelj <ph name="HOST_NAME"/> prepozno odzval. Spletna stran morda ne deluje ali pa morda prihaja do težav z internetno povezavo.</translation>
+<translation id="7732608718511994155">Povezava s spletno stranjo <ph name="HOST_NAME"/> je bila prekinjena.</translation>
+<translation id="6866330586943304386">Povezavo s spletno stranjo <ph name="HOST_NAME"/> je prekinila sprememba v omrežni povezavi.</translation>
+<translation id="3353584498371175254">Poskus povezave med brskalnikom <ph name="PRODUCT_NAME"/> in gostiteljem <ph name="HOST_NAME"/> je bila zavrnjena. Spletno mesto morda ne deluje ali pa omrežje morda ni pravilno konfigurirano.</translation>
+<translation id="1775580281086246828">Strežnika gostitelja <ph name="HOST_NAME"/> ni mogoče najti, ker iskanje DNS ni uspelo. DNS je omrežna storitev, ki ime spletnega mesta prevede v internetni naslov. Za napako je najverjetneje kriva nedelujoča internetna povezava ali napačno konfigurirano omrežje. Za napako je lahko kriv tudi neodziven strežnik DNS ali pa požarni zid, ki brskalniku <ph name="PRODUCT_NAME"/> preprečuje dostop do omrežja.</translation>
+<translation id="1900640198039665133"><ph name="PRODUCT_NAME"/> ne more doseči spletnega mesta. Za to so po navadi krive težave omrežja, lahko pa je kriv tudi napačno konfiguriran požarni zid ali strežnik proxy.</translation>
+<translation id="6061713520396617275">Datoteka na spletnem naslovu <ph name="URL"/> ni mogoče prebrati. Morda je bila odstranjena, premaknjena ali pa dostop preprečujejo dovoljenja za datoteke.</translation>
+<translation id="3743996431420410209">Brskalnik <ph name="PRODUCT_NAME"/> ima težave z dostopom do omrežja. <ph name="LINE_BREAK"/> Za to je lahko kriv požarni zid ali protivirusna programska oprema, ki brskalnik <ph name="PRODUCT_NAME"/> vidi kot vsiljivca v prenosni napravi in mu blokira povezavo z internetom.</translation>
+<translation id="8525957822916060992">Strežnik proxy je strežnik, ki deluje kot posrednik med prenosno napravo in drugimi strežniki. Vaš sistem je trenutno konfiguriran tako, da uporablja proxy, vendar se brskalnik <ph name="PRODUCT_NAME"/> ne more povezati z njim.</translation>
+<translation id="2182771052381938197"><ph name="PRODUCT_NAME"/> ne more prikazati spletne strani, ker prenosna naprava ni povezana z internetom.</translation>
+<translation id="8504605147845230067"><ph name="ERROR_DESCRIPTION_TEXT"/></translation>
+<translation id="6482869692698550826">Brskalnik <ph name="PRODUCT_NAME"/> ima težave z dostopom do omrežja. <ph name="LINE_BREAK"/> Za to je lahko kriv požarni zid ali protivirusna programska oprema, ki brskalnik <ph name="PRODUCT_NAME"/> vidi kot vsiljivca v računalniku in mu blokira povezavo z internetom.</translation>
+<translation id="6268299223990012826">Strežnik proxy je strežnik, ki deluje kot posrednik med računalnikom in drugimi strežniki. Vaš sistem je trenutno konfiguriran tako, da uporablja proxy, vendar se brskalnik <ph name="PRODUCT_NAME"/> ne more povezati z njim.</translation>
+<translation id="2082033521101679150"><ph name="PRODUCT_NAME"/> ne more prikazati spletne strani, ker računalnik ni povezan z internetom.</translation>
+<translation id="5025570087133380871"><ph name="ERROR_DESCRIPTION_TEXT"/> <ph name="LINE_BREAK"/> Težavo lahko diagnosticirate tako, da izvedete te korake: <ph name="LINE_BREAK"/> <ph name="PLATFORM_TEXT"/></translation>
+<translation id="3952238365087168585">Premaknite se v razdelek <ph name="BEGIN_BOLD"/> »Programi« &gt; »Nastavitve sistema« &gt; »Omrežje« &gt; »Pomagaj mi« <ph name="END_BOLD"/>, da preverite povezavo.</translation>
+<translation id="8907719130223575953">Premaknite se v razdelek <ph name="BEGIN_BOLD"/> »Start« &gt; »Nadzorna plošča« &gt; »Omrežje in internet« &gt; »Središče za omrežje in skupno rabo« &gt; »Odpravljanje težav« (na dnu) &gt; »Internetne povezave«. <ph name="END_BOLD"/></translation>
+<translation id="6426809368065002078">Premaknite se v razdelek <ph name="BEGIN_BOLD"/> »Start« &gt; »Nadzorna plošča« &gt; »Omrežne povezave« &gt; »Čarovnik za novo povezavo« <ph name="END_BOLD"/>, da preverite povezavo.</translation>
+<translation id="2430210664810280637">Kliknite <ph name="BEGIN_BOLD"/>Start<ph name="END_BOLD"/>, <ph name="BEGIN_BOLD"/>Zaženi<ph name="END_BOLD"/>, vnesite <ph name="BEGIN_BOLD"/>%windir%\network diagnostic\xpnetdiag.exe<ph name="END_BOLD"/>, nato pa kliknite <ph name="BEGIN_BOLD"/>V redu<ph name="END_BOLD"/>.</translation>
+<translation id="5098248489969453574">Spletne strani ni bilo mogoče najti v predpomnilniku. Nekatere vire je mogoče varno naložiti le iz predpomnilnika, na primer strani, ustvarjene iz poslanih podatkov. <ph name="LINE_BREAK"/> Za to napako je lahko kriva tudi poškodba predpomnilnika, do katere je prišlo zaradi nepravilne zaustavitve sistema. <ph name="LINE_BREAK"/> Če težave ne morete odpraviti, poskusite izbrisati vsebino predpomnilnika.</translation>
+<translation id="2275837730041455081">Za hitrejše delovanje spletnih strani <ph name="PRODUCT_NAME"/> prenesene datoteke začasno shrani na disk. Če brskalnika <ph name="PRODUCT_NAME"/> ne zaustavite pravilno, lahko pride do poškodbe teh datotek, zaradi česar lahko pride do napake. Težavo lahko odpravite tako, da znova naložite stran. V prihodnje pa se težavi izognete tako, da brskalnik ustavite na pravilen način. <ph name="LINE_BREAK"/> Če težave ne morete odpraviti, poskusite izbrisati vsebino predpomnilnika. V nekaterih primerih je lahko to tudi znak, da bo strojna oprema odpovedala.</translation>
+<translation id="9029615070002286968">Spletne strani ni mogoče naložiti, ker je prenosna naprava prešla v stanje pripravljenosti ali v stanje mirovanja. Ko pride do tega, so omrežne povezave prekinjene, nove zahteve za omrežje pa niso uspešne. Težavo odpravite tako, da znova naložite stran.</translation>
+<translation id="4534415571332240241">Spletne strani ni mogoče naložiti, ker je računalnik prešel v stanje pripravljenosti ali v stanje mirovanja. Ko pride do tega, so omrežne povezave prekinjene, nove zahteve za omrežje pa niso uspešne. Težavo odpravite tako, da znova naložite stran.</translation>
+<translation id="7518003948725431193">Nobene spletne strani ni bilo mogoče najti za spletni naslov: <ph name="URL"/></translation>
+<translation id="9164387458644511612">Na spletni strani na naslovu <ph name="URL"/> je preveč preusmeritev. Težavo boste morda lahko odpravili tako, da izbrišete piškotke za to spletno mesto ali pa dovolite piškotke tretjih oseb. Če to ne deluje, je vzrok najbrž težava s konfiguracijo strežnika in ne z vašo prenosno napravo.</translation>
+<translation id="3015602778474660457">Na spletni strani na naslovu <ph name="URL"/> je preveč preusmeritev. Težavo boste morda lahko odpravili tako, da izbrišete piškotke za to spletno mesto ali pa dovolite piškotke tretjih oseb. Če to ne deluje, je vzrok najbrž težava s konfiguracijo strežnika in ne z vašim računalnikom.</translation>
+<translation id="4287689875748136217">Spletne strani ni mogoče naložiti, ker strežnik ni poslal nobenih podatkov.</translation>
+<translation id="660896802268593778">V odgovoru strežnika so bile podvojene glave. Vzrok za to težavo je po navadi napačno konfigurirano spletno mesto ali strežnik proxy. Težavo lahko odpravi le skrbnik za spletno mesto ali strežnik proxy.</translation>
+<translation id="5954987802886981088">Do te napake lahko pride pri vzpostavljanju povezave z varnim strežnikom (HTTPS). To pomeni, da skuša strežnik vzpostaviti varno povezavo, vendar zaradi napačne konfiguracije povezava ne bi bila varna! <ph name="LINE_BREAK"/> V tem primeru je treba popraviti strežnik. Brskalnik <ph name="PRODUCT_NAME"/> zaradi varovanja vaše zasebnosti ne bo uporabil nevarnih povezav.</translation>
+<translation id="8752577199214871617">Ni mogoče pogledati <ph name="HOST_NAME"/>.</translation>
+<translation id="8235325155053717782">Napaka <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="3986287159189541211">Napaka HTTP <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="4405141258442788789">Časovna omejitev postopka je potekla.</translation>
+<translation id="3118046075435288765">Strežnik je nepričakovano prekinil povezavo.</translation>
+<translation id="2784949926578158345">Povezava je bila ponastavljena.</translation>
+<translation id="9020142588544155172">Strežnik je zavrnil povezavo.</translation>
+<translation id="8494979374722910010">S strežnikom ni bilo mogoče vzpostaviti povezave.</translation>
+<translation id="2909946352844186028">Zaznana je bila sprememba omrežja.</translation>
+<translation id="5949910269212525572">Naslova DNS strežnika ni mogoče razrešiti.</translation>
+<translation id="5498951625591520696">Ni mogoče vzpostaviti povezave s strežnikom.</translation>
+<translation id="3950924596163729246">Ni mogoče vzpostaviti povezave z omrežjem.</translation>
+<translation id="4147376274874979956">Ni mogoče dostopiti do datoteke.</translation>
+<translation id="4535734014498033861">Povezava s strežnikom proxy ni uspela.</translation>
+<translation id="6728024709633626254">Internetna povezava je prekinjena.</translation>
+<translation id="201192063813189384">Pri branju podatkov iz predpomnilnika je prišlo do napake.</translation>
+<translation id="3393716657345709557">V predpomnilniku ni mogoče najti zahtevanega vnosa.</translation>
+<translation id="7450732239874446337">IO omrežja je začasno ustavljen.</translation>
+<translation id="6391832066170725637">Datoteke ali imenika ni mogoče najti.</translation>
+<translation id="3748412725338508953">Prišlo je do prevelikega števila preusmeritev.</translation>
+<translation id="2950186680359523359">Strežnik je prekinil povezavo in ni poslal nobenega podatka.</translation>
+<translation id="2929266020546499971">Prejetih je bilo več enoličnih glav dolžine vsebine. Zaščita pred napadi z razdeljevanjem odgovorov HTTP tega ne dovoljuje.</translation>
+<translation id="2297038239859335744">Prejetih je bilo več enoličnih glav razporeditve vsebine. Zaščita pred napadi z razdeljevanjem odgovorov HTTP tega ne dovoljuje.</translation>
+<translation id="3336388975352605720">Prejetih je bilo več enoličnih glav lokacije. Zaščita pred napadi z razdeljevanjem odgovorov HTTP tega ne dovoljuje.</translation>
+<translation id="6626108645084335023">Čakam na tipalo DNS.</translation>
+<translation id="1195447618553298278">Neznana napaka.</translation>
+<translation id="6066742401428748382">Dostop do spletne strani je zavrnjen</translation>
+<translation id="2650446666397867134">Dostop do datoteke je zavrnjen</translation>
+<translation id="3261690198327056381">Nimate pooblastil za dostop do spletne strani na naslovu <ph name="URL"/>. Morda se boste morali prijaviti.</translation>
+<translation id="3903912596042358459">Strežnik ni izpolnil zahteve.</translation>
+<translation id="904949795138183864">Spletna stran na naslovu <ph name="URL"/> ne obstaja več.</translation>
+<translation id="5319054530310231888">Zahtevan vir ne obstaja več, ni pa naslova za posredovanje. To je najverjetneje trajno stanje.</translation>
+<translation id="8295070100601117548">Napaka strežnika</translation>
+<translation id="1055268999302881517">Spletno mesto je med dobivanjem naslova <ph name="URL"/> naletela na napako. Morda poteka vzdrževanje spletnega mesta ali pa je nepravilno konfigurirano.</translation>
+<translation id="2279770628980885996">Medtem ko je strežnik skušal izpolniti zahtevo, je prišlo do nepričakovanega pogoja.</translation>
+<translation id="4060383410180771901">Spletno mesto ne more obdelati zahteve za <ph name="URL"/>.</translation>
+<translation id="477518548916168453">Strežnik ne podpira funkcije, zahtevane za izpolnitev zahteve.</translation>
+<translation id="3940082421246752453">Strežnik ne podpira različice HTTP, zahtevane za izpolnitev zahteve.</translation>
+<translation id="7544229255782699242">Med poskusom nalaganja naslova <ph name="URL"/> je bil prejet neveljaven odgovor. Morda poteka vzdrževanje strežnika ali pa ni pravilno konfiguriran.</translation>
+<translation id="7052500709156631672">Prehod ali strežnik proxy je iz zgornjega strežnika prejel neveljaven odgovor.</translation>
+<translation id="5741201586401781900">Spletna stran na naslovu <ph name="URL"/> trenutno ni na voljo. Morda je preobremenjena ali pa poteka vzdrževanje.</translation>
+<translation id="6094756196753418043">Strežnik trenutno ne more obdelati zahteve. Koda označuje, da gre za začasno stanje, strežnik pa bo po zakasnitvi znova na voljo.</translation>
+<translation id="2084412568823043027">Strežnik spletnega mesta <ph name="URL"/> se je prepozno odzval. Morda je preobremenjen.</translation>
+<translation id="1202290638211552064">Med čakanjem odgovora zgornjega strežnika je potekla časovna omejitev prehoda ali strežnika proxy.</translation>
+<translation id="1146498888431277930">Napaka povezave SSL</translation>
+<translation id="4350711002179453268">Ni mogoče vzpostaviti varne povezave s strežnikom. Morda gre za težavo s strežnikom ali pa ta zahteva potrdilo za preverjanje pristnosti uporabnika, ki ga nimate.</translation>
+<translation id="5228309736894624122">Napaka protokola SSL.</translation>
+<translation id="8016174103774548813">Strežnik SSL je verjetno zastarel.</translation>
+<translation id="5549435349608496346">Ni mogoče vzpostaviti varne povezave s strežnikom. Spletna stran je prej morda delovala, vendar se pri povezovanju s tovrstnimi spletnimi mesti izkazalo, da predstavljajo varnostno tveganje, zato smo jo zaradi vaše varnosti onemogočili.</translation>
+<translation id="2803407661478021186">Rezervni SSLv3 je lahko rokoval s strežnikom, vendar pa rezerv SSLv3 ne sprejemamo več zaradi novih napadov na protokol. Strežnik je treba posodobiti, da bo podpiral vsaj TLS 1.0, še bolje pa TLS 1.2.</translation>
+<translation id="2345460471437425338">Nepravilno potrdilo za gostitelja.</translation>
+<translation id="3225919329040284222">Strežnik je poslal potrdilo, ki se ne ujema z vdelanimi pričakovanji. Ta pričakovanja so za vašo varnost vključena v določenih spletnih mestih z visoko ravnijo varnosti.</translation>
+<translation id="6957887021205513506">Videti je, da je potrdilo strežnika ponaredek.</translation>
+<translation id="4544369257849566741">V varnem rokovanju ni razširitve SSL pogajanja. Za nekatera spletna mesta, za katera je znano, da podpirajo razširitev pogajanja, <ph name="PRODUCT_NAME"/> zahteva bolj varno rokovanje, s čimer prepreči razred znanih napadov. Če te razširitve ni, je bila povezava prestrežena in manipulirana.</translation>
+<translation id="8515737884867295000">Preverjanje pristnosti na podlagi potrdila ni uspelo</translation>
+<translation id="1214288039821587584">Strežnik zahteva potrdilo za preverjanje pristnosti, ni pa sprejel potrdila, ki ga je poslal brskalnik. Potrdilo je morda poteklo ali pa strežnik ne zaupa izdajatelju potrdila. Lahko poskusite znova z drugim potrdilom, če ga imate, ali pa boste morali morda dobiti veljavno potrdilo iz drugega vira.</translation>
+<translation id="9013589315497579992">Slabo potrdilo za preverjanje pristnosti odjemalca SSL.</translation>
+<translation id="5620046725797389119">Strežnik, ki gostuje spletno stran, je najverjetneje preobremenjen ali pa je v njem prišlo do napake. <ph name="PRODUCT_NAME"/> za ta spletni naslov začasno ne dovoljuje zahtev razširitev. S tem preprečuje, da bi zaradi izjem prišlo do povečanja prometa, kar bi nastalo situacijo še poslabšalo.</translation>
+<translation id="2271281383664374369">Zahteve razširitev za ta spletni naslov so začasno ustavljene.</translation>
+<translation id="3225579507836276307">Razširitev tretje osebe je blokirala dostop do te spletne strani.</translation>
+<translation id="5990559369517809815">Razširitev je blokirala zahteve za strežnik.</translation>
+<translation id="8315720913203253727">Spletna stran za pravilen prikaz zahteva podatke, ki ste jih vnesli prej. Te podatke lahko pošljete znova, vendar boste s tem ponovili vsa morebitna dejanja, ki jih je to spletna stran prej izvedla. Če želite znova poslati podatke in prikazati stran, pritisnite »Naloži znova«.</translation>
+<translation id="6429639049555216915">Programa trenutno ni mogoče doseči.</translation>
+<translation id="8162734958263531433">Če želite uporabiti storitev iskanja in odpravljanja napak USB, morate imeti v napravi s sistemom Android omogočeno storitev iskanja in odpravljanja napak Android SDK in USB. Če želite več informacij, glejte <ph name="HTML_HELPURL"/>.</translation>
+<translation id="1875071432292773474">V namiznem brskalniku vnesite naslov <ph name="ACCESS_POINT"/>. Namizni brskalnik mora biti v istem omrežju kot vaša naprava s sistemom Android.</translation>
+<translation id="7227425938337339799">Če želite, da povezava UPnP deluje, morate biti bodisi v istem podomrežju bodisi morate usmerjevalnik povezati tako, da oddajanje posreduje drugim podomrežjem.</translation>
+<translation id="4553629908098215669">V računalniku zaženite <ph name="HTMLADBCOMMAND"/> in se v brskalniku, ki uporablja Chromium, premaknite do <ph name="HTMLLOCALHOSTURL"/>.</translation>
+<translation id="5873732809085338161">Če želite omogočiti nezavarovan protokol WebSockets na vašem namiznem brskalniku, pojdite na <ph name="HTMLOPERAFLAG"/> (Opera 24+) ali <ph name="HTMLCHROMEFLAG"/> (Chrome 36+).</translation>
+<translation id="4570032796877367747">Fotoaparat spredaj</translation>
+<translation id="2599796128805996109">Fotoaparat zadaj</translation>
+<translation id="1780524213916974482">Fotoaparat levo</translation>
+<translation id="1198988598070704831">Fotoaparat desno</translation>
+<translation id="2124507516322945394">Privzeti mikrofon</translation>
+<translation id="1587215898571986504">Zvočnik</translation>
+<translation id="5614598979078259956">Žične slušalke</translation>
+<translation id="9031226374756103225">Ušesni del slušalk</translation>
+<translation id="149679617917926491">Slušalke Bluetooth</translation>
+<translation id="6060685159320643512">Pozor, nevarni eksperimenti</translation>
+<translation id="5199729219167945352">Eksperimenti</translation>
+<translation id="2712869172826980984">POZOR!</translation>
+<translation id="8102444033747951866">Te zastavice nadzorujejo eksperimentalne ali nestabilne funkcije. Lahko se zgodi, da ne bodo delovale, ali pa se bo brskalnik zaradi njih sesul. Lahko izgubite podatke, lahko pa se tudi poslabšata vaša varnost in zaščita zasebnosti. Funkcije se lahko kadar pojavijo, izginejo ali prenehajo delovati. Bodite previdni, ste na tankem ledu!</translation>
+<translation id="9187827965378254003">Hm, videti je, da trenutno ni na voljo nobenega eksperimenta.</translation>
+<translation id="2282872951544483773">Nerazpoložljivi eksperimenti</translation>
+<translation id="6426993025560594914">Vsi eksperimenti so na voljo za vašo platformo!</translation>
+<translation id="889901481107108152">Oprostite, ta eksperiment ni na voljo za vašo platformo.</translation>
+<translation id="3015639418649705390">Znova zaženi zdaj</translation>
+<translation id="7179921470347911571">Znova zaženi zdaj</translation>
+<translation id="8647750283161643317">Ponastavi vse na privzeto</translation>
+<translation id="1134886108896378542">Ponastavi vse na privzeto</translation>
+<translation id="4394049700291259645">Onemogoči</translation>
+<translation id="3435896845095436175">Omogoči</translation>
+<translation id="604124094241169006">Samodejno</translation>
+<translation id="8798099450830957504">Privzeto</translation>
+<translation id="8815310998417289610">Omogočeno</translation>
+<translation id="7826518276255108913">Onemogočeno</translation>
+<translation id="2005166128312586988">Spremembe bodo začele delovati, ko boste znova zagnali brskalnik Opera.</translation>
+<translation id="7961015016161918242">Nikoli</translation>
+<translation id="6342069812937806050">Pravkar</translation>
+<translation id="684302243018322820">Če si želite ogledati Operina shranjena gesla, vnesite geslo računalnika.</translation>
+<translation id="533563709691128800">onemogočeno</translation>
+<translation id="2506903884491778518">Iskanje eksperimentov</translation>
+<translation id="2112624549618815628">Privzeto (omogočeno)</translation>
+<translation id="3696363537446376816">Privzeto (onemogočeno)</translation>
+<translation id="1375198122581997741">O različici</translation>
+<translation id="7248671827512403053">Aplikacija</translation>
+<translation id="1710259589646384581">OS</translation>
+<translation id="6897140037006041989">Uporabnikov posrednik</translation>
+<translation id="7353601530677266744">Ukazna vrstica</translation>
+<translation id="7225807090967870017">ID gradnje</translation>
+</translationbundle>

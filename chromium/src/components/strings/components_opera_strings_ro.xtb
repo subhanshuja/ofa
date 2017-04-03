@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="ro">
+<translation id="1974060860693918893">Avansat</translation>
+<translation id="3462200631372590220">Ascunde detaliile</translation>
+<translation id="3369192424181595722">Eroare de ceas</translation>
+<translation id="2625385379895617796">Ceasul este înainte</translation>
+<translation id="8932102934695377596">Ceasul a rămas în urmă</translation>
+<translation id="3858027520442213535">Actualizare dată și oră</translation>
+<translation id="725866823122871198">Nu poate fi stabilită o conexiune privată la <ph name="BEGIN_BOLD"/><ph name="DOMAIN"/><ph name="END_BOLD"/> deoarece data și ora calculatorului (<ph name="DATE_AND_TIME"/>) sunt incorecte.</translation>
+<translation id="4879058462256654741">Pentru a stabili o conexiune sigură, ceasul local trebuie să fie potrivit corect. Acest lucru este necesar deoarece certificatele folosite de site-urile web pentru a se identifica pe ele însele sunt valide numai pentru o perioadă de timp specifică. Având în vedere că ceasul dispozitivului este incorect, aceste certificate nu pot fi verificate.</translation>
+<translation id="1413809658975081374">Eroare de confidențialitate</translation>
+<translation id="3566021033012934673">Conexiunea dumneavoastră nu este privată</translation>
+<translation id="340013220407300675">Atacatorii ar putea să încerce să vă fure informațiile din <ph name="BEGIN_BOLD"/><ph name="SITE"/><ph name="END_BOLD"/> (de exemplu parole, mesaje sau carduri de credit).</translation>
+<translation id="629137324635910832">În mod normal <ph name="SITE"/> folosește criptarea pentru a vă proteja informațiile. De data aceasta, când Opera a încercat să se conecteze la <ph name="SITE"/>, site-ul web a trimis înapoi acreditări neuzuale și incorecte. Acest lucru se poate întâmpla când un atacator încearcă să se pretindă a fi <ph name="SITE"/>, sau când un ecran de autentificare Wi-Fi a întrerupt conexiunea. Informațiile dumneavoastră se află încă în siguranță, deoarece Opera a oprit conexiunea înainte ca datele să fie transferate.</translation>
+<translation id="4404555778932203074">Nu puteți vizita <ph name="SITE"/> chiar acum, deoarece site-ul web a trimis acreditări criptate pe care Opera nu le poate procesa. Erorile de rețea și atacurile sunt de obicei temporare, astfel încât această pagină va funcționa probabil mai târziu.</translation>
+<translation id="8882627153668738693">În mod normal <ph name="SITE"/> folosește criptarea pentru a vă proteja informațiile. De data aceasta, când Avast SafeZone a încercat să se conecteze la <ph name="SITE"/>, site-ul web a trimis înapoi acreditări neuzuale și incorecte. Acest lucru se poate întâmpla când un atacator încearcă să se pretindă a fi <ph name="SITE"/>, sau când un ecran de autentificare Wi-Fi a întrerupt conexiunea. Informațiile dumneavoastră se află încă în siguranță, deoarece Avast SafeZone a oprit conexiunea înainte ca datele să fie transferate.</translation>
+<translation id="1888865191717601957">Nu puteți vizita <ph name="SITE"/> chiar acum deoarece site-ul web a trimis acreditări criptate pe care Avast SafeZone nu le poate procesa. Erorile de rețea și atacurile sunt în general temporare, astfel încât această pagină va funcționa probabil mai târziu.</translation>
+<translation id="6264485186158353794">Înapoi la loc sigur</translation>
+<translation id="7704050614460855821"><ph name="BEGIN_LINK"/>Continuați către <ph name="SITE"/> (nesigur)<ph name="END_LINK"/></translation>
+<translation id="5556459405103347317">Reîncarcă</translation>
+<translation id="6051221802930200923">Nu puteți vizita <ph name="SITE"/> chiar acum, deoarece site-ul web folosește pinning-ul de certificat. Erorile de rețea și atacurile sunt de obicei temporare, așa încât probabil că această pagină va funcționa mai târziu.</translation>
+<translation id="2991571918955627853">Nu puteți vizita <ph name="SITE"/> chiar acum, deoarece site-ul web folosește HSTS. Erorile de rețea și atacurile sunt de obicei temporare, așa încât probabil că această pagină va funcționa mai târziu.</translation>
+<translation id="1430489501396597835">Nu puteți vizita <ph name="SITE"/> chiar acum, deoarece acest certificat a fost revocat. Erorile de rețea și atacurile sunt de obicei temporare, așa încât probabil că această pagină va funcționa mai târziu.</translation>
+<translation id="4513896196857653318">Duceți-vă la
+          Meniul prinicipal &gt;
+          <ph name="SETTINGS_TITLE"/>
+          &gt;
+          <ph name="ADVANCED_TITLE"/>
+          deselectați „<ph name="NO_PREFETCH_DESCRIPTION"/>”.
+          Dacă acest lucru nu rezovă problema, vă recomandăm să selectați din nou această opțiune
+          pentru îmbunătățirea performanței.</translation>
+<translation id="8888594059056485523">Permite Opera să acceseze rețeaua în setările de firewall sau antivirus.</translation>
+<translation id="8040357206858000048">Duceți-vă la Aplicații &gt; Preferințe de sistem &gt; Rețea &gt; Avansat &gt; Proxy-uri și deselectați orice proxy care a fost selectat.</translation>
+<translation id="1532685482177999023">Duceți-vă la Meniul principal &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; setările pentru LAN și deselectați „Folosește un server proxy pentru conexiunea LAN”.</translation>
+<translation id="6118049677165320383">Modificările își vor produce efectul la următoarea repornire a browserului.</translation>
+<translation id="5510583790312051907">Raportarea erorilor nu este disponibilă.</translation>
+<translation id="1011013207380005827">Existența Opera este posibilă datorită proiectului cu sursă deschisă <ph name="BEGIN_LINK_CHROMIUM"/>Chromium<ph name="END_LINK_CHROMIUM"/> precum și a altor <ph name="BEGIN_LINK_OSS"/>programe cu sursă deschisă<ph name="END_LINK_OSS"/>.</translation>
+<translation id="3108493547597012279">Vedeți o pagină sigură.</translation>
+<translation id="8530361534096361731">Opera nu s-a închis corect.</translation>
+</translationbundle>

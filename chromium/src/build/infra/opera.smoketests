@@ -1,0 +1,10 @@
+# opera buildbot smoketests
+# affects Chromium Win32 and Chromium Lin64 builders
+base_unittests
+components_unittests
+content_unittests
+googleurl_unittests
+media_unittests
+net_unittests
+sql_unittests
+ui_unittests

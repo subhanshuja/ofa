@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="nb">
+<translation id="2978824962390592855">Opera</translation>
+<translation id="9071130496134948492">Opera Software</translation>
+<translation id="6494666865857176946">Opera Software fraråder sterkt å besøke denne siden.</translation>
+<translation id="7459549266751278805">Opera varslingssenter</translation>
+<translation id="4501379002264542907">Opera - varsler</translation>
+<translation id="1352092048463356430">Opera - varsler (<ph name="QUANTITY"/> ulest)</translation>
+<translation id="4159400746343093340">Opera - varsler</translation>
+<translation id="6018626517703817463">Opera - varsler (<ph name="QUANTITY"/> ulest)</translation>
+<translation id="6161036283010589960">Nettstedet bruker utdaterte sikkerhetsinnstillinger som kan forhindre sikker tilgang med fremtidige versjoner av Opera.</translation>
+<translation id="8888594059056485523">Gi Opera nettverkstilgang i innstillingene for brannmur eller antivirus.</translation>
+<translation id="7158277678571698323">Gå til Opera-menyen &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; Nettverk og velg bort "Bruk mellomtjener for lokale tjenere".</translation>
+<translation id="5873732809085338161">Hvis du vil aktivere usikre WebSockets på datamaskinens nettleser, går du til <ph name="HTMLOPERAFLAG"/> (Opera 24+) eller <ph name="HTMLCHROMEFLAG"/> (Chrome 36+).</translation>
+<translation id="2005166128312586988">Endringene får virkning når du starter Opera på nytt.</translation>
+<translation id="684302243018322820">Skriv inn passordet til datamaskinen for å se Operas lagrede passord.</translation>
+</translationbundle>

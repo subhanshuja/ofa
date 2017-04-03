@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="bg">
+<translation id="2978824962390592855">Opera</translation>
+<translation id="9071130496134948492">Opera Software</translation>
+<translation id="6494666865857176946">Opera Software настоятелно препоръчва да НЕ посещавате тази страница.</translation>
+<translation id="7459549266751278805">Opera център за известия</translation>
+<translation id="4501379002264542907">Opera - известия</translation>
+<translation id="1352092048463356430">Opera – известия (<ph name="QUANTITY"/> непрочетени)</translation>
+<translation id="4159400746343093340">Opera - Известия</translation>
+<translation id="6018626517703817463">Opera – Известия (<ph name="QUANTITY"/> непрочетени)</translation>
+<translation id="6161036283010589960">Този сайт използва остарели защитни настройки, които могат да попречат на безопасния достъп до него на бъдещите версии на Opera.</translation>
+<translation id="8888594059056485523">В настройките на своята защитна стена или антивирусен софтуер позволете на Opera достъп до мрежата.</translation>
+<translation id="7158277678571698323">От менюто на Opera изберете &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; LAN Settings (LAN настройки) и изключете „Use a proxy server for your LAN“ („Използване на прокси сървър за вашата локална мрежа“).</translation>
+<translation id="5873732809085338161">За да включите WebSockets в настолния си браузър, отидете в <ph name="HTMLOPERAFLAG"/> (Opera 24+) или <ph name="HTMLCHROMEFLAG"/> (Chrome 36+).</translation>
+<translation id="2005166128312586988">Промените ще бъдат приложени след рестартиране на Opera.</translation>
+<translation id="684302243018322820">За да видите съхранените от Opera пароли, моля, въведете паролата за компютъра си.</translation>
+</translationbundle>

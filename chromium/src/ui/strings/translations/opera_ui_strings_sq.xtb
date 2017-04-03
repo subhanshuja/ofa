@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="sq">
+<translation id="9044832324875206639">{SECONDS, plural, =1 {1 sek} other {# sek}}</translation>
+<translation id="4968171027979920686">{SECONDS, plural, =1 {1 sekondë} other {# sekonda}}</translation>
+<translation id="5754277640426581776">{MINUTES, plural, =1 {1 min} other {# min}}</translation>
+<translation id="1752946267035950200">{MINUTES, plural, =1 {1 minutë} other {# minuta}}</translation>
+<translation id="1591184457164800433">{MINUTES, plural, =1 {1 minutë e } other {# minuta e }}</translation>
+<translation id="5943826764092288734">{HOURS, plural, =1 {1 orë} other {# orë}}</translation>
+<translation id="1830179671306812954">{HOURS, plural, =1 {1 orë e } other {# orë e }}</translation>
+<translation id="3291688615589870984">{DAYS, plural, =1 {1 ditë} other {# ditë}}</translation>
+<translation id="5768079895599174203">{DAYS, plural, =1 {1 ditë e } other {# ditë e }}</translation>
+<translation id="8131263257437993507">{SECONDS, plural, =1 {1 sek e mbetur} other {# sek të mbetura}}</translation>
+<translation id="5906667377645263094">{SECONDS, plural, =1 {1 sekondë e mbetur} other {# sekonda të mbetura}}</translation>
+<translation id="7238427729722629793">{MINUTES, plural, =1 {1 min e mbetur} other {# min të mbetura}}</translation>
+<translation id="7410957453383678442">{MINUTES, plural, =1 {1 minutë e mbetur} other {# minuta të mbetura}}</translation>
+<translation id="6863590663815976734">{HOURS, plural, =1 {1 orë e mbetur} other {# orë të mbetura}}</translation>
+<translation id="3600566671520689681">{DAYS, plural, =1 {1 ditë e mbetur} other {# ditë të mbetura}}</translation>
+<translation id="6404817160109697034">{SECONDS, plural, =1 {1 sek më parë} other {# sek më parë}}</translation>
+<translation id="7365057348334984696">{MINUTES, plural, =1 {1 min më parë} other {# min më parë}}</translation>
+<translation id="8106081041558092062">{HOURS, plural, =1 {1 orë më parë} other {# orë më parë}}</translation>
+<translation id="1127811143501539442">{DAYS, plural, =1 {1 ditë më parë} other {# ditë më parë}}</translation>
+<translation id="2148716181193084225">Sot</translation>
+<translation id="7781829728241885113">Dje</translation>
+<translation id="2190355936436201913">(bosh)</translation>
+<translation id="688711909580084195">Faqe pa titull</translation>
+<translation id="2497284189126895209">Të gjithë skedarët</translation>
+<translation id="8602707065186045623"><ph name="SAVEAS_EXTENSION_TYPE"/> Skedari (.<ph name="SAVEAS_EXTENSION_NAME"/>)</translation>
+<translation id="364720409959344976">Zgjidh dosjen</translation>
+<translation id="6945221475159498467">Zgjidh</translation>
+<translation id="1243314992276662751">Ngarko</translation>
+<translation id="6845383723252244143">Zgjidh dosjen</translation>
+<translation id="6620110761915583480">Ruaj skedarin</translation>
+<translation id="7907591526440419938">Hap skedar</translation>
+<translation id="3036649622769666520">Hap skedarë</translation>
+<translation id="436869212180315161">Shtyp</translation>
+<translation id="6040143037577758943">Mbyll</translation>
+<translation id="5941711191222866238">Minimizo</translation>
+<translation id="1398853756734560583">Maksimizo</translation>
+<translation id="3157931365184549694">Rikthe</translation>
+<translation id="3183922693828471536">Lëviz për këtu</translation>
+<translation id="8328145009876646418">Konturi i majtë</translation>
+<translation id="3990502903496589789">Konturi i djathtë</translation>
+<translation id="2666092431469916601">Kreu</translation>
+<translation id="3087734570205094154">Fundi</translation>
+<translation id="2168039046890040389">Faqe lart</translation>
+<translation id="8210608804940886430">Faqe poshtë</translation>
+<translation id="6364916375976753737">Lëviz majtas</translation>
+<translation id="4588090240171750605">Lëviz djathtas</translation>
+<translation id="8331626408530291785">Lëviz lart</translation>
+<translation id="815598010540052116">Lëviz poshtë</translation>
+<translation id="9170848237812810038">&amp;Zhbëj</translation>
+<translation id="3909791450649380159">Kë&amp;put</translation>
+<translation id="7814458197256864873">&amp;Kopjo</translation>
+<translation id="5076340679995252485">&amp;Ngjit</translation>
+<translation id="5329858601952122676">&amp;Fshi</translation>
+<translation id="1901303067676059328">Zgjidh të gjitha</translation>
+<translation id="1383876407941801731">Kërko</translation>
+<translation id="6965382102122355670">OK</translation>
+<translation id="7658239707568436148">Anulo</translation>
+<translation id="1293699935367580298">Esc (dalje)</translation>
+<translation id="8245914219290430011">Tab (pozicionim)</translation>
+<translation id="1871244248791675517">Ins (zëvendësim)</translation>
+<translation id="932327136139879170">Home (kreu)</translation>
+<translation id="6135826906199951471">Del (fshirje)</translation>
+<translation id="528468243742722775">End (fund)</translation>
+<translation id="5613020302032141669">Shigjeta majtas</translation>
+<translation id="3889424535448813030">Right Arrow (shigjeta djathtas)</translation>
+<translation id="3660179305079774227">Up Arrow (shigjeta lart)</translation>
+<translation id="3234408098842461169">Down Arrow (shigjeta poshtë)</translation>
+<translation id="8179976553408161302">Enter (ekzekutim)</translation>
+<translation id="6129953537138746214">Space (hapësirë)</translation>
+<translation id="2515586267016047495">Alt</translation>
+<translation id="7052633198403197513">F1</translation>
+<translation id="7222373446505536781">F11</translation>
+<translation id="5583640892426849032">Backspace (fshirje mbrapsht)</translation>
+<translation id="6394627529324717982">Comma (presje)</translation>
+<translation id="1801827354178857021">Period (pikë)</translation>
+<translation id="6699343763173986273">Media Next Track (multimedia tjetër)</translation>
+<translation id="8394908167088220973">Media Play/Pause (luajtje/pushim multimedia)</translation>
+<translation id="4971687151119236543">Media Previous Track (multimedia përpara)</translation>
+<translation id="6808150112686056157">Media Stop (ndalim multimedia)</translation>
+<translation id="4999762576397546063">Ctrl+<ph name="KEY_COMBO_NAME"/></translation>
+<translation id="5948410903763073882">Alt+<ph name="KEY_COMBO_NAME"/></translation>
+<translation id="8400147561352026160">Shift+ (alternues)<ph name="KEY_COMBO_NAME"/></translation>
+<translation id="4820616160060340806">Command+ (komandë)<ph name="KEY_COMBO_NAME"/></translation>
+<translation id="5120799197269191491">Search+ (kërkim)<ph name="KEY_COMBO_NAME"/></translation>
+<translation id="1761785978543082658"><ph name="QUANTITY"/> B</translation>
+<translation id="8901569739625249689"><ph name="QUANTITY"/> KB</translation>
+<translation id="3049748772180311791"><ph name="QUANTITY"/> MB</translation>
+<translation id="3757388668994797779"><ph name="QUANTITY"/> GB</translation>
+<translation id="7460907917090416791"><ph name="QUANTITY"/> TB</translation>
+<translation id="520299402983819650"><ph name="QUANTITY"/> PB</translation>
+<translation id="6142413573757616983"><ph name="QUANTITY"/> B/s</translation>
+<translation id="8677655579646609597"><ph name="QUANTITY"/> KB/s</translation>
+<translation id="1809410197924942083"><ph name="QUANTITY"/> MB/s</translation>
+<translation id="3740362395218339114"><ph name="QUANTITY"/> GB/s</translation>
+<translation id="2297836609126180313"><ph name="QUANTITY"/> TB/s</translation>
+<translation id="6907759265145635167"><ph name="QUANTITY"/> PB/s</translation>
+<translation id="1190609913194133056">Qendra e njoftimeve</translation>
+<translation id="1413622004203049571">Çaktivizo njoftimet nga <ph name="NOTIFIER_NAME"/></translation>
+<translation id="2482878487686419369">Njoftimet</translation>
+<translation id="7647488630410863958">Zhblloko pajisjen për të parë njoftimet</translation>
+<translation id="8428213095426709021">Cilësimet</translation>
+<translation id="6829324100069873704">Kthehu te njoftimet</translation>
+<translation id="7135556860107312402">Lejoji njoftimet për sa më poshtë:</translation>
+<translation id="6918245111648057970">Lejo njoftimet për sa më poshtë për secilin përdorues:</translation>
+<translation id="2983818520079887040">Cilësimet...</translation>
+<translation id="7457942297256758195">Spastro të gjitha</translation>
+<translation id="6528179044667508675">Mos shqetëso</translation>
+<translation id="7850320739366109486">Mos shqetëso</translation>
+<translation id="8392688371657486010">Nuk ke njoftime</translation>
+<translation id="1860796786778352021">Mbyllja e njoftimit</translation>
+<translation id="111910763555783249">Cilësimet e njoftimeve</translation>
+<translation id="4250229828105606438">Foto ekrani</translation>
+<translation id="2743387203779672305">Kopjo në kujtesën e fragmenteve</translation>
+<translation id="2336922762358079423">Shëno në Google Keep</translation>
+<translation id="1685967565548146460">Kësula</translation>
+<translation id="459417155289402299">Veçoria "Zhbllokim i shpejtë"</translation>
+<translation id="7649070708921625228">Ndihmë</translation>
+<translation id="945522503751344254">Dërgo përshtypje</translation>
+<translation id="385051799172605136">Pas</translation>
+<translation id="598033046487663418">Të gjitha aplikacionet</translation>
+<translation id="9038489124413477075">Dosje e paemërtuar</translation>
+<translation id="8806053966018712535">Dosja <ph name="FOLDER_NAME"/></translation>
+<translation id="2803313416453193357">Hap dosjen</translation>
+<translation id="6786750046913594791">Mbyll dosjen</translation>
+<translation id="8371695176452482769">Fol tani</translation>
+<translation id="4320177379694898372">Nuk ka lidhje me internetin</translation>
+</translationbundle>

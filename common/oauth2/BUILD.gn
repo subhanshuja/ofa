@@ -1,0 +1,217 @@
+# Copyright (C) 2016 Opera Software ASA.  All rights reserved.
+#
+# This file is an original work developed by Opera Software ASA.
+
+import("//build/config/opera-common.gni")
+import("//testing/test.gni")
+
+static_library("oauth2") {
+  sources = [
+    "auth_service.h",
+    "auth_service_impl.cc",
+    "auth_service_impl.h",
+    "client/auth_service_client.h",
+    "device_name/device_name_service.h",
+    "device_name/device_name_service_impl.cc",
+    "device_name/device_name_service_impl.h",
+    "diagnostics/diagnostic_service.cc",
+    "diagnostics/diagnostic_service.h",
+    "diagnostics/diagnostic_supplier.cc",
+    "diagnostics/diagnostic_supplier.h",
+    "migration/oauth1_migrator.h",
+    "migration/oauth1_migrator_impl.cc",
+    "migration/oauth1_migrator_impl.h",
+    "migration/oauth1_session_data.cc",
+    "migration/oauth1_session_data.h",
+    "network/access_token_request.cc",
+    "network/access_token_request.h",
+    "network/access_token_response.cc",
+    "network/access_token_response.h",
+    "network/migration_token_request.cc",
+    "network/migration_token_request.h",
+    "network/migration_token_response.cc",
+    "network/migration_token_response.h",
+    "network/network_request.h",
+    "network/network_request_manager.h",
+    "network/network_request_manager_impl.cc",
+    "network/network_request_manager_impl.h",
+    "network/oauth1_renew_token_request.cc",
+    "network/oauth1_renew_token_request.h",
+    "network/oauth1_renew_token_response.cc",
+    "network/oauth1_renew_token_response.h",
+    "network/request_throttler.cc",
+    "network/request_throttler.h",
+    "network/request_vars_encoder.h",
+    "network/request_vars_encoder_impl.cc",
+    "network/request_vars_encoder_impl.h",
+    "network/response_parser.cc",
+    "network/response_parser.h",
+    "network/revoke_token_request.cc",
+    "network/revoke_token_request.h",
+    "network/revoke_token_response.cc",
+    "network/revoke_token_response.h",
+    "pref_names.cc",
+    "pref_names.h",
+    "session/persistent_session.h",
+    "session/persistent_session_impl.cc",
+    "session/persistent_session_impl.h",
+    "session/session_constants.cc",
+    "session/session_constants.h",
+    "session/session_state_observer.h",
+    "token_cache/testing_webdata_client.cc",
+    "token_cache/testing_webdata_client.h",
+    "token_cache/token_cache.h",
+    "token_cache/token_cache_impl.cc",
+    "token_cache/token_cache_impl.h",
+    "token_cache/token_cache_table.cc",
+    "token_cache/token_cache_table.h",
+    "token_cache/token_cache_webdata.cc",
+    "token_cache/token_cache_webdata.h",
+    "token_cache/webdata_client.h",
+    "token_cache/webdata_client_impl.cc",
+    "token_cache/webdata_client_impl.h",
+    "util/constants.cc",
+    "util/constants.h",
+    "util/init_params.cc",
+    "util/init_params.h",
+    "util/scope_set.cc",
+    "util/scope_set.h",
+    "util/token.cc",
+    "util/token.h",
+    "util/util.cc",
+    "util/util.h",
+  ]
+
+  configs += [ "../config:include_config" ]
+
+  deps = [
+    ":oauth2_get_session_name",
+    ":oauth2_shared",
+    "../constants:opera_constants",
+    "../net:net",
+    "../sync:sync_login_data",
+    "//base",
+    "//components/keyed_service/content",
+    "//components/os_crypt",
+    "//components/webdata/common",
+    "//net",
+    "//url",
+  ]
+
+  if (opera_desktop) {
+    deps += [ "$opera_desktop_dir/common:pref_names" ]
+  }
+}
+
+source_set("oauth2_factories") {
+  sources = [
+    "auth_service_factory.cc",
+    "auth_service_factory.h",
+    "device_name/device_name_service_factory.cc",
+    "device_name/device_name_service_factory.h",
+    "diagnostics/diagnostic_service_factory.cc",
+    "diagnostics/diagnostic_service_factory.h",
+    "token_cache/token_cache_factory.cc",
+    "token_cache/token_cache_factory.h",
+    "token_cache/webdata_client_factory.cc",
+    "token_cache/webdata_client_factory.h",
+  ]
+
+  deps = [
+    "../sync:sync_config",
+  ]
+}
+
+static_library("oauth2_shared") {
+  sources = [
+    "util/scopes.cc",
+    "util/scopes.h",
+  ]
+
+  configs += [ "../config:include_config" ]
+}
+
+source_set("oauth2_get_session_name") {
+  sources = [
+    "device_name/get_session_name.cc",
+    "device_name/get_session_name.h",
+  ]
+
+  configs += [ "../config:include_config" ]
+
+  if (is_mac) {
+    libs = [ "SystemConfiguration.framework" ]
+  }
+}
+
+source_set("oauth2_test_support") {
+  testonly = true
+  sources = [
+    "auth_service_mock.cc",
+    "auth_service_mock.h",
+    "device_name/device_name_service_mock.cc",
+    "device_name/device_name_service_mock.h",
+    "network/network_request_manager_mock.cc",
+    "network/network_request_manager_mock.h",
+    "network/network_request_mock.cc",
+    "network/network_request_mock.h",
+    "session/persistent_session_mock.cc",
+    "session/persistent_session_mock.h",
+    "test/testing_constants.cc",
+    "test/testing_constants.h",
+    "token_cache/token_cache_mock.cc",
+    "token_cache/token_cache_mock.h",
+  ]
+
+  configs += [ "../config:include_config" ]
+
+  deps = [
+    "//testing/gmock",
+    "//testing/gtest",
+  ]
+}
+
+test("oauth2_unittests") {
+  sources = [
+    "auth_service_impl_test.cc",
+    "device_name/device_name_service_impl_test.cc",
+    "diagnostics/diagnostic_service_test.cc",
+    "migration/oauth1_migrator_impl_test.cc",
+    "network/access_token_request_test.cc",
+    "network/migration_token_request_test.cc",
+    "network/network_request_manager_impl_test.cc",
+    "network/oauth1_renew_token_request_test.cc",
+    "network/request_throttler_test.cc",
+    "network/request_vars_encoder_impl_test.cc",
+    "network/response_parser_test.cc",
+    "network/revoke_token_request_test.cc",
+    "session/persistent_session_impl_test.cc",
+    "token_cache/token_cache_impl_test.cc",
+    "token_cache/token_cache_table_test.cc",
+    "token_cache/token_cache_webdata_test.cc",
+    "util/scope_set_test.cc",
+    "util/token_test.cc",
+  ]
+
+  configs += [ "../config:include_config" ]
+
+  deps = [
+    ":oauth2",
+    ":oauth2_test_support",
+    "../sync:sync_config_test_support",
+    "../sync:test_support",
+    "//base/test:run_all_unittests",
+    "//components/keyed_service/core",
+    "//components/prefs:test_support",
+    "//components/syncable_prefs:test_support",
+    "//content/test:test_support",
+    "//net:test_support",
+    "//sql",
+  ]
+
+  if (!is_clang) {
+    # HACK: Here clang means "host build", which cannot depend on anything in
+    # mobile/common
+    deps -= [ "../sync:sync_config_test_support" ]
+  }
+}

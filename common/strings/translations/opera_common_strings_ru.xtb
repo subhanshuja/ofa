@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="ru">
+<translation id="2978824962390592855">Opera</translation>
+<translation id="9071130496134948492">Opera Software</translation>
+<translation id="6494666865857176946">Opera Software настоятельно не рекомендует посещать эту страницу.</translation>
+<translation id="7459549266751278805">Центр уведомлений Opera</translation>
+<translation id="4501379002264542907">Opera — уведомления</translation>
+<translation id="1352092048463356430">Opera — уведомления (не прочитано: <ph name="QUANTITY"/>)</translation>
+<translation id="4159400746343093340">Opera — уведомления</translation>
+<translation id="6018626517703817463">Opera — уведомления (не прочитано:<ph name="QUANTITY"/>)</translation>
+<translation id="6161036283010589960">На этом сайте используются устаревшие настройки безопасности, из-за чего возможно, что будущие версии Opera не смогут безопасно к нему обращаться.</translation>
+<translation id="8888594059056485523">Разрешите Opera доступ к сети в настройках своего сетевого экрана или антивируса.</translation>
+<translation id="7158277678571698323">Перейдите в меню Opera &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; Настройки локальной сети и снимите флажок «Использовать прокси-сервер для локальной сети».</translation>
+<translation id="5873732809085338161">Для включения небезопасных вебсокетов в настольном браузере перейдите к <ph name="HTMLOPERAFLAG"/> (Opera 24+) или <ph name="HTMLCHROMEFLAG"/> (Chrome 36+).</translation>
+<translation id="2005166128312586988">Изменения вступят в силу после перезапуска Opera.</translation>
+<translation id="684302243018322820">Чтобы посмотреть пароли, сохраненные Opera, введите пароль своего компьютера.</translation>
+</translationbundle>

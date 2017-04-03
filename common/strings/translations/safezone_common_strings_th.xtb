@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="th">
+<translation id="3929428121849375048">Avast SafeZone</translation>
+<translation id="806546331937022936">Avast</translation>
+<translation id="3609966143444339170">Avast ไม่แนะนำอย่างยิ่งในการเยี่ยมชมเพจนี้</translation>
+<translation id="4206706288435313269">ศูนย์การแจ้งของ Avast SafeZone</translation>
+<translation id="254978580676301713">SafeZone - การแจ้ง</translation>
+<translation id="8084325208922689406">SafeZone - การแจ้ง (<ph name="QUANTITY"/> unread)</translation>
+<translation id="678670207776683961">SafeZone - การแจ้ง</translation>
+<translation id="191361968702850015">SafeZone - การแจ้ง (<ph name="QUANTITY"/> unread)</translation>
+<translation id="1359674843509087498">ไซต์ดังกล่าวใช้การตั้งค่าความปลอดภัยที่ล้าสมัยซึ่งอาจทำให้เวอร์ชันในอนาคตของ SafeZone ไม่สามาถเข้าถึงได้อย่างปลอดภัย</translation>
+<translation id="3485921796584936414">อนุญาตให้ SafeZone เข้าถึงเครือข่ายในการตั้งค่าไฟร์วอลล์หรือการป้องกันไวรัสของคุณ</translation>
+<translation id="7041993155087650094">ไปที่เมนู SafeZone&gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; ตั้งค่า LAN และยกเลิกการเลือก "ใช้พร็อกซีเซิร์ฟเวอร์สำหรับระบบ LAN ของคุณ"</translation>
+<translation id="5366394231680131980">การเปลี่ยนแปลงของคุณจะมีผลเมื่อคุณเปิดใช้งาน SafeZone ใหม่</translation>
+<translation id="6964843943881946410">ในการดูรหัสผ่านที่เก็บรักษาไว้ของ SafeZone โปรดป้อนรหัสผ่านคอมพิวเตอร์ของคุณ</translation>
+</translationbundle>

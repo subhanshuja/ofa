@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="tr">
+<translation id="3942946088478181888">Anlamama yardım et</translation>
+<translation id="1396529432791646744">Güvenli bir Web sitesine bağlandığınızda, siteyi barındıran sunucu kimliğini doğrulamak için tarayıcınıza bir "sertifika" sunar. Bu sertifika; mobil aygıtınızın güvendiği üçüncü parti bir otorite tarafından doğrulanan, Web sitesinin adresi gibi kimlik bilgileri içerir. Sertifikadaki adresle Web sitesinin adresi karşılaştırılarak; ağınızdaki bir saldırgan ile değil, gerçekten görüntülemek istediğiniz Web sitesi ile iletişim kurduğunuzu doğrulamak mümkündür.</translation>
+<translation id="6295228342562451544">Güvenli bir Web sitesine bağlandığınızda, siteyi barındıran sunucu kimliğini doğrulamak için tarayıcınıza bir "sertifika" sunar. Bu sertifika; bilgisayarınızın güvendiği üçüncü parti bir otorite tarafından doğrulanan, Web sitesinin adresi gibi kimlik bilgileri içerir. Sertifikadaki adresle Web sitesinin adresi karşılaştırılarak; ağınızdaki bir saldırgan ile değil, gerçekten görüntülemek istediğiniz Web sitesi ile iletişim kurduğunuzu doğrulamak mümkündür.</translation>
+<translation id="8187473050234053012">Sunucunun güvenlik sertifikası iptal edilmiş!</translation>
+<translation id="5598024575303778520">Sahtekarlık uyarısı</translation>
+<translation id="7311721172731074902">Sahtekarlık Uyarısı</translation>
+<translation id="1858130628205855959">Bu site, bilgisayar korsanlarının saldırısına uğramış ya da sahte olabilir. Bu siteye parola ya da kişisel bilgilerinizi vermek, kimlik hırsızlığı ya da finansal sahtekarlığa uğrama riski teşkil edebilir.</translation>
+<translation id="8357891144266644027">Zararlı site uyarısı</translation>
+<translation id="4664012235452972339">Zararlı Site Uyarısı</translation>
+<translation id="1030973920598092450">Bu site, bilgisayar korsanlarının saldırısına uğramış ya da zararlı yazılım içeriyor olabilir. Bu sayfayı ziyaret etmek tehlikeli olabilir.</translation>
+<translation id="4863259811271883558"><ph name="BEGIN_LINK"/><ph name="PROVIDER_NAME"/><ph name="END_LINK"/> tarafından raporlandı</translation>
+<translation id="3141322567138977593">Güvenli bir şekilde geri dön</translation>
+<translation id="833642844779103272">Güvenli Bir Şekilde Geri Dön</translation>
+<translation id="4238466718818823211">Bu uyarıyı yoksay</translation>
+<translation id="1755698976576372535">Bu sayfaya erişim neden engelli?</translation>
+<translation id="2962647877740028287">Sahtekarlık raporlarımız, üçüncü taraf satıcılar tarafından tutulmaktadır.</translation>
+<translation id="7470668651798735849">Web sitelerinden gelen tüm bildirimlerinizi buradan görebilirsiniz.</translation>
+<translation id="6426222199977479699">SSL Hatası</translation>
+<translation id="8398877366907290961">Yine de devam et</translation>
+<translation id="6264485186158353794">Güvenli alana dön</translation>
+<translation id="2225024820658613551">Daha fazla devam etmemelisiniz, &lt;strong&gt;özellikle&lt;/strong&gt; de bu site için daha önce böyle bir uyarıyla karşılaşmadıysanız.</translation>
+<translation id="5645845270586517071">Güvenlik Hatası</translation>
+<translation id="1103666958012677467">Devam edemezsiniz, çünkü Web sitesinin yöneticisi bu alan adı için güvenlik seviyesinin artırılmasını talep etti.</translation>
+<translation id="5463275305984126951"><ph name="LOCATION"/> dizini</translation>
+<translation id="8877448029301136595">[üst dizin]</translation>
+<translation id="3835522725882634757">Hayır, olamaz! Bu sunucu, <ph name="PRODUCT_NAME"/> tarafından anlaşılmayan veri gönderiyor. Lütfen <ph name="BEGIN_LINK"/>hata bildirin<ph name="END_LINK"/> ve <ph name="BEGIN2_LINK"/>ham listeleme<ph name="END2_LINK"/> de ekleyin.</translation>
+<translation id="5327248766486351172">Ad</translation>
+<translation id="8028993641010258682">Boyut</translation>
+<translation id="57646104491463491">Düzenlenme Tarihi</translation>
+<translation id="8465929756435120446">Bu sayfa, güvenli olmayan öğeler içeriyor.</translation>
+<translation id="6827416153061837992">Bu bağlantı şifrelenmiştir.</translation>
+<translation id="9193357432624119544">Hata kodu: <ph name="ERROR_NAME"/></translation>
+<translation id="4910619056351738551">İşte bazı öneriler:</translation>
+<translation id="2954705784594331199">Bu sayfayı daha sonra <ph name="BEGIN_LINK"/>yeniden yükleyin<ph name="END_LINK"/>.</translation>
+<translation id="4977565600485911823">Eklentilerinizi devre dışı bırakın ve bu web sayfasını <ph name="BEGIN_LINK"/>yeniden yükleyin <ph name="END_LINK"/>.</translation>
+<translation id="1103966635949043187">Sitenin ana sayfasına gidin:</translation>
+<translation id="7747589364844254751">İnternet bağlantınızı kontrol edin. Kullanıyor olabileceğiniz tüm yönlendirici, modem veya diğer ağ aygıtlarını yeniden başlatın.</translation>
+<translation id="5548623538190661145">DNS ayarlarınızı kontrol edin. Eğer bunun ne anlama geldiğinden emin değilseniz, ağ yöneticinize başvurun.</translation>
+<translation id="4545046228395991092">Eğer bir ara sunucu kullanıyorsanız, ara sunucu ayarlarınızı kontrol edin veya ara sunucunun düzgün çalıştığından emin olmak için ağ yöneticinize başvurun.</translation>
+<translation id="1712673276482711826">Eğer bir ara sunucu kullanıyorsanız, ara sunucu ayarlarınızı kontrol edin veya ara sunucunun düzgün çalıştığından emin olmak için ağ yöneticinize başvurun. Eğer bir ara sunucu kullandığınızı düşünmüyorsanız, ara sunucu ayarlarınızı düzenleyin: <ph name="PLATFORM_TEXT"/></translation>
+<translation id="721197778055552897">Bu problemle ilgili <ph name="BEGIN_LINK"/>Daha fazla bilgi<ph name="END_LINK"/>.</translation>
+<translation id="8235325155053717782">Hata <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="3986287159189541211">HTTP Hatası <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="3225919329040284222">Sunucu, yerleşik beklentileri karşılamayan bir sertifika sundu. Bu beklentiler, sizi korumak adına belirli yüksek güvenlikli Web siteleri için tanımlanmıştır.</translation>
+<translation id="6957887021205513506">Sunucunun sertifikası sahte görünüyor.</translation>
+<translation id="6429639049555216915">Uygulamaya şu anda erişilemiyor.</translation>
+<translation id="9127307628159259612"><ph name="PRODUCT_NAME"/> programını, güvenlik duvarınızın veya antivirüs yazılımınızın ayarlarına, izin verilen program olarak ekleyin. Eğer zaten ekli ise, izin verilen programlar listesinden çıkarıp yeniden eklemeyi deneyin.</translation>
+<translation id="4544369257849566741">Güvenli değerlendirmedeki SSL yeniden değerlendirme eklentisi eksik. Yeniden değerlendirme eklentisini desteklediği bilinen bazı siteler için <ph name="PRODUCT_NAME"/> bilinen bir dizi saldırı yöntemini önlemek adına daha güvenli bir değerlendirme yöntemi talep eder. Bu eklentinin eksikliğinde, bağlantınızın kesintiye uğratılması ve müdahalelere açık olması olasıdır.</translation>
+<translation id="8162734958263531433">USB hata ayıklamayı kullanabilmek için, Android cihazınızda Android yazılım geliştirme aracını ve USB hata ayıklamayı etkinleştirmelisiniz. Daha fazla bilgi için <ph name="HTML_HELPURL"/> bağlantısına göz atın.</translation>
+<translation id="1875071432292773474">Masaüstü tarayıcınızda <ph name="ACCESS_POINT"/> adresini girin. Masaüstü tarayıcısı, Android cihazıyla aynı ağ üzerinde olmalıdır.</translation>
+<translation id="7227425938337339799">UPnP (Evrensel Tak ve Çalıştır) özelliğinin çalışması için, ya aynı alt ağ üzerinde olmalısınız ya da yönlendiriciyi alt ağlar boyunca yayınları iletmesi için köprülemelisiniz.</translation>
+<translation id="4553629908098215669">Bilgisayarınızda <ph name="HTMLADBCOMMAND"/>'i çalıştırın ve Chromium tabanlı tarayıcı <ph name="HTMLLOCALHOSTURL"/>'de gezinin.</translation>
+<translation id="4570032796877367747">Ön kamera</translation>
+<translation id="2599796128805996109">Arka kamera</translation>
+<translation id="2124507516322945394">Varsayılan mikrofon</translation>
+<translation id="1587215898571986504">Hoparlör</translation>
+<translation id="5614598979078259956">Kablolu kulaklık takımı</translation>
+<translation id="9031226374756103225">Kulaklık takımı kulaklığı</translation>
+<translation id="149679617917926491">Bluetooth kulaklık takımı</translation>
+<translation id="6060685159320643512">Dikkatli olun, bu deneyler canınızı yakabilir</translation>
+<translation id="5199729219167945352">Deneyler</translation>
+<translation id="533563709691128800">devre dışı</translation>
+<translation id="2506903884491778518">Deneylerde ara</translation>
+<translation id="1138663153846032155">Flash yerine HTML'yi tercih et</translation>
+<translation id="2081453640527377956">Eklentiler listesinde Flash'ı gizleyerek HTML içeriğini tercih et.</translation>
+<translation id="5998167623928667649">Flash ayarı "izin ver" ise tüm Flash içeriğini çalıştır</translation>
+<translation id="5138177765054221193">Flash içeriğine "izin ver" olarak ayarlanmış siteler için, önemsiz sayılanların da içinde bulunduğu tüm içeriği çalıştırın.</translation>
+<translation id="2112624549618815628">Varsayılan (etkin)</translation>
+<translation id="3696363537446376816">Varsayılan (devre dışı)</translation>
+<translation id="5773249585542913314">Windows Runtime MIDI API</translation>
+<translation id="7122132768827815392">WebMIDI için Windows Runtime MIDI API'yi kullanın (yalnızca Windows 10 veya daha üst sürümü için geçerlidir).</translation>
+<translation id="1375198122581997741">Sürüm Hakkında</translation>
+<translation id="7248671827512403053">Uygulama</translation>
+<translation id="1710259589646384581">İS</translation>
+<translation id="6897140037006041989">Tarayıcı Kimliği</translation>
+<translation id="7353601530677266744">Komut Satırı</translation>
+<translation id="7225807090967870017">Kimlik Oluştur</translation>
+</translationbundle>

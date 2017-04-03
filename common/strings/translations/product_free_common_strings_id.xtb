@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="id">
+<translation id="3942946088478181888">Bantu saya memahaminya</translation>
+<translation id="1396529432791646744">Saat Anda terhubung ke website yang aman, server website tersebut akan memberikan "sertifikat" kepada browser untuk mem-verifikasi identitasnya. Sertifikat ini mengandung identitas, seperti alamat website, yang diverifikasi oleh pihak ketiga yang dipercaya oleh perangkat mobile Anda. Dengan mengecek bahwa alamat di sertifikat sama dengan alamat website, bisa dilakukan verifikasi bahwa Anda terhubung ke server yang Anda maksudkan, bukan ke pihak lain (misalnya penjahat di jaringan Anda).</translation>
+<translation id="6295228342562451544">Saat Anda terhubung ke website yang aman, server website tersebut akan memberikan "sertifikat" kepada browser untuk mem-verifikasi identitasnya. Sertifikat ini mengandung identitas, seperti alamat website, yang diverifikasi oleh pihak ketiga yang dipercaya oleh komputer Anda. Dengan mengecek bahwa alamat di sertifikat sama dengan alamat website, bisa dilakukan verifikasi bahwa Anda terhubung ke server yang Anda maksudkan, bukan ke pihak lain (misalnya penjahat di jaringan Anda).</translation>
+<translation id="8187473050234053012">Sertifikat keamanan server telah dicabut!</translation>
+<translation id="5598024575303778520">Peringatan penipuan</translation>
+<translation id="7311721172731074902">Peringatan Penipuan</translation>
+<translation id="1858130628205855959">Situs ini telah di-hack atau merupakan penipuan. Memberikan kata sandi atau informasi pribadi membuat Anda rawan menjadi korban pencurian identitas atau kejahatan keuangan.</translation>
+<translation id="8357891144266644027">Peringatan situs berbahaya</translation>
+<translation id="4664012235452972339">Peringatan Situs Berbahaya</translation>
+<translation id="1030973920598092450">Situs ini mungkin telah di-hack atau mengandung perangkat lunak berbahaya. Mengunjungi halaman ini bisa membahayakan.</translation>
+<translation id="4863259811271883558">Dilaporkan oleh <ph name="BEGIN_LINK"/><ph name="PROVIDER_NAME"/><ph name="END_LINK"/></translation>
+<translation id="3141322567138977593">Kembali dengan aman</translation>
+<translation id="833642844779103272">Kembali Dengan Aman</translation>
+<translation id="4238466718818823211">Abaikan peringatan ini</translation>
+<translation id="1755698976576372535">Mengapa halaman ini diblokir?</translation>
+<translation id="2962647877740028287">Laporan penipuan kami dikelola oleh pihak ketiga.</translation>
+<translation id="7470668651798735849">Anda bisa melihat semua notifikasi di sini.</translation>
+<translation id="6426222199977479699">Kesalahan SSL</translation>
+<translation id="8398877366907290961">Lanjutkan saja</translation>
+<translation id="6264485186158353794">Mundur demi keamanan</translation>
+<translation id="2225024820658613551">Anda seharusnya tidak melanjutkan, &lt;strong&gt;terutama&lt;/strong&gt; jika Anda tidak pernah melihat pesan ini di situs ini sebelumnya.</translation>
+<translation id="5645845270586517071">Kesalahan Keamanan</translation>
+<translation id="1103666958012677467">Anda tidak bisa melanjutkan karena pengelola website meminta keamanan yang lebih tinggi untuk domain ini.</translation>
+<translation id="5463275305984126951">Indeks dari <ph name="LOCATION"/></translation>
+<translation id="8877448029301136595">[direktori utama]</translation>
+<translation id="3835522725882634757">Oh tidak! Server mengirimkan data yang tidak dipahami <ph name="PRODUCT_NAME"/>. Silahkan <ph name="BEGIN_LINK"/>laporkan bug<ph name="END_LINK"/>, dan sertakan <ph name="BEGIN2_LINK"/>data mentahnya<ph name="END2_LINK"/>.</translation>
+<translation id="5327248766486351172">Nama</translation>
+<translation id="8028993641010258682">Ukuran</translation>
+<translation id="57646104491463491">Tanggal Modifikasi</translation>
+<translation id="8465929756435120446">Halaman ini mengandung beberapa konten yang tidak aman.</translation>
+<translation id="6827416153061837992">Koneksi ini tidak di-enkripsi.</translation>
+<translation id="9193357432624119544">Kode error: <ph name="ERROR_NAME"/></translation>
+<translation id="4910619056351738551">Berikut ini beberapa usulan:</translation>
+<translation id="2954705784594331199"><ph name="BEGIN_LINK"/>Muat <ph name="END_LINK"/>ulang halaman ini nanti.</translation>
+<translation id="4977565600485911823">Matikan ekstensi Anda dan <ph name="BEGIN_LINK"/>muat ulang<ph name="END_LINK"/> halaman ini.</translation>
+<translation id="1103966635949043187">Ke halaman depan situs:</translation>
+<translation id="7747589364844254751">Periksa koneksi internet Anda. Restart router, modem, atau perangkat jaringan lain yang Anda gunakan.</translation>
+<translation id="5548623538190661145">Periksa pengaturan DNS ANda. Hubungi admin jaringan Anda jika Anda tidak yakin apa maksudnya.</translation>
+<translation id="4545046228395991092">Jika Anda menggunakan server proksi, periksa seting proksi Anda atau hubungi admin jaringan Anda untuk memastikan proksi berfungsi dengan baik.</translation>
+<translation id="1712673276482711826">Jika Anda menggunakan server proksi, periksa seting proksi Anda atau hubungi admin jaringan Anda untuk memastikan proksi berfungsi dengan baik. Jika Anda tidak percaya bahwa Anda membutuhkan proksi, sesuaikan pengaturan seting proksi Anda: <ph name="PLATFORM_TEXT"/></translation>
+<translation id="721197778055552897"><ph name="BEGIN_LINK"/>Pelajari selengkapnya<ph name="END_LINK"/> tentang masalah ini.</translation>
+<translation id="8235325155053717782">Error <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="3986287159189541211">Error HTTP <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="3225919329040284222">Server memberikan sertifikat yang tidak sesuai dengan harapan. Harapan tersebut dimasukkan untuk beberapa halaman web dengan keamanan tinggi untuk melindungi Anda.</translation>
+<translation id="6957887021205513506">Sertifikat server terlihat seperti suatu pembajakan.</translation>
+<translation id="6429639049555216915">Aplikasi ini sedang tidak dapat dijangkau.</translation>
+<translation id="9127307628159259612">Tambahkan <ph name="PRODUCT_NAME"/> sebagai program yang diijinkan di pengaturan firewall atau antivirus Anda. Jika sudah terdapat pada daftar program yang diijinkan, cobalah untuk menghapusnya dan kemudian ditambahkan kembali.</translation>
+<translation id="4544369257849566741">Perpanjangan renegosiasi SSL tidak terdapat pada handshake yang aman. Untuk beberapa website yang dikenal mendukung perpanjangan renegosiasi, <ph name="PRODUCT_NAME"/> membutuhkan handshake yang aman untuk mencegah serangan. Hilangnya perpanjangan ini mengindikasikan bahwa koneksi Anda dibajak dan dimanipulasi dalam perjalanan.</translation>
+<translation id="8162734958263531433">Untuk menggunakan USB debugging, Anda membutuhkan Android SDK dan debugging diaktifkan di perangkat Android Anda. Lihat <ph name="HTML_HELPURL"/> untuk informasi lebih lanjut.</translation>
+<translation id="1875071432292773474">Masukkan alamat <ph name="ACCESS_POINT"/> di browser desktop Anda. Browser desktop harus berada di jaringan yang sama dengan perangkat Android.</translation>
+<translation id="7227425938337339799">Agar UPnP bekerja, Anda harus berada di subnet yang sama, atau menyeting bridge pada router untuk mem-forward broadcast pada subnet.</translation>
+<translation id="4553629908098215669">Di komputer Anda, jalankan <ph name="HTMLADBCOMMAND"/>, dan navigasi ke <ph name="HTMLLOCALHOSTURL"/> menggunakan browser berbasis Chromium.</translation>
+<translation id="4570032796877367747">Kamera depan</translation>
+<translation id="2599796128805996109">Kamera belakang</translation>
+<translation id="2124507516322945394">Mikropon bawaan</translation>
+<translation id="1587215898571986504">Speakerphone</translation>
+<translation id="5614598979078259956">Headphone dengan kabel</translation>
+<translation id="9031226374756103225">Earphone</translation>
+<translation id="149679617917926491">Headphone dengan bluetooth</translation>
+<translation id="6060685159320643512">Hati-hati, uji coba ini mungkin kurang bagus</translation>
+<translation id="5199729219167945352">Uji Coba</translation>
+<translation id="533563709691128800">dimatikan</translation>
+<translation id="2506903884491778518">Cari uji coba</translation>
+<translation id="1138663153846032155">Lebih memilih HTML atas Flash</translation>
+<translation id="2081453640527377956">Lebih memilih konten HTML dengan menyembunyikan Flash dari daftar plug in.</translation>
+<translation id="5998167623928667649">Jalankan semua konten Flash saat pengaturan Flash diatur ke "izinkan"</translation>
+<translation id="5138177765054221193">Untuk situs yang diatur ke "izinkan" konten Flash, jalankan semua konten termasuk semua yang dianggap tidak penting.</translation>
+<translation id="2112624549618815628">Bawaan (aktifkan)</translation>
+<translation id="3696363537446376816">Bawaan (dimatikan)</translation>
+<translation id="5773249585542913314">Windows Runtime MIDI API</translation>
+<translation id="7122132768827815392">Gunakan Windows Runtime MIDI API untuk WebMIDI (hanya efektif pada Windows 10 atau lebih tinggi).</translation>
+<translation id="1375198122581997741">Tentang Versi</translation>
+<translation id="7248671827512403053">Aplikasi</translation>
+<translation id="1710259589646384581">OS</translation>
+<translation id="6897140037006041989">User Agen</translation>
+<translation id="7353601530677266744">Command Line</translation>
+<translation id="7225807090967870017">ID Pembuatan</translation>
+</translationbundle>

@@ -1,0 +1,61 @@
+# Copyright (C) 2016 Opera Software ASA.  All rights reserved.
+#
+# This file is an original work developed by Opera Software ASA
+
+import("//build/config/opera-common.gni")
+import("$opera/mobile/mobile/build/args.gni")
+import("//build/config/android/rules.gni")
+
+source_set("sync") {
+  sources = [
+    "invalidation.cc",
+    "invalidation.h",
+    "sessions.cc",
+    "sessions.h",
+    "session_tab.cc",
+    "session_tab.h",
+    "session_window.cc",
+    "session_window.h",
+    "sync.cc",
+    "sync.h",
+  ]
+
+  configs += [
+    "$opera/mobile/mobile/build:include_config",
+    "$opera/mobile/mobile/build:chr_version_config",
+    "$opera/mobile/mobile/build:opr_version_config",
+  ]
+
+  deps = [
+    ":jni_headers",
+    "$opera/mobile/common/bookmarks",
+    "$opera/mobile/common/sync",
+    "//components/sync",
+  ]
+
+  if (is_public_source_release) {
+    deps -= [":jni_headers"]
+    deps += [":copy_bundled_jni_headers"]
+    include_dirs = [
+      "${target_gen_dir}/jni_headers/mobile",
+    ]
+  }
+
+}
+
+copy("copy_bundled_jni_headers") {
+  target_name = get_label_info(":sync", "name")
+  sources = [ "$opera/mobile/mobile/bundled_jni/${target_name}" ]
+  outputs = [ "${target_gen_dir}/jni_headers" ]
+}
+
+generate_jni("jni_headers") {
+  sources = [
+    "../../com/opera/android/sync/NativeSyncManager.java",
+    "../../com/opera/android/sync/SyncedSession.java",
+    "../../com/opera/android/sync/SyncedSessionTab.java",
+    "../../com/opera/android/sync/SyncedSessionWindow.java",
+  ]
+
+  jni_package = "mobile"
+}

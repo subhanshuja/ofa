@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="bg">
+<translation id="3929428121849375048">Avast SafeZone</translation>
+<translation id="806546331937022936">Avast</translation>
+<translation id="3609966143444339170">Avast настоятелно препоръчва да НЕ посещавате тази страница.</translation>
+<translation id="4206706288435313269">Avast SafeZone център за известия</translation>
+<translation id="254978580676301713">SafeZone - известия</translation>
+<translation id="8084325208922689406">SafeZone - известия (<ph name="QUANTITY"/> непрочетени)</translation>
+<translation id="678670207776683961">SafeZone - Известия</translation>
+<translation id="191361968702850015">SafeZone - Известия (<ph name="QUANTITY"/> непрочетени)</translation>
+<translation id="1359674843509087498">Този сайт използва остарели защитни настройки, които могат да попречат на безопасния достъп до него на бъдещите версии на SafeZone.</translation>
+<translation id="3485921796584936414">В настройките на своята защитна стена или антивирусен софтуер позволете на SafeZone достъп до мрежата.</translation>
+<translation id="7041993155087650094">От менюто на SafeZone изберете &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; LAN Settings (LAN настройки) и изключете „Use a proxy server for your LAN“ („Използване на прокси сървър за вашата локална мрежа“).</translation>
+<translation id="5366394231680131980">Промените ще бъдат приложени след рестартиране на SafeZone.</translation>
+<translation id="6964843943881946410">За да видите съхранените от SafeZone пароли, моля, въведете паролата за компютъра си.</translation>
+</translationbundle>

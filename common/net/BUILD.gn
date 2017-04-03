@@ -1,0 +1,57 @@
+# Copyright (C) 2015 Opera Software ASA.  All rights reserved.
+#
+# This file is an original work developed by Opera Software ASA
+
+import("//build/config/opera-common.gni")
+import("//testing/test.gni")
+
+source_set("net") {
+  sources = [
+    "certificate_util.cc",
+    "certificate_util.h",
+    "certificate_util_android.cc",
+    "certificate_util_ios.cc",
+    "certificate_util_linux.cc",
+    "certificate_util_mac.mm",
+    "certificate_util_win.cc",
+    "opera_cert_verifier_delegate.cc",
+    "opera_cert_verifier_delegate.h",
+    "sensitive_url_request_user_data.cc",
+    "sensitive_url_request_user_data.h",
+  ]
+  public_configs = [ "../config:include_config" ]
+  deps = [
+    "$opera/common/strings:product_free_common_strings",
+    "//base",
+    "//net",
+  ]
+}
+
+source_set("chromium_compatible_net_resource_provider") {
+  sources = [
+    "net_resource_provider.cc",
+    "net_resource_provider.h",
+  ]
+  configs += [ "../config:include_config" ]
+  deps = [
+    "../strings",
+    "//net:net_resources",
+  ]
+}
+
+test("opera_common_net_unittests") {
+  sources = [
+    "opera_cert_verifier_delegate_unittest.cc",
+  ]
+  configs += [ "../config:include_config" ]
+  deps = [
+    ":net",
+    "//base/allocator",
+    "//base/test:run_all_unittests",  # Entry point for the test exe
+    "//base/third_party/dynamic_annotations:dynamic_annotations",
+    "//content/test:test_support",
+    "//net:test_support",
+    "//testing/gmock",
+    "//testing/gtest",
+  ]
+}

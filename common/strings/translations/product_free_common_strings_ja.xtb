@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="ja">
+<translation id="3942946088478181888">エラーに関する詳細</translation>
+<translation id="1396529432791646744">セキュリティで保護されたウェブサイトに接続すると、そのサイトをホストしているサーバーは、サイトを運営する会社の身元を確認するための「証明書」というものをブラウザに提示します。この証明書には、ご利用のモバイル端末によって信頼されている第三者機関により確認された、アドレスなどのウェブサイトの身元を証明するための情報が含まれています。証明書のアドレスとウェブサイトのアドレスが一致していれば、ネットワークを攻撃する第三者ではなく、目的のサイトに安全に接続していることを確認できます。</translation>
+<translation id="6295228342562451544">セキュリティで保護されたウェブサイトに接続すると、そのサイトをホストしているサーバーから、サイトを運営する会社の身元を確認するための「証明書」というものがブラウザに提示されます。この証明書には、ご利用の PC によって信頼されている第三者機関により確認された、アドレスなどのウェブサイトの身元を証明するための情報が含まれています。証明書のアドレスとウェブサイトのアドレスが一致していれば、ネットワークを攻撃する第三者ではなく、目的のサイトに安全に接続していることを確認できます。</translation>
+<translation id="8187473050234053012">サーバーのセキュリティ証明書は失効しています！</translation>
+<translation id="5598024575303778520">フィッシング警告</translation>
+<translation id="7311721172731074902">フィッシング警告</translation>
+<translation id="1858130628205855959">このサイトはハッキングされているか、フィッシングサイトである可能性があります。パスワードや個人情報を送信すると、情報を盗まれたり、フィッシング詐欺の被害を受ける危険性があります。</translation>
+<translation id="8357891144266644027">悪意のあるサイトに関する警告</translation>
+<translation id="4664012235452972339">悪意のあるサイトに関する警告</translation>
+<translation id="1030973920598092450">このサイトはハッキングされているか、悪意のあるソフトウェアを含んでいる可能性があります。このページにアクセスするとコンピュータに害を及ぼす可能性があります。</translation>
+<translation id="4863259811271883558"><ph name="BEGIN_LINK"/><ph name="PROVIDER_NAME"/><ph name="END_LINK"/> により報告されました</translation>
+<translation id="3141322567138977593">安全な方法で前に戻る</translation>
+<translation id="833642844779103272">安全な方法で前に戻る</translation>
+<translation id="4238466718818823211">この警告を無視する</translation>
+<translation id="1755698976576372535">ページがブロックされた理由を確認する</translation>
+<translation id="2962647877740028287">不正なサイトに関する報告はサードパーティーのベンダーにより管理されています。</translation>
+<translation id="7470668651798735849">ウェブサイトからの通知をすべて通知センターで確認できます。</translation>
+<translation id="6426222199977479699">SSL エラー</translation>
+<translation id="8398877366907290961">このまま続行する</translation>
+<translation id="6264485186158353794">安全なページに戻る</translation>
+<translation id="2225024820658613551">&lt;strong&gt;特に&lt;/strong&gt;、以前にこのサイトに関して同様の警告が表示されたことがない場合には続行すべきではありません。</translation>
+<translation id="5645845270586517071">セキュリティエラー</translation>
+<translation id="1103666958012677467">ウェブサイトのオペレータがこのドメインに対し、より高いセキュリティを要求しているため続行できません。</translation>
+<translation id="5463275305984126951"><ph name="LOCATION"/> のインデックス</translation>
+<translation id="8877448029301136595">[親ディレクトリ]</translation>
+<translation id="3835522725882634757">問題が発生しました！ <ph name="PRODUCT_NAME"/> が理解できないデータをサーバーが送信しています。<ph name="BEGIN_LINK"/>バグを報告<ph name="END_LINK"/> し、<ph name="BEGIN2_LINK"/>該当するデータ<ph name="END2_LINK"/> も含めるようにしてください。</translation>
+<translation id="5327248766486351172">名前</translation>
+<translation id="8028993641010258682">サイズ</translation>
+<translation id="57646104491463491">変更された日付</translation>
+<translation id="8465929756435120446">このページには安全ではないコンテンツが一部含まれています。</translation>
+<translation id="6827416153061837992">この接続は暗号化されていません。</translation>
+<translation id="9193357432624119544">エラーコード： <ph name="ERROR_NAME"/></translation>
+<translation id="4910619056351738551">以下の解決方法を試してください： </translation>
+<translation id="2954705784594331199">しばらくしてから、このページを <ph name="BEGIN_LINK"/>再度読み込んでください<ph name="END_LINK"/>。</translation>
+<translation id="4977565600485911823">拡張機能を無効にしてから、このウェブページを <ph name="BEGIN_LINK"/>再度読み込んでください<ph name="END_LINK"/>。</translation>
+<translation id="1103966635949043187">このサイトのホームページに移動してください： </translation>
+<translation id="7747589364844254751">インターネットの接続を確認してください。 ご利用のルーター、モデム、その他のネットワークデバイスを再起動してください。</translation>
+<translation id="5548623538190661145">DNS 設定を確認してください。設定が不明な場合は、ネットワーク管理者に確認してください。</translation>
+<translation id="4545046228395991092">プロキシサーバーを利用している場合は、プロキシ設定を確認するか、 ネットワーク管理者にプロキシサーバーが問題なく機能しているかを確認してください。</translation>
+<translation id="1712673276482711826">プロキシサーバーを利用している場合は、プロキシ設定を確認するか、 ネットワーク管理者にプロキシサーバーが問題なく機能しているかを確認してください。プロキシサーバーを使用するべきではないと考えられる場合は、プロキシ設定を <ph name="PLATFORM_TEXT"/> に調整してください。</translation>
+<translation id="721197778055552897">この問題に関する <ph name="BEGIN_LINK"/>詳細を確認する<ph name="END_LINK"/>。</translation>
+<translation id="8235325155053717782">エラー <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="3986287159189541211">HTTP エラー <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="3225919329040284222">組み込まれた識別情報と一致しない証明書がサーバーから提示されました。このような識別情報は利用者を保護することを目的として、高度なセキュリティを確保する一部のサイトに含まれています。</translation>
+<translation id="6957887021205513506">サーバーの証明書は偽造されているようです。</translation>
+<translation id="6429639049555216915">このアプリには現在接続できません。</translation>
+<translation id="9127307628159259612">ファイアウォールあるいはウイルス対策ソフトの設定で、<ph name="PRODUCT_NAME"/> を許可されたプログラムとして追加してください。該当のプログラムが既に許可されている場合は、許可されたプログラムの一覧から一度削除して再度追加してください。</translation>
+<translation id="4544369257849566741">SSL 再ネゴシエーション拡張が安全なハンドシェイクに含まれていません。再ネゴシエーション拡張をサポートすると考えられる一部のサイトに関し、<ph name="PRODUCT_NAME"/> では中間者からの攻撃を防ぐため、より安全なハンドシェイクが要求されます。この拡張の省略は、中間者攻撃を受け、何らかの操作が行われた可能性をを暗示します。</translation>
+<translation id="8162734958263531433">USB 経由でデバッグするには Android SDK が必要です。また、Android デバイスで USB デバッグを有効にしてください。詳細に関しては <ph name="HTML_HELPURL"/> をご覧ください。</translation>
+<translation id="1875071432292773474">デスクトップのブラウザで、アドレス： <ph name="ACCESS_POINT"/> を入力してください。デスクトップブラウザと Android デバイスが同じネットワークを使用している必要があります。</translation>
+<translation id="7227425938337339799">UPnP が機能するには、同じサブネット上にあるか、サブネットを通したブロードキャストの転送にルータのブリッジ接続を行う必要があります。</translation>
+<translation id="4553629908098215669">コンピュータで <ph name="HTMLADBCOMMAND"/> を実行し、Chromium ベースのブラウザを使用して <ph name="HTMLLOCALHOSTURL"/> に移動してください。</translation>
+<translation id="4570032796877367747">前方向カメラ</translation>
+<translation id="2599796128805996109">後方向カメラ</translation>
+<translation id="2124507516322945394">デフォルトのマイク</translation>
+<translation id="1587215898571986504">スピーカーフォン</translation>
+<translation id="5614598979078259956">有線型ヘッドセット</translation>
+<translation id="9031226374756103225">イヤホン型ヘッドセット</translation>
+<translation id="149679617917926491">Bluetooth ヘッドセット</translation>
+<translation id="6060685159320643512">これらの試験運用機能は完全ではありません</translation>
+<translation id="5199729219167945352">試験運用機能</translation>
+<translation id="533563709691128800">現在無効です</translation>
+<translation id="2506903884491778518">試験運用機能を検索</translation>
+<translation id="1138663153846032155">Flash ではなく HTML を優先する</translation>
+<translation id="2081453640527377956">プラグインリストの Flash を非表示にして HTML コンテンツを優先します。</translation>
+<translation id="5998167623928667649">Flash が「許可」に設定されている場合、すべての Flash コンテンツを実行する</translation>
+<translation id="5138177765054221193">Flash コンテンツを「許可」に設定しているサイトに関しては、重要と思われないものも含め、すべてのコンテンツを実行します。</translation>
+<translation id="2112624549618815628">デフォルト（有効）</translation>
+<translation id="3696363537446376816">デフォルト（無効）</translation>
+<translation id="5773249585542913314">Windows ランタイム MIDI API</translation>
+<translation id="7122132768827815392">WebMIDI の Windows ランタイム MIDI API (Windows 10 以降のみ有効)。</translation>
+<translation id="1375198122581997741">バージョン情報</translation>
+<translation id="7248671827512403053">アプリケーション</translation>
+<translation id="1710259589646384581">OS</translation>
+<translation id="6897140037006041989">ユーザーエージェント</translation>
+<translation id="7353601530677266744">コマンドライン</translation>
+<translation id="7225807090967870017">ビルド ID</translation>
+</translationbundle>

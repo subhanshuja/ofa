@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="hu">
+<translation id="1974060860693918893">Speciális</translation>
+<translation id="3462200631372590220">Speciális elrejtése</translation>
+<translation id="3369192424181595722">Órahiba</translation>
+<translation id="2625385379895617796">Az órája siet</translation>
+<translation id="8932102934695377596">Az órája késik</translation>
+<translation id="3858027520442213535">Dátum és idő frissítése</translation>
+<translation id="725866823122871198">Nem hozható létre személyes kapcsolat a(z) <ph name="BEGIN_BOLD"/><ph name="DOMAIN"/><ph name="END_BOLD"/> eszközzel, mivel számítógépén a dátum és az idő (<ph name="DATE_AND_TIME"/>) helytelen.</translation>
+<translation id="4879058462256654741">Biztonságos kapcsolat létrehozásához az órát megfelelően be kell állítani. Ez azért szükséges, mert a weboldalak által önmaguk azonosítására használt tanúsítványok csak meghatározott időtartományokban érvényesek. Mivel az ön eszközének órája pontatlan, a tanúsítványok nem érvényesíthetők.</translation>
+<translation id="1413809658975081374">Adatvédelmi hiba</translation>
+<translation id="3566021033012934673">A kapcsolata nem privát</translation>
+<translation id="340013220407300675">Adatait támadók próbálhatják meg ellopni innen: <ph name="BEGIN_BOLD"/><ph name="SITE"/><ph name="END_BOLD"/> (például jelszavak, üzenetek vagy hitelkártyaadatok).</translation>
+<translation id="629137324635910832">A(z) <ph name="SITE"/> általában titkosítást használ adatai védelme érdekében. Amikor az Opera megpróbált kapcsolatot létrehozni <ph name="SITE"/> oldallal, a weboldal szokatlan és helytelen biztonsági azonosítókat küldött vissza. Ilyen előfordulhat akkor, ha egy támadó <ph name="SITE"/>-ként próbálja feltüntetni magát, vagy a WIFI bejelentkező oldala megszakította a kapcsolatot. Adatai még biztonságban vannak, mivel az Opera az adatcsere megkezdése előtt leállította a kapcsolatot.</translation>
+<translation id="4404555778932203074">Jelenleg a <ph name="SITE"/> oldal nem látogatható, mert a webhely olyan zagyva tanúsítványt küldött, amit az Opera nem tud feldolgozni. A hálózati hibák és támadások rendszerint ideiglenesek, így az oldal a későbbiekben vélhetően működni fog.</translation>
+<translation id="8882627153668738693">A(z) <ph name="SITE"/> általában titkosítást használ adatai védelme érdekében. Amikor az Avast SafeZone megpróbált kapcsolatot létrehozni <ph name="SITE"/> oldallal, a weboldal szokatlan és helytelen biztonsági azonosítókat küldött vissza. Ilyen előfordulhat akkor, ha egy támadó <ph name="SITE"/>-ként próbálja feltüntetni magát, vagy a WIFI bejelentkező oldala megszakította a kapcsolatot. Adatai még biztonságban vannak, mivel az Avast SafeZone az adatcsere megkezdése előtt leállította a kapcsolatot.</translation>
+<translation id="1888865191717601957">Jelenleg a <ph name="SITE"/> oldal nem látogatható, mert a webhely olyan zagyva tanúsítványt küldött, amit az Avast SafeZone nem tud feldolgozni. A hálózati hibák és támadások rendszerint ideiglenesek, így az oldal a későbbiekben vélhetően működni fog.</translation>
+<translation id="6264485186158353794">Visszalépés biztonságosan</translation>
+<translation id="7704050614460855821"><ph name="BEGIN_LINK"/>Továbblépés ide: <ph name="SITE"/> (nem biztonságos)<ph name="END_LINK"/></translation>
+<translation id="5556459405103347317">Frissítés</translation>
+<translation id="6051221802930200923">Jelenleg a <ph name="SITE"/> oldal nem látogatható, mert a webhely tanúsítványát feltörték. A hálózati hibák és támadások rendszerint ideiglenesek, így az oldal a későbbiekben vélhetően működni fog.</translation>
+<translation id="2991571918955627853">Jelenleg a <ph name="SITE"/> oldal nem látogatható, mert a webhely HSTS-t használ. A hálózati hibák és támadások rendszerint ideiglenesek, így az oldal a későbbiekben vélhetően működni fog.</translation>
+<translation id="1430489501396597835">Jelenleg a <ph name="SITE"/> oldal nem látogatható, mert a tanúsítványát visszavonták. A hálózati hibák és támadások rendszerint ideiglenesek, így az oldal a későbbiekben vélhetően működni fog.</translation>
+<translation id="4513896196857653318">Lépjen be-
+          a főmenübe &gt;
+          <ph name="SETTINGS_TITLE"/>
+          &gt;
+          <ph name="ADVANCED_TITLE"/>
+          és törölje a "<ph name="NO_PREFETCH_DESCRIPTION"/>" kiválasztást.
+          Amennyiben ez nem szünteti meg a problémát, javasoljuk, ezt az opciót állítsa vissza magasabb teljesítményűre.</translation>
+<translation id="8888594059056485523">A tűzfal vagy a vírusirtó beállításaiban engedélyezze, hogy az Opera hozzáférjen a hálózathoz.</translation>
+<translation id="8040357206858000048">Kattintson az Alkalmazások &gt; Rendszerbeállítások &gt; Hálózat &gt; Speciális &gt; Proxyk elemre, és törölje a jelet az esetleg bejelölt proxykiszolgálók mellől.</translation>
+<translation id="1532685482177999023">Lépjen a Főmenü &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; LAN beállítások részhez, és szüntesse meg a "Proxykiszolgáló használata a helyi hálózaton" négyzet bejelölését.</translation>
+<translation id="6118049677165320383">A változások a böngésző következő indításakor lépnek érvénybe.</translation>
+<translation id="5510583790312051907">Összeomlás jelentése nem elérhető.</translation>
+<translation id="1011013207380005827">Az Operát a <ph name="BEGIN_LINK_CHROMIUM"/>Chromium<ph name="END_LINK_CHROMIUM"/> nyílt forráskódú projekt és más <ph name="BEGIN_LINK_OSS"/>nyílt forráskódú szoftverek<ph name="END_LINK_OSS"/> tették lehetővé.</translation>
+<translation id="3108493547597012279">Ön egy biztonságos oldalon van.</translation>
+<translation id="8530361534096361731">Az Opera nem megfelelően zárult be.</translation>
+</translationbundle>

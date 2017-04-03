@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="he">
+<translation id="2978824962390592855">Opera</translation>
+<translation id="9071130496134948492">Opera Software</translation>
+<translation id="6494666865857176946">Opera Software ממליצה בחום שלא להיכנס לדף זה.</translation>
+<translation id="7459549266751278805">מרכז ההודעות של Opera</translation>
+<translation id="4501379002264542907">Opera - הודעות</translation>
+<translation id="1352092048463356430">Opera - הודעות (<ph name="QUANTITY"/> לא נקראו)</translation>
+<translation id="4159400746343093340">Opera - הודעות</translation>
+<translation id="6018626517703817463">Opera - הודעות (<ph name="QUANTITY"/> לא נקראו)</translation>
+<translation id="6161036283010589960">האתר משתמש בהגדרות אבטחה לא מעודכנות שעלולות למנוע מגרסאות עתידיות של Opera לגשת אליו בבטחה.</translation>
+<translation id="8888594059056485523">שנה את הגדרות האנטי-וירוס או חומת האש שלך כדי לאפשר ל-Opera לגשת לרשת.</translation>
+<translation id="7158277678571698323">עבור לתפריט של Opera &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; 'הגדרות LAN' ובטל את הבחירה באפשרות 'השתמש בשרת פרוקסי עבור LAN'.</translation>
+<translation id="5873732809085338161">כדי לאפשר WebSockets לא מאובטחים בדפדפן השולחני שלך, עבור אל <ph name="HTMLOPERAFLAG"/> (Opera 24+) או <ph name="HTMLCHROMEFLAG"/> (Chrome 36+).</translation>
+<translation id="2005166128312586988">השינויים ייכנסו לתוקף אחרי הפעלה מחדש של Opera.</translation>
+<translation id="684302243018322820">כדי לראות את הססמאות השמורות של Opera, הזן את ססמת המחשב שלך.</translation>
+</translationbundle>

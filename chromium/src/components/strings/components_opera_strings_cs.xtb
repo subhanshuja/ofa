@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="cs">
+<translation id="1974060860693918893">Rozšířené</translation>
+<translation id="3462200631372590220">Skrýt rozšířené</translation>
+<translation id="3369192424181595722">Chybný čas</translation>
+<translation id="2625385379895617796">Vaše hodiny se předcházejí</translation>
+<translation id="8932102934695377596">Vaše hodiny se opožďují</translation>
+<translation id="3858027520442213535">Aktualizovat datum a čas</translation>
+<translation id="725866823122871198">Soukromé připojení k <ph name="BEGIN_BOLD"/><ph name="DOMAIN"/><ph name="END_BOLD"/> nelze navázat, protože datum a čas na vašem počítači (<ph name="DATE_AND_TIME"/>) není správný.</translation>
+<translation id="4879058462256654741">Pro navázání zabezpečeného připojení je nutné správné nastavení času. To proto, že certifikáty, které weby používají k identifikaci, jsou platné jen pro určitou dobu. Je-li čas na vašem zařízený nastaven nesprávně, tyto certifikáty nelze ověřit.</translation>
+<translation id="1413809658975081374">Chyba soukromí</translation>
+<translation id="3566021033012934673">Vaše připojení není soukromé</translation>
+<translation id="340013220407300675">Útočníci se mohou pokusit ukrást vaše údaje z <ph name="BEGIN_BOLD"/><ph name="SITE"/><ph name="END_BOLD"/> (např. hesla, zprávy či údaje z kreditních karet).</translation>
+<translation id="629137324635910832"><ph name="SITE"/> běžně používá k ochraně vašich údajů šifrování. Když se Opera pokusila připojit k <ph name="SITE"/> nyní, web poslal zpět neobvyklá a nesprávná data. To se stává, pokud se útočník pokouší předstírat, že je <ph name="SITE"/> nebo pokud přihlašovací obrazovka Wi-Fi přerušila připojení. Vaše údaje jsou dosud v bezpečí, neboť Opera ukončila připojení dříve, než došlo k jakékoli výměně dat.</translation>
+<translation id="4404555778932203074">Nyní nelze navštívit <ph name="SITE"/>, neboť web poslal poškozené přihlašovací údaje, které Opera nedokáže zpracovat. Síťové chyby a útoky jsou obvykle krátkodobé, takže tato stránka zřejmě bude za chvíli opět funkční.</translation>
+<translation id="8882627153668738693"><ph name="SITE"/> běžně používá k ochraně vašich údajů šifrování. Když se Avast SafeZone pokusil připojit k <ph name="SITE"/> nyní, web poslal zpět neobvyklá a nesprávná data. To se stává, pokud se útočník pokouší předstírat, že je <ph name="SITE"/> nebo pokud přihlašovací obrazovka Wi-Fi přerušila připojení. Vaše údaje jsou dosud v bezpečí, neboť Avast SafeZone ukončil připojení dříve, než došlo k jakékoli výměně dat.</translation>
+<translation id="1888865191717601957">Nyní nelze navštívit <ph name="SITE"/>, neboť web poslal poškozené přihlašovací údaje, které Avast SafeZone nedokáže zpracovat. Síťové chyby a útoky jsou obvykle krátkodobé, takže tato stránka zřejmě bude za chvíli opět funkční.</translation>
+<translation id="6264485186158353794">Zpět do bezpečí</translation>
+<translation id="7704050614460855821"><ph name="BEGIN_LINK"/>Pokračovat na <ph name="SITE"/> (není bezpečné)<ph name="END_LINK"/></translation>
+<translation id="5556459405103347317">Načíst znovu</translation>
+<translation id="6051221802930200923">Nyní nelze navštívit <ph name="SITE"/>, neboť web používá technologii certificate pinning. Síťové chyby a útoky jsou obvykle krátkodobé, takže tato stránka zřejmě bude za chvíli opět funkční.</translation>
+<translation id="2991571918955627853">Nyní nelze navštívit <ph name="SITE"/>, neboť web používá technologii HSTS (HTTP Strict Transport Security). Síťové chyby a útoky jsou obvykle krátkodobé, takže tato stránka zřejmě bude za chvíli opět funkční.</translation>
+<translation id="1430489501396597835">Nyní nelze navštívit <ph name="SITE"/>, neboť tento certifikát byl odvolán. Síťové chyby a útoky jsou obvykle krátkodobé, takže tato stránka zřejmě bude za chvíli opět funkční.</translation>
+<translation id="4513896196857653318">Přejděte na
+          Hlavní menu &gt;
+          <ph name="SETTINGS_TITLE"/>
+          &gt;
+          <ph name="ADVANCED_TITLE"/>
+          a odznačte "<ph name="NO_PREFETCH_DESCRIPTION"/>."
+          Pokud se tím problém nevyřeší, doporučujeme pro zvýšení výkonu
+          tuto volbu opět označit.</translation>
+<translation id="8888594059056485523">Povolte Opeře přístup k síti v nastavení vašeho firewallu či antivirového software.</translation>
+<translation id="8040357206858000048">Jděte na Aplikace &gt; Předvolby systému &gt; Síť &gt; Pokročilé &gt; Proxy a odznačte jakékoli označené proxy.</translation>
+<translation id="1532685482177999023">Jděte na Hlavní menu &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; Nastavení LAN a odznačte volbu "Použít proxy server pro vaši LAN".</translation>
+<translation id="6118049677165320383">Vaše změny budou použity po novém spuštění prohlížeče.</translation>
+<translation id="5510583790312051907">Hlášení havárií není dostupné.</translation>
+<translation id="1011013207380005827">Opera je vytvořena s využitím open source <ph name="BEGIN_LINK_CHROMIUM"/>Chromium<ph name="END_LINK_CHROMIUM"/> (projektu s otevřeným zdrojovým kódem) a dalšího <ph name="BEGIN_LINK_OSS"/>open source software<ph name="END_LINK_OSS"/>.</translation>
+<translation id="3108493547597012279">Prohlížíte si zabezpečenou stránku.</translation>
+<translation id="8530361534096361731">Opera nebyla ukončena správně.</translation>
+</translationbundle>

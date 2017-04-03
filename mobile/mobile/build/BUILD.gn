@@ -1,0 +1,72 @@
+# Copyright (C) 2016 Opera Software ASA.  All rights reserved.
+#
+# This file is an original work developed by Opera Software ASA
+
+import("//build/config/opera-common.gni")
+import("$opera/mobile/mobile/build/args.gni")
+import("//build/config/android/config.gni")
+
+declare_args() {
+  chr_version = "0"
+  last_change = "0"
+  opr_public_build = false
+  icecc_dir = ""
+}
+
+config("include_config") {
+  include_dirs = [ opera, "../src" ]
+}
+
+config("chr_version_config") {
+  defines = [
+    "CHR_VERSION=\"$chr_version\"",
+    "LASTCHANGE=\"$last_change\"",
+  ]
+}
+
+config("opr_version_config") {
+  defines = [
+    "OPR_VERSION=\"$opr_version\"",
+    "OPR_BUILD_NUMBER=\"$opr_build_number\"",
+    "OPR_BUILD_NUMBER_INT=$opr_build_number",
+  ]
+  if (opr_public_build) {
+    defines += [ "PUBLIC_BUILD=1" ]
+  } else {
+    defines += [ "ENABLE_NETWORK_OVERRIDE" ]
+  }
+  if (is_beta_build) {
+    defines += [ "BETA_BUILD=1" ]
+  }
+  defines += [ "SOCORRO_PRODUCT_NAME=\"$socorro_product_name\"" ]
+}
+
+# Dummy target for inclusion in root_extra_deps.
+group("build") {
+  testonly = true
+}
+
+group("wam_libs") {
+  deps = [
+    "../src/opera:libopera",
+  ]
+}
+
+action("icecc_create_env") {
+  script = "icecc_create_env.py"
+
+  inputs = [ "${android_tool_prefix}gcc", "${android_tool_prefix}g++" ]
+  outputs = [ "$root_gen_dir/icecc_version" ]
+
+  args = [
+    "--git-dir", rebase_path("//third_party/android_tools/.git", root_build_dir),
+    "--version", android_toolchain_version,
+    "--triplet", target_triplet,
+    "--prefix", rebase_path(android_tool_prefix, root_build_dir),
+    "--output", rebase_path(outputs[0], root_build_dir),
+  ]
+
+  if (icecc_dir != "") {
+    args += [ "--icecc-dir", icecc_dir ]
+  }
+}

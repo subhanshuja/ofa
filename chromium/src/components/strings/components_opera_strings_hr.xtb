@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="hr">
+<translation id="1974060860693918893">Napredno</translation>
+<translation id="3462200631372590220">Sakrij napredno</translation>
+<translation id="3369192424181595722">Pogreška sata</translation>
+<translation id="2625385379895617796">Vaš sat ide unaprijed</translation>
+<translation id="8932102934695377596">Vaš sat kasni</translation>
+<translation id="3858027520442213535">Ažuriraj datum i vrijeme</translation>
+<translation id="725866823122871198">Nije moguće uspostaviti privatnu vezu s web-mjestom <ph name="BEGIN_BOLD"/><ph name="DOMAIN"/><ph name="END_BOLD"/> jer su datum i vrijeme na vašem računalu (<ph name="DATE_AND_TIME"/>) netočni.</translation>
+<translation id="4879058462256654741">Potrebno je točno postaviti vaš sat za uspostavljanje sigurne veze. Ovo je potrebno jer potvrde koje web-mjesta upotrebljavaju za identifikaciju vrijede samo za određeno vremensko razdoblje. Budući da vaš sat nije točan, ove se potvrde ne mogu potvrditi.</translation>
+<translation id="1413809658975081374">Pogreška privatnosti</translation>
+<translation id="3566021033012934673">Vaša veza nije privatna</translation>
+<translation id="340013220407300675">Napadači možda pokušavaju ukrasti vaše podatke s web-mjesta <ph name="BEGIN_BOLD"/><ph name="SITE"/><ph name="END_BOLD"/> (na primjer lozinke, poruke ili kreditne kartice).</translation>
+<translation id="629137324635910832">Web-mjesto <ph name="SITE"/> inače upotrebljava šifriranje za zaštitu vaših podataka. Kada se preglednik Opera ovaj put pokušao povezati s web-mjestom <ph name="SITE"/>, web-mjesto je poslalo neobične i netočne vjerodajnice. Ovo se može dogoditi kada se napadač pokušava pretvarati da je web-mjesto <ph name="SITE"/> ili je zaslon za prijavu na Wi-Fi prekinuo vezu. Preglednik Opera prekinuo je vezu prije razmjene podataka.</translation>
+<translation id="4404555778932203074">Trenutno ne možete posjetiti <ph name="SITE"/> jer je web-mjesto poslalo kodirane vjerodajnice koje Opera ne može obraditi. Mrežne pogreške i napadi obično su privremeni pa će ova stranica vjerojatno raditi kasnije.</translation>
+<translation id="8882627153668738693">Web-mjesto <ph name="SITE"/> inače upotrebljava šifriranje za zaštitu vaših podataka. Kada se značajka Avast SafeZone ovaj put pokušala povezati s web-mjestom <ph name="SITE"/>, web-mjesto je poslalo neobične i netočne vjerodajnice. Ovo se može dogoditi kada se napadač pokušava pretvarati da je web-mjesto <ph name="SITE"/> ili je zaslon za prijavu na Wi‑Fi prekinuo vezu. Vaši su podaci i dalje sigurni jer je značajka Avast SafeZone prekinula vezu prije razmjene podataka.</translation>
+<translation id="1888865191717601957">Trenutno ne možete posjetiti <ph name="SITE"/> jer je web-mjesto poslalo kodirane vjerodajnice koje Avast SafeZone ne može obraditi. Mrežne pogreške i napadi obično su privremeni pa će ova stranica vjerojatno raditi kasnije.</translation>
+<translation id="6264485186158353794">Povratak u sigurnost</translation>
+<translation id="7704050614460855821"><ph name="BEGIN_LINK"/>Nastavi na web-mjesto <ph name="SITE"/> (nije sigurno)<ph name="END_LINK"/></translation>
+<translation id="5556459405103347317">Ponovno učitaj</translation>
+<translation id="6051221802930200923">Trenutno ne možete posjetiti <ph name="SITE"/> jer web-mjesto koristi prikvačivanje certifikata. Pogreške mreže i napadi obično su privremeni pa će ova stranica vjerojatno raditi kasnije.</translation>
+<translation id="2991571918955627853">Trenutno ne možete posjetiti <ph name="SITE"/> jer web-mjesto koristi HSTS. Pogreške mreže i napadi obično su privremeni pa će ova stranica vjerojatno raditi kasnije.</translation>
+<translation id="1430489501396597835">Trenutno ne možete posjetiti <ph name="SITE"/> jer je ova potvrda opozvana. Mrežne pogreške i napadi obično su privremeni pa će ova stranica vjerojatno raditi kasnije.</translation>
+<translation id="4513896196857653318">Idite na
+          Glavni izbornik &gt;
+          <ph name="SETTINGS_TITLE"/>
+          &gt;
+          <ph name="ADVANCED_TITLE"/>
+          i poništite odabir "<ph name="NO_PREFETCH_DESCRIPTION"/>."
+            Ako ovime ne riješite problem, preporučamo vam da ponovno odaberete sljedeću
+         opciju za poboljšanje performansi.</translation>
+<translation id="8888594059056485523">U postavkama vatrozida ili antivirusnog programa dopustite pregledniku Opera pristup mreži.</translation>
+<translation id="8040357206858000048">Otvorite Aplikacije &gt; Postavke sustava &gt; Mreža &gt; Napredno &gt; Proxyji pa poništite odabir svih odabranih proxyja.</translation>
+<translation id="1532685482177999023">Idite u Glavni izbornik &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; Postavke LAN-a i poništite mogućnost „Upotreba proxy poslužitelja za LAN”.</translation>
+<translation id="6118049677165320383">Promjene će se primijeniti pri ponovnom pokretanju preglednika.</translation>
+<translation id="5510583790312051907">Izvješće o rušenju nije dostupno.</translation>
+<translation id="1011013207380005827">Projekt Opera omogućio je projekt otvorenog izvora <ph name="BEGIN_LINK_CHROMIUM"/>Chromium<ph name="END_LINK_CHROMIUM"/> i drugi <ph name="BEGIN_LINK_OSS"/>softveri otvorenog izvora<ph name="END_LINK_OSS"/>.</translation>
+<translation id="3108493547597012279">Prikazuje vam se sigurna stranica.</translation>
+<translation id="8530361534096361731">Preglednik Opera nije pravilno isključen.</translation>
+</translationbundle>

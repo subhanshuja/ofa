@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="fy">
+<translation id="1974060860693918893">Avansearre</translation>
+<translation id="3462200631372590220">Avansearre ferbergje</translation>
+<translation id="3369192424181595722">Klok flater</translation>
+<translation id="2625385379895617796">Jo klok rint foar</translation>
+<translation id="8932102934695377596">Jo klok rint efter</translation>
+<translation id="3858027520442213535">Datum en tiid fernije</translation>
+<translation id="725866823122871198">In privee ferbining nei <ph name="BEGIN_BOLD"/><ph name="DOMAIN"/><ph name="END_BOLD"/> kin net ta stân komme omdat jo kompjûter syn datum en tiid (<ph name="DATE_AND_TIME"/>) ynkorrekt binne.</translation>
+<translation id="4879058462256654741">Om in feilige ferbining ta stân te bringen, moat jo klok lyk set wurde. Dit omdat de sertifikaten dy't websteeën brûke om har de identifisearjen allinne jildich binne foar in beskate tiid. En omdat jo systeemklok ynkorrekt is, kinne dizze sertifikaten net ferifiearre wurde.</translation>
+<translation id="1413809658975081374">Privacy flater</translation>
+<translation id="3566021033012934673">Jo ferbining is net privee</translation>
+<translation id="340013220407300675">Oanfallers besykje miskien om ynformaasje te stellen fan <ph name="BEGIN_BOLD"/><ph name="SITE"/><ph name="END_BOLD"/> (as foarbyld, wachtwurden, berjochten, of kredytkaart).</translation>
+<translation id="629137324635910832"><ph name="SITE"/> brûkt normaal fersifering om ynformaasje te beskermjen. Doe't Opera dizze kear besocht te ferbinen mei <ph name="SITE"/>, stjoerde de webstee frjemde en ynkorrekte oanmeldings gegevens. Dit kin barre as in oanfaller besiket him foar te dwaan as <ph name="SITE"/>, of in Wi-Fi ynloch skerm de ferbining ferbrutsen hat. Jo ynformaasje is noch wol feilich omdat Opera de ferbining ferbrutsen hat foardat der gegevens útwiksele waarden.</translation>
+<translation id="4404555778932203074">It besykjen fan <ph name="SITE"/> kin op it stuit net barre omdat de webstee fersifere ynlochgegevens stjoerde dy Opera net ferwurkje kin. Netwurk flaters en oanfollen binne meastentiids tydlik, dus de side sil letter wierskynlik wol wer wurkje.</translation>
+<translation id="8882627153668738693"><ph name="SITE"/> brûkt normaal fersifering om ynformaasje te beskermjen. Doe't Avast SafeZone dizze kear besocht te ferbinen mei <ph name="SITE"/>, stjoerde de webstee frjemde en ynkorrekte oanmeldings gegevens. Dit kin barre as in oanfaller besiket him foar te dwaan as <ph name="SITE"/>, of in Wi-Fi ynloch skerm de ferbining ferbrutsen hat. Jo ynformaasje is noch wol feilich omdat Avast SafeZone de ferbining ferbrutsen hat foardat der gegevens útwiksele waarden.</translation>
+<translation id="1888865191717601957">It besykjen fan <ph name="SITE"/> kin op it stuit net barre omdat de webstee fersifere ynlochgegevens stjoerde dy Avast SafeZone net ferwurkje kin. Netwurk flaters en oanfollen binne meastentiids tydlik, dus de side sil letter wierskynlik wol wer wurkje.</translation>
+<translation id="6264485186158353794">Werom nei feiligens</translation>
+<translation id="7704050614460855821"><ph name="BEGIN_LINK"/>Gean fierder nei <ph name="SITE"/> (ûnfeilich)<ph name="END_LINK"/></translation>
+<translation id="5556459405103347317">Ferfarskje</translation>
+<translation id="6051221802930200923">It besykjen fan <ph name="SITE"/> kin op it stuit net barre omdat it webstee sertifikaat pinning brûkt. Netwurk flaters en oanfollen binne meastentiids tydlik, dus de side sil letter wierskynlik wol wer wurkje.</translation>
+<translation id="2991571918955627853">It besykjen fan <ph name="SITE"/> kin op it stuit net barre omdat de webstee HSTS brûkt. Netwurk flaters en oanfollen binne meastentiids tydlik, dus de side sil letter wierskynlik wol wer wurkje.</translation>
+<translation id="1430489501396597835">It besykjen fan <ph name="SITE"/> kin op it stuit net barre omdat it sertifikaat ynlútsen is. Netwurk flaters en oanfollen binne meastentiids tydlik, dus de side sil letter wierskynlik wol wer wurkje.</translation>
+<translation id="4513896196857653318">Gean nei
+          it Haadmenu &gt;
+          <ph name="SETTINGS_TITLE"/>
+          &gt;
+          <ph name="ADVANCED_TITLE"/>
+          en ûntselektearje "<ph name="NO_PREFETCH_DESCRIPTION"/>."
+          As dit de swierrigens net oplost, dan rikkemandearje wy dizze opsje
+          op 'e nij te selektearjen foar ferbettere prestaasje.</translation>
+<translation id="8888594059056485523">Stean yn jo brânmoarre of anty firus ynstellings ta dat Opera tagong hat it netwurk.</translation>
+<translation id="8040357206858000048">Gean nei Applications &gt; System Preferences &gt; Network &gt; Advanced &gt; Proxies en deselektearje alle proksy dy't selektearre binne.</translation>
+<translation id="1532685482177999023">Gean nei it Haadmenu &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> LAN ynstellings en ûntselektearje "In proksy tsjinner foar jo LAN brûke".</translation>
+<translation id="6118049677165320383">Jo feroarings sille effekt ha as jo de blêder de folgjende kear op 'e nij útfiere.</translation>
+<translation id="5510583790312051907">It rapportearjen fan ferûngelokjen is net beskikber.</translation>
+<translation id="1011013207380005827">Opera is mooglik makke troch it <ph name="BEGIN_LINK_CHROMIUM"/>Chromium<ph name="END_LINK_CHROMIUM"/> iepen boarne projekt en oare <ph name="BEGIN_LINK_OSS"/>iepen boarne sêftguod<ph name="END_LINK_OSS"/>.</translation>
+<translation id="3108493547597012279">Jo besjogge in feilige side.</translation>
+<translation id="8530361534096361731">Opera is net op de goede manier de ein berûn.</translation>
+</translationbundle>

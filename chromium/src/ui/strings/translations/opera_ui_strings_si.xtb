@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="si">
+<translation id="9044832324875206639">{SECONDS, plural, =1 {1 තත්පරය} other {# තත්}}</translation>
+<translation id="4968171027979920686">{SECONDS, plural, =1 {1 තත්පරය} other {# තත්පර}}</translation>
+<translation id="5754277640426581776">{MINUTES, plural, =1 {1 විනා} other {# mins}}</translation>
+<translation id="1752946267035950200">{MINUTES, plural, =1 {1 විනාඩිය} other {# විනාඩි}}</translation>
+<translation id="1591184457164800433">{MINUTES, plural, =1 {1 විනාඩි සහ} other {# විනාඩි සහ}}</translation>
+<translation id="5943826764092288734">{HOURS, plural, =1 {1 පැය} other {# පැය}}</translation>
+<translation id="1830179671306812954">{HOURS, plural, =1 {1 පැය සහ } other {# පැය සහ }}</translation>
+<translation id="3291688615589870984">{DAYS, plural, =1 {1 දවස} other {# දවස්}}</translation>
+<translation id="5768079895599174203">{DAYS, plural, =1 {1 දවස් සහ } other {# දවස් සහ }}</translation>
+<translation id="8131263257437993507">{SECONDS, plural, =1 {1 තත් ඉතිරි} other {# තත් ඉතිරි}}</translation>
+<translation id="5906667377645263094">{SECONDS, plural, =1 {1 තත්පරය ඉතිරි} other {# තත්පර ඉතිරි}}</translation>
+<translation id="7238427729722629793">{MINUTES, plural, =1 {1 විනා ඉතිරි} other {# විනා ඉතිරි}}</translation>
+<translation id="7410957453383678442">{MINUTES, plural, =1 {1 විනාඩිය සහ} other {# විනාඩි ඉතිරි}}</translation>
+<translation id="6863590663815976734">{HOURS, plural, =1 {1 පැය ඉතිරි } other {# පැය ඉතිරි }}</translation>
+<translation id="3600566671520689681">{DAYS, plural, =1 {1 දවස් ඉතිරි } other {# දවස් ඉතිරි }}</translation>
+<translation id="6404817160109697034">{SECONDS, plural, =1 {1 තත් කට පෙර} other {# තත් කට පෙර}}</translation>
+<translation id="7365057348334984696">{MINUTES, plural, =1 {1 විනා කට පෙර} other {# විනා කට පෙර}}</translation>
+<translation id="8106081041558092062">{HOURS, plural, =1 {1 පැය කට පෙර } other {# පැය කට පෙර }}</translation>
+<translation id="1127811143501539442">{DAYS, plural, =1 {1 දවස් කට පෙර } other {# දවස් කට පෙර }}</translation>
+<translation id="2148716181193084225">අද</translation>
+<translation id="7781829728241885113">ඊයේ</translation>
+<translation id="2190355936436201913">(හිස්)</translation>
+<translation id="688711909580084195">නමක් රහිත වෙබ් පිටුව</translation>
+<translation id="2497284189126895209">සියලු ගොනු</translation>
+<translation id="8602707065186045623"><ph name="SAVEAS_EXTENSION_TYPE"/> ගොනුව (.<ph name="SAVEAS_EXTENSION_NAME"/>)</translation>
+<translation id="364720409959344976">පැටවීමට ෆෝල්ඩරය තෝරන්න</translation>
+<translation id="6945221475159498467">තෝරන්න</translation>
+<translation id="1243314992276662751">පටවන්න</translation>
+<translation id="6845383723252244143">ෆෝල්ඩරය තෝරන්න</translation>
+<translation id="6620110761915583480">ගොනුව සුරකින්න</translation>
+<translation id="7907591526440419938">ගොනුව විවෘත කරන්න</translation>
+<translation id="3036649622769666520">ගොනු විවෘත කරන්න</translation>
+<translation id="436869212180315161">ඔබන්න</translation>
+<translation id="6040143037577758943">වසන්න</translation>
+<translation id="5941711191222866238">අඩු කරන්න</translation>
+<translation id="1398853756734560583">වැඩි කරන්න</translation>
+<translation id="3157931365184549694">පිළිසකර කරන්න</translation>
+<translation id="3183922693828471536">මෙතැනට ස්ක්‍රෝල් කරන්න</translation>
+<translation id="8328145009876646418">වම කෙළවර</translation>
+<translation id="3990502903496589789">දකුණු කෙළවර</translation>
+<translation id="2666092431469916601">ඉහළ</translation>
+<translation id="3087734570205094154">පහළ</translation>
+<translation id="2168039046890040389">ඉහළ පිටුව</translation>
+<translation id="8210608804940886430">පහළ පිටුව</translation>
+<translation id="6364916375976753737">වමට ස්ක්‍රෝල් කරන්න</translation>
+<translation id="4588090240171750605">වමට ස්ක්‍රෝල් කරන්න</translation>
+<translation id="8331626408530291785">දකුණට ස්ක්‍රෝල් කරන්න</translation>
+<translation id="815598010540052116">පහළට ස්ක්‍රෝල් කරන්න</translation>
+<translation id="9170848237812810038">&amp;නැවත වෙනස් කරන්න</translation>
+<translation id="3909791450649380159">කප&amp;න්න</translation>
+<translation id="7814458197256864873">&amp;පිටපත් කරන්න</translation>
+<translation id="5076340679995252485">&amp;අලවන්න</translation>
+<translation id="5329858601952122676">&amp;මකන්න</translation>
+<translation id="1901303067676059328">සියල්ල &amp;තෝරන්න</translation>
+<translation id="1383876407941801731">සොයන්න</translation>
+<translation id="6965382102122355670">ඕකේ</translation>
+<translation id="7658239707568436148">අවලංගු කරන්න</translation>
+<translation id="1293699935367580298">එස්කේප්</translation>
+<translation id="8245914219290430011">ටැබය</translation>
+<translation id="1871244248791675517">ඉන්ස්</translation>
+<translation id="932327136139879170">මුල් පිටුව</translation>
+<translation id="6135826906199951471">මක</translation>
+<translation id="528468243742722775">අවසන්</translation>
+<translation id="5613020302032141669">වම් ස්ක්‍රෝල්</translation>
+<translation id="3889424535448813030">දකුණු ස්ක්‍රෝල්</translation>
+<translation id="3660179305079774227">ඉහළ ස්ක්‍රෝල්</translation>
+<translation id="3234408098842461169">පහළ ස්ක්‍රෝල්</translation>
+<translation id="8179976553408161302">ඇතුලත් කරන්න</translation>
+<translation id="6129953537138746214">ඉඩ යතුර</translation>
+<translation id="2515586267016047495">Alt</translation>
+<translation id="7052633198403197513">F1</translation>
+<translation id="7222373446505536781">F11</translation>
+<translation id="5583640892426849032">බැක්ස්පේස්</translation>
+<translation id="6394627529324717982">කොමාව</translation>
+<translation id="1801827354178857021">තිත</translation>
+<translation id="6699343763173986273">මාධ්‍ය ඊළග ගීතය</translation>
+<translation id="8394908167088220973">මාධ්‍ය වාදනය කරන්න/අත්හිටුවන්න</translation>
+<translation id="4971687151119236543">මාධ්‍ය කළින් ගීතය</translation>
+<translation id="6808150112686056157">මාධ්‍ය නවත්වන්න</translation>
+<translation id="4999762576397546063">Ctrl+<ph name="KEY_COMBO_NAME"/></translation>
+<translation id="5948410903763073882">Alt+<ph name="KEY_COMBO_NAME"/></translation>
+<translation id="8400147561352026160">Shift+<ph name="KEY_COMBO_NAME"/></translation>
+<translation id="4820616160060340806">නියෝගය+<ph name="KEY_COMBO_NAME"/></translation>
+<translation id="5120799197269191491">සොයන්න+<ph name="KEY_COMBO_NAME"/></translation>
+<translation id="1761785978543082658"><ph name="QUANTITY"/> B</translation>
+<translation id="8901569739625249689"><ph name="QUANTITY"/> KB</translation>
+<translation id="3049748772180311791"><ph name="QUANTITY"/> MB</translation>
+<translation id="3757388668994797779"><ph name="QUANTITY"/> GB</translation>
+<translation id="7460907917090416791"><ph name="QUANTITY"/> TB</translation>
+<translation id="520299402983819650"><ph name="QUANTITY"/> PB</translation>
+<translation id="6142413573757616983"><ph name="QUANTITY"/> B/s</translation>
+<translation id="8677655579646609597"><ph name="QUANTITY"/> KB/s</translation>
+<translation id="1809410197924942083"><ph name="QUANTITY"/> MB/s</translation>
+<translation id="3740362395218339114"><ph name="QUANTITY"/> GB/s</translation>
+<translation id="2297836609126180313"><ph name="QUANTITY"/> TB/s</translation>
+<translation id="6907759265145635167"><ph name="QUANTITY"/> PB/s</translation>
+<translation id="1190609913194133056">දැනුම්දීම් මධ්‍යස්ථානය</translation>
+<translation id="1413622004203049571">දැනුම්දීම් වෙතින් අක්‍රිය කරන්න <ph name="NOTIFIER_NAME"/></translation>
+<translation id="2482878487686419369">දැනුම්දීම්</translation>
+<translation id="7647488630410863958">ඔබේ දැනුම්දීම් බැලීමට උපාංගයේ අගුළු හරින්න</translation>
+<translation id="8428213095426709021">පසුතල</translation>
+<translation id="6829324100069873704">දැනුම්දීම් වෙත ආපසු යන්න</translation>
+<translation id="7135556860107312402">පහත දෑ වෙතින් දැනුම්දීම්වලට ඉඩ දෙන්න:</translation>
+<translation id="6918245111648057970">එක් එක් භාවිතකරු සඳහා පහත දෑ වෙතින් දැනුම්දීම්වලට ඉඩ දෙන්න:</translation>
+<translation id="2983818520079887040">පසුතල...</translation>
+<translation id="7457942297256758195">සියල්ල හිස් කරන්න</translation>
+<translation id="6528179044667508675">බාධා නොකරන්න</translation>
+<translation id="7850320739366109486">බාධා නොකරන්න</translation>
+<translation id="8392688371657486010">ඔබට දැනුම්දීම් නැත</translation>
+<translation id="1860796786778352021">දැනුම්දීම වසන්න</translation>
+<translation id="111910763555783249">දැනුම්දීම් පසුතල</translation>
+<translation id="4250229828105606438">ස්ක්‍රීන්ෂොට්</translation>
+<translation id="2743387203779672305">ක්ලිප්බෝඩ් වෙත පිටපත් කරන්න</translation>
+<translation id="2336922762358079423">Google තබා ගැනීමේ විස්තර කරන්න</translation>
+<translation id="1685967565548146460">තොප්පි</translation>
+<translation id="459417155289402299">ක්ෂණික අගුළු හැරීමේ විශේෂාංගය</translation>
+<translation id="7649070708921625228">උපකාර</translation>
+<translation id="945522503751344254">අදහස් යවන්න</translation>
+<translation id="385051799172605136">ආපසු</translation>
+<translation id="598033046487663418">සියලු යෙදුම්</translation>
+<translation id="9038489124413477075">‍‍නමක් රහිත ෆෝල්ඩරය</translation>
+<translation id="8806053966018712535">ෆෝල්ඩරය <ph name="FOLDER_NAME"/></translation>
+<translation id="2803313416453193357">ෆෝල්ඩරය විවෘත කරන්න</translation>
+<translation id="6786750046913594791">ෆෝල්ඩරය වසන්න</translation>
+<translation id="8371695176452482769">දැන් කථා කරන්න</translation>
+<translation id="4320177379694898372">අන්තර්ජාල සම්බන්ධතා නැත</translation>
+</translationbundle>

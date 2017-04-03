@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="tr">
+<translation id="1974060860693918893">Gelişmiş</translation>
+<translation id="3462200631372590220">Gelişmiş'i gizle</translation>
+<translation id="3369192424181595722">Saat hatası</translation>
+<translation id="2625385379895617796">Saatiniz ileri</translation>
+<translation id="8932102934695377596">Saatiniz geri</translation>
+<translation id="3858027520442213535">Tarih ve saati güncelle</translation>
+<translation id="725866823122871198">Bilgisayarınızın tarih ve saati (<ph name="DATE_AND_TIME"/>) hatalı olduğu için <ph name="BEGIN_BOLD"/><ph name="DOMAIN"/><ph name="END_BOLD"/> ile gizli bağlantı kurulamıyor.</translation>
+<translation id="4879058462256654741">Gizli bağlantı kurabilmek için, saatinizin doğru olması gerekir. Bunun nedeni web sitelerinin kendilerini tanımlamak için kullandıkları sertifikaların belirli bir zaman için geçerli olmasıdır. Cihazınızın saati hatalı olduğu için, bu sertifikaların doğrulanması yapılamıyor.</translation>
+<translation id="1413809658975081374">Gizlilik hatası</translation>
+<translation id="3566021033012934673">Bağlantınız özel değil</translation>
+<translation id="340013220407300675">Saldırganlar <ph name="BEGIN_BOLD"/><ph name="SITE"/><ph name="END_BOLD"/> üzerinden bilgilerinizi çalmaya çalışıyor olabilir (örneğin, parola, mesaj veya kredi kartı).</translation>
+<translation id="629137324635910832">Normalde <ph name="SITE"/>, bilgilerinizi korumak için şifreleme kullanır. Opera bu sefer <ph name="SITE"/> sitesine bağlanmayı denediğinde, web sitesi sıradışı ve hatalı kimlik bilgisi gönderdi. Bu durum, saldırganlar <ph name="SITE"/> sitesi gibi davranmaya çalıştığında veya bağlantı bir Wi-Fi oturum açma ekranı tarafından engellediğinde meydana gelebilir. Bilgileriniz hala güvende çünkü Opera herhangi bir veri alışverişi olmadan bağlantıyı kesti.</translation>
+<translation id="4404555778932203074"><ph name="SITE"/> sayfasını şu anda ziyaret edemezsiniz, çünkü web sitesi Opera'nın işleyemeyeceği şifreli kimlik bilgileri gönderiyor. Ağ hataları ve saldırıları genellikle geçicidir, bu sayfa muhtemelen daha sonra çalışacaktır.</translation>
+<translation id="8882627153668738693">Normalde <ph name="SITE"/>, bilgilerinizi korumak için şifreleme kullanır. Avast SafeZone bu sefer <ph name="SITE"/> sitesine bağlanmayı denediğinde, web sitesi sıradışı ve hatalı kimlik bilgisi gönderdi. Bu durum, saldırganlar <ph name="SITE"/> sitesi gibi davranmaya çalıştığında veya bağlantı bir Wi-Fi oturum açma ekranı tarafından engellediğinde meydana gelebilir. Bilgileriniz hala güvende çünkü Avast SafeZone herhangi bir veri alışverişi olmadan bağlantıyı kesti.</translation>
+<translation id="1888865191717601957"><ph name="SITE"/> sayfasını şu anda ziyaret edemezsiniz, çünkü web sitesi Avast SafeZone'un işleyemeyeceği şifreli kimlik bilgileri gönderiyor. Ağ hataları ve saldırıları genellikle geçicidir, bu sayfa muhtemelen daha sonra çalışacaktır.</translation>
+<translation id="6264485186158353794">Güvenli alana dön</translation>
+<translation id="7704050614460855821"><ph name="END_LINK"/> sitesine <ph name="BEGIN_LINK"/> devam et (güvensiz)<ph name="SITE"/></translation>
+<translation id="5556459405103347317">Yeniden yükle</translation>
+<translation id="6051221802930200923"><ph name="SITE"/> sayfasını şu anda ziyaret edemezsiniz, çünkü web sitesi sertifika sabitleme kullanıyor. Ağ hataları ve saldırıları genellikle geçicidir, bu sayfa muhtemelen daha sonra çalışacaktır.</translation>
+<translation id="2991571918955627853"><ph name="SITE"/> sayfasını şu anda ziyaret edemezsiniz, çünkü web sitesi HSTS kullanıyor. Ağ hataları ve saldırıları genellikle geçicidir, bu sayfa muhtemelen daha sonra çalışacaktır.</translation>
+<translation id="1430489501396597835"><ph name="SITE"/> sayfasını şu anda ziyaret edemezsiniz, çünkü bu sertifika iptal edildi. Ağ hataları ve saldırıları genellikle geçicidir, bu sayfa muhtemelen daha sonra çalışacaktır.</translation>
+<translation id="4513896196857653318">Git
+          Ana menü &gt;
+          <ph name="SETTINGS_TITLE"/>
+          &gt;
+          <ph name="ADVANCED_TITLE"/>
+          "<ph name="NO_PREFETCH_DESCRIPTION"/>." öğesini seç
+          Sorun çözülmezse önerimiz, daha iyi performans için
+          aşağıdaki seçeneği seçmeniz.</translation>
+<translation id="8888594059056485523">Güvenlik duvarı veya antivirüs ayarlarınızda Opera'nın ağa erişmesine izin verin.</translation>
+<translation id="8040357206858000048">Uygulamalar &gt; Sistem Tercihleri &gt; Ağ &gt; Gelişmiş &gt; Vekil sunucular yolunu izleyin ve seçili durumdaki vekil sunucuları kaldırın.</translation>
+<translation id="1532685482177999023">Avast SafeZone menüsü &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; LAN Ayarları'na gidin ve "Yerel ağınız için Ara Sunucu kullanın" seçimini kaldırın.</translation>
+<translation id="6118049677165320383">Yaptığınız değişiklikler tarayıcıyı yeniden çalıştırdığınızda etkili olacaktır.</translation>
+<translation id="5510583790312051907">Çökme raporlaması kullanılamıyor.</translation>
+<translation id="1011013207380005827">Opera <ph name="BEGIN_LINK_CHROMIUM"/>Chromium<ph name="END_LINK_CHROMIUM"/> açık kaynak yazılımı ve diğer <ph name="BEGIN_LINK_OSS"/>açık kaynak yazılımları<ph name="END_LINK_OSS"/> ile mümkün hale gelmiştir.</translation>
+<translation id="3108493547597012279">Güvenli bir sayfa görüntülüyorsunuz.</translation>
+<translation id="8530361534096361731">Opera doğru şekilde kapanmadı.</translation>
+</translationbundle>

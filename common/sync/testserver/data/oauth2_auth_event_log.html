@@ -1,0 +1,33 @@
+<html>
+  <head>
+    <title>OAuth2 event log</title>
+  </head>
+  <body onload="process_document_loaded()">
+    <script>
+      function refresh_event_log() {
+        xhttp = new XMLHttpRequest();
+        xhttp.open('GET', '/oauth2_auth/fetch_event_log', false);
+        xhttp.send();
+        document.getElementById('event_log').value = xhttp.responseText;
+      }
+
+      function reset_event_log() {
+        xhttp = new XMLHttpRequest();
+        xhttp.open('GET', '/oauth2_auth/reset_event_log', false);
+        xhttp.send();
+        refresh_event_log();
+      }
+
+      function process_document_loaded() {
+        refresh_event_log();
+      }
+    </script>
+    OAuth2 event log<br><br>
+
+    <div id="event_log_div">
+      <input type='button' value="Refresh event log" onclick="refresh_event_log()"><br>
+      <input type='button' value="Clear event log" onclick="reset_event_log()"><br>
+      <textarea id="event_log" style='width: 1600px; height: 300px;'></textarea>
+    </div>
+  </body>
+</html>

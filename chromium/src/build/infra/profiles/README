@@ -1,0 +1,8 @@
+# This is a builder profile. It lists any static or extra
+# parameters that should be passed to the project specific
+# builder script when building a certain type of build.
+
+# Example:
+--no-ccache  # Inline comments works too
+--gyp_params "fastbuild=1 werror=1"
+--env_params "FOO=BAR"

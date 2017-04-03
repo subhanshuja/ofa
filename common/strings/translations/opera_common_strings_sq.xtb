@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="sq">
+<translation id="2978824962390592855">"Opera"</translation>
+<translation id="9071130496134948492">"Opera Software"</translation>
+<translation id="6494666865857176946">"Opera Software" këshillon së tepërmi të mos e vizitosh këtë faqe.</translation>
+<translation id="7459549266751278805">Qendra e njoftimeve të "Opera"</translation>
+<translation id="4501379002264542907">"Opera" - njoftimet</translation>
+<translation id="1352092048463356430">"Opera" - njoftimet (<ph name="QUANTITY"/> të palexuara)</translation>
+<translation id="4159400746343093340">"Opera" - Njoftimet</translation>
+<translation id="6018626517703817463">"Opera" - Njoftimet (<ph name="QUANTITY"/> të palexuara)</translation>
+<translation id="6161036283010589960">Faqja po përdor konfigurim të vjetruar sigurie që mund të pengojë hapjen e sigurt nga versionet e ardhshme të "Opera".</translation>
+<translation id="8888594059056485523">Lejoji "Opera" të hapë rrjetin te cilësimet e murit mbrojtës ose të antivirusit.</translation>
+<translation id="7158277678571698323">Shko te menyja "Opera" &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; "Cilësimet e rrjetit lokal" dhe çzgjidh "Përdor server delegues për rrjetin lokal".</translation>
+<translation id="5873732809085338161">Për të aktivizuar "WebSockets" të pasiguruara në shfletuesin e kompjuterit, shko te <ph name="HTMLOPERAFLAG"/> (Opera 24+) ose <ph name="HTMLCHROMEFLAG"/> (Chrome 36+).</translation>
+<translation id="2005166128312586988">Ndryshimet do të zbatohen pas rihapjes së "Opera".</translation>
+<translation id="684302243018322820">Për të parë fjalëkalimet e ruajtura të "Opera", jep fjalëkalimin e kompjuterit.</translation>
+</translationbundle>

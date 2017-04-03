@@ -1,0 +1,119 @@
+<html>
+	<head>
+		<script>
+	var ajax = {};
+
+	ajax.send = function(url, callback, method, data, sync) {
+	    var x = new XMLHttpRequest();
+	    x.open(method, url, sync);
+	    x.onreadystatechange = function() {
+	        if (x.readyState == 4) {
+	            callback(x.responseText)
+	        }
+	    };
+	    if (method == 'POST') {
+	        x.setRequestHeader('Content-type', 'application/x-www-form-urlencoded');
+	    }
+	    x.send(data)
+	};
+
+	ajax.get = function(url, data, callback, sync) {
+	    var query = [];
+	    for (var key in data) {
+	        query.push(encodeURIComponent(key) + '=' + encodeURIComponent(data[key]));
+	    }
+	    ajax.send(url + '?' + query.join('&'), callback, 'GET', null, sync)
+	};
+
+	ajax.post = function(url, data, callback, sync) {
+	    var query = [];
+	    for (var key in data) {
+	        query.push(encodeURIComponent(key) + '=' + encodeURIComponent(data[key]));
+	    }
+	    ajax.send(url, callback, 'POST', query.join('&'), sync)
+	};
+
+	function refresh() {
+		var p = document.getElementById('main');
+		p.innerHTML = "";
+		var root_item = Object();
+		root_item['id_string'] = '0';
+		root_item['name'] = "DATA";
+		root_element = to_html(root_item);
+		p.appendChild(root_element);
+
+		ajax.get("http://" + location.host + "/chromiumsync/showdata", {}, function(data) { construct_for_parent_id('0', JSON.parse(data), 0); });
+	};
+
+	function construct_for_parent_id(id, data, level) {
+		if (level == undefined)
+			level = 0;
+
+		for (var i = 0; i < data.length; i++) {
+			var item = data[i];
+
+			var parent_id_string = item.parent_id_string;
+			if (parent_id_string != id)
+				continue;
+
+			var parent_element = get_item_with_id(parent_id_string);
+			var id_string = item.id_string;
+			var element = to_html(item, level);
+
+			parent_element.appendChild(element);
+			construct_for_parent_id(id_string, data, level + 1);
+		}
+	};
+
+	function get_item_with_id(id) {
+		var ret = document.getElementById(id);
+		if (ret == null)
+			console.error("Should not happen for " + id + "!");
+
+		return ret;
+	};
+
+	function to_html(item, level) {
+		var props = document.getElementById('props');
+
+		var id_string = item.id_string;
+		var name = item.name;
+		var nbsp = "";
+
+		var p_element = document.createElement('p');
+		p_element.id = id_string;
+		var t = document.createTextNode(name);
+		p_element.style.textIndent = level * 10;
+		p_element.appendChild(t);
+		p_element.setAttribute('server_props', JSON.stringify(item));
+		p_element.onclick = function() {
+			window.event.stopPropagation();
+
+			var id = this.id;
+			var props = document.getElementById('props');
+			props.innerHTML = "";
+
+			var p_element = get_item_with_id(id);
+			var data = JSON.parse(p_element.getAttribute('server_props'));
+			var ul_element = document.createElement('ul');
+			props.appendChild(ul_element);
+
+			for (var k in data) {
+				var li_element = document.createElement('li');
+				var text_element = document.createTextNode(k + " = " + JSON.stringify(data[k]));
+				li_element.appendChild(text_element);
+				props.appendChild(li_element);
+			}
+		}
+
+		return p_element;
+	};
+		</script>
+	</head>
+	<body onload="refresh()">
+		<input type="button" value="Refresh" onclick="refresh()">
+		<table width="95%">
+			<tr><td width="200"><p id="main"></p></td><td valign="top"><p id="props"></p></td></tr>
+		</table>
+	</body>
+</html>

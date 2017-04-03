@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="af">
+<translation id="1974060860693918893">Gevorderd</translation>
+<translation id="3462200631372590220">Versteek gevorderd</translation>
+<translation id="3369192424181595722">Horlosiefout</translation>
+<translation id="2625385379895617796">Jou horlosie is voor</translation>
+<translation id="8932102934695377596">Jou horlosie is agter</translation>
+<translation id="3858027520442213535">Werk datum en tyd by</translation>
+<translation id="725866823122871198">'n Privaatverbinding met <ph name="BEGIN_BOLD"/><ph name="DOMAIN"/><ph name="END_BOLD"/> kan nie gevestig word nie, want jou rekenaar se datum en tyd (<ph name="DATE_AND_TIME"/>) is verkeerd.</translation>
+<translation id="4879058462256654741">Om 'n veilige verbinding te vestig, moet jou horlosie korrek opgestel word. Dit is omdat die sertifikate wat webwerwe gebruik om hulself te identifiseer, slegs vir spesifieke tydsperiode geldig is. Aangesien jou toestel se horlosie verkeerd is, kan hierdie sertifikate nie geverifieer word nie.</translation>
+<translation id="1413809658975081374">Privaatheidsfout</translation>
+<translation id="3566021033012934673">Jou verbinding is nie privaat nie</translation>
+<translation id="340013220407300675">Aanvallers mag dalk probeer om jou inligting van <ph name="BEGIN_BOLD"/><ph name="SITE"/><ph name="END_BOLD"/> te steel (byvoorbeeld, wagwoorde, boodskappe of kredietkaarte).</translation>
+<translation id="629137324635910832"><ph name="SITE"/> gebruik gewoonlik enkripsie om jou inligting te beskerm. Wanneer Opera hierdie keer probeer het om met <ph name="SITE"/> te verbind, het die webwerf ongewone en verkeerde magtigingsbewyse gestuur. Dit kan dalk gebeur wanneer 'n aanvalleer probeer om te maak of hy <ph name="SITE"/> is, of 'n Wi-Fi-aanmeldingskerm het die verbinding onderbreek. Jou inligting is steeds veilig, want Opera het die verbinding gestop voordat enige data uitgeruil kan word.</translation>
+<translation id="4404555778932203074">Jy kan nie nou <ph name="SITE"/> besoek nie, want die webwerf gestuur geënkripteerde aanmelddetails wat Opera nie kan hanteer nie. Netwerkfoute en -aanvalle is gewoonlik tydelik, en hierdie bladsy sal dus waarskynlik later werk.</translation>
+<translation id="8882627153668738693"><ph name="SITE"/> gebruik gewoonlik enkripsie om jou inligting te beskerm. Wanneer Avast SafeZone hierdie keer probeer het om met <ph name="SITE"/> te verbind, het die webwerf ongewone en verkeerde magtigingsbewyse gestuur. Dit kan dalk gebeur wanneer 'n aanvalleer probeer om te maak of hy <ph name="SITE"/> is, of 'n Wi-Fi-aanmeldingskerm het die verbinding onderbreek. Jou inligting is steeds veilig, want Avast SafeZone het die verbinding gestop voordat enige data uitgeruil kan word.</translation>
+<translation id="1888865191717601957">Jy kan nie nou <ph name="SITE"/> besoek nie, want die webwerf gestuur geënkripteerde aanmelddetails wat Avast SafeZone nie kan hanteer nie. Netwerkfoute en -aanvalle is gewoonlik tydelik, en hierdie bladsy sal dus waarskynlik later werk.</translation>
+<translation id="6264485186158353794">Terug na veiligheid</translation>
+<translation id="7704050614460855821"><ph name="BEGIN_LINK"/>Gaan voort na <ph name="SITE"/> (onveilig)<ph name="END_LINK"/></translation>
+<translation id="5556459405103347317">Herlaai</translation>
+<translation id="6051221802930200923">Jy kan nie nou <ph name="SITE"/> besoek nie, want die webwerf gebruik sertifikaat-vasspeld. Netwerkfoute en -aanvalle is gewoonlik tydelik, en hierdie bladsy sal dus waarskynlik later werk.</translation>
+<translation id="2991571918955627853">Jy kan nie nou <ph name="SITE"/> besoek nie, want die webwerf gebruik HSTS. Netwerkfoute en -aanvalle is gewoonlik tydelik, en hierdie bladsy sal dus waarskynlik later werk.</translation>
+<translation id="1430489501396597835">Jy kan nie nou <ph name="SITE"/> besoek nie, want hierdie sertifikaat is herroep. Netwerkfoute en -aanvalle is gewoonlik tydelik, en hierdie bladsy sal dus waarskynlik later werk.</translation>
+<translation id="4513896196857653318">Gaan na
+         die hoofkieslys &gt;
+         <ph name="SETTINGS_TITLE"/>
+         &gt;
+         <ph name="ADVANCED_TITLE"/>
+         en deselekteer "<ph name="NO_PREFETCH_DESCRIPTION"/>."
+         As dit nie die fout oplos nie, beveel ons dit aan dat jy hierdie opsie weer kies
+         vir verbeterde werksverrigting.</translation>
+<translation id="8888594059056485523">Laat Opera toegang toe tot die netwerk in jou brandmuur of antivirusinstellings.</translation>
+<translation id="8040357206858000048">Gaan na Toepassings &gt; Stelselvoorkeure &gt; Netwerk &gt; Gevorderd &gt; Volmagte en ontkies enige volmagte wat gekies is.</translation>
+<translation id="1532685482177999023">Gaan na die hoofkieslys &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; LAN-instellings en ontkies "Gebruik 'n instaanbediener vir jou LAN".</translation>
+<translation id="6118049677165320383">Jou veranderinge sal die volgende keer in werking tree wanneer jy die blaaier herbegin.</translation>
+<translation id="5510583790312051907">Ineenstorting-rapportering is nie beskikbaar nie.</translation>
+<translation id="1011013207380005827">Opera is moontlik gemaak deur die <ph name="BEGIN_LINK_CHROMIUM"/>Chromium<ph name="END_LINK_CHROMIUM"/>-oopbronprojek en ander <ph name="BEGIN_LINK_OSS"/>oopbron-sagteware<ph name="END_LINK_OSS"/>.</translation>
+<translation id="3108493547597012279">Jy besigtig tans 'n veilige bladsy.</translation>
+<translation id="8530361534096361731">Opera het nie korrek afgesluit nie.</translation>
+</translationbundle>

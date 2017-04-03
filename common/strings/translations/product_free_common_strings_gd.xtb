@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="gd">
+<translation id="3942946088478181888">Chan eil mi ’ga thuigsinn buileach</translation>
+<translation id="1396529432791646744">Nuair a cheanglas tu ri làrach-lìn thèarainte, nochdaidh am frithealaiche air a bheil an làrach rud ris a' bhrabhsair agad air a bheil "teisteanas" a dhearbhas a dearbh-aithne. Tha fiosrachadh san teisteanas seo, can seòladh na làraich-lìn, a chaidh a dhearbhadh le treas-phàrtaidh agus sa bheil earbsa aig an uidheam mobile agad. Ma bheireas sùil a bheil an seòladh san teisteanas agus seòladh na làraich-lìn co-ionnann, gabhaidh a dhèanamh cinnteach gu bheil thu a' dèanamh conaltradh tèarainte ris an làrach-lìn a bha thu ag amas air agus chan ann ri làrach air choireigin eile (can gleus-ionnsaigh air an lìonra agad).</translation>
+<translation id="6295228342562451544">Nuair a cheanglas tu ri làrach-lìn thèarainte, nochdaidh am frithealaiche air a bheil an làrach rud ris a’ bhrabhsair agad air a bheil “teisteanas” a dhearbhas a dearbh-aithne. Tha fiosrachadh san teisteanas seo, can seòladh na làraich-lìn, a chaidh a dhearbhadh le treas-phàrtaidh agus sa bheil earbsa aig a’ choimpiutair agad. Ma bheireas sùil a bheil an seòladh san teisteanas agus seòladh na làraich-lìn co-ionnann, gabhaidh a dhèanamh cinnteach gu bheil thu a’ dèanamh conaltradh tèarainte ris an làrach-lìn a bha thu ag amas air agus chan ann ri làrach air choireigin eile (can gleus-ionnsaigh air an lìonra agad).</translation>
+<translation id="8187473050234053012">Chaidh teisteanas tèarainteachd an fhrithealaiche a ghairm air ais!</translation>
+<translation id="5598024575303778520">Rabhadh mu fhoill</translation>
+<translation id="7311721172731074902">Rabhadh mu fhoill</translation>
+<translation id="1858130628205855959">Dh’fhaoidte gun deach an làrach seo a hackigeadh no gu bheil e ri foill. Ma bheir thu facal-faire no fiosrachadh pearsanta dha, dh’fhaoidte gun goidear airgead no do dhearbh-aithne ort.</translation>
+<translation id="8357891144266644027">Rabhadh air làrach dhroch-rùnach</translation>
+<translation id="4664012235452972339">Rabhadh air làrach dhroch-rùnach</translation>
+<translation id="1030973920598092450">Dh’fhaoidte gun deach an làrach seo a hackigeadh no gu bheil bathar-bog droch-rùnach air. Dh’fhaoidte gun dèid do dhochann ma tadhlas tu air.</translation>
+<translation id="4863259811271883558">Air aithris le <ph name="BEGIN_LINK"/><ph name="PROVIDER_NAME"/><ph name="END_LINK"/></translation>
+<translation id="3141322567138977593">Till gu sàbhailte</translation>
+<translation id="833642844779103272">Till gu sàbhailte</translation>
+<translation id="4238466718818823211">Leig seachad an rabhadh seo</translation>
+<translation id="1755698976576372535">Carson a chaidh an duilleag a chasg?</translation>
+<translation id="2962647877740028287">’S e treas-phàrtaidhean a tha a’ dèiligeadh ris na h-aithisgean foill againn.</translation>
+<translation id="7470668651798735849">Chì thu na brathan air fad agad an-seo o dhiofar làraichean-lìn.</translation>
+<translation id="6426222199977479699">Mearachd SSL</translation>
+<translation id="8398877366907290961">Lean air adhart co-dhiù</translation>
+<translation id="6264485186158353794">Air ais gu tèarainte</translation>
+<translation id="2225024820658613551">Cha bu chòir dhut leantainn air adhart &lt;strong&gt;gu h-àraidh&lt;/strong&gt; mur am faca tu an rabhadh seo roimhe air an làrach seo.</translation>
+<translation id="5645845270586517071">Mearachd tèarainteachd</translation>
+<translation id="1103666958012677467">Chan urrainn dhut leantainn air adhart a chionn 's gun do dh'iarr gnìomharaiche na làraich-lìn tèarainteachd a bharrachd airson na h-àrainn seo.</translation>
+<translation id="5463275305984126951">Clàr-amais <ph name="LOCATION"/></translation>
+<translation id="8877448029301136595">[pasgan pàraint]</translation>
+<translation id="3835522725882634757">Ìoc! Tha am frithealaiche seo a’ cur dàta nach tuig <ph name="PRODUCT_NAME"/>. <ph name="BEGIN_LINK"/>Dèan aithris air buga<ph name="END_LINK"/> agus gabh a-steach an <ph name="BEGIN2_LINK"/>raw listing<ph name="END2_LINK"/>.</translation>
+<translation id="5327248766486351172">Ainm</translation>
+<translation id="8028993641010258682">Meud</translation>
+<translation id="57646104491463491">Atharrachadh mu dheireadh</translation>
+<translation id="8465929756435120446">Tha susbaint nach eil tèarainte air an duilleag seo.</translation>
+<translation id="6827416153061837992">Chan eil an ceangal seo crioptaichte.</translation>
+<translation id="9193357432624119544">Còd na mearachd: <ph name="ERROR_NAME"/></translation>
+<translation id="4910619056351738551">Seo dhut rud no dha as urrainn dhut dèanamh:</translation>
+<translation id="2954705784594331199"><ph name="BEGIN_LINK"/>Ath-luchdaich<ph name="END_LINK"/> an duilleag-lìn seo às a dhèidh seo.</translation>
+<translation id="4977565600485911823">Cuir à comas na leudachain agad is <ph name="BEGIN_LINK"/>ath-luchdaich<ph name="END_LINK"/> an duilleag-lìn seo.</translation>
+<translation id="1103966635949043187">Tadhail air duilleag-dhachaidh na làraich:</translation>
+<translation id="7747589364844254751">Thoir sùil air a' cheangal agad ris an eadar-lìon. Ath-thòisich rùtar, mòdam no uidheam lìonraidh sam bith eile a tha thu a' cleachdadh.</translation>
+<translation id="5548623538190661145">Thoir sùil air na roghainnean DNS agad. Cuir fios gu rianaire an lìonraidh agad mur eil thu cinnteach dè is ciall dha seo.</translation>
+<translation id="4545046228395991092">Ma tha thu a’ cleachdadh frithealaiche progsaidh, thoir sùil air na roghainnean progsaidh agad is cuir fios gu rianaire an lìonraidh agad gus dèanamh cinnteach gu bheil am frithealaiche progsaidh ag obair.</translation>
+<translation id="1712673276482711826">Ma tha thu a' cleachdadh frithealaiche progsaidh, thoir sùil air na roghainnean progsaidh agad no iarr air rianaire an lìonraidh agad dèanamh cinnteach gu bheil am frithealaiche progsaidh ag obair. Ma tha thu dhen bheachd nach bu chòir dhut frithealaiche progsaidh a chleachdadh: <ph name="PLATFORM_TEXT"/></translation>
+<translation id="721197778055552897"><ph name="BEGIN_LINK"/>Barrachd fiosrachaidh<ph name="END_LINK"/> mun duilgheadas seo.</translation>
+<translation id="8235325155053717782">Mearachd <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="3986287159189541211">Mearachd HTTP <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="3225919329040284222">Nochd am frithealaiche teisteanas nach eil a’ freagairt ris na thathar an dùil a-rèir an t-siostaim. Tha iad seo air filleadh a-steach airson cuid a làraichean-lìn air tèarainteachd àrd gus do dhìon.</translation>
+<translation id="6957887021205513506">Tha coltas gur e teisteanas fuadain a tha aig an fhrithealaiche.</translation>
+<translation id="6429639049555216915">Cha ghabh an aplacaid seo a ruigsinn an-dràsta fhèin.</translation>
+<translation id="9127307628159259612">Cuir <ph name="PRODUCT_NAME"/> ri liosta nam prògraman ceadaichte aig a’ chachaileith-theine agad no am prògram a dhìonas thu o bhìorasan. Ma tha cead aig a’ phrògram mu thràth, feuch is thoir air falbh o liosta nam prògraman ceadaichte ’s cuir ris a-rithist e.</translation>
+<translation id="4544369257849566741">Bha leudachan a’ cho-rèiteachaidh SSL a dhìth air a’ chrathadh-làimhe tèarainte. Feumaidh <ph name="PRODUCT_NAME"/> crathadh-làimhe nas tèarainte air cuid a làraichean (ma tha fhios gun cuir iad taic ris a leithid a leudachan) gus casg a chur air nàdar sònraichte a dh’ionnsaighean. Tha teans gun do bhris cuideigin a-steach air a’ cheangal agad leis nach eil an leudachan seo ann.</translation>
+<translation id="8162734958263531433">Mus urrainn dhut USB Debugging a chleachdadh, feumaidh tu Android SDK agus USB Debugging a chur an comas air an uidheam Android agad. Thoir sùil air <ph name="HTML_HELPURL"/> airson barrachd fiosrachaidh.</translation>
+<translation id="1875071432292773474">Cuir a-steach an seòladh <ph name="ACCESS_POINT"/> air a' bhrabhsair desktop agad. Feumaidh am brabhsair desktop a bhith air an aon lìonra 's a tha an t-uidheam Android.</translation>
+<translation id="7227425938337339799">Mus obraich UPnP, feumaidh tu a bhith air an aon subnet no an rùtar a dhrochaideachadh mus gabh craolaidhean a shìneadh air adhart air subnets.</translation>
+<translation id="4553629908098215669">Air a’ choimpiutair agad, ruith <ph name="HTMLADBCOMMAND"/> agus tadhail air <ph name="HTMLLOCALHOSTURL"/> le brabhsair a tha stèidhichte air Chromium.</translation>
+<translation id="4570032796877367747">An camara beòil</translation>
+<translation id="2599796128805996109">An camara cùil</translation>
+<translation id="2124507516322945394">Am micreofon bunaiteach</translation>
+<translation id="1587215898571986504">Glaodhaire an fhòn</translation>
+<translation id="5614598979078259956">Headset uèirichte</translation>
+<translation id="9031226374756103225">Cnap-cluaise a' headset</translation>
+<translation id="149679617917926491">Bluetooth headset</translation>
+<translation id="6060685159320643512">Bi air d’ fhaiceall, faodaidh gun doir na deuchainnean seo greim asad</translation>
+<translation id="5199729219167945352">Deuchainnean</translation>
+<translation id="533563709691128800">à comas</translation>
+<translation id="2506903884491778518">Lorg sna deuchainnean</translation>
+<translation id="1138663153846032155">Roghnaich HTML seach Flash</translation>
+<translation id="2081453640527377956">Roghnaich susbaint HTML le bhith a’ falach Flash o liosta nam plugan.</translation>
+<translation id="5998167623928667649">Ruith susbaint Flash sam bith mas e “Ceadaich” an roghainn Flash a chaidh a thagadh</translation>
+<translation id="5138177765054221193">Airson làraichean a far an deach susbaint Flash a cheadachadh, ruith susbaint sam bith, a’ gabhail a-steach stuth nach eil ga mheas cudromach.</translation>
+<translation id="2112624549618815628">Bun-roghainn (an comas)</translation>
+<translation id="3696363537446376816">Bun-roghainn (à comas)</translation>
+<translation id="5773249585542913314">Windows Runtime MIDI API</translation>
+<translation id="7122132768827815392">Cleachd Windows Runtime MIDI API airson WebMIDI (cha bhi buaidh aige seo ach air Windows 10 no tionndaidhean nas ùire).</translation>
+<translation id="1375198122581997741">Mun tionndadh seo</translation>
+<translation id="7248671827512403053">Aplacaid</translation>
+<translation id="1710259589646384581">OS</translation>
+<translation id="6897140037006041989">Àidseant-cleachdaiche</translation>
+<translation id="7353601530677266744">Loidhne-àithne</translation>
+<translation id="7225807090967870017">ID a’ build</translation>
+<translation id="8420139899406509438">An comas (Ìslichidh Flash àirde na fuaime ma chailleas e am fòcas fuaime, deuchainneach)</translation>
+</translationbundle>

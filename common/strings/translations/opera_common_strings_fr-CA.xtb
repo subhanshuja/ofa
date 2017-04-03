@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="fr-CA">
+<translation id="2978824962390592855">Opera</translation>
+<translation id="9071130496134948492">Opera Software</translation>
+<translation id="6494666865857176946">Opera Software décourage fortement la visite de cette page.</translation>
+<translation id="7459549266751278805">Centre des avis Opera</translation>
+<translation id="4501379002264542907">Opera - Avis</translation>
+<translation id="1352092048463356430">Opera - Avis (<ph name="QUANTITY"/> non-lus)</translation>
+<translation id="4159400746343093340">Opera - Avis</translation>
+<translation id="6018626517703817463">Opera - Avis (<ph name="QUANTITY"/> non-lus)</translation>
+<translation id="6161036283010589960">Le site utilise des réglages de sécurité qui peuvent empêcher de futures versions d'Opera de pouvoir y accéder sans danger.</translation>
+<translation id="8888594059056485523">Permettre à Opera d'accéder le réseau dans vos réglages de pare-feu ou anti-virus.</translation>
+<translation id="7158277678571698323">Accédez le menu Opera &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; Réglages réseaux et désactivez "Utiliser un serveur proxy pour le réseau local".</translation>
+<translation id="5873732809085338161">Pour activer les WebSockets non sécurisés sur votre ordinateur de bureau, aller à <ph name="HTMLOPERAFLAG"/>(Opera 24+) ou <ph name="HTMLCHROMEFLAG"/> (Chrome 36+).</translation>
+<translation id="2005166128312586988">Vos changement seront actifs lors du redémarrage d'Opera.</translation>
+<translation id="684302243018322820">Pour voir les mots de passe enregistrés dans Opera, veuillez entrer votre mot de passe de l'ordianteur.</translation>
+</translationbundle>

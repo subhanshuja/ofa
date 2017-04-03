@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="id">
+<translation id="2978824962390592855">Opera</translation>
+<translation id="9071130496134948492">Opera Software</translation>
+<translation id="6494666865857176946">Opera Software sangat tidak menganjurkan untuk mengunjungi halaman ini.</translation>
+<translation id="7459549266751278805">Pusat notifikasi Opera</translation>
+<translation id="4501379002264542907">Opera - notifikasi</translation>
+<translation id="1352092048463356430">Opera - notifikasi (<ph name="QUANTITY"/> belum dibaca)</translation>
+<translation id="4159400746343093340">Opera - Notifikasi</translation>
+<translation id="6018626517703817463">Opera - Notifikasi (<ph name="QUANTITY"/> belum dibaca)</translation>
+<translation id="6161036283010589960">Website menggunakan pengaturan keamanan yang ketinggalan jaman yang bisa mengakibatkan versi Opera di masa depan gagal mengaksesnya dengan aman.</translation>
+<translation id="8888594059056485523">Ijinkan Opera untuk mengakses jaringan di dalam firewall atau seting antivirus Anda.</translation>
+<translation id="7158277678571698323">Buka menu Opera &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; Pengaturan LAN dan hapus pilihan "Gunakan server proksi untuk LAN".</translation>
+<translation id="5873732809085338161">Untuk mengaktifkan WebSocket tidak aman di browser Anda, silahkan ke <ph name="HTMLOPERAFLAG"/> (Opera 24+) atau <ph name="HTMLCHROMEFLAG"/> (Chrome 36+).</translation>
+<translation id="2005166128312586988">Perubahan yang Anda buat akan berfungsi setelah restart Opera.</translation>
+<translation id="684302243018322820">Untuk melihat kata kunci yang disimpan Opera, silahkan memasukkan kata kunci komputer Anda.</translation>
+</translationbundle>

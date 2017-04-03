@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="ko">
+<translation id="1974060860693918893">고급</translation>
+<translation id="3462200631372590220">고급 숨기기</translation>
+<translation id="3369192424181595722">시계 오류</translation>
+<translation id="2625385379895617796">시계가 빠릅니다</translation>
+<translation id="8932102934695377596">시계가 느립니다</translation>
+<translation id="3858027520442213535">업데이트 날짜 및 시간</translation>
+<translation id="725866823122871198">컴퓨터의 날짜와 시간(<ph name="DATE_AND_TIME"/>)이 잘못되어 <ph name="BEGIN_BOLD"/><ph name="DOMAIN"/><ph name="END_BOLD"/>에 대한 비공개 연결을 설정할 수 없습니다.</translation>
+<translation id="4879058462256654741">보안 연결을 설정하려면 시계를 올바로 설정해야 합니다. 웹 사이트가 자체 식별을 위해 사용하는 인증서가 특정 시간 동안만 유효하기 때문입니다. 장치의 시계가 잘못되었으므로 이러한 인증서를 검증할 수 없습니다.</translation>
+<translation id="1413809658975081374">개인 보안 오류</translation>
+<translation id="3566021033012934673">연결이 전용이 아님</translation>
+<translation id="340013220407300675">공격자가 <ph name="BEGIN_BOLD"/><ph name="SITE"/><ph name="END_BOLD"/>에서 정보 도용을 시도할 수 있습니다(예: 비밀번호, 메시지, 신용 카드).</translation>
+<translation id="629137324635910832"><ph name="SITE"/>은(는) 귀하의 정보 보호를 위해 주로 암호화를 사용합니다. 이번에 Opera가 <ph name="SITE"/>에 연결을 시도했으나 웹 사이트에서 특이하고 잘못된 자격 증명을 보냈습니다. 공격자가 <ph name="SITE"/>임을 가장하거나 Wi-Fi 로그인 화면이 연결을 방해했기 때문일 수 있습니다. 모든 데이터가 교환되기 전에 Opera가 연결을 중단하므로 귀하의 정보는 여전히 안전합니다.</translation>
+<translation id="4404555778932203074">이 웹 사이트가 Opera에서 처리할 수 없는 암호화된 자격 증명을 전송하여 지금 바로 <ph name="SITE"/>에 방문할 수 없습니다. 네트워크 오류나 공격은 보통 일시적이므로, 십중팔구 나중에는 이 페이지가 작동할 것입니다.</translation>
+<translation id="8882627153668738693"><ph name="SITE"/>은(는) 귀하의 정보 보호를 위해 주로 암호화를 사용합니다. 이번에 Avast SafeZone이 <ph name="SITE"/>에 연결을 시도했으나 웹 사이트에서 특이하고 잘못된 자격 증명을 보냈습니다. 공격자가 <ph name="SITE"/>임을 가장하거나 Wi-Fi 로그인 화면이 연결을 방해했기 때문일 수 있습니다. 모든 데이터가 교환되기 전에 Avast SafeZone이 연결을 중단하므로 귀하의 정보는 여전히 안전합니다.</translation>
+<translation id="1888865191717601957">이 웹 사이트가 Avast SafeZone에서 처리할 수 없는 암호화된 자격 증명을 전송하여 지금 바로 <ph name="SITE"/>에 방문할 수 없습니다. 네트워크 오류나 공격은 보통 일시적이므로, 십중팔구 나중에는 이 페이지가 작동할 것입니다.</translation>
+<translation id="6264485186158353794">안정성으로 돌아가기</translation>
+<translation id="7704050614460855821"><ph name="BEGIN_LINK"/><ph name="SITE"/>(으)로 진행(안전하지 않음)<ph name="END_LINK"/></translation>
+<translation id="5556459405103347317">새로 고침</translation>
+<translation id="6051221802930200923">웹 사이트에서 인증서 고정을 사용하고 있어 지금 바로 <ph name="SITE"/>에 방문할 수 없습니다. 네트워크 오류나 공격은 보통 일시적이므로, 십중팔구 나중에는 이 페이지가 작동할 것입니다.</translation>
+<translation id="2991571918955627853">웹사이트에서 HSTS를 사용하고 있어 지금 바로 <ph name="SITE"/>에 방문할 수 없습니다. 네트워크 오류나 공격은 보통 일시적이므로, 십중팔구 나중에는 이 페이지가 작동할 것입니다.</translation>
+<translation id="1430489501396597835">이 인증서가 이미 해지되어 지금 바로 <ph name="SITE"/>에 방문할 수 없습니다. 네트워크 오류나 공격은 보통 일시적이므로, 십중팔구 나중에는 이 페이지가 작동할 것입니다.</translation>
+<translation id="4513896196857653318">주 메뉴 &gt;
+          <ph name="SETTINGS_TITLE"/>
+          &gt;
+          <ph name="ADVANCED_TITLE"/>
+          로 이동하고 "<ph name="NO_PREFETCH_DESCRIPTION"/>"을(를) 선택 취소하십시오.
+          이 문제가 해결되지 않은 경우 이 옵션을 다시 선택하여 성능을 개선할 것을
+          권장합니다.</translation>
+<translation id="8888594059056485523">방화벽 또는 바이러스 보호 설정에서 Opera의 네트워크 액세스를 허용하세요.</translation>
+<translation id="8040357206858000048">어플리케이션 &gt; 시스템 환경설정 &gt; 네트워크 &gt; 고급 &gt; 프록시로 이동하여 선택되어 있는 프록시를 선택 취소합니다.</translation>
+<translation id="1532685482177999023">주 메뉴 &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; LAN 설정으로 이동한 후 "LAN에 대한 프록시 서버 사용" 선택을 취소하세요.</translation>
+<translation id="6118049677165320383">다음에 브라우저를 다시 시작하면 변경 사항이 적용됩니다.</translation>
+<translation id="5510583790312051907">충돌 보고를 사용할 수 없습니다.</translation>
+<translation id="1011013207380005827">Opera는 <ph name="BEGIN_LINK_CHROMIUM"/>Chromium<ph name="END_LINK_CHROMIUM"/> 공개 소스 프로젝트 및 기타 <ph name="BEGIN_LINK_OSS"/>공개 소스 소프트웨어<ph name="END_LINK_OSS"/>가 가능합니다.</translation>
+<translation id="3108493547597012279">보안 페이지를 보고 계십니다.</translation>
+<translation id="8530361534096361731">Opera가 올바로 종료되지 않았습니다.</translation>
+</translationbundle>

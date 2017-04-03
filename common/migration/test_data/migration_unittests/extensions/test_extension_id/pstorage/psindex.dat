@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<preferences>
+  <section id="8AA12B3D611A067EFD8B6E7DDD6B143C8FDA93A8">
+    <value id="Type" xml:space="preserve">localstorage</value>
+    <value id="Origin" xml:space="preserve">widget://wuid-3f77ae75-5dea-6f41-8b6b-f3c4a72b5d33</value>
+    <value id="DataFile" xml:space="preserve">pstorage/00/01/00000000</value>
+  </section>
+  <section id="84DE05EAA1665044A315F935F55B1B38B6ADDE52">
+    <value id="Type" xml:space="preserve">widgetpreferences</value>
+    <value id="Origin" xml:space="preserve">widget://wuid-3f77ae75-5dea-6f41-8b6b-f3c4a72b5d33</value>
+    <value id="DataFile" xml:space="preserve">pstorage/03/01/00000000</value>
+  </section>
+</preferences>

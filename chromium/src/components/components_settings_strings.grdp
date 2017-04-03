@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<grit-part>
+  <!-- Settings -->
+  <if expr="not use_opera_desktop_translations">
+    <message name="IDS_SETTINGS_TITLE" desc="Title for the settings page.">
+      Settings
+    </message>
+  </if>
+  <if expr="use_opera_desktop_translations and not is_macosx">
+    <if expr="not pp_ifdef('use_titlecase')">
+      <message name="IDS_SETTINGS_TITLE" desc="Title for the settings page.">
+        Settings
+      </message>
+    </if>
+    <if expr="pp_ifdef('use_titlecase')">
+      <message name="IDS_SETTINGS_TITLE" desc="In Title Case: Title for the settings page.">
+        Settings
+      </message>
+    </if>
+  </if>
+  <if expr="use_opera_desktop_translations and is_macosx">
+    <if expr="not pp_ifdef('use_titlecase')">
+      <message name="IDS_SETTINGS_TITLE" desc="Title for the settings page. This string is Mac OS X specific and should match the OS translation of the same string.">
+        Preferences
+      </message>
+    </if>
+    <if expr="pp_ifdef('use_titlecase')">
+      <message name="IDS_SETTINGS_TITLE" desc="In Title Case: Title for the settings page. This string is Mac OS X specific and should match the OS translation of the same string.">
+        Preferences
+      </message>
+    </if>
+  </if>
+  <message name="IDS_SETTINGS_HIDE_ADVANCED_SETTINGS" desc="Title for the link to hide advanced settings.">
+    Hide advanced settings...
+  </message>
+  <if expr="use_opera_desktop_translations">
+    <message name="IDS_SETTINGS_SHOW_ADVANCED_SETTINGS" desc="Label of the checkbox to enable advanced settings. Advanced settings are settings that appear only after checking this checkbox. These are more advanced than normal settings and less advanced than power settings.">
+      Show advanced settings
+    </message>
+  </if>
+  <if expr="not use_opera_desktop_translations">
+    <message name="IDS_SETTINGS_SHOW_ADVANCED_SETTINGS" desc="Title for the link to show advanced settings.">
+      Show advanced settings...
+    </message>
+  </if>
+  <if expr="use_opera_desktop_translations">
+    <message name="IDS_NETWORK_PREDICTION_ENABLED_DESCRIPTION" desc="In the advanced options tab, the text next to the checkbox that enables prediction of network actions.  Actions include DNS prefetching, TCP and SSL preconnection, and pre-rendering of webpages.">
+      Predict network actions to improve page load performance
+    </message>
+  </if>
+  <if expr="not use_opera_desktop_translations">
+    <message name="IDS_NETWORK_PREDICTION_ENABLED_DESCRIPTION" desc="In the advanced options tab, the text next to the checkbox that enables prediction of network actions.  Actions include DNS prefetching, TCP and SSL preconnection, and prerendering of webpages.">
+      Use a prediction service to load pages more quickly
+    </message>
+  </if>
+  <if expr="use_opera_desktop_translations">
+    <if expr="not pp_ifdef('use_titlecase')">
+      <message name="IDS_OPTIONS_PROXIES_CONFIGURE_BUTTON" desc="The label of the 'Configure proxy settings' button">
+        Change proxy settings...
+      </message>
+    </if>
+    <if expr="pp_ifdef('use_titlecase')">
+      <message name="IDS_OPTIONS_PROXIES_CONFIGURE_BUTTON" desc="In Title Case: The label of the 'Configure proxy settings' button">
+        Change Proxy Settings...
+      </message>
+    </if>
+  </if>
+  <if expr="not use_opera_desktop_translations">
+    <message name="IDS_OPTIONS_PROXIES_CONFIGURE_BUTTON" desc="The label of the 'Configure proxy settings' button">
+      Change proxy settings...
+    </message>
+  </if>
+</grit-part>

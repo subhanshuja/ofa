@@ -1,0 +1,284 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="tk">
+<translation id="2978824962390592855">Opera</translation>
+<translation id="3942946088478181888">Maňa düşünmäge kömek et</translation>
+<translation id="1396529432791646744">Ygtybarly internet saýtlara gireniňizde şol saýty saklaýan serwer özüni tanatmak üçin siziň brauzeriňize "sertifikat" berýär. Bu sertifikatda siziň enjamyňyz üçin ygtybarlylygy üçünji tarap tarapyndan tassyklanan saýtyň salgysy ýaly şahsy maglumatlar saklanýar. Sertifikatyň salgysynyň saýtyň salgysy bilen deň gelýändigini anyklamak arkaly üçünji taraplaryň däl-de (mysal üçin, siziň toruňyza birugsat aralaşmakçy bolýanlar) siziň öz niýetlän saýtyňyza ygtybarly görnüşde girmegiňiz üpjün edilýär.</translation>
+<translation id="6295228342562451544">Ygtybarly internet saýtlara gireniňizde şol saýty saklaýan serwer özüni tanatmak üçin siziň brauzeriňize "sertifikat" berýär. Bu sertifikatda siziň enjamyňyz üçin ygtybarlylygy üçünji tarap tarapyndan tassyklanan saýtyň salgysy ýaly şahsy maglumatlar saklanýar. Sertifikatyň salgysynyň saýtyň salgysy bilen deň gelýändigini anyklamak arkaly üçünji taraplaryň däl-de (mysal üçin, siziň toruňyza birugsat aralaşmakçy bolýanlar) siziň öz niýetlän saýtyňyza ygtybarly görnüşde girmegiňiz üpjün edilýär.</translation>
+<translation id="7073704676847768330">Bu siziň gözleýän saýtyňyz däl öýdýän!</translation>
+<translation id="2941952326391522266">Bu serwer şeýledigini subut edip bilmedi: <ph name="DOMAIN"/>; onuň howpsuzlyk sertifikaty şundan: <ph name="DOMAIN2"/>. Belki, düzüliş ýalňyşdyr ýa-da birikmäňize hüjüm edilýändir.</translation>
+<translation id="7761701407923456692">Serweriň sertifikaty URL salgysy bilen deň däl.</translation>
+<translation id="3581034179710640788">Bu saýtyň howpsuzlyk sertifikatynyň möhleti dolan!</translation>
+<translation id="436701661737309601">Möhleti dolmadyk sertifikatlara degişlilikde, şeýle sertifikatlary berýän tarap "möhleti dolan sertifikatlaryň sanawyny" ýöretmek babatda jogapkärçilik çekýär. Eger-de şol sertifikat howp astynda bolsa, ony beren tarap sertifikaty möhleti dolanlaryň sanawyna girizip biler; şeýlelikde şol sertifikat siziň brauzeriňiz tarapyndan ygtybarly hasaplanmaz. Möhleti dolan sertifikatlar üçin möhleti dolan statusynyň berilmegi talap edilmeýär, şeýlelikde bu sertifikat siziň girýän saýtyňyz üçin bir wagtlar ulanylan bolsa onuň howp astyndadygyny, soň möhletiniň ýatyrylandygyny ýa-da ygtybarlydygyny kesgitlemek mümkin bolmaýar. Şeýle ýagdaýda siziň kanuny internet saýta girýändigiňizi, sertifikatyň howpludygyny ýa-da siziň çatylan kanun bozujylaryň eýeçiligindedigini ýa-da däldigini aýtmak mümkin däldir.</translation>
+<translation id="8971063699422889582">Serweriň sertifikatynyň möhleti gutaran.</translation>
+<translation id="1618661679583408047">Serweriň howpsuzlyk sertifikatynyň güýji ýok!</translation>
+<translation id="825608351287166772">Sertifikatlaryň hem siziň şahsyýetnamaňyzda (pasport ýaly) bolşy ýaly ony hukuk güýjünde saklaýan belli bir möhleti bolýar. Siziň brauzeriňize ugradylan sertifikatyň hem hukuk güýji gutarypdyr. Sertifikatyň möhleti dolan ýagdaýynda onuň ýagdaýy-statusy ýaly ýaly käbir maglumatlary (ýatyrylandygy ýa-da ygtybarly däldigi barada) talap edilmeýär ýa-da saklanmaýar.</translation>
+<translation id="7938958445268990899">Serweriň sertifikatynyň entek hem güýji ýok.</translation>
+<translation id="2915500479781995473">Bu serwer muny <ph name="DOMAIN"/> diýip subut edip bilmedi; onuň howpsuzlyk sertifikaty gutaran. Belki düzülişi ýalňyşdyr ýa-da birikmä biri hüküm edendir. Kompýuteriňiziň sagady <ph name="CURRENT_TIME"/> diýlip bellenilen. Ol dogrumy? Däl bolsa, ulgam sagadyňyzy düzedip, bu sahypany täzelemeli.</translation>
+<translation id="229702904922032456">Düýp ýa-da aralyk sertifikat gutardy.</translation>
+<translation id="374530189620960299">Bu internet saýtyň howpsuzlyk sertifikaty ygtybarly däl!</translation>
+<translation id="168929553803686581">Şeýle ýagdaý bu saýtyň sertifikaty siziň enjamyňyzyň bil baglaýan üçünji tarap edarasy tarapyndan tassyklanan däldigini aňladýar. Islendik adam islendik internet saýty üçin sertifikat döredip, ygtybarly üçünji tarapyň tassyklamalydygyny öňe sürüp biler. Sertifikat tassyklanmaýan bolsa ondaky şahsy maglumatlaryň hem ähmiýeti ýokdur. Şonuň üçin siziň öz sertifikatyny döredip, özüni <ph name="DOMAIN"/> hasaplaýan bet niýetli kişileriň ýerine <ph name="DOMAIN2"/> bilen aragatnaşyga geçýändigiňizi anyklamak mümkin bolmaýar.</translation>
+<translation id="6517558746015096434">Muňa garamazdan, eger-de siz öz sertifikatlaryny döredýän edarada ýa-da guramada işleýän hem-de şol sertifikaty ulanmak arkaly edaranyň içerki internet saýtyna girmekçi bolsaňyz, onda bu meseläni ýeňillik bilen çözüp bilersiňiz. Siz öz edaraňyzyň asyl sertifikatyny "asyl sertifikat" ("root certificate") hökmünde ulanyp bilersiňiz, şeýlelikde siziň edaraňyzyň döreden we tassyklan sertifikaty ygtybarly hasaplanar we içerki saýtlara girjek bolanyňyzda näsazlyk ýüze çykmaz. Enjamyňyza asyl sertifikaty girizmäge kömek etmegi üçin edaraňyzyň degişli işgärlerine ýüz tutuň.</translation>
+<translation id="2159087636560291862">Şeýle ýagdaý bu sertifikat siziň kompýuteriňiziň bil baglaýan üçünji tarap edarasy tarapyndan tassyklanan däldigini aňladýar. Islendik adam islendik internet saýty üçin sertifikat döredip, ygtybarly üçünji tarapyň tassyklamalydygyny öňe sürüp biler. Sertifikat tassyklanmaýan bolsa ondaky şahsy maglumatlaryň hem ähmiýeti ýokdur. Şonuň üçin siziň öz sertifikatyny döredip, <ph name="DOMAIN2"/> hasaplaýan bet niýetli kişileriň ýerine <ph name="DOMAIN"/> bilen aragatnaşyga geçýändigiňizi anyklamak mümkin bolmaýar. Size bu ýerden soň dowam etmegi maslahat bermeýäris.</translation>
+<translation id="2645575947416143543">Muňa garamazdan, eger-de siz öz sertifikatlaryny döredýän edarada ýa-da guramada işleýän hem-de şol sertifikaty ulanmak arkaly edaranyň içerki internet saýtyna girmekçi bolsaňyz, onda bu meseläni ýeňillik bilen çözüp bilersiňiz. Siz öz edaraňyzyň asyl sertifikatyny "asyl sertifikat" ("root certificate") hökmünde ulanyp bilersiňiz, şeýlelikde siziň edaraňyzyň döreden we tassyklan sertifikaty ygtybarly hasaplanar we içerki saýtlara girjek bolanyňyzda näsazlyk ýüze çykmaz. Enjamyňyza asyl sertifikaty girizmäge kömek etmegi üçin edaraňyzyň degişli işgärlerine ýüz tutuň.</translation>
+<translation id="3528171143076753409">Serweriň sertifikaty ygtybarly däl.</translation>
+<translation id="2649911884196340328">Serweriň howpsuzlyk sertifikatynda näsazlyk bar!</translation>
+<translation id="8534801226027872331">Şeýle ýagdaý siziň brauzeriňize berlen sertifikatda näsazlyklaryň bardygyny we mazmunyna düşünip bolmaýandygyny görkezýär. Bu biziň sertifikatdaky maglumatlara ýa-da aragatnaşygy goramak üçin ulanylan beýleki maglumatlara düşünmeýändigimizi aňladýar. Dowam etmegi maslahat bermeýäris.</translation>
+<translation id="2491120439723279231">Serweriň sertifikatynda nädogry maglumatlar bar.</translation>
+<translation id="8318945219881683434">Möhletiniň dolanlygyny barlamak başartmady.</translation>
+<translation id="9141716082071217089">Serweriň sertifikatynyň möhletiniň dolup dolmandygyny barlap bolanok.</translation>
+<translation id="2922350208395188000">Serweriň sertifikatyny barlap bolanok.</translation>
+<translation id="884923133447025588">Möhletini kesgitleýän mehanizma ýok.</translation>
+<translation id="2413528052993050574">Bu serwer şeýledigini subut edip bilmedi: <ph name="DOMAIN"/>; onuň howpsuzlyk sertifikaty yzyna alnyp biler. Belki, düzüliş ýalňyşdyr ýa-da birikmäňize hüjüm edilýändir.</translation>
+<translation id="8187473050234053012">Serweriň howpsuzlyk sertifikatynyň möhleti dolan!</translation>
+<translation id="4377125064752653719">Siz <ph name="DOMAIN"/> girmek islediňiz, emma serweriň beren sertifikatynyň möhleti beren edara tarapyndan tamamlanypdyr. Bu serweriň howpsuzlygyna doly bil baglamaly däldigiňizi aňladýar. Siz hüjüme geçýän kişi bilen aragatnaşyga geçen bolmagyňyz ahmal.</translation>
+<translation id="5275799318132317934">Şeýle ýagdaýda brauzeriňize berlen sertifikatyň möhleti dolandyr. Bu adatça şol sertifikatynyň bitewiliginiň howp astyndadygyny we oňa ygtybarly däldigini aňladýar.</translation>
+<translation id="2386255080630008482">Serweriň sertifikatynyň möhleti dolan.</translation>
+<translation id="4222982218026733335">Serwer Sertifikatynyň Güýji Ýok</translation>
+<translation id="9049981332609050619">Siz <ph name="DOMAIN"/> girmek islediňiz, emma serweriň beren sertifikatynyň hukuk güýji ýok.</translation>
+<translation id="3776667127601582921">Bu ýagdaý serweriň sertifikatynyň ýa-da araçy CA sertifikatynyň hukuk güýjüniň ýokdugyny görkezýär. Bu bolsa sertifikatyň nädogry işlenip düzülendigini, düzüminde nädogry ýerleriň bardygyny ýa-da goldanmaýandygyny aňladýar.</translation>
+<translation id="917450738466192189">Serweriň sertifikatynyň hukuk güýji ýok.</translation>
+<translation id="9145357542626308749">Bu internet saýtyň howpsuzlyk sertifikatyna çekilen gol üçin ulanylan algoritma gowşak!</translation>
+<translation id="2171101176734966184">Siz <ph name="DOMAIN"/> girmäge çalyşdyňyz, emma serweriň ugradan sertifikatyndaky gol üçin ulanylan algoritma örän gowşak. Bu serweriň size berýän howpsuzlyk namalarynyň galp bolup biljekdigini, serweriň siziň isleýän serweriňiziň bolman biljekdigini (hüjüme geçýän kişi bilen aragatnaşyga geçip biljekdigiňizi) aňladýar.</translation>
+<translation id="4320833726226688924">Bu ýagdaý serweriň sertifikatynyň ýa-da araçy CA sertifikatyna çekilen gol üçin RSA-MD2 ýaly gowşak algoritmanyň ulanylandygyny görkezýär. Kompýuter hünärmenleriniň geçiren soňky ylmy barlaglary gol algoritmalarynyň çaklanandan hem gowşakdygyny görkezdi, gol algoritmalary häzirki wagtda ygtybarly saýtlar tarapyndan seýrek ulanylýar. Bu sertifikat galp düzülen bolup biler.</translation>
+<translation id="2728127805433021124">Serweriň sertifikatyna gowşak algoritma ulanylyp gol çekilipdir.</translation>
+<translation id="6315723398663634808">Serweriň sertifikatynda gowşak kriptografik açar bar!</translation>
+<translation id="121201262018556460">Siz <ph name="DOMAIN"/> aralaşmaga çalyşdyňyz, emma serweriň ugradan sertifikatynda gowşak kriptografik açar bar. Hüjüm etmekçi bolýan şahs şol şahsy açary döwen bolup biler, serweriň siziň isleýän serweriňiziň bolman biler (hüjüme geçýän kişi bilen aragatnaşyga geçen bolup bilersiňiz).</translation>
+<translation id="2929033900046795715">Bu ýagdaý brauzeriňize ugradylan serweriň sertifikatynyň ýa-da araçy CA sertifikatynyň düzüminde 1024 bitden az RSA açary ýaly gowşak açarlar bolup biler. Gowşak edaranyň açary üçin meňzeş şahsy açar almak aňsat bolýandygy sebäpli, hüjümçi hakyky serweriň maglumatlaryny galp döredip biler.</translation>
+<translation id="168841957122794586">Serweriň sertifikatynyň düzüminde gowşak kriptografik açar bar.</translation>
+<translation id="4253787465144837701">Serwer sertifikatynda gadagan domen ady bar.</translation>
+<translation id="7567204685887185387">Bu serwer şeýledigini subut edip bilmedi: <ph name="DOMAIN"/>; onuň howpsuzlyk sertifikaty galp berlen bolup biler. Belki, düzüliş ýalňyşdyr ýa-da birikmäňize hüjüm edilýändir.</translation>
+<translation id="7592362899630581445">Serweriň sertifikaty at çäklendirmesini bozýar.</translation>
+<translation id="5944101742958374175">Alnan sertifikat üçin ýörite kadadan çykylýan ýagdaý.</translation>
+<translation id="5623463370978611784">Alnan sertifikat nädogry diýlip hasaplandy. Giňişleýin maglumat almak üçin $1 serediň.</translation>
+<translation id="1177437665183591855">Serweriň sertifikatynda näbelli näsazlyk</translation>
+<translation id="4771973620359291008">Näbelli näsazlyk ýüze çykdy.</translation>
+<translation id="674375294223700098">Serweriň sertifikatynda näbelli näsazlyk ýüze çykdy.</translation>
+<translation id="5598024575303778520">Aldaw barada duýduryş</translation>
+<translation id="7311721172731074902">Aldaw Barada Duýduryş</translation>
+<translation id="4056154188339276219">Bu saýtyň aldawly maksatlarynyň bardygy barada habar berildi. Bu saýt bilen çynlakaý we gizlin maglumatlaryň alyş-çalyş etmek siziň şahsy we maliýe maglumatlaryňyzy howp astyna salyp biler.</translation>
+<translation id="6494666865857176946">"Opera Software" bu sahypa girmegi size maslahat bermeýär.</translation>
+<translation id="8357891144266644027">Zyýanly saýtdan ägä boluň</translation>
+<translation id="4664012235452972339">Zyýanly Saýtdan Ägä Boluň</translation>
+<translation id="8219093269265469764">Bu sahypa girmek size zyýan ýetirip biler. Saýtyň erbet niýetli programmalary ýaýradýandygy barada habar berildi.</translation>
+<translation id="4863259811271883558">Habar beren: <ph name="BEGIN_LINK"/><ph name="PROVIDER_NAME"/><ph name="END_LINK"/></translation>
+<translation id="3141322567138977593">Yza howpsuz dolan</translation>
+<translation id="833642844779103272">Yza Howpsuz Dolanmak</translation>
+<translation id="4238466718818823211">Bu duýduryşa gulak salma</translation>
+<translation id="1755698976576372535">Bu sahypa näme üçin blokirlendi?</translation>
+<translation id="7459549266751278805">Opera habar beriş merkezi</translation>
+<translation id="7470668651798735849">Ähli duýduryşlaryňyzy şu ýerdäki websaýtlardan görüp bilersiňiz.</translation>
+<translation id="4501379002264542907">Opera - duýduryşlar</translation>
+<translation id="1352092048463356430">Opera - duýduryşlar (<ph name="QUANTITY"/> okalmadyk)</translation>
+<translation id="4159400746343093340">Opera - Duýduryşlar</translation>
+<translation id="6018626517703817463">Opera - Duýduryşlar (<ph name="QUANTITY"/> okalmadyk)</translation>
+<translation id="6426222199977479699">SSL Ýalňyşlyk</translation>
+<translation id="8398877366907290961">Şonda-da dowam et</translation>
+<translation id="6264485186158353794">Howpsuz yza dolanmak</translation>
+<translation id="2225024820658613551">Bu saýt üçin duýduryşy &lt;strong&gt;esasanam&lt;/strong&gt; öň hiç hili görmedik hem bolsaňyz dowam etmeli dälsiňiz.</translation>
+<translation id="5645845270586517071">Howpsuzlykda Ýalňyşlyk</translation>
+<translation id="1103666958012677467">Internet saýtyň operatory du domen üçin ýokary derejeli howpsuzlyk talap edendigi sebäpli dowam edip bilmeýärsiňiz.</translation>
+<translation id="5463275305984126951"><ph name="LOCATION"/> indeksi</translation>
+<translation id="8877448029301136595">[esasy direktoriýa]</translation>
+<translation id="5327248766486351172">Ady</translation>
+<translation id="8028993641010258682">Göwrümi</translation>
+<translation id="57646104491463491">Üýtgedilen senesi</translation>
+<translation id="3835522725882634757">Wah! Bu serwer üçin düşnüksiz maglumatlary <ph name="PRODUCT_NAME"/> ugradýar. <ph name="BEGIN_LINK"/>Näsazlyk barada habar bermegiňizi<ph name="END_LINK"/> we <ph name="BEGIN2_LINK"/>sanawa<ph name="END2_LINK"/> girizmegiňizi haýyş edýäris.</translation>
+<translation id="4231205248927312226">Blankyň täzeden ugradylmagyny tassykla</translation>
+<translation id="6451458296329894277">Blankyň Täzeden Ugradylmagyny Tassyklamak</translation>
+<translation id="2032601515784864742">Bu ýagdaý sertifikatda görkezilen salgynyň siziň girmäge synanyşýan internet saýtyňyzyň salgysy bilen deň gelenok. Ähtimal sebäpleriň biri hem siziň çatylmagyňyza päsgel bermek we deň gelmezligi üçin hüjümçiniň başga saýt üçin sertifikat bermegi bolup biler. Beýleki sebäp bolsa serweriň birnäçe saýt, şol sanda siziň girmekçi bolýan saýtlaryňyz üçin doly güýji bolmasa-da şol bir sertifikaty gaýtaryp durmagy bolup biler. <ph name="PRODUCT_NAME"/> siziň &lt;strong&gt;<ph name="DOMAIN2"/>&lt;/strong&gt; girendigiňizi aýdyp biler, emma siziň girmek islän &lt;strong&gt;<ph name="DOMAIN"/>&lt;/strong&gt; saýtynyň edil özüdigini anyklap bilmeýär. Dowam eden ýagdaýyňyza <ph name="PRODUCT_NAME"/> mundan beýläk atlaryň deň gelmezligini derňejek däldir.</translation>
+<translation id="1639773643001837725">Bu serwer muny <ph name="DOMAIN"/> diýip subut edip bilmedi; onuň howpsuzlyk sertifikaty <ph name="DAYS"/> gün öň gutaran. Belki düzülişi ýalňyşdyr ýa-da birikmä biri hüküm edendir. Kompýuteriňiziň sagady <ph name="CURRENT_TIME"/> diýlip bellenilen. Ol dogrumy? Däl bolsa, ulgam sagadyňyzy düzedip, bu sahypany täzelemeli.</translation>
+<translation id="7235421518178823985">Bu serwer şeýledigini subut edip bilmedi:<ph name="DOMAIN"/>; onuň howpsuzlyk sertifikaty geljekde <ph name="DAYS"/> gün möhletli. Belki, düzüliş ýalňyşdyr ýa-da birikmäňize hüjüm edilýändir.</translation>
+<translation id="1763864636252898013">Bu serwer muny <ph name="DOMAIN"/> diýip subut edip bilmedi; onuň howpsuzlyk sertifikatyna enjamyň operasion ulgamy ynanmaýar. Belki düzülişi ýalňyşdyr ýa-da birikmä biri hüküm edendir.</translation>
+<translation id="467662567472608290">Bu serwer muny <ph name="DOMAIN"/>; diýip subut edip bilmedi; onuň howpsuzlyk sertifikatynda ýalňyşlyklar bar. Belki düzülişi ýalňyşdyr ýa-da birikmä biri hüküm edendir.</translation>
+<translation id="8465929756435120446">Bu sahypanyň käbir ýerleri howply.</translation>
+<translation id="4522570452068850558">Giňişleýin maglumat</translation>
+<translation id="3586931643579894722">Jikme-jikligi gizle</translation>
+<translation id="8962083179518285172">Jikme-jikligi gizle</translation>
+<translation id="6042308850641462728">Goşmaça</translation>
+<translation id="2089090684895656482">Azrak</translation>
+<translation id="5556459405103347317">Gaýtadan aç</translation>
+<translation id="9193357432624119544">Näsazlygyň kody: <ph name="ERROR_NAME"/></translation>
+<translation id="4910619056351738551">Aşakdakylary teklip edýäris:</translation>
+<translation id="2662338103506457097">Internet sahypasyny gaýtadan açyň.</translation>
+<translation id="3226128629678568754">Bu sahypany gaýtadan açmak üçin zerur bolan maglumatlary ugratmak üçin gaýtadan açýan düwmä bas.</translation>
+<translation id="8196061687045545167">Uzatmalaryňyzy ýapanyňyzdan soň bu sahypany gaýtadan açyň.</translation>
+<translation id="3155309969919037916">Interneti barlap görüň.</translation>
+<translation id="1519957265434608160">Kabelleri barlap görüň, ugrukdyryjy enjamlary, modemleri we ulanýan beýleki tor enjamlaryňyzy öçürip ýakyň.</translation>
+<translation id="2319236583141234177">DNS sazlamalaryňyzy barlaň.</translation>
+<translation id="8289355894181816810">Sebäbini anyk bilmeýän bolsaňyz tor boýunça administratoryňyza ýüz tutuň.</translation>
+<translation id="5573959367212558217">Tor barada çaklamalary öçürmäge çalyş.</translation>
+<translation id="8888594059056485523">"Opera" brauzeriniň gorag ulgamynyň we antiwirusyň sazlamalaryndaky torlara aralaşmagyna rugsat ber.</translation>
+<translation id="6456804684535455731">Tor ulgamyna aralaşmaga eýýäm rugsat berlen bolsa, sanawdan bozup gaýtadan girizmäge çalyşyň.</translation>
+<translation id="382518646247711829">Proksi-serwer ulanýan bolsaňyz...</translation>
+<translation id="7616012285680677132">Proksi sazlamalaryňyzy barlaň ýa-da proksi serweriň işleýändigini anyklamak üçin tor boýunça administratora ýüz tutuň. <ph name="PLATFORM_TEXT"/></translation>
+<translation id="8454634452929957533">Proksi sazlamalaryňyzy barlaň ýa-da proksi serweriň işleýändigini anyklamak üçin tor boýunça administratora ýüz tutuň. Eger-de siz proksi-serwer ulanýandygyňyza ynanmaýan bolsaňyz: <ph name="PLATFORM_TEXT"/></translation>
+<translation id="8040357206858000048">Programmalar &gt; Ulgamy Sazlama &gt; Tor Ulgamy &gt; Sazlama &gt; Proxies salgysyna git we saýlanan proksileri öçür.</translation>
+<translation id="7158277678571698323">Opera menýusy &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/>&gt; LAN sazlamalaryna git we "Ýerli tor ulgamyň üçin proksi-serweri" diýlen ýeri öçür.</translation>
+<translation id="2954705784594331199">Soň bu sahypany <ph name="BEGIN_LINK"/>gaýtadan aç<ph name="END_LINK"/>.</translation>
+<translation id="4977565600485911823">Uzatmalaryňyzy öçüreniňizden soň bu internet sahypasyny <ph name="BEGIN_LINK"/>gaýtadan aç<ph name="END_LINK"/>.</translation>
+<translation id="1103966635949043187">Bu saýtyň baş sahypasyna git:</translation>
+<translation id="7747589364844254751">Interneti barlap görüň. Kabelleri barlap görüň, ugrukdyryjy enjamlary, modemleri we ulanýan beýleki tor enjamlaryňyzy öçürip ýakyň.</translation>
+<translation id="5548623538190661145">DNS sazlamalaryňyzy barlaň. Sebäbini anyk bilmeýän bolsaňyz tor boýunça administratoryňyza ýüz tutuň.</translation>
+<translation id="9127307628159259612"><ph name="PRODUCT_NAME"/> saýtyny gorag ulgamynyň we antiwirusyň sazlamalarynda rugsat berlen programma hökmünde goş. Öň rugsat berlen bolsa, ony sanawdan bozmaga we gaýtadan goşmaga synanyşyň.</translation>
+<translation id="4545046228395991092">Eger-de proksi-serwer ulanýan bolsaňyz, proksi sazlamalaryňyzy barlaň ýa-da proksi serweriň işleýändigini anyklamak üçin tor boýunça administratora ýüz tutuň.</translation>
+<translation id="1712673276482711826">Eger-de proksi-serwer ulanýan bolsaňyz, proksi sazlamalaryňyzy barlaň ýa-da proksi serweriň işleýändigini anyklamak üçin tor boýunça administratora ýüz tutuň. Eger-de siz proksi serwer ulanýandygyňyza ynanmaýan bolsaňyz, onda proksi sazlamalaryňyzy düzediň: <ph name="PLATFORM_TEXT"/></translation>
+<translation id="721197778055552897">Bu meseläni giňişleýin <ph name="BEGIN_LINK"/>öwren<ph name="END_LINK"/>.</translation>
+<translation id="2214283295778284209"><ph name="SITE"/> elýeterli däl</translation>
+<translation id="4032534284272647190"><ph name="URL"/> salgysyna giriş salgysyna gadagan edildi. salgysyna giriş salgysyna gadagan edildi.</translation>
+<translation id="790025292736025802"><ph name="URL"/> tapylmady</translation>
+<translation id="641480858134062906"><ph name="URL"/> açmak başartmady</translation>
+<translation id="4697214168136963651"><ph name="URL"/> blokirlendi</translation>
+<translation id="9020278534503090146">Bu internet sahypasy elýeterli däl</translation>
+<translation id="9086455579313502267">Tora çatylyp bolanok</translation>
+<translation id="6771079623344431310">Proksi-serwere çatylyp bolanok</translation>
+<translation id="5303446622366702551">Internete çatylyp bolanok</translation>
+<translation id="6640442327198413730">Keşden daşgary ýatdan peýdalanma</translation>
+<translation id="4786993863723020412">Keşden okamakda näsazlyk</translation>
+<translation id="5880867612172997051">Tora giriş saklanýar</translation>
+<translation id="5303618139271450299">Internet sahypasy tapylanok</translation>
+<translation id="7269802741830436641">Internet sahypasynyň gaýtadan ugrukdyryjy ýoly bar</translation>
+<translation id="778579833039460630">Hiç hili maglumat alyp bolanok</translation>
+<translation id="4980112683975062744">Serwerden birden köp ýazdyrylýar</translation>
+<translation id="7839809549045544450">Serweriň gowşak we wagtlaýyn Diffie-Hellman açary bar</translation>
+<translation id="820791781874064845">Bu web sahypa uzatma arkaly blokirlendi</translation>
+<translation id="4764776831041365478"><ph name="URL"/> salgysyndaky internet sahypasy wagtlaýyn öçürilen bolup biler ýa-da täze salga göçürilen bolup biler.</translation>
+<translation id="2776514516555065663"><ph name="PRODUCT_NAME"/> internet sahypasyny açyp bilenok, sebäbi <ph name="HOST_NAME"/> salgysyndan maglumat giç gelýär. Internet saýt öçürilen bolup biler ýa-da internet bilen bagly meseläňiz bolup biler.</translation>
+<translation id="7732608718511994155"><ph name="HOST_NAME"/> saýtyna arabaglanyşyk kesildi.</translation>
+<translation id="6866330586943304386">Tor ulgamyndaky üýtgetmeler sebäpli <ph name="HOST_NAME"/> saýtyna arabaglanyşyk kesildi.</translation>
+<translation id="3353584498371175254"><ph name="PRODUCT_NAME"/>-yň <ph name="HOST_NAME"/>-a aralaşmak üçin eden synanyşygy kesildi. Internet saýt öçürilen bolup biler ýa-da tor ulgamy maksadalaýyk sazlanmadyk bolup biler.</translation>
+<translation id="1775580281086246828"><ph name="HOST_NAME"/> salgysyndaky serwer tapylanok, sebäbi DNS gözlegi amala aşmady. DNS internet saýtyň adyny internet salgysyna öwürýän tor hyzmatydyr. Şeýle näsazlyk köplenç internetiň bolmazlygy ýa-da toruň nädogry sazlanmagy sebäpli bolýar. Bu ýagdaý DNS serwerden jogap gelmezligi ýa-da gorag ulgamynyň <ph name="PRODUCT_NAME"/> tora aralaşmagynyň öňüni almagy arkaly hem ýüze çykyp bilýär.</translation>
+<translation id="1900640198039665133"><ph name="PRODUCT_NAME"/> salgysyndaky internet saýty açyp bolanok. Bu ýagdaý adatça tor ulgamyndaky näsazlyklar sebäpli döreýär, gorag ulgamynyň ýa-da proksi serweriň nädogry sazlanmagy hem onuň sebäbi bolup biler.</translation>
+<translation id="6061713520396617275"><ph name="URL"/> salgysyndaky faýly açyp bolanok. Ol bozulan, göçürilen ýa-da giriş rugsatlary çäklendirilen bolup biler.</translation>
+<translation id="3743996431420410209"><ph name="PRODUCT_NAME"/> tor ulgamyna aralaşmakda kynçylyk çekýär. <ph name="LINE_BREAK"/> Bu ýagdaý siziň gorag ulgamyňyzyň ýa-da antiwirusyňyzyň <ph name="PRODUCT_NAME"/>-y siziň öýjükli enjamyňyza birugsat aralaşmaga çalyşýar diýip pikir etmegi we internete çatylmagyny beklemegi arkaly ýüze çykýar.</translation>
+<translation id="8525957822916060992">Proksi serwer siziň öýjükli enjamyňyzyň we beýleki serwerleriň arasynda araçy bolup hyzmat edýän serwerdir. Häzirki wagtda siziň ulgamyňyz proksiden peýdalanmak üçin sazlanan, emma <ph name="PRODUCT_NAME"/> oňa çatylyp bilmeýär.</translation>
+<translation id="2182771052381938197"><ph name="PRODUCT_NAME"/> internet sahypasyny görkezip bilmeýär, sebäbi siziň öýjükli enjamyňyz internete çatylmadyk.</translation>
+<translation id="8504605147845230067"><ph name="ERROR_DESCRIPTION_TEXT"/></translation>
+<translation id="6482869692698550826"><ph name="PRODUCT_NAME"/> tor ulgamyna çatylmakda kynçylyk çekýär. <ph name="LINE_BREAK"/> Bu ýagdaý siziň gorag ulgamyňyzyň ýa-da antiwirusyňyzyň <ph name="PRODUCT_NAME"/>-y siziň öýjükli enjamyňyza birugsat aralaşmaga çalyşýar diýip pikir etmegi we internete çatylmagyny beklemegi arkaly ýüze çykýar.</translation>
+<translation id="6268299223990012826">Proksi serwer siziň öýjükli enjamyňyzyň we beýleki serwerleriň arasynda araçy bolup hyzmat edýän serwerdir. Häzirki wagtda siziň ulgamyňyz proksilerden peýdalanmak üçin sazlanan, emma <ph name="PRODUCT_NAME"/> oňa çatylyp bilmeýär.</translation>
+<translation id="2082033521101679150"><ph name="PRODUCT_NAME"/> internet sahypasyny görkezip bilmeýär, sebäbi siziň kompýuteriňiz internete çatylmadyk.</translation>
+<translation id="5025570087133380871"><ph name="ERROR_DESCRIPTION_TEXT"/> <ph name="LINE_BREAK"/> Siz aşakdakylara eýerip ýüze çykan meseläni anyklap bilersiňiz: <ph name="LINE_BREAK"/> <ph name="PLATFORM_TEXT"/></translation>
+<translation id="3952238365087168585">Internetiň bardygyny barlamak üçin şu salgyny görüň:<ph name="BEGIN_BOLD"/> Programmalar &gt; Ulgamy Sazlama &gt; Tor Ulgamy &gt; Kömek et <ph name="END_BOLD"/>.</translation>
+<translation id="8907719130223575953">Şu salgyny görüň: <ph name="BEGIN_BOLD"/> Başla &gt; Gözegçilik Paneli&gt; Tor Ulgamy we Internet &gt; Tor we Paýlaşma Merkezi&gt; Tehniki Näsazlyklar (aşakda) &gt; Internete Çatylma. <ph name="END_BOLD"/></translation>
+<translation id="6426809368065002078">Arabaglanyşygy barlamak üçin <ph name="BEGIN_BOLD"/> Başla &gt; Gözegçilik Paneli &gt; Tor Ulgamyna Çatylma &gt; Çatylmak Üçin Täze Ekran <ph name="END_BOLD"/> salgysyna gidiň.</translation>
+<translation id="2430210664810280637">Bas <ph name="BEGIN_BOLD"/>Başla<ph name="END_BOLD"/>, bas <ph name="BEGIN_BOLD"/>Işlet<ph name="END_BOLD"/>, ýaz <ph name="BEGIN_BOLD"/>%windir%\network diagnostic\xpnetdiag.exe<ph name="END_BOLD"/>, şuňa bas <ph name="BEGIN_BOLD"/>OK<ph name="END_BOLD"/>.</translation>
+<translation id="5098248489969453574">Internet sahypasy keşde tapylmady. Ugradylan maglumatlar esasynda döredilýän sahypalar ýaly käbir çeşmeler keşden ýeňillik bilen ýazdyrylyp bilner. <ph name="LINE_BREAK"/> Bu näsazlyk enjamy nädogry öçürmek sebäpli keşiň zaýalanmagy arkaly ýüze çykýar. <ph name="LINE_BREAK"/> Mesele çözülmeýän bolsa, keşi arassalap görüň.</translation>
+<translation id="2275837730041455081">Internet sahypalaryň açylmagyny çaltlandyrmak üçin <ph name="PRODUCT_NAME"/> ýazdyrylan faýllary diskde saklaýar. Enjam dogry öçürilmedik ýagdaýynda <ph name="PRODUCT_NAME"/>, bu faýllar zaýalanyp bilýär we näsazlygyň döremegine sebäp bolup bilýär. Sahypany gaýtadan açmak bu meseläni çözüp biler, enjamy düzgüne laýyk öçürmek hem onuň geljekde gaýtalanmaz ýaly eder. <ph name="LINE_BREAK"/> Näsazlyk doly çözülmeýän bolsa keşi arassalap görüň. Käbir halatlarda bu näsazlyk kä şaýlaryň işlemeýändiginiň alamatlary bolup biler.</translation>
+<translation id="9029615070002286968">Öýjükli enjamyňyzyň uky ýa-da gibernasiýa rejesindedigi sebäpli internet sahypasyny açyk bilmeýär. Şeýle rejelere geçilen halatynda tor ulgamy ýapylýar we amallary amala aşyryp bolmaýar. Bu sahypany gaýtadan açmak näsazlygy çözüp biler.</translation>
+<translation id="4534415571332240241">Kompýuteriňiziň uky ýa-da gibernasiýa rejesindedigi sebäpli internet sahypasyny açyk bilmeýär. Şeýle rejelere geçilen halatynda tor ulgamy ýapylýar we amallary amala aşyryp bolmaýar. Bu sahypany gaýtadan açmak näsazlygy çözüp biler.</translation>
+<translation id="7518003948725431193">Internet salgysy üçin internet sahypasy ýok: <ph name="URL"/></translation>
+<translation id="9164387458644511612"><ph name="URL"/> salgysyndaky internet sahypasyna girmek üçin birnäçe ýere ugrukdyrylýar. Bu saýt üçin kukileri arassalamak ýa-da üçünji taraplaryň kukilerine rugsat bermek bu näsazlygy çözüp biler. Çözülmedik halatynda,onuň sebäbi siziň öýjükli enjamyňyz bolman serweriň sazlanmagy bilen baglanyşykly bolup biler.</translation>
+<translation id="3015602778474660457"><ph name="URL"/> salgysyndaky internet sahypasyna girmek üçin birnäçe ýere ugrukdyrylýar. Bu saýt üçin kukileri arassalamak ýa-da üçünji taraplaryň kukilerine rugsat bermek bu näsazlygy çözüp biler. Çözülmedik halatynda,onuň sebäbi siziň kompýuteriňiz bolman serweriň sazlanmagy bilen baglanyşykly bolup biler.</translation>
+<translation id="4287689875748136217">Serweriň maglumat ugratmaýandygy sebäpli internet sahypasyny açyp bolanok.</translation>
+<translation id="660896802268593778">Serwerden gelýän jogapda birden köp faýl bar. Bu näsazlyk umuman internet saýtynyň ýa-da proksiniň nädogry sazlanmagy sebäpli ýüze çykýar. Bu näsazlygy diňe internet saýtyň ýa-da proksi administratory çözüp bilýär.</translation>
+<translation id="5954987802886981088">Bu näsazlyk ygtybarly (HTTPS) serwere çatylýan wagty ýüze çykyp biler. Bu ýagdaý serweriň ygtybarly aragatnaşygy ýola goýmaga çalyşýandygyny, emma düýbünden nädogry sazlamalar zerarly onçakly howpsuz bolmazlygy sebäpli ýüze çykýar! <ph name="LINE_BREAK"/> Şeýle halatlarda serweriň bejerilmegi zerurdyr. <ph name="PRODUCT_NAME"/> siziň şahsy maglumatlaryňyzy goramak üçin ygtybarsyz torlary ulanmaz.</translation>
+<translation id="8752577199214871617">Şuňa seredip bolmaýar: <ph name="HOST_NAME"/>.</translation>
+<translation id="8235325155053717782">Näsazlyk <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="3986287159189541211">HTTP Näsazlygy <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="4405141258442788789">Amalyň möhleti doldy.</translation>
+<translation id="3118046075435288765">Serwer garaşylmadyk wagt aragatnaşygy kesdi.</translation>
+<translation id="2784949926578158345">Aragatnaşyk täzeden ýola goýuldy.</translation>
+<translation id="9020142588544155172">Serwer aragatnaşygy kabul etmedi.</translation>
+<translation id="8494979374722910010">Serwere çatylmaga synanyşyk başa barmady.</translation>
+<translation id="2909946352844186028">Tor ulgamynda üýtgeşme anyklandy.</translation>
+<translation id="5949910269212525572">Serweriň DNS salgysyny çözüp bilenok.</translation>
+<translation id="5498951625591520696">Serwere çatylyp bolanok.</translation>
+<translation id="3950924596163729246">Tor ulgamyna aralaşyp bolanok.</translation>
+<translation id="4147376274874979956">Faýla aralaşyp bolanok.</translation>
+<translation id="4535734014498033861">Proksi-serwer bilen aragatnaşyk kesildi.</translation>
+<translation id="6728024709633626254">Internet kesildi.</translation>
+<translation id="201192063813189384">Keşden maglumat okamakda näsazlyk bar.</translation>
+<translation id="3393716657345709557">Girizilmegi islenen maglumat keşden tapylmady.</translation>
+<translation id="7450732239874446337">Tor ulgamyndaky maglumay dolanyşygy gijikdirilýär.</translation>
+<translation id="6391832066170725637">Faýl ýa-da direktoriýa tapylanok.</translation>
+<translation id="3748412725338508953">Örän köp ýere ugrukdyryldy.</translation>
+<translation id="2950186680359523359">Serwer hiç hili maglumat ugratman aragatnaşygy kesdi.</translation>
+<translation id="2929266020546499971">Birnäçe özboluşly kodly gurluşlar geldi. HTTP bölüji hüjümlerden goranmak üçin olara rugsat berilmeýär.</translation>
+<translation id="2297038239859335744">Birnäçe özboluşly kodly gurluşlar geldi. HTTP bölüji hüjümlerden goranmak üçin olara rugsat berilmeýär.</translation>
+<translation id="3336388975352605720">Birnäçe özboluşly kodly gurluşlar gelýär. HTTP bölüji hüjümlerden goranmak üçin olara rugsat berilmeýär.</translation>
+<translation id="6626108645084335023">DNS synagyna garaşylýar.</translation>
+<translation id="1195447618553298278">Näbelli ýalňyşlyk.</translation>
+<translation id="6066742401428748382">Internet sahypasyna giriş gadagan edildi</translation>
+<translation id="2650446666397867134">Faýla aralaşmak gadagan edilen</translation>
+<translation id="3261690198327056381">Size <ph name="URL"/> salgysyndaky internet sahypasyna girmäge rugsat berilmeýär. Ulgama girmeli bolup bilersiňiz.</translation>
+<translation id="3903912596042358459">Serwer haýyşy ýerine ýetirmekden boýun gaçyrdy.</translation>
+<translation id="904949795138183864"><ph name="URL"/> salgysyndaky internet sahypasy indi ýok.</translation>
+<translation id="5319054530310231888">Haýyş edilen çeşme ýok, oňa ugrukdyryjy salgy hem elýeterli däl. Bu ýagdaýyň üýtgemezligine garaşylýar.</translation>
+<translation id="8295070100601117548">Serwerde näsazlyk bar</translation>
+<translation id="1055268999302881517">Internet saýtda <ph name="URL"/> alynýan wagty näsazlyk ýüze çykdy. Ol nädogry abatlanandygy ýa-da sazlanandygy sebäpli öçýän bolup biler.</translation>
+<translation id="2279770628980885996">Serwer ýumuşy ýerine ýetirýän wagty garaşylmadyk näsazlyk ýüze çykdy.</translation>
+<translation id="4060383410180771901">Internet saýt <ph name="URL"/> üçin ýumuşy ýerine ýetirip bilmeýär.</translation>
+<translation id="477518548916168453">Serwerde bu ýumuşy ýerine ýetirmek üçin funskiýa ýok.</translation>
+<translation id="3940082421246752453">Serwerde haýyşnama üçin ulanylan HTML funskiýasy ýok.</translation>
+<translation id="7544229255782699242"><ph name="URL"/> açmaga synanyşylýan wagty nädogry jogap alyndy. Ol nädogry abatlanandygy ýa-da sazlanandygy sebäpli ýüze çykan bolup biler.</translation>
+<translation id="7052500709156631672">Şlýuz ýa-da proksi-serwer çykyş serwerinden nädogry jogap aldy.</translation>
+<translation id="5741201586401781900"><ph name="URL"/> salgysyndaky internet sahypasy häzirki wagtda elýeterli däl. Maglumatyň köp ýüklenmegi ýa-da abatlaýyş işleri sebäpli bolup biler.</translation>
+<translation id="6094756196753418043">Serwer häzirki wagtda bu ýumuşy ýerine ýetirip bilmeýär. Bu kod näsazlygyň wagtlaýyndygyny we serweriň bir salymdan işläp başlajakdygyny aňladýar.</translation>
+<translation id="2084412568823043027">Serwer <ph name="URL"/> üçin jogap bermekde köp wagt eglendi. Maglumatyň köp ýüklenendigi sebäpli bolup biler.</translation>
+<translation id="1202290638211552064">Şlýuzyň ýa-da proksi-serweriň çykyş serwerden jogap almak üçin wagty doldy.</translation>
+<translation id="1146498888431277930">SSL protokolynda näsazlyk</translation>
+<translation id="4350711002179453268">Serwere ygtybarly görnüşde çatylyp bolanok. Bu näsazlyk serwer bilen baglanyşykly bolup biler; şol bir wagtyň özünde sizde bolmaýan müşderini anyklaýyş sertifikaty hem talap edilýän bolup biler.</translation>
+<translation id="5228309736894624122">SSL protokolynda näsazlyk.</translation>
+<translation id="8016174103774548813">SSL serweri köne bolup biler.</translation>
+<translation id="5549435349608496346">Serwere howpsuz birigip bolmaýar. Websaýt öň işlän bolup biler, ýöne şeýle saýtlara birikmek indi ähli ulanyjylara howp salýar diýlip görkezilýär we ol howpsuzlygyňyz üçin ýapyldy.</translation>
+<translation id="2803407661478021186">SSLv3 dikeldişi serwer bilen ylalaşyp bilýär, ýöne biz indi protokola edilýän täze hüjümler sebäpli SSLv3 dikeldişlerini kabul etmeýäris. Minimum TLS 1.0 we mümkin bolsa TLS 1.2 goldamak üçin serweriň täze wersiýasyny ýüklemeli.</translation>
+<translation id="2345460471437425338">Saklaýjy (host) üçin nädogry sertifikat.</translation>
+<translation id="3225919329040284222">Serwere özünde gurnalan funksiýalara gabat gelmeýän sertifitikaty ugratdy. Bu funksiýalar käbir serwerlerden, ýokary tehnologiýaly internet saýtlardan sizi goramagy üçin talap edilýär.</translation>
+<translation id="6957887021205513506">Serweriň sertifikaty galp ýaly görünýär.</translation>
+<translation id="4544369257849566741">Aragatnaşygyň başlamagy üçin SSL uzatmasy ýok. Bu uzatmanyň bolmalydygyny öňe sürýän käbir saýtlar <ph name="PRODUCT_NAME"/>-yň bu funksiýany köpçülikleýin hüjümiň ýa-da çozuşyň öňüni almak üçin köp mukdarda talap edýändigini aýdýarlar. Bu uzatmanyň aýrylmagy siziň aragatnaşygyňyza päsgelçilik döredilýändigini we tranzitde ýoýulýandygyny aňladýar.</translation>
+<translation id="8515737884867295000">Sertifikat esasly barlag başa barmady</translation>
+<translation id="1214288039821587584">Serwer anyklamak üçin sertifikat berilmegini talap edýär, şuwagt siziň brauzeriňiziň ugradanyny bolsa kabul etmedi. Siziň sertifikatyňyzyň möhleti dolan bolup biler ýa-da serwer ony beren edara ynanmaýan bolup biler. Siz başga sertifikat bilen gaýtadan synanyşyp bilersiňiz, biri bar hem bolsa başga ýerden hukuk güýji bolan sertifikaty tapmaly bolarsyňyz.</translation>
+<translation id="9013589315497579992">SSL müşderi anyklaýyş sertifikaty nädogry.</translation>
+<translation id="5620046725797389119">Internet sahypany saklaýan serwere köp maglumat ýüklenen ýa-da näsazlyk ýüze çykdy. Uzatmalaryň hereketi artdyryp, ýagdaýyň erbetleşmeginiň öňüni almak üçin <ph name="PRODUCT_NAME"/> bu URL salgysyna haýyşlara rugsat bermegi ýatyrdy.</translation>
+<translation id="2271281383664374369">Bu URL salgysynda edilen giňemek üçin haýyşlar wagtlaýyn ýatyryldy.</translation>
+<translation id="3225579507836276307">Üçünji tarapyň uzatmasy bu internet sahypasyna girişi blokirledi.</translation>
+<translation id="5990559369517809815">Serwere ugradylan haýyşlar uzatma tarapyndan blokirlendi.</translation>
+<translation id="8315720913203253727">Bu internet sahypasy maksadalaýyk görkezilmegi üçin öň giren maglumatlary girizmegiňizi talap edýär. Siz maglumaty gaýtadan ugradyp bilersiňiz, emma şeýle etmek arkaly bu sahypanyň öňki edenini gaýtalarsyňyz. Maglumaty täzeden ugratmak we bu sahypany görkeziň.</translation>
+<translation id="6429639049555216915">Bu programmany häzirlikçe ulanyp bolanok.</translation>
+<translation id="8162734958263531433">USB arkaly düzetmek üçin, siz üçin Android SDK gerek we "USB debugging" funksiýasy açylan bolmaly. Giňişleýin maglumat üçin <ph name="HTML_HELPURL"/> sahypasyny görüň.</translation>
+<translation id="1875071432292773474">Kompýuteriňiziň brauzerinden <ph name="ACCESS_POINT"/> salgysyna gidiň. Brauzer Android ulgamly enjam bilen birmeňzeş torda bolmalydyr.</translation>
+<translation id="7227425938337339799">UPnP tor ulgamynda kiçi torlar arkaly maglumat ýaýratmak üçin siz bir kiçi torda, bir "köprüde" ýa-da ugrukdyryjyda (router) bolmaly.</translation>
+<translation id="4553629908098215669">Kompýuteriňizde <ph name="HTMLADBCOMMAND"/>-y işlediň we Kromium ulgamy bolan brauzer bilen <ph name="HTMLLOCALHOSTURL"/>-a gönükdiriň.</translation>
+<translation id="5873732809085338161">Iş stoly brauzeriňizde web-soketleri işletmek üçin, <ph name="HTMLOPERAFLAG"/> (Opera 24+) ýa-da <ph name="HTMLCHROMEFLAG"/> (Chrome 36+) baryň.</translation>
+<translation id="4570032796877367747">Öň tarapky kamera</translation>
+<translation id="2599796128805996109">Yzky kamera</translation>
+<translation id="1780524213916974482">Çep kamera</translation>
+<translation id="1198988598070704831">Sag kamera</translation>
+<translation id="2124507516322945394">Standart mikrofon</translation>
+<translation id="1587215898571986504">Spikerfon</translation>
+<translation id="5614598979078259956">Simli garnitura</translation>
+<translation id="9031226374756103225">Garnitura nauşnigi</translation>
+<translation id="149679617917926491">Bluetooth garniturasy</translation>
+<translation id="6060685159320643512">Seresap boluň, geçirýän tejribeleriňiz zyýan ýetirip biler</translation>
+<translation id="5199729219167945352">Tejribeler</translation>
+<translation id="2712869172826980984">ÄGÄ BOLUŇ!</translation>
+<translation id="8102444033747951866">Bu baýdaklar programmanyň tejribe geçirilýän we durnuksyz funksiýalaryna gözegçilik etmek üçin ulanylýar. Olar işlemän biler ýa-da brauzeri hem doňduryp biler. Maglumatlaryňyz, hatda şahsy ýa-da howpsuzlyk sazlamalaryňyz hem ýitip biler. Funskiýalar islendik wagt işläp-öçüp biler. Ägä boluň - howply başdan geçirmeler size garaşýar!</translation>
+<translation id="9187827965378254003">Görýän weli, entek geçirilen tejribe ýok öýdýän.</translation>
+<translation id="2282872951544483773">Tejribeler Elýeterli Däl</translation>
+<translation id="6426993025560594914">Ähli tejribeler öz platformaňyzda elýeterlidir!</translation>
+<translation id="889901481107108152">Bagyşlaň, bu tejribäni siziň platformaňyzda geçirip bolanok.</translation>
+<translation id="3015639418649705390">Şu wagt gaýtadan aç</translation>
+<translation id="7179921470347911571">Gaýtadan aç</translation>
+<translation id="8647750283161643317">Ähli zady başdaky ýaly düzet</translation>
+<translation id="1134886108896378542">Ählisini Düzetmek</translation>
+<translation id="4394049700291259645">Öçür</translation>
+<translation id="3435896845095436175">Işlet</translation>
+<translation id="604124094241169006">Awtomat</translation>
+<translation id="8798099450830957504">Ilkibaşdaky sazlama</translation>
+<translation id="8815310998417289610">Açyk</translation>
+<translation id="7826518276255108913">Ýapyk</translation>
+<translation id="2005166128312586988">"Operany" öçürip açanyňyzda üýtgeşmeler işläp başlar.</translation>
+<translation id="7961015016161918242">Hiç haçan</translation>
+<translation id="6342069812937806050">Edil häzir</translation>
+<translation id="684302243018322820">Opera-nyň duran parollaryny görmek üçin, kompýuter parolyňyzy giriziň.</translation>
+<translation id="533563709691128800">ýapyk</translation>
+<translation id="2506903884491778518">Tejribe gözle</translation>
+<translation id="2112624549618815628">Ilkibaşdaky sazlama (açyk)</translation>
+<translation id="3696363537446376816">Ilkibaşdaky sazlama (ýapyk)</translation>
+<translation id="1375198122581997741">Goýberiliş barada</translation>
+<translation id="7248671827512403053">Programma</translation>
+<translation id="1710259589646384581">OU</translation>
+<translation id="6897140037006041989">Ulanyjy agendi</translation>
+<translation id="7353601530677266744">Buýruk setiri</translation>
+<translation id="7225807090967870017">Gurluş ID</translation>
+</translationbundle>

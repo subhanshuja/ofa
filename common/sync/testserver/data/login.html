@@ -1,0 +1,47 @@
+<html>
+<head>
+<script type="text/javascript">
+function verify() {
+  p_err = document.getElementById('password_err');
+  u_err = document.getElementById('username_err');
+  p = document.getElementById('password');
+  u = document.getElementById('username');
+
+  p_err.textContent = "";
+  u_err.textContent = "";
+
+  if (u.value == "") {
+    u_err.textContent = "No empty username allowed";
+    return false;
+  }
+  if (p.value == "") {
+    p_err.textContent = "No empty passwords allowed";
+    return false;
+  }
+  return true;
+}
+</script>
+<title>Mock auth login page</title>
+</head>
+<body bgcolor="white">
+<form id="login-form" method="POST" action="/account/access-token" onsubmit="return verify()" autocapitalize="none" autocorrect="off">
+<input type="hidden" name="continue_url" value="[SYNC_SERVER_CONTINUE_URL]">
+&nbsp;&nbsp;
+<table border=0 align="center" width="80%">
+<tr><td colspan="2"><font size="1" face="Verdana">
+A mock login page that will work <b>with the sync local testserver only</b>.
+In case the sync server works in the 'real_auth' mode, the data is verified against the mock user database, compare DNA-41944.
+Otherwise the data entered into this form is always verified OK.
+This is to check the influence on auth account password changes on sync encryption.<br>
+<font color="red">DO NOT enter your real login data here.</font><br><br>
+<font color="red">[SYNC_SERVER_ERROR_STRING]</font><br><br>
+&nbsp;&nbsp;
+</td></tr>
+<tr><td>Username</td><td><input type="text" id="username" name="email" autofocus="" placeholder="Username or email" maxlength="100" required="required" value=""><br><span id="username_err" style="color: red; font-size: 13px;"></span></td></tr>
+<tr><td>Password</td><td><input type="password" id="password" name="password" placeholder="Password" required="required"><br><span id="password_err" style="color: red; font-size: 13px;"></span></td></tr>
+<!--<label><input type="checkbox" id="store-password-checkbox"> Save password</label>-->
+<tr><td colspan="2"><button type="submit" name="submit">Login</button></td></tr>
+</table>
+</form>
+</body>
+</html>

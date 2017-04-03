@@ -1,0 +1,410 @@
+# -*- Mode: c++; tab-width: 2; indent-tabs-mode: nil; c-basic-offset: 2 -*-
+#
+# Copyright (C) 2013 Opera Software ASA.  All rights reserved.
+#
+# This file is an original work developed by Opera Software ASA
+
+{
+  'variables': {
+    'chrome_browser_dir': '<(DEPTH)/chrome/browser',
+    'chrome_common_dir': '<(DEPTH)/chrome/common',
+    'chrome_components_dir': '<(DEPTH)/components',
+    'desktop_dir': '<(opera_root_dir)/desktop',
+    'opera_root_dir': '../..',
+    'opera_common_dir': '<(opera_root_dir)/common',
+    'opera_common_chrome_imports_dir': '<(opera_common_dir)/chrome_imports',
+    'imported_browser_dir': '<(opera_common_chrome_imports_dir)/chrome/browser',
+    'imported_chrome_common_dir': '<(opera_common_chrome_imports_dir)/chrome/common',
+    'imported_components_dir': '<(opera_common_chrome_imports_dir)/components',
+    'sync_logging%': 0,
+  },
+  'targets' : [
+    {
+      'target_name': 'sync_config',
+      'type': 'static_library',
+      'variables': {
+        'chromium_code': 1,
+      },
+      'dependencies': [
+        '<(opera_common_dir)/constants/constants.gyp:opera_constants',
+        '<(opera_common_dir)/oauth2/oauth2.gyp:oauth2_shared',
+      ],
+      'sources': [
+        'sync_config.cc',
+        'sync_config.h',
+      ],
+      'include_dirs': [
+        '<(DEPTH)',
+      ],
+    },
+    {
+      'target_name': 'sync_status',
+      'type': 'static_library',
+      'sources': [
+        'sync_status.cc',
+        'sync_status.h',
+      ],
+      'include_dirs': [
+        '<(DEPTH)',
+      ],
+    },
+    {
+      'target_name': 'sync_shared',
+      'type': 'static_library',
+      'variables': {
+        'chromium_code': 1,
+      },
+      'dependencies': [
+        '<(DEPTH)/components/components.gyp:sync_driver',
+        '<(opera_common_dir)/constants/constants.gyp:opera_constants',
+        '<(opera_common_dir)/net/common_net.gyp:opera_common_net',
+        'sync_config',
+        'sync_status',
+        'sync_login_data'
+      ],
+      'sources': [
+        'sync_account.cc',
+        'sync_account.h',
+        'sync_account_impl.cc',
+        'sync_account_impl.h',
+        'sync_auth_data_updater.cc',
+        'sync_auth_data_updater.h',
+        'sync_duplication_debugging.h',
+        'sync_error_handler.cc',
+        'sync_error_handler.h',
+        'sync_login_error_data.cc',
+        'sync_login_error_data.h',
+        'sync_server_info.cc',
+        'sync_server_info.h',
+      ],
+      'include_dirs': [
+        '<(DEPTH)',
+      ],
+      'direct_dependent_settings': {
+        'include_dirs': [
+          '<(DEPTH)',
+        ],
+      },
+      'conditions': [
+        ['OS != "android" and OS != "ios"', {
+          'dependencies': [
+            # sync_account_impl.cc uses profile.h which uses
+            # content_browser_client.h.
+            '<(DEPTH)/content/content.gyp:content_browser',
+          ],
+        }],
+      ],
+    },
+    {
+      'target_name': 'sync_login_data',
+      'type': 'static_library',
+      'sources': [
+        'sync_login_data.cc',
+        'sync_login_data.h',
+        'sync_login_data_store_impl.cc',
+        'sync_login_data_store_impl.h',
+      ],
+      'include_dirs': [
+        '<(DEPTH)',
+      ],
+    },
+    {
+      'target_name': 'sync_config_test_support',
+      'type': 'static_library',
+      'variables': {
+        'chromium_code': 1,
+      },
+      'dependencies': [
+        'sync_config',
+      ],
+      'sources': [
+        'sync_config_stub.cc',
+      ],
+      'include_dirs': [
+        '<(DEPTH)',
+      ],
+    },
+    {
+      'target_name': 'sync_test_support',
+      'type': 'static_library',
+      'include_dirs': [
+        '<(DEPTH)',
+      ],
+      'dependencies': [
+        '<(DEPTH)/testing/gmock.gyp:gmock',
+        '<(DEPTH)/url/url.gyp:url_lib',
+        '<(opera_common_dir)/constants/constants.gyp:chrome_constants',
+        'sync_shared',
+      ],
+      'sources': [
+        'sync_account_mock.cc',
+        'sync_account_mock.h',
+        'sync_login_data_store_mock.cc',
+        'sync_login_data_store_mock.h',
+      ],
+      'conditions': [
+        ['opera_desktop==1', {
+          'dependencies': [
+            '<(desktop_dir)/common/features/features.gyp:features',
+          ],
+          'sources': [
+            '<(desktop_dir)/common/sync/sync_config_impl.cc',
+          ],
+        }],
+      ],
+    },
+    {
+      'target_name': 'chrome_browser_sync',
+      'type': 'static_library',
+      'variables': {
+        'chromium_code': 1,
+      },
+      'dependencies': [
+        '<(DEPTH)/components/components.gyp:bookmarks_browser',
+        '<(DEPTH)/components/components.gyp:browser_sync_browser',
+        '<(DEPTH)/components/components.gyp:browser_sync_common',
+        '<(DEPTH)/components/components.gyp:password_manager_core_browser',
+        '<(DEPTH)/components/components.gyp:password_manager_sync_browser',
+        '<(DEPTH)/components/components.gyp:sync_bookmarks',
+        '<(DEPTH)/components/components.gyp:sync_driver',
+        '<(DEPTH)/components/components.gyp:sync_sessions',
+        '<(DEPTH)/components/components.gyp:syncable_prefs',
+        '<(DEPTH)/sync/sync.gyp:sync',
+        '<(DEPTH)/sync/sync.gyp:sync_proto',
+        '<(DEPTH)/third_party/cacheinvalidation/cacheinvalidation.gyp:cacheinvalidation_proto_cpp',  # for invalidation_helper.cc
+        '<(opera_common_dir)/strings/strings.gyp:strings',
+        'components_invalidation',
+        'sync_shared',
+      ],
+      'export_dependent_settings': [
+        'components_invalidation',
+      ],
+      'sources': [
+        '<(chrome_browser_dir)/sync/chrome_sync_client.h',
+        '<(chrome_browser_dir)/sync/glue/extensions_activity_monitor.h',
+        '<(chrome_browser_dir)/sync/glue/sync_start_util.h',
+        '<(chrome_browser_dir)/sync/glue/sync_start_util.cc',
+        '<(chrome_browser_dir)/sync/glue/sync_start_util.cc',
+        '<(chrome_browser_dir)/sync/glue/sync_start_util.h',
+        '<(chrome_components_dir)/browser_sync/browser/profile_sync_components_factory_impl.h',
+        '<(chrome_browser_dir)/sync/profile_sync_service_factory.h',
+        '<(chrome_browser_dir)/sync/sync_startup_tracker.cc',
+        '<(chrome_browser_dir)/sync/sync_startup_tracker.h',
+        '<(imported_browser_dir)/sync/chrome_sync_client.cc',
+        '<(imported_browser_dir)/sync/profile_sync_service_factory.cc',
+        'profile_sync_service_params_provider.cc',
+        'profile_sync_service_params_provider.h',
+        'sync_delay_provider.h',
+        'sync_login_data_store.h',
+        'sync_observer.h',
+        'sync_state_store.h',
+        'sync_types.cc',
+        'sync_types.h',
+      ],
+      'conditions': [
+        ['OS != "ios"', {
+          'dependencies': [
+            '<(DEPTH)/components/components.gyp:sessions_content',
+            '<(DEPTH)/content/content.gyp:content_browser',
+          ],
+        }],
+        ['OS != "android" and OS != "ios"', {
+          'sources': [
+            '<(chrome_browser_dir)/sync/glue/extensions_activity_monitor.cc',
+            '<(chrome_browser_dir)/sync/sessions/notification_service_sessions_router.cc',
+            '<(chrome_browser_dir)/sync/sessions/notification_service_sessions_router.h',
+            'pref_names.cc',
+            'pref_names.h',
+            'sync_auth_keeper.cc',
+            'sync_auth_keeper.h',
+            'sync_auth_keeper_event_recorder.cc',
+            'sync_auth_keeper_event_recorder.h',
+            'sync_auth_keeper_factory.cc',
+            'sync_auth_keeper_factory.h',
+            'sync_auth_keeper_observer.h',
+            'sync_auth_keeper_status.cc',
+            'sync_auth_keeper_status.h',
+            'sync_auth_keeper_util.cc',
+            'sync_auth_keeper_util.h',
+            'sync_password_recoverer.cc',
+            'sync_password_recoverer.h',
+          ],
+        }],
+      ],
+    },
+    {
+      'target_name': 'chrome_browser_sync_test_support',
+      'type': 'static_library',
+      'include_dirs': [
+        '<(opera_common_chrome_imports_dir)',
+        '<(DEPTH)',
+      ],
+      'dependencies': [
+        '<(DEPTH)/components/components.gyp:browser_sync_browser_test_support',
+        '<(DEPTH)/components/components.gyp:signin_core_browser_test_support',
+        '<(DEPTH)/components/components.gyp:sync_sessions_test_support',
+        '<(DEPTH)/testing/gmock.gyp:gmock',
+        '<(DEPTH)/sync/sync.gyp:sync_proto',
+        '<(opera_common_dir)/account/account.gyp:test_support_account',
+        'sync_test_support',
+      ],
+      'sources': [
+        '<(imported_browser_dir)/sync/profile_sync_test_util.cc',
+        '<(DEPTH)/chrome/browser/sync/profile_sync_test_util.h',
+        'sync_test_utils.cc',
+        'sync_test_utils.h',
+      ],
+      'conditions': [
+        ['OS != "ios"', {
+          'dependencies': [
+            '<(DEPTH)/content/content.gyp:content_browser',
+          ],
+        }],
+      ],
+    },
+    {
+      'target_name': 'components_invalidation',
+      'type': 'static_library',
+      'variables': {
+        'chromium_code': 1,
+      },
+      'dependencies': [
+        '<(opera_root_dir)/common/oauth2/oauth2.gyp:oauth2',
+        '<(DEPTH)/jingle/jingle.gyp:notifier',
+        '<(DEPTH)/sync/sync.gyp:sync',
+        '<(DEPTH)/sync/sync.gyp:sync_proto',
+        '<(DEPTH)/third_party/cacheinvalidation/cacheinvalidation.gyp:cacheinvalidation',
+        '<(DEPTH)/third_party/protobuf/protobuf.gyp:protobuf_lite',
+      ],
+      'export_dependent_settings': [
+        '<(DEPTH)/sync/sync.gyp:sync',
+        '<(DEPTH)/third_party/cacheinvalidation/cacheinvalidation.gyp:cacheinvalidation',
+      ],
+      'include_dirs': [
+        '<(DEPTH)',
+      ],
+      'sources': [
+        '<(chrome_components_dir)/client_update_protocol/ecdsa.cc',
+        '<(chrome_components_dir)/client_update_protocol/ecdsa.h',
+        '<(chrome_components_dir)/network_time/network_time_tracker.cc',
+        '<(chrome_components_dir)/network_time/network_time_tracker.h',
+        '<(chrome_components_dir)/network_time/network_time_pref_names.cc',
+        '<(chrome_components_dir)/network_time/network_time_pref_names.h',
+        '<(chrome_components_dir)/invalidation/impl/invalidation_logger.cc',
+        '<(chrome_components_dir)/invalidation/impl/invalidation_logger.h',
+        '<(chrome_components_dir)/invalidation/impl/invalidation_prefs.cc',
+        '<(chrome_components_dir)/invalidation/impl/invalidation_prefs.h',
+        '<(chrome_components_dir)/invalidation/impl/invalidation_service_util.cc',
+        '<(chrome_components_dir)/invalidation/impl/invalidation_service_util.h',
+        '<(chrome_components_dir)/invalidation/impl/invalidation_state_tracker.cc',
+        '<(chrome_components_dir)/invalidation/impl/invalidation_state_tracker.h',
+        '<(chrome_components_dir)/invalidation/impl/invalidation_switches.cc',
+        '<(chrome_components_dir)/invalidation/impl/invalidation_switches.h',
+        '<(chrome_components_dir)/invalidation/impl/invalidator.cc',
+        '<(chrome_components_dir)/invalidation/impl/invalidator.h',
+        '<(chrome_components_dir)/invalidation/impl/invalidator_registrar.cc',
+        '<(chrome_components_dir)/invalidation/impl/invalidator_registrar.h',
+        '<(chrome_components_dir)/invalidation/impl/invalidator_storage.cc',
+        '<(chrome_components_dir)/invalidation/impl/invalidator_storage.h',
+        '<(chrome_components_dir)/invalidation/impl/profile_invalidation_provider.cc',
+        '<(chrome_components_dir)/invalidation/impl/profile_invalidation_provider.h',
+        '<(chrome_components_dir)/invalidation/impl/unacked_invalidation_set.cc',
+        '<(chrome_components_dir)/invalidation/impl/unacked_invalidation_set.h',
+        '<(chrome_components_dir)/invalidation/public/ack_handle.cc',
+        '<(chrome_components_dir)/invalidation/public/ack_handle.h',
+        '<(chrome_components_dir)/invalidation/public/ack_handler.cc',
+        '<(chrome_components_dir)/invalidation/public/ack_handler.cc',
+        '<(chrome_components_dir)/invalidation/public/invalidation.cc',
+        '<(chrome_components_dir)/invalidation/public/invalidation.h',
+        '<(chrome_components_dir)/invalidation/public/invalidation_handler.cc',
+        '<(chrome_components_dir)/invalidation/public/invalidation_handler.h',
+        '<(chrome_components_dir)/invalidation/public/invalidation_util.cc',
+        '<(chrome_components_dir)/invalidation/public/invalidation_util.h',
+        '<(chrome_components_dir)/invalidation/public/invalidator_state.cc',
+        '<(chrome_components_dir)/invalidation/public/invalidator_state.h',
+        '<(chrome_components_dir)/invalidation/public/object_id_invalidation_map.cc',
+        '<(chrome_components_dir)/invalidation/public/object_id_invalidation_map.h',
+        '<(chrome_components_dir)/invalidation/public/single_object_invalidation_set.cc',
+        '<(chrome_components_dir)/invalidation/public/single_object_invalidation_set.h',
+        '<(imported_browser_dir)/invalidation/profile_invalidation_provider_factory.cc',
+        '<(imported_browser_dir)/invalidation/profile_invalidation_provider_factory.h',
+      ],
+      'conditions': [
+        ['OS == "android" and opera_mini == 0', {
+        'sources!': [
+          '<(chrome_components_dir)/invalidation/public/ack_handle.cc',
+          '<(chrome_components_dir)/invalidation/public/ack_handle.h',
+          '<(chrome_components_dir)/invalidation/public/ack_handler.cc',
+          '<(chrome_components_dir)/invalidation/public/ack_handler.cc',
+          '<(chrome_components_dir)/invalidation/public/invalidation.cc',
+          '<(chrome_components_dir)/invalidation/public/invalidation.h',
+          '<(chrome_components_dir)/invalidation/public/invalidation_handler.cc',
+          '<(chrome_components_dir)/invalidation/public/invalidation_handler.h',
+          '<(chrome_components_dir)/invalidation/public/invalidation_util.cc',
+          '<(chrome_components_dir)/invalidation/public/invalidation_util.h',
+          '<(chrome_components_dir)/invalidation/public/invalidator_state.cc',
+          '<(chrome_components_dir)/invalidation/public/invalidator_state.h',
+          '<(chrome_components_dir)/invalidation/public/object_id_invalidation_map.cc',
+          '<(chrome_components_dir)/invalidation/public/object_id_invalidation_map.h',
+          '<(chrome_components_dir)/invalidation/public/single_object_invalidation_set.cc',
+          '<(chrome_components_dir)/invalidation/public/single_object_invalidation_set.h',
+        ]
+        }],
+        ['OS != "android" and OS != "ios"', {
+          'dependencies': [
+            'sync_shared',
+            '<(DEPTH)/content/content.gyp:content',
+            '<(DEPTH)/google_apis/google_apis.gyp:google_apis',
+          ],
+          'sources': [
+            '<(chrome_components_dir)/invalidation/impl/invalidation_notifier.cc',
+            '<(chrome_components_dir)/invalidation/impl/invalidation_notifier.h',
+            '<(chrome_components_dir)/invalidation/impl/non_blocking_invalidator.cc',
+            '<(chrome_components_dir)/invalidation/impl/non_blocking_invalidator.h',
+            '<(chrome_components_dir)/invalidation/impl/notifier_reason_util.cc',
+            '<(chrome_components_dir)/invalidation/impl/notifier_reason_util.h',
+            '<(chrome_components_dir)/invalidation/impl/p2p_invalidator.cc',
+            '<(chrome_components_dir)/invalidation/impl/p2p_invalidator.h',
+            '<(chrome_components_dir)/invalidation/impl/push_client_channel.cc',
+            '<(chrome_components_dir)/invalidation/impl/push_client_channel.h',
+            '<(chrome_components_dir)/invalidation/impl/registration_manager.cc',
+            '<(chrome_components_dir)/invalidation/impl/registration_manager.h',
+            '<(chrome_components_dir)/invalidation/impl/state_writer.h',
+            '<(chrome_components_dir)/invalidation/impl/sync_invalidation_listener.cc',
+            '<(chrome_components_dir)/invalidation/impl/sync_invalidation_listener.h',
+            '<(chrome_components_dir)/invalidation/impl/sync_system_resources.cc',
+            '<(chrome_components_dir)/invalidation/impl/sync_system_resources.h',
+            '<(chrome_components_dir)/invalidation/impl/ticl_invalidation_service.cc',
+            '<(chrome_components_dir)/invalidation/impl/ticl_invalidation_service.h',
+            '<(chrome_components_dir)/invalidation/impl/ticl_settings_provider.cc',
+            '<(chrome_components_dir)/invalidation/impl/ticl_settings_provider.h',
+          ],
+        }],
+      ],
+    },
+    {
+      'target_name': 'common_sync_unittests',
+      'type': 'executable',
+      'dependencies': [
+        '<(DEPTH)/base/base.gyp:run_all_unittests',
+        '<(DEPTH)/components/components.gyp:os_crypt',
+        '<(DEPTH)/components/components.gyp:pref_registry',
+        '<(DEPTH)/components/prefs/prefs.gyp:prefs_test_support',
+        '<(DEPTH)/sync/sync.gyp:sync_core',
+        '<(DEPTH)/testing/gmock.gyp:gmock',
+        '<(DEPTH)/testing/gtest.gyp:gtest',
+        '<(opera_common_dir)/account/account.gyp:test_support_account',
+        'sync_shared',
+        'sync_test_support',
+      ],
+      'sources': [
+        'sync_account_test.cc',
+        'sync_config_test.cc',
+        'sync_error_handler_test.cc',
+        'sync_login_data_store_impl_test.cc',
+        'sync_login_data_test.cc',
+        'sync_login_error_data_test.cc',
+      ],
+    },
+  ],
+}

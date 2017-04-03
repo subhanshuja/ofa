@@ -1,0 +1,34 @@
+# Copyright (C) 2016 Opera Software ASA.  All rights reserved.
+#
+# This file is an original work developed by Opera Software ASA
+
+import("//build/config/opera-common.gni")
+
+source_set("old_bookmarks") {
+  sources = [
+    "bookmark.cc",
+    "bookmark.h",
+    "bookmark_collection.h",
+    "bookmark_collection_impl.cc",
+    "bookmark_collection_impl.h",
+    "bookmark_collection_load_observer.h",
+    "bookmark_collection_observer.h",
+    "bookmark_db_storage.cc",
+    "bookmark_db_storage.h",
+    "bookmark_index.cc",
+    "bookmark_index.h",
+    "bookmark_storage.cc",
+    "bookmark_storage.h",
+    "bookmark_suggestion_provider.cc",
+    "bookmark_suggestion_provider.h",
+    "bookmark_utils.cc",
+    "bookmark_utils.h",
+  ]
+
+  configs += [ "$opera/mobile/mobile/build:include_config" ]
+
+  deps = [
+    "//sql",
+    "$opera/common/suggestion"
+  ]
+}

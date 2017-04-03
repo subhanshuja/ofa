@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="gd">
+<translation id="1974060860693918893">Adhartach</translation>
+<translation id="3462200631372590220">Falaich na roghainnean adhartach</translation>
+<translation id="3369192424181595722">Mearachd a’ chleoc</translation>
+<translation id="2625385379895617796">Tha an cleoc ro luath</translation>
+<translation id="8932102934695377596">Tha an cleoc fadalach</translation>
+<translation id="3858027520442213535">Ùraich an ceann-là ’s an t-àm</translation>
+<translation id="725866823122871198">Cha ghabh ceangal prìobhaideach a dhèanamh ri <ph name="BEGIN_BOLD"/><ph name="DOMAIN"/><ph name="END_BOLD"/> a chionn ’s gu bheil ceann-là is àm a’ choimpiutair agad (<ph name="DATE_AND_TIME"/>) cearr.</translation>
+<translation id="4879058462256654741">Feumaidh an t-àm ceart a bhith aig a’ chleoc agad mus urrainn dhut ceangal tèarainte a stèidheachadh. Tha seo riatanach a chionn ’s gu bheil na teisteanasan a chleachdas làraichean-lìn mar ID dligheach fad ùineachan àraidh a-mhàin. A chionn ’s gu bheil cleoc an uidheim agad cearr, cha ghabh na teisteanasan seo a dhearbhadh.</translation>
+<translation id="1413809658975081374">Mearachd prìobhaideachd</translation>
+<translation id="3566021033012934673">Chan eil thu air ceangal prìobhaideach</translation>
+<translation id="340013220407300675">Dh’fhaoidte gum bi mèirlich airson fiosrachadh a ghoid ort o <ph name="BEGIN_BOLD"/><ph name="SITE"/><ph name="END_BOLD"/> (can faclan-faire, teachdaireachdan no cairtean-creideis).</translation>
+<translation id="629137324635910832">Cleachdaidh <ph name="SITE"/> crioptachadh a ghnàth gus am fiosrachadh agad a dhìon. Nuair a dh’fheuch Opera ri ceangal a dhèanamh ri <ph name="SITE"/> an turas seo, thill an làrach-lìn teisteasan annasach is cearr. Tachraidh seo ma tha mèirleach a’ leigeil air gur iad-san <ph name="SITE"/> no ma bhris sgrìn clàraidh WiFi a-steach air ceangal. Tha am fiosrachadh agad tèarainte fhathast oir chuir Opera casg air a’ cheangal mu deach dàta a mhalairt.</translation>
+<translation id="4404555778932203074">Chan urrainn dhut tadhal air <ph name="SITE"/> an-dràsta a chionn ’s gun do chuir an làrach-lìn brochan de dhàta nach urrainn dha Opera pròiseasadh. Cha mhair mearachdan is ionnsaighean lìonraidh ro fhada mar is trice agus tha deagh-theans gun obraich an duilleag seo a-rithist an ceann greis.</translation>
+<translation id="8882627153668738693">Cleachdaidh <ph name="SITE"/> crioptachadh a ghnàth gus am fiosrachadh agad a dhìon. Nuair a dh’fheuch Avast SafeZone ri ceangal a dhèanamh ri <ph name="SITE"/> an turas seo, thill an làrach-lìn teisteasan annasach is cearr. Tachraidh seo ma tha mèirleach a’ leigeil air gur iad-san <ph name="SITE"/> no ma bhris sgrìn clàraidh WiFi a-steach air ceangal. Tha am fiosrachadh agad tèarainte fhathast oir chuir Avast SafeZone casg air a’ cheangal mu deach dàta a mhalairt.</translation>
+<translation id="1888865191717601957">Chan urrainn dhut tadhal air <ph name="SITE"/> an-dràsta a chionn ’s gun do chuir an làrach-lìn brochan de dhàta nach urrainn dha Avast SafeZone pròiseasadh. Cha mhair mearachdan is ionnsaighean lìonraidh ro fhada mar is trice agus tha deagh-theans gun obraich an duilleag seo a-rithist an ceann greis.</translation>
+<translation id="6264485186158353794">Air ais gu tèarainte</translation>
+<translation id="7704050614460855821"><ph name="BEGIN_LINK"/>Lean ort gu <ph name="SITE"/> (neo-thèarainte)<ph name="END_LINK"/></translation>
+<translation id="5556459405103347317">Ath-luchdaich</translation>
+<translation id="6051221802930200923">Chan urrainn dhut tadhal air <ph name="SITE"/> an-dràsta fhèin a chionn 's gu bheil an làrach-lìn a' cleachdadh prìneachadh theisteanasan. Cha mhair mearachdan lìonraidh is ionnsaighean mar is trice agus tha deagh-theans gun obraich an duilleag seo an ceann greis.</translation>
+<translation id="2991571918955627853">Chan urrainn dhut tadhal air <ph name="SITE"/> an-dràsta fhèin a chionn 's gu bheil an làrach-lìn a' cleachdadh HSTS. Cha mhair mearachdan lìonraidh is ionnsaighean mar is trice agus tha deagh-theans gun obraich an duilleag seo an ceann greis.</translation>
+<translation id="1430489501396597835">Chan urrainn dhut tadhal air <ph name="SITE"/> an-dràsta fhèin a chionn ’s gun deach an teisteanas seo a ghairm air ais. Cha mhair mearachdan lìonraidh is ionnsaighean mar is trice agus tha deagh-theans gun obraich an duilleag seo an ceann greis.</translation>
+<translation id="4513896196857653318">Rach gun
+          phrìomh chlàr-taice »
+          <ph name="SETTINGS_TITLE"/>
+          »
+          <ph name="ADVANCED_TITLE"/>
+          is thoir a’ chromag o “<ph name="NO_PREFETCH_DESCRIPTION"/>.”
+          Mur an cuir sin ceart an duilgheadas, mholamaid dhut an roghainn seo a thaghadh
+          as ùr airson dèanadas nas fhearr.</translation>
+<translation id="8888594059056485523">Leig le Opera inntrigeadh a dhèanamh dhan lìonra ann an roghainnean na cachaileith-theine no a’ phrògraim an aghaidh bhìorasan agad.</translation>
+<translation id="8040357206858000048">Rach gu “Aplacaidean” » “Roghainnean an t-siostaim” » “Lìonra” » “Adhartach” » “Progsaidhean” agus thoir a’ chromag o phrogsaidh sam bith a chaidh a thaghadh.</translation>
+<translation id="1532685482177999023">Rach gun phrìomh chlàr-taice » “<ph name="SETTINGS_TITLE"/>” » “<ph name="PROXIES_TITLE"/>” » “Roghainnean LAN” is dì-thagh “Cleachd frithealaiche progsaidh airson an LAN agad”.</translation>
+<translation id="6118049677165320383">Thèid na dh’atharraich thu a chur an sàs an ath-thuras a thòisicheas tu am brabhsair às ùr.</translation>
+<translation id="5510583790312051907">Chan eil aithisgean mu thuisleadh ri fhaighinn.</translation>
+<translation id="1011013207380005827">Cha ghabhadh Opera a dhèanamh as aonais pròiseact <ph name="BEGIN_LINK_CHROMIUM"/>Chromium<ph name="END_LINK_CHROMIUM"/> agus <ph name="BEGIN_LINK_OSS"/>bathar-bog le còd fosgailte eile<ph name="END_LINK_OSS"/>.</translation>
+<translation id="3108493547597012279">Tha thu a’ coimhead air duilleag thèarainte.</translation>
+<translation id="8530361534096361731">Cha do dhùin Opera mar bu chòir.</translation>
+</translationbundle>

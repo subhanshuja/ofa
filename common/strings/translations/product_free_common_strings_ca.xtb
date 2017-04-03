@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="ca">
+<translation id="3942946088478181888">Necessito ajuda per entendre-ho</translation>
+<translation id="1396529432791646744">Quan us connecteu a un lloc web segur, el servidor on s'allotja us presenta el navegador amb el que s'anomena “certificat” per tal de verificar-ne la identitat. Aquest certificat conté informació d'identitat, com l'adreça del lloc web, que està verificada per tercers de confiança per al vostre dispositiu mòbil. En comprovar que l'adreça del certificat coincideix amb l'adreça del lloc web, és possible verificar que us esteu comunicant de manera segura amb el lloc web que preteníeu, i no amb tercers (com, per exemple, un atacant de la xarxa).</translation>
+<translation id="6295228342562451544">Quan us connecteu a un lloc web segur, el servidor on s'allotja us presenta el navegador amb el que s'anomena “certificat” per tal de verificar-ne la identitat. Aquest certificat conté informació d'identitat, com l'adreça del lloc web, que està verificada per tercers de confiança per al vostre ordinador. En comprovar que l'adreça del certificat coincideix amb l'adreça del lloc web, és possible verificar que us esteu comunicant de manera segura amb el lloc web que preteníeu, i no amb tercers (com, per exemple, un atacant de la xarxa).</translation>
+<translation id="8187473050234053012">El certificat de seguretat del servidor s'ha revocat.</translation>
+<translation id="5598024575303778520">Avís de frau</translation>
+<translation id="7311721172731074902">Avís de Frau</translation>
+<translation id="1858130628205855959">Pot ser que aquest lloc hagi estat piratejat o que sigui fraudulent. Si introdueixes la contrasenya o dades personals, pots córrer el risc de robatori d'identitat o de frau fiscal.</translation>
+<translation id="8357891144266644027">Avís de lloc maliciós</translation>
+<translation id="4664012235452972339">Avís de lloc maliciós</translation>
+<translation id="1030973920598092450">Pot ser que aquest lloc s'hagi piratejat o que contingui programari maliciós. El sistema es podria malmetre si visites aquesta pàgina.</translation>
+<translation id="4863259811271883558">Notificat per <ph name="BEGIN_LINK"/><ph name="PROVIDER_NAME"/><ph name="END_LINK"/></translation>
+<translation id="3141322567138977593">Torna enrere amb seguretat</translation>
+<translation id="833642844779103272">Torna enrere amb Seguretat</translation>
+<translation id="4238466718818823211">Ignora aquest avís</translation>
+<translation id="1755698976576372535">Per què s'ha bloquejat la pàgina?</translation>
+<translation id="2962647877740028287">Els nostres informes sobre casos fraudulents els gestionen altres proveïdors.</translation>
+<translation id="7470668651798735849">Aquí pots veure totes les notificacions dels llocs web.</translation>
+<translation id="6426222199977479699">Error SSL</translation>
+<translation id="8398877366907290961">Continua de tota manera</translation>
+<translation id="6264485186158353794">Torna a la seguretat</translation>
+<translation id="2225024820658613551">No hauríeu de continuar, &lt;strong&gt;especialment&lt;/strong&gt; si no heu vist mai abans aquest avís per a aquest lloc.</translation>
+<translation id="5645845270586517071">Error de seguretat</translation>
+<translation id="1103666958012677467">No podeu continuar perquè l'operador del lloc web ha sol·licitat una seguretat extrema per a aquest domini.</translation>
+<translation id="5463275305984126951">Índex de <ph name="LOCATION"/></translation>
+<translation id="8877448029301136595">[directori principal]</translation>
+<translation id="3835522725882634757">Vaja! Aquest servidor està enviant dades que <ph name="PRODUCT_NAME"/> no entén. <ph name="BEGIN_LINK"/>Notifiqueu el problema<ph name="END_LINK"/> tot incloent-hi la <ph name="BEGIN2_LINK"/>llista font<ph name="END2_LINK"/>.</translation>
+<translation id="5327248766486351172">Nom</translation>
+<translation id="8028993641010258682">Mida</translation>
+<translation id="57646104491463491">Data modificada</translation>
+<translation id="8465929756435120446">Aquesta pàgina inclou continguts que no són segurs.</translation>
+<translation id="6827416153061837992">Aquesta connexió no està xifrada.</translation>
+<translation id="9193357432624119544">Codi d'error: <ph name="ERROR_NAME"/></translation>
+<translation id="4910619056351738551">Aquí tens alguns suggeriments:</translation>
+<translation id="2954705784594331199"><ph name="BEGIN_LINK"/>Torna a carregar<ph name="END_LINK"/> aquesta pàgina web més endavant.</translation>
+<translation id="4977565600485911823">Desactiveu les extensions i després <ph name="BEGIN_LINK"/>torneu a carregar<ph name="END_LINK"/> aquesta pàgina web.</translation>
+<translation id="1103966635949043187">Aneu a la pàgina d'inici del lloc:</translation>
+<translation id="7747589364844254751">Comproveu la vostra connexió a Internet. Reinicieu qualsevol encaminador, mòdem o dispositiu de xarxa que pugueu estar utilitzant.</translation>
+<translation id="5548623538190661145">Comproveu els paràmetres DNS. Poseu-vos en contacte amb l'administrador de xarxa si no esteu segurs de què significa això.</translation>
+<translation id="4545046228395991092">Si utilitzeu un servidor intermediari, comproveu-ne la configuració o poseu-vos en contacte amb l'administrador de la xarxa per a assegurar-vos que el servidor intermediari estigui funcionant.</translation>
+<translation id="1712673276482711826">Si utilitzeu un servidor intermediari, comproveu-ne la configuració o poseu-vos en contacte amb l'administrador de la xarxa per a assegurar-vos que el servidor intermediari estigui funcionant. Si creieu que no us cal utilitzar un servidor intermediari, ajusteu la configuració de l'intermediari: <ph name="PLATFORM_TEXT"/></translation>
+<translation id="721197778055552897"><ph name="BEGIN_LINK"/>Més informació<ph name="END_LINK"/> sobre aquest problema.</translation>
+<translation id="8235325155053717782">Error <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="3986287159189541211">Error d'HTTP <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="3225919329040284222">El servidor ha presentat un certificat que no coincideix amb les expectatives integrades. Aquestes expectatives estan incloses per a determinats llocs web de seguretat alta per tal de protegir-te.</translation>
+<translation id="6957887021205513506">Sembla que el certificat del servidor és una falsificació.</translation>
+<translation id="6429639049555216915">En aquests moments no es pot accedir a l'aplicació.</translation>
+<translation id="9127307628159259612">Afegeix <ph name="PRODUCT_NAME"/> com a programa permès a la configuració del programari de tallafoc o antivirus. Si aquest ja és un programa permès, mira d'eliminar-lo de la llista de programes permesos i tornar-lo a afegir.</translation>
+<translation id="4544369257849566741">L'extensió de la renegociació SSL no és al protocol d'enllaç segur. En determinats llocs, coneguts per admetre l'extensió de renegociació, <ph name="PRODUCT_NAME"/> necessita un protocol d'enllaç més segur per tal d'evitar una sèrie d'atacs coneguts. L'omissió d'aquesta extensió suggereix que la teva connexió s'ha interceptat i manipulat en trànsit.</translation>
+<translation id="8162734958263531433">Per tal d'utilitzar la depuració USB, cal tenir activats l'SDK d'Android i la depuració USB al dispositiu Android. Consulta <ph name="HTML_HELPURL"/> per obtenir-ne més informació.</translation>
+<translation id="1875071432292773474">Introduïu l'adreça <ph name="ACCESS_POINT"/> fal navegador d'escriptori. El navegador d'escriptori ha d'estar a la mateixa xarxa que el dispositiu Android.</translation>
+<translation id="7227425938337339799">Perquè UPnP funcioni, heu d'estar a la mateixa subxarxa o heu de crear un pont perquè l'encaminador reenviï les emissions per les subxarxes.</translation>
+<translation id="4553629908098215669">A l'ordinador, executeu <ph name="HTMLADBCOMMAND"/> i aneu a <ph name="HTMLLOCALHOSTURL"/> amb un navegador basat en Chromium.</translation>
+<translation id="4570032796877367747">Càmera frontal</translation>
+<translation id="2599796128805996109">Càmera posterior</translation>
+<translation id="2124507516322945394">Micròfon per defecte</translation>
+<translation id="1587215898571986504">Altaveu</translation>
+<translation id="5614598979078259956">Auriculars amb cable</translation>
+<translation id="9031226374756103225">Auricular amb micròfon</translation>
+<translation id="149679617917926491">Auriculars amb Bluetooth</translation>
+<translation id="6060685159320643512">Compte, que aquests experiments poden mossegar</translation>
+<translation id="5199729219167945352">Experiments</translation>
+<translation id="533563709691128800">desactivat</translation>
+<translation id="2506903884491778518">Cerca experiments</translation>
+<translation id="1138663153846032155">Preferència de contingut HTML per sobre de Flash</translation>
+<translation id="2081453640527377956">Per indicar la preferència de contingut HTML, oculta Flash de la llista de connectors.</translation>
+<translation id="5998167623928667649">Executa tot el contingut Flash si el valor del paràmetre Flash és "permet"</translation>
+<translation id="5138177765054221193">Per a llocs configurats per "permetre" contingut Flash, executa tot el contingut, incloent-hi el que no es consideri important.</translation>
+<translation id="2112624549618815628">Per defecte (activat)</translation>
+<translation id="3696363537446376816">Per defecte (desactivat)</translation>
+<translation id="5773249585542913314">API de Windows Runtime MIDI</translation>
+<translation id="7122132768827815392">Fes servir l'API Windows Runtime MIDI per a WebMIDI (només és efectiu al Windows 10 o versions posteriors).</translation>
+<translation id="1375198122581997741">Quant a la versió</translation>
+<translation id="7248671827512403053">Aplicació</translation>
+<translation id="1710259589646384581">SO</translation>
+<translation id="6897140037006041989">Agent d'usuari</translation>
+<translation id="7353601530677266744">Línia d'ordres</translation>
+<translation id="7225807090967870017">ID de compilació</translation>
+<translation id="8420139899406509438">Enabled (Flash ducks when losing audio focus, experimental)</translation>
+</translationbundle>

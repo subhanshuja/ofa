@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="sw">
+<translation id="3942946088478181888">Nisaidie kuelewa</translation>
+<translation id="1396529432791646744">Unapounganisha kwenye tovuti salama, seva inayopangisha tovuti hiyo huwasilisha kivinjari chako na kitu kinachoitwa "cheti" ili kuthibitisha utambulisho wake. Cheti hiki kina maelezo ya utambulisho, kama vile anwani ya tovuti, inayothibitishwa na mtu mwingine anayeaminiwa na kifaa chako cha simu. Kwa kuangalia anwani kwenye cheti hulinganisha anwani ya tovuti, inawezekana kuthibitisha kuwa unawasiliana kwa usalama na tovuti uliyokusudia, na sio mtu mwingine (kama vile mshambulizi katika mtandao wako).</translation>
+<translation id="6295228342562451544">Unapounganisha kwenye tovuti salama, seva inayopangisha tovuti hiyo huwasilisha kivinjari chako na kitu kinachoitwa "cheti" ili kuthibitisha utambulisho wake. Cheti hiki kina maelezo ya utambulisho, kama vile anwani ya tovuti, inayothibitishwa na mtu mwingine anayeaminiwa na kompyuta yako. Kwa kuangalia anwani kwenye cheti hulinganisha anwani ya tovuti, inawezekana kuthibitisha kuwa unawasiliana kwa usalama na tovuti uliyokusudia, na sio mtu mwingine (kama vile mshambulizi katika mtandao wako).</translation>
+<translation id="8187473050234053012">Cheti cha usalama cha seva kimebatilishwa!</translation>
+<translation id="5598024575303778520">Onyo la ulaghai</translation>
+<translation id="7311721172731074902">Onyo la Ulaghai</translation>
+<translation id="1858130628205855959">Huenda tovuti hii imedukuliwa au ni ya ulaghai. Kuipa manenosiri au maelezo ya kibinafsi kunaweza kukuweka hatarini kwa wizi wa kutambulisho au ulaghai wa kifedha.</translation>
+<translation id="8357891144266644027">Onyo la tovuti hasidi</translation>
+<translation id="4664012235452972339">Onyo la Tovuti Hasidi</translation>
+<translation id="1030973920598092450">Huenda tovuti hii imedukuliwa au ina programu hasidi. Kutembelea ukurasa huu huenda kukawa na madhara.</translation>
+<translation id="4863259811271883558">Imeripotiwa na <ph name="BEGIN_LINK"/><ph name="PROVIDER_NAME"/><ph name="END_LINK"/></translation>
+<translation id="3141322567138977593">Rudi nyuma salama</translation>
+<translation id="833642844779103272">Rudi Nyuma Salama</translation>
+<translation id="4238466718818823211">Puuza onyo hili</translation>
+<translation id="1755698976576372535">Je, ni kwa nini ukurasa huu ulizuiliwa?</translation>
+<translation id="2962647877740028287">Ripoti zetu za ulaghai zinadumishwa na wachuuzi wengine.</translation>
+<translation id="7470668651798735849">Unaweza kuona arifa zako zote kupitia kwenye tovuti.</translation>
+<translation id="6426222199977479699">Hitilafu ya SSL</translation>
+<translation id="8398877366907290961">Hata hivyo endelea</translation>
+<translation id="6264485186158353794">Rudi kwa usalama</translation>
+<translation id="2225024820658613551">Hufai kuendelea &lt;strong&gt;especially&lt;/strong&gt; kama hujawahi kuona onyo hili awali kwa tovuti hii.</translation>
+<translation id="5645845270586517071">Hitilafu ya Usalama</translation>
+<translation id="1103666958012677467">Huwezi kuendelea kwa sababu mwendeshaji wa tovuti ameomba usalama wa kutosha kwa kikoa hiki.</translation>
+<translation id="5463275305984126951">Kielezo cha <ph name="LOCATION"/></translation>
+<translation id="8877448029301136595">[saraka kuu]</translation>
+<translation id="3835522725882634757">La! Seva hii inatuma data <ph name="PRODUCT_NAME"/> haiwezi kuelewa. Tafadha <ph name="BEGIN_LINK"/>repoti hitilafu<ph name="END_LINK"/>, na ujumuishe <ph name="BEGIN2_LINK"/>orodha mpya<ph name="END2_LINK"/>.</translation>
+<translation id="5327248766486351172">Jina</translation>
+<translation id="8028993641010258682">Ukubwa</translation>
+<translation id="57646104491463491">Tarehe Iliyorekebishwa</translation>
+<translation id="8465929756435120446">Ukurasa huu una baadhi ya maudhui yasiyo salama.</translation>
+<translation id="6827416153061837992">Muunganisho huu haujawekwa kwa hali fiche.</translation>
+<translation id="9193357432624119544">Msimbo wa hitilafu: <ph name="ERROR_NAME"/></translation>
+<translation id="4910619056351738551">Haya hapa ni baadhi ya mapendekezo:</translation>
+<translation id="2954705784594331199"><ph name="BEGIN_LINK"/>Pakia<ph name="END_LINK"/> upya ukurasa huu wa wavuti baadaye.</translation>
+<translation id="4977565600485911823">Lemaza viendelezi vyako kisha <ph name="BEGIN_LINK"/>upakie upya<ph name="END_LINK"/>ukurasa huu wa wavuti.</translation>
+<translation id="1103966635949043187">Nenda kwenye ukurasa wa mwanzo wa tovuti:</translation>
+<translation id="7747589364844254751">Angalia muunganisho wako wa mtandao. Anzisha upya ruta, modemu, au vifaa vingine vyovyote vya mtandao ambavyo huenda unavitumia.</translation>
+<translation id="5548623538190661145">Angalia mipangilio yako ya DNS. Wasiliana na msimamizi wako wa mtandao kama huna uhakika kuhusu kinachomaaanishwa na hii.</translation>
+<translation id="4545046228395991092">Ukitumia seva ya proksi, angalia mipangilio yako ya proksi au wasiliana na msimamizi wako wa mtandao ili kuhakikisha kuwa seva ya proksi inafanya kazi.</translation>
+<translation id="1712673276482711826">Ukitumia seva mbadala, angalia mipangilio yako mbadala au wasiliana na msimamizi wako wa mtandao ili kuhakikisha kuwa seva mbadala inafanya kazi. Kama huamini unastahili kuwa unatumia seva mbadala, rekebisha mipangilio yako ya mbadala: <ph name="PLATFORM_TEXT"/></translation>
+<translation id="721197778055552897"><ph name="BEGIN_LINK"/>pata maelezo zaidi<ph name="END_LINK"/> kuhusu tatizo hili.</translation>
+<translation id="8235325155053717782">Hitilafu <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="3986287159189541211">Hitilafu ya HTTP <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="3225919329040284222">Seva iliwasilisha cheti kisicho lingana na matarajio yaliyojengewa ndani. Matarajio haya yanajumuishwa kwenye tovuti maalum, zilizo na usalama wa hali ya juu ili kukulinda.</translation>
+<translation id="6957887021205513506">Cheti cha seva kinaonekana kuwa kimeghushiwa.</translation>
+<translation id="6429639049555216915">Programu haifikiwi kwa sasa.</translation>
+<translation id="9127307628159259612">Ongeza <ph name="PRODUCT_NAME"/> kama programu iliyoidhinishwa kwenye mipangilio yako ya programu ya kinga-mtandao na kinga-virusi. Tayari ni programu iliyoidhinishwa, jaribu kuifuta kutoka kwenye orodha ya programu zilizoidhinishwa na kuiongeza tena.</translation>
+<translation id="4544369257849566741">Kiendelezi cha ujadilianaji upya cha SSL kilikuwa kikikosekana kutoka kwenye utikisaji salama wa mkono. Kwa tuvuti nyingine, zinazojulikana kuauni kiendelezi cha uajadilianaji upya, <ph name="PRODUCT_NAME"/> inahitaji utikisaji salama wa mkono ili kuzuia uvamizi wa aina inayojulikana. Kutojumuishwa kwa kiendelezi hiki kunaonyesha kuwa muunganisho wako ulichachawizwa na kutumiwa vibaya wakati wa kusafirishwa.</translation>
+<translation id="8162734958263531433">Ili kutumia utatuaji wa USB, unahitaji kuwezesha Android SDK na utatuaji wa USB kwenye kifaa chako cha Android. Tazama <ph name="HTML_HELPURL"/> kwa maelezo zaidi.</translation>
+<translation id="1875071432292773474">Ingiza anwani <ph name="ACCESS_POINT"/> kwenye kivinjari chako cha eneo-kazi. Lazima kivinjari cha eneo-kazi kiwe kwenye mtandao sawa kama kifaa cha Android.</translation>
+<translation id="7227425938337339799">Ili UpnP iweze kufanya kazi unahitaji kuwa kwenye subnet sawa, au uunganishe ruta ili kusambaza matangazo kwenye subnets.</translation>
+<translation id="4553629908098215669">Kwenye kompyuta yako, endesha <ph name="HTMLADBCOMMAND"/>, na uendeke kwenye <ph name="HTMLLOCALHOSTURL"/> kwa kutumia kivinjari cha Chromium.</translation>
+<translation id="4570032796877367747">Kamera ya mbele</translation>
+<translation id="2599796128805996109">Kamera ya nyuma</translation>
+<translation id="2124507516322945394">Maikrofoni chaguo-msingi</translation>
+<translation id="1587215898571986504">Simu ya spika</translation>
+<translation id="5614598979078259956">Kisikizi chenye waya</translation>
+<translation id="9031226374756103225">Kisikizi cha masikioni</translation>
+<translation id="149679617917926491">Kisikizi cha bluetooth</translation>
+<translation id="6060685159320643512">Tahadhari, majaribio haya yanaweza kuwa na athari</translation>
+<translation id="5199729219167945352">Majaribio</translation>
+<translation id="533563709691128800">imelemazwa</translation>
+<translation id="2506903884491778518">Tafuta majaribio</translation>
+<translation id="1138663153846032155">Unapendelea HTML badala ya Flash</translation>
+<translation id="2081453640527377956">Pendelea maudhui ya HTML kwa kuficha Flash dhidi ya orodha ya nyongeza.</translation>
+<translation id="5998167623928667649">Tumia maudhui yote ya Flash mipangilio ya Flash inapowekwa kuwa "ruhusu"</translation>
+<translation id="5138177765054221193">Kwa tovuti ambazo zimewekwa "ruhusu" maudhui ya Flash, tumia maudhui yote ikiwemo yoyote ambayo yamesemekana kutokuwa muhimu.</translation>
+<translation id="2112624549618815628">Chaguo-msingi (umewezeshwa)</translation>
+<translation id="3696363537446376816">Chaguo-msingi (umelemazwa)</translation>
+<translation id="5773249585542913314">Windows Runtime MIDI API</translation>
+<translation id="7122132768827815392">Tumia Windows Runtime MIDI API kwa WebMIDI (inafanya kazi kwenye Windows 10 au toleo la baadaye pekee).</translation>
+<translation id="1375198122581997741">Kuhusu Toleo</translation>
+<translation id="7248671827512403053">Programu</translation>
+<translation id="1710259589646384581">OS</translation>
+<translation id="6897140037006041989">Wakala wa Mtumiaji</translation>
+<translation id="7353601530677266744">Mstari wa Amri</translation>
+<translation id="7225807090967870017">Jenga Kitambulisho</translation>
+</translationbundle>

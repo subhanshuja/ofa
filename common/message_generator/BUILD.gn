@@ -1,0 +1,15 @@
+# Copyright (C) 2015 Opera Software ASA.  All rights reserved.
+#
+# This file is an original work developed by Opera Software ASA.
+
+source_set("message_generator") {
+  sources = [
+    "all_messages.h",
+    "message_generator.cc",
+  ]
+  configs += [ "../config:include_config" ]
+  deps = [
+    "//content/public/common",
+    "//ui/accessibility:ax_gen",
+  ]
+}

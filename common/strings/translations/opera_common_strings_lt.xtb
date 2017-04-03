@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="lt">
+<translation id="2978824962390592855">Opera</translation>
+<translation id="9071130496134948492">Opera Software</translation>
+<translation id="6494666865857176946">„Opera Software“ nerekomenduoja lankytis šiame puslapyje.</translation>
+<translation id="7459549266751278805">„Opera“ pranešimų centras</translation>
+<translation id="4501379002264542907">„Opera“ pranešimai</translation>
+<translation id="1352092048463356430">„Opera“ pranešimai (neskaitytų: <ph name="QUANTITY"/>)</translation>
+<translation id="4159400746343093340">„Opera“ pranešimai</translation>
+<translation id="6018626517703817463">„Opera“ pranešimai (neskaitytų: <ph name="QUANTITY"/>)</translation>
+<translation id="6161036283010589960">Svetainė naudoja pasenusius saugumo parametrus, todėl būsimoms „Opera“ versijoms gali nepavykti jos saugiai pasiekti.</translation>
+<translation id="8888594059056485523">Leiskite „Opera“ pasiekti tinklo parametrus užkardos arba antivirusinės programos parametruose.</translation>
+<translation id="7158277678571698323">Eikite į „Opera“ meniu &gt; „<ph name="SETTINGS_TITLE"/>“ &gt; „<ph name="PROXIES_TITLE"/>“ &gt; „LAN parametrai“ ir panaikinkite parinkties „LAN naudoti įgaliotąjį serverį“ žymėjimą.</translation>
+<translation id="5873732809085338161">Norėdami leisti darbalaukio naršyklėje naudoti nesaugius „WebSockets“, eikite į dalį „<ph name="HTMLOPERAFLAG"/>“(jei naudojate 24 ar naujesnės versijos „Opera“) arba „<ph name="HTMLCHROMEFLAG"/>“ (jei naudojate 36 ar naujesnės versijos „Chrome“).</translation>
+<translation id="2005166128312586988">Keitimai įsigalios, kai iš naujo paleisite „Opera“.</translation>
+<translation id="684302243018322820">Norėdami pamatyti „Opera“ saugomus slaptažodžius, įveskite savo kompiuterio slaptažodį.</translation>
+</translationbundle>

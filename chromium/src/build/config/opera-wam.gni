@@ -1,0 +1,9 @@
+# Copyright (C) 2015 Opera Software ASA.  All rights reserved.
+#
+# This file is an original work developed by Opera Software ASA
+
+import("opera-common.gni")
+
+if (opera_wam) {
+  import("$opera/mobile/mobile/build/config.gni")
+}

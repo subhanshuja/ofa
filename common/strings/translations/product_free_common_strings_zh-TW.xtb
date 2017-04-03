@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="zh-TW">
+<translation id="3942946088478181888">幫助我瞭解</translation>
+<translation id="1396529432791646744">當你連線到一個安全的網站時，該網站的伺服器會給你的瀏覽器一個叫做「憑證」的東西驗證它的身份。 這個憑證裡包含了關於這個網站身分的資料，如：網址，這些資料會跟你手機信任的第三方公司做確認。 在確認憑證中的網址與實際的網址相符之後，我們就能確認你目前建立安全連線的網站是真正的網站，而不是其他（可能是網路攻擊/詐騙）的網站。</translation>
+<translation id="6295228342562451544">當你連線到一個安全的網站時，網站的伺服器會傳送一個叫做「憑證」的檔案來驗證它的身分。 這個憑證裡包含了關於這個網站身分的資料，如：網址，這些資料會跟你電腦信任的第三方公司做確認。 在確認憑證中的網址與實際的網址相符之後，我們就能確認你目前建立安全連線的網站是真正的網站，而不是其他（可能是網路攻擊/詐騙）的網站。</translation>
+<translation id="8187473050234053012">伺服器的安全憑證被撤銷了！</translation>
+<translation id="5598024575303778520">詐騙警告</translation>
+<translation id="7311721172731074902">詐騙警告</translation>
+<translation id="1858130628205855959">這個網站可能被駭客入侵或是本身就是詐騙網站。把你的密碼或是個人資料給這個網站，會讓你遭受被盜用身分或是財務詐騙的風險之中。</translation>
+<translation id="8357891144266644027">惡意網站警告</translation>
+<translation id="4664012235452972339">惡意網站警告</translation>
+<translation id="1030973920598092450">這個網站可能已被駭客入侵，或是裡面有惡意軟體。瀏覽這個頁面可能會造成危害。</translation>
+<translation id="4863259811271883558">由 <ph name="BEGIN_LINK"/><ph name="PROVIDER_NAME"/><ph name="END_LINK"/> 所報告</translation>
+<translation id="3141322567138977593">安全地回到上一頁</translation>
+<translation id="833642844779103272">安全地回到上一頁</translation>
+<translation id="4238466718818823211">忽略這個警告</translation>
+<translation id="1755698976576372535">為什麼這個頁面會被阻擋？</translation>
+<translation id="2962647877740028287">我們的詐騙警告是由其他的第三方廠商所製作的。</translation>
+<translation id="7470668651798735849">你可以在這裡看到你所有從網站送來的通知。</translation>
+<translation id="6426222199977479699">SSL 錯誤</translation>
+<translation id="8398877366907290961">無論如何都要繼續</translation>
+<translation id="6264485186158353794">回到安全的地方</translation>
+<translation id="2225024820658613551">你不應該繼續，&lt;strong&gt;特別是&lt;/strong&gt; 如果你在這個網站之前從未看過這個警告。</translation>
+<translation id="5645845270586517071">安全性錯誤</translation>
+<translation id="1103666958012677467">你不能繼續，因為這個網站的管理員對這個網域要求提高安全性。</translation>
+<translation id="5463275305984126951"><ph name="LOCATION"/> 資料夾</translation>
+<translation id="8877448029301136595">[母目錄]</translation>
+<translation id="3835522725882634757">啊，糟糕了！這台主機傳送的資料 <ph name="PRODUCT_NAME"/> 無法解讀。請 <ph name="BEGIN_LINK"/>報告這個錯誤<ph name="END_LINK"/>，並附上 <ph name="BEGIN2_LINK"/>原始列表<ph name="END2_LINK"/>。</translation>
+<translation id="5327248766486351172">名稱</translation>
+<translation id="8028993641010258682">大小</translation>
+<translation id="57646104491463491">修改日期</translation>
+<translation id="8465929756435120446">這個頁面裡有些不安全的內容。</translation>
+<translation id="6827416153061837992">這個連線未經加密。</translation>
+<translation id="9193357432624119544">錯誤代碼：<ph name="ERROR_NAME"/></translation>
+<translation id="4910619056351738551">你可以試看看底下的方法：</translation>
+<translation id="2954705784594331199">稍後 <ph name="BEGIN_LINK"/>重新載入<ph name="END_LINK"/> 這個頁面。</translation>
+<translation id="4977565600485911823">請停用你的延伸套件，然後 <ph name="BEGIN_LINK"/>重新載入<ph name="END_LINK"/> 這個網頁。</translation>
+<translation id="1103966635949043187">試著到這個網站的首頁：</translation>
+<translation id="7747589364844254751">檢查你的網路連線。 重新啟動你在使用的任何路由器、數據機，或是其他的網路設備。</translation>
+<translation id="5548623538190661145">檢查你的 DNS 設定。 如果你不曉得這是什麼意思，請聯絡你的網路管理員。</translation>
+<translation id="4545046228395991092">如果你使用代理伺服器，請檢查你的代理伺服器設定，或與網路管理員聯絡，確認代理伺服器功能正常。</translation>
+<translation id="1712673276482711826">如果你使用代理伺服器，請檢查你的代理伺服器設定，或與網路管理員聯絡，確認代理伺服器功能正常。如果你相信你不應該使用這個代理伺服器，請調整你的代理伺服器設定：<ph name="PLATFORM_TEXT"/></translation>
+<translation id="721197778055552897"><ph name="BEGIN_LINK"/>更多<ph name="END_LINK"/> 關於這個問題的資訊。</translation>
+<translation id="8235325155053717782">錯誤代碼 <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="3986287159189541211">HTTP 錯誤 <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="3225919329040284222">伺服器送來的憑證與程式內的設定不符。 這些內建的設定是為了保護你而針對某些高安全性網站所設計的。</translation>
+<translation id="6957887021205513506">伺服器憑證似乎是偽造的。</translation>
+<translation id="6429639049555216915">這個網路應用程式目前無法使用。</translation>
+<translation id="9127307628159259612">把 <ph name="PRODUCT_NAME"/> 加到你防火牆或是防毒程式設定裡面的「允許執行程式」的清單裡。 如果它已經在你的「允許執行清單」裡，請把它從清單裡刪除，然後再加一次試試看。</translation>
+<translation id="4544369257849566741">安全交涉（secure handshake）裡缺少 SSL 重新交涉延伸套件（renegotiation extension）。對某些支援「重新交涉延伸套件」的網站來說，<ph name="PRODUCT_NAME"/> 需要更安全的交涉方式，以避免一些已知的攻擊。缺少這個延伸套件表示你的連線被攔截了，並在傳送資料時遭到竄改。</translation>
+<translation id="8162734958263531433">若要使用 USB 除錯，你需要 Android SDK 並在 Android 設備上啟用 USB 除錯。 更多資料，請參考 <ph name="HTML_HELPURL"/>。</translation>
+<translation id="1875071432292773474">請在你的電腦版瀏覽器裡輸入 <ph name="ACCESS_POINT"/> 這個位址。這個電腦版瀏覽器必須要跟這個 Android 裝置處於同一個網路裡。</translation>
+<translation id="7227425938337339799">要讓 UPnP 能正常作用，你需要在同一個子網路上，或是橋接路由器，讓廣播能跨越子網路傳送。</translation>
+<translation id="4553629908098215669">在你的電腦上，請執行 <ph name="HTMLADBCOMMAND"/>，並在以 Chromium 為基礎的瀏覽器上，瀏覽 <ph name="HTMLLOCALHOSTURL"/>。</translation>
+<translation id="4570032796877367747">在正面的相機</translation>
+<translation id="2599796128805996109">在背面的相機</translation>
+<translation id="2124507516322945394">預設的麥克風</translation>
+<translation id="1587215898571986504">免持聽筒電話</translation>
+<translation id="5614598979078259956">有線的耳麥</translation>
+<translation id="9031226374756103225">耳掛式耳機</translation>
+<translation id="149679617917926491">藍牙耳機</translation>
+<translation id="6060685159320643512">請小心，這些實驗可能會咬人</translation>
+<translation id="5199729219167945352">實驗</translation>
+<translation id="533563709691128800">已停用</translation>
+<translation id="2506903884491778518">搜尋實驗</translation>
+<translation id="1138663153846032155">偏好 HTML 優於 Flash</translation>
+<translation id="2081453640527377956">偏好 HTML 內容的作法是將外掛程式清單中的 Flash 隱藏。</translation>
+<translation id="5998167623928667649">當 Flash 設定設為「允許」時，執行所有 Flash 內容</translation>
+<translation id="5138177765054221193">對於已設為「允許」Flash 內容的網站，執行全部內容，包括視為不重要的一切。</translation>
+<translation id="2112624549618815628">預設（啟用）</translation>
+<translation id="3696363537446376816">預設（停用）</translation>
+<translation id="5773249585542913314">Windows 執行階段 MIDI API</translation>
+<translation id="7122132768827815392">使用適用於 WebMIDI 的 Windows 執行階段 MIDI API（僅對 Windows 10 或更新版本有效）。</translation>
+<translation id="1375198122581997741">關於版本</translation>
+<translation id="7248671827512403053">應用程式</translation>
+<translation id="1710259589646384581">作業系統</translation>
+<translation id="6897140037006041989">User Agent (使用者代理程式)</translation>
+<translation id="7353601530677266744">命令列</translation>
+<translation id="7225807090967870017">建號</translation>
+</translationbundle>

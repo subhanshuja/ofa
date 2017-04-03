@@ -1,0 +1,50 @@
+# Copyright (C) 2015 Opera Software ASA.  All rights reserved.
+#
+# This file is an original work developed by Opera Software ASA
+
+import("//build/config/crypto.gni")
+import("//testing/test.gni")
+
+source_set("password_crypto") {
+  sources = [
+    "crypto/migration_crypto_symmetric_algorithm.h",
+    "crypto/migration_crypto_symmetric_algorithm3DES.cc",
+    "crypto/migration_crypto_symmetric_algorithm3DES.h",
+    "crypto/migration_encryption_cbc.cc",
+    "crypto/migration_encryption_cbc.h",
+
+    # because boringssl doesn't export DES_encrypt3 / DES_decrypt3
+    "crypto/openssl_des/des_enc.cc",
+    "migration_master_password.cc",
+    "migration_master_password.h",
+    "migration_password_encryption.cc",
+    "migration_password_encryption.h",
+  ]
+
+  deps = [
+    "//base",
+    "//third_party/boringssl:boringssl",
+  ]
+
+  include_dirs = [ "." ]
+
+  configs += [ "../../config:include_config" ]
+}
+
+test("password_crypto_unittests") {
+  sources = [
+    "crypto/migration_crypto_test.cc",
+    "migration_master_password_test.cc",
+    "migration_password_encryption_test.cc",
+  ]
+
+  configs += [ "../../config:include_config" ]
+
+  deps = [
+    ":password_crypto",
+    "//base/allocator",
+    "//base/test:run_all_unittests",
+    "//testing/gmock",
+    "//testing/gtest",
+  ]
+}

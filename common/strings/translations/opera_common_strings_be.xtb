@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="be">
+<translation id="2978824962390592855">Opera</translation>
+<translation id="9071130496134948492">Opera Software</translation>
+<translation id="6494666865857176946">Opera Software настойліва раіць НЕ наведваць гэтую старонку.</translation>
+<translation id="7459549266751278805">Цэнтр апавяшчэнняў Opera</translation>
+<translation id="4501379002264542907">Opera – апавяшчэнні</translation>
+<translation id="1352092048463356430">Opera - апавяшчэнні (<ph name="QUANTITY"/> не прачытана)</translation>
+<translation id="4159400746343093340">Opera - апавяшчэнні</translation>
+<translation id="6018626517703817463">Opera – апавяшчэнні (<ph name="QUANTITY"/> не прачытана)</translation>
+<translation id="6161036283010589960">Сайт выкарыстоўвае састарэлыя параметры бяспекі, якія могуць не даць будучым версіям Opera бяспечна заходзіць на яго.</translation>
+<translation id="8888594059056485523">Змяніце налады брандмаўэра або антывірусу, каб дазволіць Opera доступ у інтэрнэт.</translation>
+<translation id="7158277678571698323">Перайдзіце да меню Opera &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; Налады LAN і адмяніце выбар «Выкарыстоўваць проксі-сервер для вашай сеткі LAN».</translation>
+<translation id="5873732809085338161">Каб уключыць небяспечныя пратаколы WebSocket у браўзеры працоўнага стала, перайдзіце <ph name="HTMLOPERAFLAG"/> (Opera 24+) або <ph name="HTMLCHROMEFLAG"/> (Chrome 36+).</translation>
+<translation id="2005166128312586988">Змены ўступяць у сілу, калі вы перазапусціце Opera.</translation>
+<translation id="684302243018322820">Каб праглядзець захаваныя паролі Opera, увядзіце пароль свайго камп'ютара.</translation>
+</translationbundle>

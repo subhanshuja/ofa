@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="ro">
+<translation id="3942946088478181888">Ajută-mă să înțeleg</translation>
+<translation id="1396529432791646744">Când vă conectați la un site web securizat, severul care găzduiește acel site întâmpină browserul cu ceva numit „certificat”, pentru a-i putea verifica identitatea. Acest certificat conține informații despre identitate, cum ar fi adresa site-ului web, informație care este verificată de o parte terță pe care dispozitivul mobil o consideră de încredere. Prin verificarea potrivirii adresei din certificat cu cea a site-ului web, este posibilă verificarea faptului că aveți o comunicație sigură cu site-ul web dorit, și nu cu o entitate terță (precum un atacator pe rețeaua dumneavoastră).</translation>
+<translation id="6295228342562451544">Când vă conectați la un site web securizat, severul care găzduiește acel site întâmpină browserul cu ceva numit „certificat”, pentru a-i putea verifica identitatea. Acest certificat conține informații despre identitate, precum adresa site-ului web, informații care sunt verificate de o parte terță în care calculatorul o consideră încredere. Prin verificarea potrivirii adresei din certificat cu cea a site-ului web se poate verifica faptul că sunteți conectat în mod securizat la site-ul web cu care ați intenționat să comunicați, și nu cu o parte terță (precum un atacator pe rețea).</translation>
+<translation id="8187473050234053012">Certificatul de securitate al serverului este revocat !</translation>
+<translation id="5598024575303778520">Avertisment de fraudă</translation>
+<translation id="7311721172731074902">Avertisment de fraudă</translation>
+<translation id="1858130628205855959">Acest site web ar putea fi compromis sau fraudulos. Furnizându-i parole sau informații personale ar putea să să vă expună riscului de furt de identitate sau fraudă financiară.</translation>
+<translation id="8357891144266644027">Avertisment de site web malițios</translation>
+<translation id="4664012235452972339">Avertisment de site web malițios</translation>
+<translation id="1030973920598092450">Acest site web ar putea fi compromis sau ar putea conține programe rău intenționate. Vizitarea acestei pagini poate fi dăunătoare.</translation>
+<translation id="4863259811271883558">Raportat de <ph name="BEGIN_LINK"/><ph name="PROVIDER_NAME"/><ph name="END_LINK"/></translation>
+<translation id="3141322567138977593">Du-mă înapoi la loc sigur</translation>
+<translation id="833642844779103272">Du-mă înapoi la loc sigur</translation>
+<translation id="4238466718818823211">Ignoră acest avertisment</translation>
+<translation id="1755698976576372535">De ce a fost blocată această pagină ?</translation>
+<translation id="2962647877740028287">Rapoartele noastre de fraudă sunt menținute de comercianți terți.</translation>
+<translation id="7470668651798735849">Puteți să vă vedeți aici toate notificările de la site-urile web.</translation>
+<translation id="6426222199977479699">Eroare SSL</translation>
+<translation id="8398877366907290961">Continuați oricum</translation>
+<translation id="6264485186158353794">Înapoi la loc sigur</translation>
+<translation id="2225024820658613551">Ar trebui să nu continuați, &lt;strong&gt;mai ales&lt;/strong&gt; dacă nu ați mai văzut niciodată acest avertisment pentru acest site web.</translation>
+<translation id="5645845270586517071">Eroare de securitate</translation>
+<translation id="1103666958012677467">Nu puteți continua, deoarece operatorul site-ului web a cerut securitate sporită pentru acest domeniu.</translation>
+<translation id="5463275305984126951">Indexul <ph name="LOCATION"/></translation>
+<translation id="8877448029301136595">[director superior]</translation>
+<translation id="3835522725882634757">O, nu ! Acest server trimite date pe care <ph name="PRODUCT_NAME"/> nu le poate înțelege. <ph name="BEGIN_LINK"/>raportați un bug<ph name="END_LINK"/>, și includeți <ph name="BEGIN2_LINK"/>listingul brut<ph name="END2_LINK"/>.</translation>
+<translation id="5327248766486351172">Nume</translation>
+<translation id="8028993641010258682">Dimensiune</translation>
+<translation id="57646104491463491">Data modificării</translation>
+<translation id="8465929756435120446">Această pagină conține ceva conținut nesigur.</translation>
+<translation id="6827416153061837992">Această conexiune nu este criptată.</translation>
+<translation id="9193357432624119544">Cod de eroare: <ph name="ERROR_NAME"/></translation>
+<translation id="4910619056351738551">Acestea sunt câteva sugestii:</translation>
+<translation id="2954705784594331199"><ph name="BEGIN_LINK"/>Reîncărcați<ph name="END_LINK"/> mai târziu această pagină web.</translation>
+<translation id="4977565600485911823">Dezactivați extensiile, după care <ph name="BEGIN_LINK"/>reîncărcați<ph name="END_LINK"/> această pagină web.</translation>
+<translation id="1103966635949043187">Du-te la pagina de acasă a acestui site web:</translation>
+<translation id="7747589364844254751">Verificați-vă conexiunea la internet. Reporniți orice ruter, modem, sau alt dispozitiv de rețea pe care îl aveți.</translation>
+<translation id="5548623538190661145">Verificați setările de DNS. Contactați administratorul de rețea dacă nu sunteți sigur ce înseamnă asta.</translation>
+<translation id="4545046228395991092">Dacă folosiți un server de proxy, verificați setările proxy-ului sau contactați administratorul de rețea pentru a vă asigura că serverul de proxy este funcțional.</translation>
+<translation id="1712673276482711826">Dacă folosiți un server de proxy, verificați setările proxy-ului sau contactați administratorul de rețea pentru a vă asigura că serverul de proxy este funcțional. Dacă credeți că nu ar trebui să folosiți un server de proxy, ajustați setările de proxy: <ph name="PLATFORM_TEXT"/></translation>
+<translation id="721197778055552897"><ph name="BEGIN_LINK"/>Aflați mai multe<ph name="END_LINK"/> despre această problemă.</translation>
+<translation id="8235325155053717782">Eroare <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="3986287159189541211">Eroare HTTP <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="3225919329040284222">Serverul a prezentat un certificat care nu se potrivește cu așteptările integrate. Aceste așteptări sunt incluse în anumite site-uri web de înaltă securitate, pentru a vă proteja.</translation>
+<translation id="6957887021205513506">Certificatul serverului pare a fi un fals.</translation>
+<translation id="6429639049555216915">Momentan aplicația nu este accesibilă.</translation>
+<translation id="9127307628159259612">Adăugați <ph name="PRODUCT_NAME"/> ca program permis în setările de firewall sau antivirus. Dacă este deja un program permis, încercați să îl ștergeți din lista de programe permise și să îl adăugați din nou.</translation>
+<translation id="4544369257849566741">Extensia de renegociere SSL a lipsit din procedura handshake securizată. Pentru anumite site-uri web, care sunt cunoscute că suportă extensia de renegociere, <ph name="PRODUCT_NAME"/> necesită o procedură handshake pentru a preveni o clasă de atacuri cunoscute. Omisiunea acestei extensii sugerează că conexiunea a fost interceptată și manipulată în tranzit.</translation>
+<translation id="8162734958263531433">Pentru a folosi depanarea USB, aveți nevoie de SDK-ul pentru Android și depanarea activată pentru USB pe dispozitivul Android. Vedeți <ph name="HTML_HELPURL"/> pentru mai multe informații.</translation>
+<translation id="1875071432292773474">Introduceți adresa <ph name="ACCESS_POINT"/> în browserul de desktop. Browserul de desktop trebuie să se afle în aceeași rețea cu dispozitivul Android.</translation>
+<translation id="7227425938337339799">Pentru ca UPnP să funcționeze, trebuie fie să vă aflați pe aceeași subrețea, fie să configurați ruterul să înainteze difuzările peste rețea.</translation>
+<translation id="4553629908098215669">Rulați <ph name="HTMLADBCOMMAND"/> pe calculator și accesați <ph name="HTMLLOCALHOSTURL"/> cu un browser bazat pe Chromium.</translation>
+<translation id="4570032796877367747">Camera frontală</translation>
+<translation id="2599796128805996109">Camera din spate</translation>
+<translation id="2124507516322945394">Microfonul implicit</translation>
+<translation id="1587215898571986504">Difuzor</translation>
+<translation id="5614598979078259956">Set de căști cu fir</translation>
+<translation id="9031226374756103225">Set de căști</translation>
+<translation id="149679617917926491">Set de căști Bluetooth</translation>
+<translation id="6060685159320643512">Aveți grijă, aceste experimente pot mușca</translation>
+<translation id="5199729219167945352">Experimente</translation>
+<translation id="533563709691128800">dezactivat</translation>
+<translation id="2506903884491778518">Caută experimente</translation>
+<translation id="1138663153846032155">Prioritate pentru HTML în locul Flash</translation>
+<translation id="2081453640527377956">Prioritate pentru conținutul HTML prin ascunderea Flash din lista de plug-in-uri.</translation>
+<translation id="5998167623928667649">Rulează tot conținutul Flash când setarea Flash este în modul „Permite”</translation>
+<translation id="5138177765054221193">Pentru site-urile care au fost setate să permită redarea conținutului Flash, rulează tot conținutul, inclusiv cel care a fost considerat neimportant.</translation>
+<translation id="2112624549618815628">Implicit (activat)</translation>
+<translation id="3696363537446376816">Implicit (dezactivat)</translation>
+<translation id="5773249585542913314">Windows Runtime MIDI API</translation>
+<translation id="7122132768827815392">Utilizează Windows Runtime MIDI API pentru WebMIDI (util numai pentru Windows 10 sau versiunile ulterioare).</translation>
+<translation id="1375198122581997741">Despre versiune</translation>
+<translation id="7248671827512403053">Aplicație</translation>
+<translation id="1710259589646384581">OS</translation>
+<translation id="6897140037006041989">Agent utilizator</translation>
+<translation id="7353601530677266744">Linie de comandă</translation>
+<translation id="7225807090967870017">ID build</translation>
+</translationbundle>

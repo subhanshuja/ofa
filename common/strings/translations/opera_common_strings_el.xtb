@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="el">
+<translation id="2978824962390592855">Opera</translation>
+<translation id="9071130496134948492">Opera Software</translation>
+<translation id="6494666865857176946">Η Opera Software συνιστά έντονα να μην επισκεφθείτε αυτή τη σελίδα.</translation>
+<translation id="7459549266751278805">Κέντρο ειδοποιήσεων Opera</translation>
+<translation id="4501379002264542907">Opera - ειδοποιήσεις</translation>
+<translation id="1352092048463356430">Opera - ειδοποιήσεις (<ph name="QUANTITY"/> μη αναγνωσμένες)</translation>
+<translation id="4159400746343093340">Opera - Ειδοποιήσεις</translation>
+<translation id="6018626517703817463">Opera - Ειδοποιήσεις (<ph name="QUANTITY"/> μη αναγνωσμένες)</translation>
+<translation id="6161036283010589960">O ιστότοπος χρησιμοποιεί παρωχημένες ρυθμίσεις ασφαλείας που μπορεί να μην επιτρέπουν την ασφαλή πρόσβαση μελλοντικών εκδόσεων του Opera στον ιστότοπο.</translation>
+<translation id="8888594059056485523">Ρυθμίστε το τείχος προστασίας και το λογισμικό προστασίας από ιούς, ώστε να επιτρέπεται η πρόσβαση του Opera στο δίκτυο.</translation>
+<translation id="7158277678571698323">Πηγαίνετε στο μενού Opera &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; Ρυθμίσεις LAN, και καταργήστε την επιλογή "Χρήση διακομιστή μεσολάβησης για δίκτυο LAN".</translation>
+<translation id="5873732809085338161">Για να ενεργοποιήσετε μη ασφαλή WebSocket στο πρόγραμμα περιήγησης του υπολογιστή σας, πηγαίνετε στο <ph name="HTMLOPERAFLAG"/> (Opera 24+) ή στο <ph name="HTMLCHROMEFLAG"/> (Chrome 36+).</translation>
+<translation id="2005166128312586988">Οι αλλαγές θα εφαρμοστούν μετά την επανεκκίνηση του Opera.</translation>
+<translation id="684302243018322820">Για να δείτε τους κωδικούς πρόσβασης που έχει αποθηκεύσει το Opera, εισαγάγετε τον κωδικό πρόσβασης του υπολογιστή σας.</translation>
+</translationbundle>

@@ -1,0 +1,284 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="st">
+<translation id="2978824962390592855">Opera</translation>
+<translation id="3942946088478181888">Nthuse ho utlwisisa</translation>
+<translation id="1396529432791646744">Haeba o hokahana le wepesaete e sireleditweng, sevara ya wepesaete yeo e tla tlisetsa porausa ya hao "setifikeite" ho netefatsa tsebiso. Setifikeite sena se na le tsebiso, e jwalo ka aterese ya wepesaete, yeo e netefatswang ke khamphani tsa boraro tseo sesebediswa sa hao se e dumelletseng. Ka ho hlahloba hore aterese e leng ho setifikeiti e tshwana le aterese ho wepesaete, ho ka kgonahala hore o netefatse hore o hokahantse hantle le wepesaete yeo o e batlang, e seng le khamphani ya boraro (e jwalo ka mohlasedi inthaneteng).</translation>
+<translation id="6295228342562451544">Haeba o hokahana le wepesaete e sireleditweng, sevara ya wepesaete yeo e tla tlisetsa porausa ya hao "setifikeite" ho netefatsa tsebiso. Setifikeite sena se na le tsebiso, e jwalo ka aterese ya wepesaete, yeo e netefatsang ke khamphani tsa boraro tseo sesebediswa sa hao se e dumelletseng. Ka ho hlahloba hore aterese e leng ho setifikeiti e tshwana le aterese ho wepesaete, ho ka kgonahala hore o netefatse hore o khokahane hantle le wepesaete yeo o e batlang, e seng le khamphani ya boraro (e jwalo ka mohlasedi inthaneteng).</translation>
+<translation id="7073704676847768330">Ho ka etsahala hore ena ha se saete yeo o e batlang!</translation>
+<translation id="2941952326391522266">Sevara ha ya khona ho khonthisisa hore <ph name="DOMAIN"/>; Setifikeite sa yona sa tshireletseho se tswa ho <ph name="DOMAIN2"/>. Sena se ka ba se etswa ke ho fetoha ha sebopeho ho fosahetseng kapa ho kena ha mohlasedi khokahanong ya hao.</translation>
+<translation id="7761701407923456692">Setifikeite sa sevara ha se tshwane le URL.</translation>
+<translation id="3581034179710640788">Tshireletseho ya setifikeite sa saete ke ya kgale!</translation>
+<translation id="436701661737309601">Pakeng sa setifikeite se e seng sa kgale, mong wa setifikeite o tlameha ho hlokomela ntho e bitswang "revocation list". Haeba setifikeite se ka tsejwa ke ba bang, mong a ka se thibela ka ho se tlatsa ho revocation list, ka morao setifikeite sena se ka se sebediswe ke porausa ya hao. Maemo a ho Revocater ha a sebetse ho ditifikeite tsa kgale, kahoo le ha setifikeite sena se ne se sebetsa wepesaeteng yeo o neng o e sebedisa, ha jwale ha ho kgonahale ho itse hore setifikeite sena se tsejwa ke ba bang kapa se thibetswe, kapa se sa le ka tlasa lekunutu. Kahoo ha ho kgonahale hore ho tsejwe hore o hokahane le wepesaete e loketseng, kapa setifikeite se tsejwa ke ba bang, moo hona jwale mohlasedi e mong inthaneteng a se itseng.</translation>
+<translation id="8971063699422889582">Setifikeite ke sa kgale.</translation>
+<translation id="1618661679583408047">Setifikeite sa sevara sa tshireletseho ha jwale ha sa dumellwa!</translation>
+<translation id="825608351287166772">Setifikeite se behetswe nako, ho tshwana le tokomane ya tsebiso (e jwalo ka phasepote) yeo o nang le yona. Setifikeite se hlahileng porausareng ya hao ha sa dumellwa. Ha setifikeite se tlotse nako e itseng, tsebiso e itseng ka maemo a setifikeite (le haeba se thibetswe hoo se ka se sebedisweng hape) ha sa tlameha ho hlokomelwa. Kahoo, ha ho kgonahale ho netefatsa hore setifikeite sena se ya tshepahala. Ha wa lokela ho tswelapele.</translation>
+<translation id="7938958445268990899">Bopaki ba mosebeletsi ha bo so amoheloe.</translation>
+<translation id="2915500479781995473">Sevara ha ya khona ho netefatsa hore <ph name="DOMAIN"/>; setifikeite sa yona sa tshireletseho se fetilwe ke nako. Sena se ka ba se etswa ke ho fetoha ha sebopeho ho fosahetseng kapa ho kena ha mohlasedi khokahanong ya hao. Nako ya khomphutha ya hao e beilwe ho <ph name="CURRENT_TIME"/>. Na sena se lokile? Haeba ho se jwalo, lokisa nako ya sesebediswa sa hao mme o bule leqephe lena hape.</translation>
+<translation id="229702904922032456">Setifikeite sa ho qala kapa sa nakwana se fetilwe ke nako.</translation>
+<translation id="374530189620960299">Setifikeite sa tshireletso sa saete ha se tshepahale!</translation>
+<translation id="168929553803686581">Maemong ana, setifikeite ha sa dumellwa ke khamphani ya boraro yeo sesebediswa sa hao se se tshepang. Mang kapa mang a ka etsa setifikeite a bua hore ke yena wepesaeteng efe yeo a e kgethang, e leng seo se buang hore se tshwanetse ho dumellwa ke khamphani ya boraro. Kantle le tumello yeo, tsebiso e leng ho setifikeite ha e sebetse. Ka hoo ha re kgone ho netefatsa hore o hokahane le <ph name="DOMAIN"/> kapa mohlasedi inthaneteng yo a entseng setifikeite sa hae bua hore ke <ph name="DOMAIN2"/>. Ha se wa lokela ho tswelapele.</translation>
+<translation id="6517558746015096434">Empa, haeba o sebetsa mokgatlong o iketsetsang ditifikeite, hape o leka ho hokahana le wepesaete e nngwe ya mokgatlo oo o sebedisa setifikeite sena, o ka kgona ho rarolla bothata bona hantle. O ka sebedisa setifikeite sa mokgatlo sa ho qala sa "root certificate", hape setifikeite tse dumelletsweng kapa tse tswang mokgatlong wa hao di tla dumellwa ya ba bothata bona ha bo sa hlaha nakong e tlang ha o leka ho hokahana le wepesaete ya haufi. Ihokahanye le ba thuso mokgatlong wa hao haeba o batla ho tlatsa setifikeite se se ncha sesebedisweng sa hao.</translation>
+<translation id="2159087636560291862">Boemong bona, setifikeite ha sa khonthisetswa ke khamphani ya boraro yeo khomphuta ya hao e tshepang. Mang kapa mang a ka etsa setifikeite a bua hore ke yena wepesaeteng efe yeo a e khethang, e leng seo se buang hore se tshwanetse ho dumellwa ke khamphani ya boraro. Kantle le tumello yeo, tsebiso e leng ho setifikeite ha e sebetse. Ka hoo ha re khon ho khonthisetsa hore o khokahane le <ph name="DOMAIN"/> kapa mohlasedi inthaneteng yo a entseng setifikeite sa hae bua hore ke <ph name="DOMAIN2"/>. Ha se wa tshwanela ho tswelapele.</translation>
+<translation id="2645575947416143543">Empa, haeba o sebetsa mokgatlong o iketsetsang ditifikeite, hape o leka ho hokahana le wepesaete e nngwe ya mokgatlo oo o sebedisa setifikeite sena, o ka kgona ho rarolla bothata bona hantle. O ka sebedisa setifikeite sa mokgatlo sa ho qala sa "root certificate", hape setifikeite tse dumelletsweng kapa tse tswang mokgatlong wa hao di tla dumellwa ya ba bothata bona ha bo sa hlaha nakong e tlang ha o leka ho hokahana le wepesaete ya haufi. Ihokahanye le ba thuso mokgatlong wa hao haeba o batla ho tlatsa setifikeite se se ncha sesebedisweng sa hao.</translation>
+<translation id="3528171143076753409">Setifikeite sa sevara ha se tshepahale.</translation>
+<translation id="2649911884196340328">Setifikeite sa sevara sa tshireletsng se na le diphoso!</translation>
+<translation id="8534801226027872331">Boemong bona, setifikeite se bontshitsweng porausareng se na le bothata ‘me ha he utlwisiswe. Sena se bolela hore ha re utlwisise tsebiso e leng ho setifikeite, kapa tsebiso e nngwe ho setifikeite e sebedisitsweng hokahano. Ha wa lokela ho tswelapele.</translation>
+<translation id="2491120439723279231">Setifikeite sa sevara se na le diphoso.</translation>
+<translation id="8318945219881683434">E hlolohile ho sheba revokheishene.</translation>
+<translation id="9141716082071217089">E hlolehile ho hlahloba haeba setifikeite sa sevara tlositswe.</translation>
+<translation id="2922350208395188000">Setifikeite sa sebara ha ho kgonehe hore se hlahlojwe.</translation>
+<translation id="884923133447025588">Ho tloswa ha mekhenisimi ha wa fumanwa.</translation>
+<translation id="2413528052993050574">Sevara ha ya khona ho khonthisisa hore <ph name="DOMAIN"/>; setifikeite sa yona sa tshireletseho se ka ba se thibetswe. Sena se ka ba se etswa ke ho fetoha ha sebopeho ho fosahetseng kapa ho kena ha mohlasedi khokahanong ya hao.</translation>
+<translation id="8187473050234053012">Tshireletseho ya sevara e thibetswe!</translation>
+<translation id="4377125064752653719">O lekile ho kena ho <ph name="DOMAIN"/>, empa setifikeite se bontshitsweng se tlositswe ke moetsi wa sona. Seo se bua hore ditaba tsa tshireletseho tseo sevara e di hlahisitseng ha se di ya lokelwa ho sebediswa. O ka ba o hokahane le mohlasedi.</translation>
+<translation id="5275799318132317934">Boemong bona, setifikeite seo se bontshitsweng porausareng ya hao se tlositswe ke moetsi wa sona. Seo se bua hore setifikeite sena se ya tsebaleha ho ba bang, ‘me setifikeite ha sa lokela ho sebediswa.</translation>
+<translation id="2386255080630008482">Bopaki ba mosebeletsi bo koenehetsoe.</translation>
+<translation id="4222982218026733335">Bopaki ba Mosebeletsi bo sa Amoheleheng</translation>
+<translation id="9049981332609050619">O lekile ho hokahana <ph name="DOMAIN"/>, empa mosebeletsi o fane ka bopaki bo sa amoheleheng.</translation>
+<translation id="3776667127601582921">Boemong bona, setifikeite sa sebara kapa kapa setifikeite se seng sa CA seo se hlahileng ho porausa ya hao ha sa dumellwa. Se se ka bua hore setifikeiti se ha se ya nepahala, se na le ditho tse sa dumellwang kapa ha se tsejwe.</translation>
+<translation id="917450738466192189">bopaki ba mosebeletsi ha bo amohelehe.</translation>
+<translation id="9145357542626308749">Setifikeite sa tshireletseho sa saete ena se kenwe ka ho sebedisa mosaeno o seng thata ya algorithm!</translation>
+<translation id="2171101176734966184">O lekile ho hokahana le <ph name="DOMAIN"/>, empa sevara e hlahisitse setifikeiti seo e saennweng ho sebediswa phini e seng matla ya algorithm. Seo se bua hore ditaba tsa tshireletseho tseo sevara e di hlahisitseng e ka ba e se nnete, 'me sevara e ka ba e le sevara yeo o sa e batlang (o ka ba o hokahane le mohlasedi).</translation>
+<translation id="4320833726226688924">Boemong bona, setifikeiti sa sebara kapa setifikeite se seng sa CA se hlahileng porausareng ya hao se kenwe ho sebediswa phini e seng matla ya algorithm e jwalo ka RSA-MD2. Patlisiso e leng nakong ya ba mahlale e bontshitse hore mosaeno wa algorithm o bololo ho feteletseng, 'me mosaeno wa algorithm ha o sebediswa ka sewelo ke diwepesaete tse sebediswang kajeno. Setifikeite sena ho ka etsahala hore se iketseditswe.</translation>
+<translation id="2728127805433021124">Setifikeite sa sevara se saennwe ho sebediswa phini e seng matla ya algorithm.</translation>
+<translation id="6315723398663634808">Setifikeite sa sevara e na le phini e seng matla ya cryptographic!</translation>
+<translation id="121201262018556460">O lekile ho hokahana le <ph name="DOMAIN"/>, empa sevara e hlahisitse setifikeiti se nang le senotlolo se seng matla. Mohlasedi a ka ba a tseba phini yeo, 'me sevara e ka ba e le sevara eo o neng o sa e lebella (e ka nna eaba o hokahane le mohlasedi).</translation>
+<translation id="2929033900046795715">Boemong bona, setifikeite sa sevara ya kapa setifikeite se seng sa CA se sebedisa phini e seng matla, e jwalo ka phini ya RSA ya ka tlase ha 1024 bits. Ka baka la hore ho le bonolo ho fumana senotlolo sa senotlolo se seng matla, mohlasedi a ka etsa sevara e tshwanang ea nnete.</translation>
+<translation id="168841957122794586">Setifikeite sa sevara se na le matla a fokolang a senotlolo sa cryptographic.</translation>
+<translation id="4253787465144837701">Setifikeiti sa sevara se na le lebitso le hlaheletseng le sa lokelang ho ba moo.</translation>
+<translation id="7567204685887185387">Sevara ha ya khona ho khonthisisa hore <ph name="DOMAIN"/>; setifikeite sa yona sa tshireletseho se ka ba se entswe ka boshodu. Sena se ka ba se etswa ke ho fetoha ha sebopeho ho fosahetseng kapa ho kena ha mohlasedi khokahanong ya hao.</translation>
+<translation id="7592362899630581445">Setifikeiti sa sevara di lwantshana le lebitso le hanetsweng.</translation>
+<translation id="5944101742958374175">Ke maemo a kgethehileng moo e fumanweng setifikeite.</translation>
+<translation id="5623463370978611784">Setifikeite se fumanweng se fumanwe e le sa leshano. Hle sheba $1 bakeng sa tsebiso e eketsehileng.</translation>
+<translation id="1177437665183591855">Sevara e sa tsejweng setifikeiti se phoso</translation>
+<translation id="4771973620359291008">Ho hlahile phoso e sa tsejweng.</translation>
+<translation id="674375294223700098">Sevara e sa tsejweng setifikeite se phoso.</translation>
+<translation id="5598024575303778520">Temoso ya bonokwane</translation>
+<translation id="7311721172731074902">Temoso ya bonokwane</translation>
+<translation id="4056154188339276219">Ho behilwe hore saete ena e na le bonokwane. Ho hlahiswa tsebiso ya hao kapa ya lekunutu saeteng ena ho ka ho bakela mathata a ho utsetswa boitsebahatso ba hao kapa chelete.</translation>
+<translation id="6494666865857176946">Opera Software e hanana haholo le ho etela leqephe lena.</translation>
+<translation id="8357891144266644027">Temoso ya saete e sa lokelang</translation>
+<translation id="4664012235452972339">Temoso ya saete e sa lokelang</translation>
+<translation id="8219093269265469764">Ho kena leqepheng lena ho ka ba le kotsi. Ho tlalehilwe ho fepisa melao e khopo.</translation>
+<translation id="4863259811271883558">E tlalehilwe ke <ph name="BEGIN_LINK"/><ph name="PROVIDER_NAME"/><ph name="END_LINK"/></translation>
+<translation id="3141322567138977593">Kgutlela morao ka tshireletseho</translation>
+<translation id="833642844779103272">Kgutlela morao o sireletsehile</translation>
+<translation id="4238466718818823211">Hlokomoloha temoso yeo</translation>
+<translation id="1755698976576372535">Hobaneng ha leqephe lena le thibetswe?</translation>
+<translation id="7459549266751278805">Sebaka sa Hlokomediso sa Opera</translation>
+<translation id="7470668651798735849">O ka bona ditsebiso tsohle tsa hao ho tswa diwepesaeteng mona.</translation>
+<translation id="4501379002264542907">Opera - Ditsebiso</translation>
+<translation id="1352092048463356430">Opera - Ditsebiso (<ph name="QUANTITY"/> tse sa balwang)</translation>
+<translation id="4159400746343093340">Opera - Ditsebiso</translation>
+<translation id="6018626517703817463">Opera - Ditsebiso (<ph name="QUANTITY"/> ha e so balwe)</translation>
+<translation id="6426222199977479699">Phoso ya SSL</translation>
+<translation id="8398877366907290961">Tswelapele leha ho le jwalo</translation>
+<translation id="6264485186158353794">Kgutlela morao o sireletsehile</translation>
+<translation id="2225024820658613551">O tlamehile ho tswelapele, &lt;strong&gt;hantlentle&lt;/strong&gt; haeba o so bone temoso ena nakong e fetileng bakeng sa saete ena.</translation>
+<translation id="5645845270586517071">Phoso ya tshireletseho</translation>
+<translation id="1103666958012677467">O ke ke wa tswelapele hobane molaoli oa saete o kopile tshireletso e phahameng pakeng sa tikoloho ena.</translation>
+<translation id="5463275305984126951">Lethathamo la <ph name="LOCATION"/></translation>
+<translation id="8877448029301136595">[tsebiso ya batswadi]</translation>
+<translation id="5327248766486351172">Lebitso</translation>
+<translation id="8028993641010258682">Boholo</translation>
+<translation id="57646104491463491">Letsatsi leo e fetotsweng</translation>
+<translation id="3835522725882634757">Che, bo! Sevara ena e romela boitsebiso <ph name="PRODUCT_NAME"/> ha ke utlwisise. Hle<ph name="BEGIN_LINK"/>repota bothata<ph name="END_LINK"/>, 'me o akarelletse le<ph name="BEGIN2_LINK"/>lethathamo<ph name="END2_LINK"/>.</translation>
+<translation id="4231205248927312226">Netefatsa foromo hore o e romele hape</translation>
+<translation id="6451458296329894277">Netefatsa foromo hore o e romele hape</translation>
+<translation id="2032601515784864742">Boemong bona, aterese e leng ho setifikeite ha e tshwane le aterese ya wepsaete yeo porausa ya hao e lekileng ho hokahana le yona. Sena se ka etswa ke hore mohlasedi o leka ho kena hokahanong ena yo a hlahisang setifikeiti sa wepesaete e nngwe, yeo e tla etsang hore dintho di se tshwane. Lebaka le leng la se ke hore sevara e entswe hore e khutlise setifikeite se tshwanang bakeng sa diwepesaete tse ngata, ho akarelletsa le yeo o lekang ho etela ho yona, le haeba setifikeite se tshwanelang se se dumellwa ho diwepesaete tseo kaofela. <ph name="PRODUCT_NAME"/> re ka bua re tiile hore o hokahane le &lt;strong&gt;<ph name="DOMAIN2"/>&lt;/strong&gt;, empa ha e kgone ho netefatsa hore ke saete e tshwanang &lt;strong&gt;<ph name="DOMAIN"/>&lt;/strong&gt; yeo o lekileng ho hokahana le yona. Haeba o tswelapele, <ph name="PRODUCT_NAME"/> e ka se hlahlobe bakeng sa ditaelo tse ding tsa mabitso a sa tshwaneng.</translation>
+<translation id="1639773643001837725">Sevara ha ya ha ya khona ho khonthisisa hore <ph name="DOMAIN"/>; setifikeite sa yona sa tshireletseho se fetilwe ke nako letsatsi(matsatsi) a <ph name="DAYS"/> a fetileng. Sena se ka ba se etswa ke ho fetoha ha sebopeho ho fosahetseng kapa ho kena ha mohlasedi khokahanong ya hao. Nako ya khomphutha ya hao e beilwe ho <ph name="CURRENT_TIME"/>. Na sena se lokile? Haeba ho se jwalo, lokisa nako ya sesebediswa sa hao mme o bule leqephe lena hape.</translation>
+<translation id="7235421518178823985">Sevara ha ya khona ho khonthisisa hore <ph name="DOMAIN"/>; Setifikeite sa yona sa tshireletseho e ka ba e le sa <ph name="DAYS"/> matsatsi a nakong e tlang. Sena se ka ba se etswa ke ho fetoha ha sebopeho ho fosahetseng kapa ho kena ha mohlasedi khokahanong ya hao.</translation>
+<translation id="1763864636252898013">Sevara ena ha ya khona ho khonthisisa hore <ph name="DOMAIN"/>; setifikeite sa yona sa tshireletseho ha se dumellwe ke opereiting sesteme ya sesebediswa sa hao. Sena se ka ba se etswa ke peakanyo e fosahetseng kapa ho kena ha mohlasedi khokahanong ya hao.</translation>
+<translation id="467662567472608290">Sevara ha ya khona ho khonthisisa hore <ph name="DOMAIN"/>; setifikeite sa yona sa tshireletseho se na le diphoso. Sena se ka ba se etswa ke ho fetoha ha sebopeho ho fosahetseng kapa ho kena ha mohlasedi khokahanong ya hao.</translation>
+<translation id="8465929756435120446">Leqephe lena le na le tsebiso e sa sireletsehang.</translation>
+<translation id="4522570452068850558">Tsebiso</translation>
+<translation id="3586931643579894722">Pata Tsebiso</translation>
+<translation id="8962083179518285172">Pata Tsebiso</translation>
+<translation id="6042308850641462728">Tse eketsehileng</translation>
+<translation id="2089090684895656482">Tsa tlase</translation>
+<translation id="5556459405103347317">Bula hape</translation>
+<translation id="9193357432624119544">Lepata ya phoso: <ph name="ERROR_NAME"/></translation>
+<translation id="4910619056351738551">Dihlahiso tse ding ke tsena:</translation>
+<translation id="2662338103506457097">Bula leqephe-tepo lena.</translation>
+<translation id="3226128629678568754">Penya konopo yeo ya ho bula hape hore o romele hape tsebiso e batlehang hore o bule leqephe.</translation>
+<translation id="8196061687045545167">Koafatsa katoloso ea hao mme o laeshe leqephe-tepo lena.</translation>
+<translation id="3155309969919037916">Lekola khokelo ea hao ea marangrang.</translation>
+<translation id="1519957265434608160">Lekola lithapo mme o qale batsamaisi, mahokela, kapa lisebelisoa tse ling tseo ebang oa li sebelisa.</translation>
+<translation id="2319236583141234177">Hlahloba lipehelo tsa hao tsa DNS.</translation>
+<translation id="8289355894181816810">Bua le molaoli oa marangrang a hao haeba ha o na bonnete na hona ho bolelang.</translation>
+<translation id="5573959367212558217">Leka ho koafatsa bolepi ba marangrang.</translation>
+<translation id="8888594059056485523">Dumella Opera ho fihlela marangrang a ka hara lebota la hao kapa lipehelo tsa khahla-kokoana.</translation>
+<translation id="6456804684535455731">Haeba e hlaha e le lenaneo le dumelletsweng ho kena ho marangrang, leka ho e tlosa lethathamong 'me o e kenye hape.</translation>
+<translation id="382518646247711829">Haeba o sebedisa moemeli oa mosebeletsi...</translation>
+<translation id="7616012285680677132">Hlahloba lipehelo tsa moemeli kapa o hokahane le mohlahlobi wa marangrang a hao ho tiisa hore moemeli oa mosebeletsi oa sebetsa. <ph name="PLATFORM_TEXT"/></translation>
+<translation id="8454634452929957533">Hlahloba lipehelo tsa moemeli kapa bue le mohlahlobi wa marangrang a hao ho netefatsa hore moemeli oa sebetsa. Haeba o sa dumele hore o loketse ho sebedisa moemeli oa mosebeletsi: <ph name="PLATFORM_TEXT"/></translation>
+<translation id="8040357206858000048">Eya ho Dit'sebetso&gt; Dikgetho tsa Tshebetso &gt; Marangrang&gt; Tse hatetsengpele &gt; Baemeli le khetholla baemeli ba khethuoeng.</translation>
+<translation id="7158277678571698323">Eya ho lethathamo la Opera &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; Dipehelo tsa LAN mme o khetholle"Sebelisa moemeli oa mosebeletsi bakeng sa LAN".</translation>
+<translation id="2954705784594331199"><ph name="BEGIN_LINK"/>Laesha hape<ph name="END_LINK"/> leqephe-tepo lena hamoro.</translation>
+<translation id="4977565600485911823">Koafatsa likatoloso tsa hao <ph name="BEGIN_LINK"/>bula hape<ph name="END_LINK"/> leqephe-tepo lena.</translation>
+<translation id="1103966635949043187">Eya leqepheng la lehae la set'sa:</translation>
+<translation id="7747589364844254751">Hlahloba hokahano ya hao ya marangrang. Qala hapa motsamaisi, lehokela, kapa disebediswa tse ding tsa marangrang tseo o di sebedisang.</translation>
+<translation id="5548623538190661145">Hllahloba lipehelo tsa DNS. hokahana le mong wa marangrang ya hao haeba o sa tsebe hore sena se bua eng.</translation>
+<translation id="9127307628159259612">Tlatsa <ph name="PRODUCT_NAME"/> ka ha e le e lenaneo le dumelletsweng ho mabota kapa lipehelo ts tsa meralo-nolo ea hau. haeba e le lenaneo le dumelletswe, leka ho e tlosa ho lethathamo ya lenaneo le dumelletsweng 'me o e tlatse hape.</translation>
+<translation id="4545046228395991092">Haeba o sebedisa moemeli oa mosebelesi, lekola lipehelo tsa moemeli oa hao kapa bua le molaoli oa marangrang a hao ho etsa bonnete ba hore moemeli oa mosebeletsi oa sebetsa.</translation>
+<translation id="1712673276482711826">Haeba o sebedisa moemeli oa mosebeletsi, lekola lipehelo tsa moemeli kapa o buisane le molaoli oa marangrang a hao ho etsa bonnete ba hore moemeli oa mosebeletsi oa sebetsa. Haeba o sa kholoe o tlameha o bo sebelisa moemeli oa mosebeletsi, sisinya lipehelo tsa moemeli oa hao: <ph name="PLATFORM_TEXT"/></translation>
+<translation id="721197778055552897"><ph name="BEGIN_LINK"/>Ithute tse oketsehileng<ph name="END_LINK"/> ka bothata bona.</translation>
+<translation id="2214283295778284209"><ph name="SITE"/> ha e fumanehe</translation>
+<translation id="4032534284272647190">Ho kena ho<ph name="URL"/> ho hanetswe.</translation>
+<translation id="790025292736025802"><ph name="URL"/> ha e fumanehe</translation>
+<translation id="641480858134062906"><ph name="URL"/> e hlolehile ho louta</translation>
+<translation id="4697214168136963651"><ph name="URL"/> e thibetswe</translation>
+<translation id="9020278534503090146">Leqephe lena la web ha le teng</translation>
+<translation id="9086455579313502267">E hloleha ho kena ho neteweke</translation>
+<translation id="6771079623344431310">E hloleha ho khokahana le moemeli oa mosebeletsi</translation>
+<translation id="5303446622366702551">E hloleha ho hokahana le marangrang</translation>
+<translation id="6640442327198413730">E fetile Cache</translation>
+<translation id="4786993863723020412">Phoso ya ho bala Sesiu</translation>
+<translation id="5880867612172997051">Ho kena ho marangrang ho thibetswe</translation>
+<translation id="5303618139271450299">Leqephe-tepo lena ha le fumanehe</translation>
+<translation id="7269802741830436641">Leqephe lena la web le na le bothata jwa loop</translation>
+<translation id="778579833039460630">Ha ho boitsebiso e fumanweng</translation>
+<translation id="4980112683975062744">Dihloho tse habedi di fumanwe ho sebara</translation>
+<translation id="7839809549045544450">SEbara e na le ephemeral Diffie-Hellman e seng matla ya senotlolo sa ba bang</translation>
+<translation id="820791781874064845">Wepesaete ena e thibetswe ke ekstenshene</translation>
+<translation id="4764776831041365478">Leqephe la web la <ph name="URL"/> le ka ba le le tlase kapa le ka ba le sutiseditswe ho aterese e 'ngwe ya web e ncha.</translation>
+<translation id="2776514516555065663"><ph name="PRODUCT_NAME"/> e hlolehile ho bula leqephe ka he <ph name="HOST_NAME"/> e nkile nako ho araba. Wepesaete e ka ba e sa sebetse, kapa o ka ba o na le mathata a hokahano ya inthanete.</translation>
+<translation id="7732608718511994155">Khokahano le<ph name="HOST_NAME"/> e kenwe.</translation>
+<translation id="6866330586943304386">Ho khokahana le <ph name="HOST_NAME"/> ho thibetswe ke ho fetoha ha hokahano ya neteweke.</translation>
+<translation id="3353584498371175254">hokahano <ph name="PRODUCT_NAME"/> ho<ph name="HOST_NAME"/> e thibetswe. Wepesaete e ka ba e le tlase, kapa neteweke ya hao e ka ba e se a khonfigariwa hantle.</translation>
+<translation id="1775580281086246828">Sevara ya <ph name="HOST_NAME"/> ha e fumanehe, ka ha DNS lipatlisiso e hlolehile. DNS ke neteweke yeo e fetolelang lebitso la wepesaete ho aterese ya yona ya inthanete. bothata bona bo bakwa ke ho sa be le hokahano ya inthanete kapa neteweke yeo e bewang ka tsela e itseng. E ka ba e etswa ke sevara ya DNS eo e sa sebetseng kapa thibelo e thibetse<ph name="PRODUCT_NAME"/> hokahano ya neteweke.</translation>
+<translation id="1900640198039665133"><ph name="PRODUCT_NAME"/> e hloleha ho finyella wepesaete. Sena se etsa ke mathata a neteweke, empa hape se ka etswa ke firewall e sa etswang hantle kapa sevara ya proxy.</translation>
+<translation id="6061713520396617275">Faele ya <ph name="URL"/> ha e bonahale. E ka ba e tlositswe, e sutisitswe, kapa melao e ka ba e thibela hore e kene.</translation>
+<translation id="3743996431420410209"><ph name="PRODUCT_NAME"/> e hloleha ho kena inthaneteng. <ph name="LINE_BREAK"/> sena se ka ba se etswa ke firewall kapa softewere ya antivirus e nahana hore <ph name="PRODUCT_NAME"/> ke mokeni ho sesebediswa sa hao 'me se e thibela ho kena inthaneteng.</translation>
+<translation id="8525957822916060992">Sevara ya proxy ke sevara yeo e hokahanyang sesebediswa sa hao le disevara tse ding. Ha jwale, tshebetso ya e entswe hore e sebedise proxy, empa <ph name="PRODUCT_NAME"/> e hloleha ho hokahana le yona.</translation>
+<translation id="2182771052381938197"><ph name="PRODUCT_NAME"/> e hloleha ho tsweletsa leqephe la web ka ha sesebediswa sa hao se sa hokahana le inthanete.</translation>
+<translation id="8504605147845230067"><ph name="ERROR_DESCRIPTION_TEXT"/></translation>
+<translation id="6482869692698550826"><ph name="PRODUCT_NAME"/> e hloleha ho hokahana le inthanete. <ph name="LINE_BREAK"/> Sena se ka ba se etswa ke hore firewall kapa softwere ya antivirus e nahana ka phoso hore <ph name="PRODUCT_NAME"/> ke mohlasedi khomphutheng ya hao 'me e leka ho e thibela ho khokahana le inthanete.</translation>
+<translation id="6268299223990012826">Sevara ya proxy ke sebara yeo e khokahanyang sesebediswa sa hao le disebara tse ding. Ha jwale, tshebetso ya e entswe hore e sebedise proxy, empa <ph name="PRODUCT_NAME"/> e hloleha ho hokahana le yona.</translation>
+<translation id="2082033521101679150"><ph name="PRODUCT_NAME"/> e hloleha ho hlahisa leqephe la web ka ha sesebediswa sa hao se sa hokahana le inthanete.</translation>
+<translation id="5025570087133380871"><ph name="ERROR_DESCRIPTION_TEXT"/> <ph name="LINE_BREAK"/> O ka leka ho rarolla bothata ka ho nka mehato e latelang: <ph name="LINE_BREAK"/> <ph name="PLATFORM_TEXT"/></translation>
+<translation id="3952238365087168585">Eya ho<ph name="BEGIN_BOLD"/> Diapulukheishene &gt; Dikhetho tsa Tshebetso &gt; Neteweke &gt; Nthuse <ph name="END_BOLD"/> ho leka hokahano ya hao.</translation>
+<translation id="8907719130223575953">Eya ho <ph name="BEGIN_BOLD"/> Start &gt; Control Panel &gt; Network and Internet &gt; Network and Sharing Center &gt; Troubleshoot Problems (Ko tlase) &gt; Internet Connections. <ph name="END_BOLD"/></translation>
+<translation id="6426809368065002078">Eya ho <ph name="BEGIN_BOLD"/> Start &gt; Control Panel &gt; Network Connections &gt; New Connection Wizard <ph name="END_BOLD"/> ho lekola khokahano ya hao.</translation>
+<translation id="2430210664810280637">Khotla <ph name="BEGIN_BOLD"/>Start<ph name="END_BOLD"/>, click <ph name="BEGIN_BOLD"/>Run<ph name="END_BOLD"/>, type <ph name="BEGIN_BOLD"/>%windir%\network diagnostic\xpnetdiag.exe<ph name="END_BOLD"/>, 'me o khotle <ph name="BEGIN_BOLD"/>OK<ph name="END_BOLD"/>.</translation>
+<translation id="5098248489969453574">Leqephe la web le fumanweng ha le yo ho cache. Dintho tse ding di ka loutwa hantle ho cache, tse jwale ka maqephe a tswang ho tsebiso e rometsweng. <ph name="LINE_BREAK"/> Bothata bona bo ka etswa ke cache e senyehileng ka baka la ho se time hantle. <ph name="LINE_BREAK"/> Haeba bothata bo tswelapele, leka ho tlosa cache.</translation>
+<translation id="2275837730041455081">Ho ntlafatsa maqephe a web, <ph name="PRODUCT_NAME"/> e boloka ka nakwana difaele tse tauneloutilweng ho disk. Ha <ph name="PRODUCT_NAME"/> e sa tingwa hantle, difaele tsena di ka senyeha, 'me sena sa etsa bothata bona. Ho bula leqephe hape ho ka rarolla bothata, 'me ho tima hantle ho ka etsa hore sena se se etsahale hape. <ph name="LINE_BREAK"/> Haeba bothata ho tswelapele, leka ho hlakola bothata. Maemong a mang, sena se ka bontsha hore hardware e qala ho ba le mathata.</translation>
+<translation id="9029615070002286968">E hloleha ho bula leqephe la web ka ha sesebediswa sa hao se ho sleep kapa hibernate. Ha sena se etsahala, dikhokahano tsa inthanete di a ema 'me dikop tse ding tsa dineteweke tse ncha di a hloleha. Ho bula leqephe hape ho ka rarolla sena.</translation>
+<translation id="4534415571332240241">E hloleha ho bula leqephe la web ka ha sesebediswa sa hao se ho sleep kapa hibernate. Ha sena se etsahala, dikhokahano tsa inthanete di a ema 'me dikop tse ding tsa dineteweke tse ncha di a hloleha. Ho bula leqephe hape ho ka rarolla sena.</translation>
+<translation id="7518003948725431193">Ha ho leqephe leo le fumanweng pakeng sa aterese ya web: <ph name="URL"/></translation>
+<translation id="9164387458644511612">Leqephe la web <ph name="URL"/> le butse dikhokahano tse ngata. Ho hlakola dicookie tsa saete ena kapa ho dumella dicookie tsa dikhamphani tsa boraro ho ka rarolla bothata. Haeba sena se sa etsahale, ho ka etsahala hore ke bothata ba ho bula ha sevara e seng bothata le sesebediswa sa hao.</translation>
+<translation id="3015602778474660457">Leqephe la web <ph name="URL"/> le butse dikhokahano tse ngata. Ho hlakola dicookie tsa saete ena kapa ho dumella dicookie tsa dikhamphani tsa boraro ho ka rarolla bothata. Haeba sena se sa etsahale, ho ka etsahala hore ke bothata jwa ho bula ha sevara e seng bothata le khomophutha ya hao.</translation>
+<translation id="4287689875748136217">E hloleha ho bula leqephe la web ka ha sevara ha se ya romela tsebiso.</translation>
+<translation id="660896802268593778">Karabo ya e tswang ho sevara e na le dihlooho tse ngata. Bothata bona hangata bo etswa ke web e sa bewang hantle kapa proxy. ke feela molaodi wa web kapa proxy a ka rarollang bothata bona.</translation>
+<translation id="5954987802886981088">Bothata bo ka hlaha ho kena ho sevara e notletsweng ya (HTTPS). Sena se bua hore sevara e leka ho hokahana hantle empa, ka ha e sa ema hantle, khokahano e ka ba e sa sireletseha le ha nyenyane! <ph name="LINE_BREAK"/> boemong bona sevara e lokela ho lokiswa. <ph name="PRODUCT_NAME"/> e ka se sebeditse dikhokahano tse sa sireletswang ho sireletsa ditaba tsa hao tsa lekunutu.</translation>
+<translation id="8752577199214871617">Ha o kgone ho batla <ph name="HOST_NAME"/>.</translation>
+<translation id="8235325155053717782">Phoso <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="3986287159189541211">Phoso ya HTTP <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="4405141258442788789">Ketso e fetilwe ke nako.</translation>
+<translation id="3118046075435288765">Sevara e kwetse hokahano ho sa letelwa.</translation>
+<translation id="2784949926578158345">Khokahano e hlakotswe.</translation>
+<translation id="9020142588544155172">Sevara e hanne khokahano.</translation>
+<translation id="8494979374722910010">Ho leka ho hokahana le sevara e hlolehile.</translation>
+<translation id="2909946352844186028">Ho fetoha ha neteweke ho tsweletse.</translation>
+<translation id="5949910269212525572">E hloleha ho rarolla aterese ya sebara ya DNS.</translation>
+<translation id="5498951625591520696">E hloleha ho finyella sebara.</translation>
+<translation id="3950924596163729246">E hloleha ho fumana neteweke.</translation>
+<translation id="4147376274874979956">E hloleha ho bula faele.</translation>
+<translation id="4535734014498033861">Khokahano ya Sebara ya Proxy e hlolehile.</translation>
+<translation id="6728024709633626254">Khokahano ya Inthanete e lahlehile.</translation>
+<translation id="201192063813189384">Bothata ba ho bala tsebiso ho cache.</translation>
+<translation id="3393716657345709557">Se kopilweng ha se ya fumanwa ho cache.</translation>
+<translation id="7450732239874446337">Neteweke ya IO e thibetswe.</translation>
+<translation id="6391832066170725637">Faele kapa taereketiri ha ya fumanwa.</translation>
+<translation id="3748412725338508953">Ho bile le ditaerekitiri tse ngata.</translation>
+<translation id="2950186680359523359">Sevara e kwetse khokahano ntle le ho romela tsebiso.</translation>
+<translation id="2929266020546499971">Dihlooho tse ngata tsa moswananosi di fumanwe. Sena se thibetswe ho ho sireletsa ho HTTP ya bahlasedi ba arolang ditaba.</translation>
+<translation id="2297038239859335744">Dihlooho tse ngata tsa moswananosi tsa diseposeshene di fumanwe. Sena se thibetswe ho ho sireletsa ho HTTP ya bahlasedi ba arolang ditaba.</translation>
+<translation id="3336388975352605720">Dihlooho tse ngata tsa tulo di fumanwe. Sena se thibetswe ho ho sireletsa ho HTTP ya bahlasedi ba arolang ditaba.</translation>
+<translation id="6626108645084335023">Ho emetswe DNS tsa hlahlobo.</translation>
+<translation id="1195447618553298278">Phoso e sa tsejweng.</translation>
+<translation id="6066742401428748382">Ho kena ho leqephe la web ho thibetswe</translation>
+<translation id="2650446666397867134">Ho bula faele ho thibetswe</translation>
+<translation id="3261690198327056381">Ha se wa dumellwa ho sheba leqephe la web <ph name="URL"/>. Ho batleha hore o kene.</translation>
+<translation id="3903912596042358459">Sebara e hanne ho etsa kopo ya hao.</translation>
+<translation id="904949795138183864">Leqephe la web ho <ph name="URL"/> ha le sa le teng.</translation>
+<translation id="5319054530310231888">Ntho e kopilweng ha e sa le teng, 'me ha ho aterese e ka sebediswang. Sena ke bothata jwa ka mehla.</translation>
+<translation id="8295070100601117548">Phoso ya sevara</translation>
+<translation id="1055268999302881517">Wepesaete e hlahisitse bothata ha e busa dintho tse itseng <ph name="URL"/>. E ka ba hlahlobjwa kapa e sa bewa hantle.</translation>
+<translation id="2279770628980885996">Bothata bo sa letelwang bo hlahile ha sevara e leka ho etsa kopo ya hao.</translation>
+<translation id="4060383410180771901">Wepesaete e hloleha ho etsa kopo ya <ph name="URL"/>.</translation>
+<translation id="477518548916168453">Sevara ha e tshehetse se batlehang hore e etse kopo ya hao.</translation>
+<translation id="3940082421246752453">Sevara ha e tshehets veshene ya HTTP e sebedisitsweng ho kopo.</translation>
+<translation id="7544229255782699242">Phello e sa lokelang e fumanwe ha e leka ho louta <ph name="URL"/>. Sevara e ka ba e hlahlobjwa e sa sebetse kapa e sa etswa hantle.</translation>
+<translation id="7052500709156631672">Gateway kapa sevara ya proxy e fumane phello ho sevara ya upstream.</translation>
+<translation id="5741201586401781900">Leqephe la web ho <ph name="URL"/> ha le fumamehe. Le ka ba le tletse kapa le etswa se itseng.</translation>
+<translation id="6094756196753418043">Ha jwale sevara e hloleha ho etsa kopo. Khoutu ena e bontsha hore bona ke bothata ba nakwana, 'me sevara e tla sebetsa hape ka morao ha nako.</translation>
+<translation id="2084412568823043027">Sebara ya <ph name="URL"/> e nkile nako ho araba. E ka ba e tletse.</translation>
+<translation id="1202290638211552064">Gateway kapa sevara ya proxy e fumane phello ho sevara ya upstream.</translation>
+<translation id="1146498888431277930">Bothata ba khokahano ya SSLerror</translation>
+<translation id="4350711002179453268">E hloleha ho etsa khokahano e sireleditweng ho sevara. Sena e ka ba e le bothata le sevara, kapa sena se ka ba se batla hore tlelaente e tsweletse setifikeite seo o se nang le sona.</translation>
+<translation id="5228309736894624122">Bothata ba protocol ya SSL.</translation>
+<translation id="8016174103774548813">Sevara ya SSL mohlomongwe ha e sebetse.</translation>
+<translation id="5549435349608496346">E hloleha ho khokahana le sevara ka ho sireletsehileng. Wepsaete ena e sebeditse nakong e fetileng, empa ho kena ho disaete tsena ha jwalo ho baka mathata a rileng a tsa tshireletseho ho basebedisi kahoo di thibetswe pakeng sa ho sireletsa wena.</translation>
+<translation id="2803407661478021186">Poelo morao ya SSLv3 e kopane hantle le sevarab, empa ha re sa amohela dipoelo morao tsa SSLv3 ka baka la ho hlaselwa ho itseng ha melao. Sevara e tshwanetse ho kaonefatswa hore e sebedisane le TLS 1.0 kapa TLS 1.2.</translation>
+<translation id="2345460471437425338">Setifikeiti sa phoso ho mosebedisi.</translation>
+<translation id="3225919329040284222">Sevara e tsweleditse setifikeite ha se tshwane seo se batleheng. Tse batlehang di batleha e le ka nnete, ho tshireletseho ya wepesaete ho sireletsa wena.</translation>
+<translation id="6957887021205513506">Setifikeite sa sebara se entswe.</translation>
+<translation id="4544369257849566741">Eksetenshene ya SSL e be e se teng ho handshake e sireleditsweng. Ho disaete tse ding, tseo di tshehetsang ekstenshene ya renegotiation, <ph name="PRODUCT_NAME"/> e batla handshake e sireleditsweng ho thibela klase ya ditlhaselo tse sa tsejweng. Ho lebalwa ha ekstenshene ena ho sisinya hore khokahano ya hao e kenetswe 'me ya senywa.</translation>
+<translation id="8515737884867295000">Ho hlahloba ha Setifikeite ho hlolehile</translation>
+<translation id="1214288039821587584">Sebara ena e batla setifikeite ho khonthisetsa, 'me ha ya amohela e rometsweng ke porausara. Setifikeite e ka ba e le sa khale, kapa sebara e ka ba e sa bote moetsi. O ka leka hape ka setifikeite se se ncha, haeba o na le sona, kapa o ka ba o fumane setifikeite se leng molaong ho hong.</translation>
+<translation id="9013589315497579992">Ho khonthisetsa ha setifikeitse sa SSL ho mpe.</translation>
+<translation id="5620046725797389119">Ho ka etsahala hore sevara e sebedisang seqephe la web le tletse kapa ho hlahile bothata. Ho etsa hore diekstensheng tse ding di tse tlale 'me tsa hodisa bothata, <ph name="PRODUCT_NAME"/> e eme ho ka nakwana 'me ya dumella dikopo tsa diekstenshene tsa ho URL ena.</translation>
+<translation id="2271281383664374369">Dikopo tsa diekstenchene tsa URL ena di thibetswe.</translation>
+<translation id="3225579507836276307">Ekstenchene ya khamphani ya boraro e thibetse hore ho kenwe leqepheng lena la web.</translation>
+<translation id="5990559369517809815">Dikopo ho sevara di thibetswe ke ekstenchene.</translation>
+<translation id="8315720913203253727">Leqephe la web le batla tsebiso yeo e kentseng nakong e fetileng ha o kena hore e hlahe hantle. O ka romela tsebiso ena hape, empa ka ho etsa jwalo o tla buseletsa diketso le ha e le dife tseo leqephe lena le di bontshitseng nakong e fetileng. Penya bula hape ho romela tsebiso eo 'me ho hlahe leqephe lena.</translation>
+<translation id="6429639049555216915">Apulukheishene ha e fumanehe.</translation>
+<translation id="8162734958263531433">Ho sebedisa debugging ya USB, o loketse ho dumella Android SDK le debugging ya USB ho sesebediswa sa hao sa Android. E ya ho <ph name="HTML_HELPURL"/> bakeng sa tsebiso e eketsehileng.</translation>
+<translation id="1875071432292773474">Kenya aterese ya <ph name="ACCESS_POINT"/> ho porausara ya khomphutha. Porausara ya khomphutha e tshwanetse ho ba netewekeng e tshwanang jwalo ka sesebediswa sa Android.</translation>
+<translation id="7227425938337339799">Pakeng sa hore UPnP e sebetse o ka ba subnet e tshwanang, kapa o kene ho router ho hula broadcasts ho di subnets.</translation>
+<translation id="4553629908098215669">Ho khomphutha ya hao, sebedisa<ph name="HTMLADBCOMMAND"/>, 'me o ye ho <ph name="HTMLLOCALHOSTURL"/> ho porausara ya theilweng ho Chromium.</translation>
+<translation id="5873732809085338161">Ho dumella di-WebSocket tse sa sireletsehang ho porausara ya khomphutha ya hao, eya ho <ph name="HTMLOPERAFLAG"/> (Opera 24+) kapa <ph name="HTMLCHROMEFLAG"/> (Chrome 36+).</translation>
+<translation id="4570032796877367747">Kamera e ka pele</translation>
+<translation id="2599796128805996109">Kamera e ka morao</translation>
+<translation id="1780524213916974482">Kamera e ka leletshehadi</translation>
+<translation id="1198988598070704831">Kamera e ka ho leletona</translation>
+<translation id="2124507516322945394">Ho hloleha microphone</translation>
+<translation id="1587215898571986504">fone ya Spikara</translation>
+<translation id="5614598979078259956">Mehala ya ho mamela ya hlooho</translation>
+<translation id="9031226374756103225">Mehala ya tsebe</translation>
+<translation id="149679617917926491">Mehala ea bluetooth</translation>
+<translation id="6060685159320643512">Hlokomela, ditekolo tsena di ba bohloko</translation>
+<translation id="5199729219167945352">Ditekolo</translation>
+<translation id="2712869172826980984">Hlokomela!</translation>
+<translation id="8102444033747951866">Ditaolo tsa Diflaga tsa taolo kapa dikarolo tse ka fetohang. Di ka nna tsa seke tsa sebetsa, kapa tsa etsa porausara e se sebetse. O ka lahlehelwa ke boitsebiso, kapa tsa lekunutu kapa tshireletseho e ka fokola. Dikarolo di ka atleha, eya kapa tsa emisa ho sebetsa ka nako le ha e le efe. Hlokomela- Mona ho na le mathata!</translation>
+<translation id="9187827965378254003">Ok, ho bonahala ho se na dihlahlobo hona jwale.</translation>
+<translation id="2282872951544483773">Ha ho dihlahlobo</translation>
+<translation id="6426993025560594914">Dihlahlobo kaofela di fumaneha ho platform ya hao!</translation>
+<translation id="889901481107108152">Tshwarelo, hlahlobo ena ha e fumanehe ho platform ya hao.</translation>
+<translation id="3015639418649705390">Bula hona jwale</translation>
+<translation id="7179921470347911571">Bula hona jwale</translation>
+<translation id="8647750283161643317">Phumula di default kaofela</translation>
+<translation id="1134886108896378542">Phumula di default kaofela</translation>
+<translation id="4394049700291259645">Thibela</translation>
+<translation id="3435896845095436175">E dumelletswe</translation>
+<translation id="604124094241169006">Othomethiki</translation>
+<translation id="8798099450830957504">Ho hloleha</translation>
+<translation id="8815310998417289610">E dumelletswe</translation>
+<translation id="7826518276255108913">E thibetswe</translation>
+<translation id="2005166128312586988">Se o se fetotseng se tla sebetsa ha o bula hape Opera.</translation>
+<translation id="7961015016161918242">Lekhale</translation>
+<translation id="6342069812937806050">Hona jwale</translation>
+<translation id="684302243018322820">Ho sheba diphini tsa Opera, ka kopo kenya phini ya khomphutha ya hao.</translation>
+<translation id="533563709691128800">e thibetswe</translation>
+<translation id="2506903884491778518">Ditekolo tsa ho batlisisa</translation>
+<translation id="2112624549618815628">Default (e dumeletswe)</translation>
+<translation id="3696363537446376816">Default (ha se ya dumellwa)</translation>
+<translation id="1375198122581997741">Ka Veshene</translation>
+<translation id="7248671827512403053">Apolukheishene</translation>
+<translation id="1710259589646384581">OS</translation>
+<translation id="6897140037006041989">Morumuoa oa Mosebelisi</translation>
+<translation id="7353601530677266744">Mothalo wa Taelo</translation>
+<translation id="7225807090967870017">Haha Boitsebiso</translation>
+</translationbundle>

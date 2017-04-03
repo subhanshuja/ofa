@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="lv">
+<translation id="1974060860693918893">Papildu</translation>
+<translation id="3462200631372590220">Paslēpt papildu iestatījumus</translation>
+<translation id="3369192424181595722">Pulksteņa kļūda</translation>
+<translation id="2625385379895617796">Pulkstenis steidzas.</translation>
+<translation id="8932102934695377596">Pulkstenis atpaliek.</translation>
+<translation id="3858027520442213535">Atjaunināt datumu un laiku</translation>
+<translation id="725866823122871198">Nevar izveidot privāto savienojumu ar lapu <ph name="BEGIN_BOLD"/><ph name="DOMAIN"/><ph name="END_BOLD"/>, jo datorā iestatītais datums un laiks (<ph name="DATE_AND_TIME"/>) nav pareizi.</translation>
+<translation id="4879058462256654741">Lai izveidotu drošo savienojumu, iestatiet pulksteni pareizi. Tas ir nepieciešams tādēļ, ka sertifikāti, ko vietnes izmanto pašidentifikācijai, ir derīgi tikai noteiktos laika posmos. Jūsu ierīces pulkstenis ir nepareizs, tāpēc šos sertifikātus nevar pārbaudīt.</translation>
+<translation id="1413809658975081374">Konfidencialitātes kļūda</translation>
+<translation id="3566021033012934673">Šis savienojums nav privāts</translation>
+<translation id="340013220407300675">Uzbrucēji, iespējams, mēģina nozagt jūsu, kas saglabāta vietnē <ph name="BEGIN_BOLD"/><ph name="SITE"/><ph name="END_BOLD"/> (piemēram, paroles, ziņojumus vai kredītkaršu datus).</translation>
+<translation id="629137324635910832">Informācijas aizsardzības nolūkam vietne <ph name="SITE"/> parasti izmanto šifrēšanu. Šoreiz pārlūkprogrammai Opera mēģinot izveidot savienojumu ar vietni <ph name="SITE"/>, vietne nosūtīja nestandarta vai nepareizus akreditācijas datus. Tā var notikt gadījumā, kad uzbrucējs izliekas par vietni <ph name="SITE"/> vai arī kad savienojuma izveidi iztraucēja Wi-Fi pierakstīšanās ekrāns. Jūsu informācija joprojām ir drošībā, jo pārlūkprogramma Opera apturēja savienojuma izveidi pirms informācijas apmaiņas.</translation>
+<translation id="4404555778932203074">Šobrīd nevarat apmeklēt vietni <ph name="SITE"/>, jo tā nosūtīja kodētus akreditācijas datus, ko pārlūkprogramma Opera nevar apstrādāt. Tīkla kļūdas un uzbrukumi parasti ir īslaicīgi, tādēļ šī lapa, visticamāk, vēlāk darbosies.</translation>
+<translation id="8882627153668738693">Informācijas aizsardzības nolūkam vietne <ph name="SITE"/> parasti izmanto šifrēšanu. Šoreiz pārlūkprogrammai AvastSafeZone mēģinot izveidot savienojumu ar vietni <ph name="SITE"/>, vietne nosūtīja nestandarta vai nepareizus akreditācijas datus. Tā var notikt gadījumā, kad uzbrucējs izliekas par vietni <ph name="SITE"/> vai arī kad savienojuma izveidi iztraucēja Wi-Fi pierakstīšanās ekrāns. Jūsu informācija joprojām ir drošībā, jo pārlūkprogramma AvastSafeZone apturēja savienojuma izveidi pirms informācijas apmaiņas.</translation>
+<translation id="1888865191717601957">Šobrīd nevarat apmeklēt vietni <ph name="SITE"/>, jo tā nosūtīja kodētus akreditācijas datus, ko pārlūkprogramma Avast SafeZone nevar apstrādāt. Tīkla kļūdas un uzbrukumi parasti ir īslaicīgi, tādēļ šī lapa, visticamāk, vēlāk darbosies.</translation>
+<translation id="6264485186158353794">Atpakaļ drošībā</translation>
+<translation id="7704050614460855821"><ph name="BEGIN_LINK"/>Turpināt un pāriet uz vietni <ph name="SITE"/> (nav droši)<ph name="END_LINK"/></translation>
+<translation id="5556459405103347317">Pārlādēt</translation>
+<translation id="6051221802930200923">Šobrīd nevarat apmeklēt vietni <ph name="SITE"/>, jo tajā tiek izmantota sertifikātu piespraušana. Tīkla kļūdas un uzbrukumi parasti ir īslaicīgi, tādēļ šī lapa, visticamāk, vēlāk darbosies.</translation>
+<translation id="2991571918955627853">Šobrīd nevarat apmeklēt vietni <ph name="SITE"/>, jo tajā tiek izmantota politika HSTS. Tīkla kļūdas un uzbrukumi parasti ir īslaicīgi, tādēļ šī lapa, visticamāk, vēlāk darbosies.</translation>
+<translation id="1430489501396597835">Šobrīd nevarat apmeklēt vietni <ph name="SITE"/>, jo šis sertifikāts ir atsaukts. Tīkla kļūdas un uzbrukumi parasti ir īslaicīgi, tādēļ šī lapa, visticamāk, vēlāk darbosies.</translation>
+<translation id="4513896196857653318">Pārejiet uz
+          galveno izvēlni &gt;
+          <ph name="SETTINGS_TITLE"/>
+          &gt;
+          <ph name="ADVANCED_TITLE"/>
+          un notīriet opcijas <ph name="NO_PREFETCH_DESCRIPTION"/> atlasi.
+          Ja problēma joprojām pastāv, veiktspējas uzlabošanas nolūkā
+          ieteicams vēlreiz atlasīt šo opciju.</translation>
+<translation id="8888594059056485523">Atļaujiet lietojumprogrammai Opera piekļūt tīklam, izmainot jūsu ugunsmūra vai antivīrusu programmas iestatījumus.</translation>
+<translation id="8040357206858000048">Pārejiet uz Applications (Lietojumprogrammas) &gt; System Preferences (Sistēmas preferences) &gt; Network (Tīkls) &gt; Advanced (Papildu iestatījumi) &gt; Proxies (Starpniekserveri) un notīriet atlasīto starpniekserveru atlasi.</translation>
+<translation id="1532685482177999023">Pārejiet uz galveno izvēlni un atveriet sadaļu <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; LAN Settings (LAN iestatījumi). Notīriet opcijas Use a proxy server for your LAN (Izmantot LAN starpniekserveri) atlasi.</translation>
+<translation id="6118049677165320383">Veiktās izmaiņas stāsies nākamreiz, kad palaidīsiet pārlūkprogrammu.</translation>
+<translation id="5510583790312051907">Ziņošana par avārijām nav pieejama.</translation>
+<translation id="1011013207380005827">Opera darbību nodrošina <ph name="BEGIN_LINK_CHROMIUM"/>Chromium<ph name="END_LINK_CHROMIUM"/> atklātā pirmkoda projekts un cita <ph name="BEGIN_LINK_OSS"/>atklātā pirmkoda programmatūra<ph name="END_LINK_OSS"/>.</translation>
+<translation id="3108493547597012279">Jūs skatāties drošo lapu.</translation>
+<translation id="8530361534096361731">Pārlūkprogramma Opera netika izslēgta pareizi.</translation>
+</translationbundle>

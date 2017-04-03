@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html i18n-values="dir:textdirection">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+  <title i18n-content="tabTitle"></title>
+  <link rel="stylesheet" href="ssl_roadblock.css">
+  <script src="ssl_roadblock.js"></script>
+</head>
+
+<body oncontextmenu="return false;" i18n-values=".style.fontFamily:fontfamily">
+  <div id="wrap">
+    <div class="box">
+      <img src="warning_icon.png" alt="SSL Error" onmousedown="return false;" id="icon">
+
+      <h1 i18n-content="heading"></h1>
+
+      <div class="main" i18n-values=".innerHTML:explanationParagraph;dir:textdirection"></div>
+      <div class="main" i18n-values=".innerHTML:shouldNotProceed"></div>
+
+
+      <form class="submission">
+        <button i18n-content="backButton" id="back-button"></button>
+        <button i18n-content="proceedButton" id="proceed-button"></button>
+      </form>
+
+  </div>
+</body>
+</html>

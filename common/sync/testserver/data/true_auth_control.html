@@ -1,0 +1,101 @@
+<html>
+<head>
+<title>True auth control panel</title>
+<style>
+.button_is_current {
+    color: red;
+}
+</style>
+</head>
+<body onload="process_document_loaded()">
+True auth control panel<br><br>
+Simple login response:<br>
+<div id="SIMPLE_LOGIN_RESPONSE">
+</div>
+
+Web login response:<br>
+<div id="WEB_LOGIN_RESPONSE">
+</div>
+
+Sync command response:<br>
+<div id="SYNC_COMMAND_RESPONSE">
+</div>
+
+XMPP connect response:<br>
+<div id="XMPP_CONNECT_RESPONSE">
+</div>
+
+Clock validation response:<br>
+<div id="CLOCK_VALIDATION_RESPONSE">
+</div>
+
+Token renewal response:<br>
+<div id="TOKEN_RENEWAL_RESPONSE">
+</div>
+
+<script>
+function generate_ui() {
+  var responses_obj = [RESPONSES_JSON];
+  var current_responses = [CURRENT_RESPONSES];
+
+  for (var key in responses_obj) {
+    var response_values = responses_obj[key];
+    var section_div = document.getElementById(key)
+    if (section_div == null) {
+      console.error('No DIV found for ' + key);
+    } else {
+      for (var i = 0; i < response_values.length; i++) {
+        var response_value = response_values[i];
+        var button_element = document.createElement('input');
+        button_element.type = 'button';
+        button_element.value = response_value;
+        button_element.name = response_value;
+        if (response_value == current_responses[key]) {
+          button_element.className = 'button_is_current';
+        }
+        button_element.onclick = function() { window.location.href = '/true_auth/change_response?key=' + this.parentElement.id + "&value=" + this.value; };
+        section_div.appendChild(button_element);
+      }
+    }
+  }
+}
+
+function process_document_loaded() {
+  generate_ui();
+}
+
+function set_response(element) {
+  var parent = element.getParent();
+  var response_type = null;
+  var response_value = element.value;
+  if (parent) {
+    switch (parent.id) {
+      case 'simple_login':
+        response_type = '[RT_SIMPLE_LOGIN]';
+        break;
+      case 'web_login':
+        response_type = '[RT_WEB_LOGIN]';
+        break;;
+      case 'command':
+        response_type = '[RT_COMMAND]';
+        break;
+      case 'renewal':
+        response_type = '[RT_RENEWAL]';
+        break;
+      default:
+        console.error("Unknown parent DIV with id=" + parent.id);
+        break;
+      }
+  } else {
+    console.error('No parent detected.');
+  }
+  if (reponse_type == null) {
+    console.error('Cannot set up the response!');
+  } else {
+    var command_url = '/true_auth/set_response?reponse_type=' + reponse_type + '&response_value=' + response_value;
+    window.location.href = command_url
+  }
+}
+</script>
+</body>
+</html>

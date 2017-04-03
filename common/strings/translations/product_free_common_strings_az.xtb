@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="az">
+<translation id="3942946088478181888">Mənə anlamağa kömək edin</translation>
+<translation id="1396529432791646744">Siz təhlükəsiz veb-sayta bağlandıqda, bu sayta xidmət edən server baxış proqramınıza kimliyini yoxlamaq üçün "sertifikat" deyilən bir şey təqdim edir. Bu sertifikat, sizin mobil cihazınızın etibar etdiyi üçüncü tərəflə təsdiq edilmiş kimlik məlumatı, veb-saytın ünvanları kimi məlumatlar ehtiva edir. Sertifikatda olan ünvan veb-saytın ünvanına uyğun olduqda, üçünçü tərəflə (şəbəkənizdən hücum edən kimi) deyil, istədiyiniz veb-saytla təhlükəsiz rabitədə olduğunuzu yoxlamaq mümkündür.</translation>
+<translation id="6295228342562451544">Siz təhlükəsiz veb-sayta bağlandıqda, bu sayta xidmət edən server baxış proqramınıza kimliyini yoxlamaq üçün "sertifikat" deyilən bir şey təqdim edir. Bu sertifikat, sizin kompyuterinizin etibar etdiyi üçüncü tərəflə təsdiq edilmiş kimlik məlumatı, veb-saytın ünvanları kimi məlumatlar ehtiva edir. Sertifikatda olan ünvan veb-saytın ünvanına uyğun olduqda, üçünçü tərəflə (şəbəkənizə hücum edən kimi) deyil, istədiyiniz veb-saytla təhlükəsiz rabitədə olduğunuzu yoxlamaq mümkündür.</translation>
+<translation id="8187473050234053012">Serverin təhlükəsizlik sertifikatı ləğv edilib.</translation>
+<translation id="5598024575303778520">Saxtakarlığa dair xəbərdarlıq</translation>
+<translation id="7311721172731074902">Saxtakarlığa dair xəbərdarlıq</translation>
+<translation id="1858130628205855959">Bu sayt heklənmiş və saytda saxtakarlıq ola bilər. Parollarınızı və ya şəxsi məlumatlarınızı bura ötürməniz məlumatlarınızın oğurlanması və maliyyə saxtakarlığı baxımından sizi təhlükə qarşısında qoya bilər.</translation>
+<translation id="8357891144266644027">Zərərli sayt xəbərdarlığı</translation>
+<translation id="4664012235452972339">Zərərli sayt xəbərdarlığı</translation>
+<translation id="1030973920598092450">Bu sayt heklənmiş və ya zərərli proqram təminatını ehtiva edə bilər. Bu sayta daxil olmaq sizə ziyan vura bilər.</translation>
+<translation id="4863259811271883558">Hesabat verən: <ph name="BEGIN_LINK"/><ph name="PROVIDER_NAME"/><ph name="END_LINK"/></translation>
+<translation id="3141322567138977593">Ehtiyatla geri qayıdın</translation>
+<translation id="833642844779103272">Ehtiyatla heri qayıdın</translation>
+<translation id="4238466718818823211">Bu xəbərdarlığı nəzərə almayın</translation>
+<translation id="1755698976576372535">Bu səhifə nə üçün bloklanıb?</translation>
+<translation id="2962647877740028287">Bizim saxtarlıq üzrə hesabatlarımız üçüncü tərəf təchizatçılar tərəfindən təmin edilir.</translation>
+<translation id="7470668651798735849">Veb-saytlardan bütün bildirişlərə burada baxa bilərsiniz.</translation>
+<translation id="6426222199977479699">SSL səhvi</translation>
+<translation id="8398877366907290961">Hər halda davam edin</translation>
+<translation id="6264485186158353794">Geriyə, təhlükəsizliyə</translation>
+<translation id="2225024820658613551">Siz davam etməməlisiniz, &lt;strong&gt;xüsusilə&lt;/strong&gt; əğər siz bu sayt üçün bu xəbərdarlığı heç vaxt görməmisinizsə.</translation>
+<translation id="5645845270586517071">Təhlükəsizlik səhvi</translation>
+<translation id="1103666958012677467">Veb-sayt operatoru bu domen üçün təhlükəsizliyin artırılmağını istədiyi üçün davam edə bilməzsiniz.</translation>
+<translation id="5463275305984126951"><ph name="LOCATION"/> indeksi</translation>
+<translation id="8877448029301136595">[sələf kataloq]</translation>
+<translation id="3835522725882634757">Ola bilməz! Bu server <ph name="PRODUCT_NAME"/> başa düşməyən məlumatlar göndərir. Xahiş edirik, <ph name="BEGIN_LINK"/>səhv bildirin<ph name="END_LINK"/> və <ph name="BEGIN2_LINK"/>siyahını<ph name="END2_LINK"/> əlavə edin.</translation>
+<translation id="5327248766486351172">Ad</translation>
+<translation id="8028993641010258682">Ölçü</translation>
+<translation id="57646104491463491">Tarix dəyişdirilib</translation>
+<translation id="8465929756435120446">Bu səhifə bəzi təhlükəli məzmun ehtiva edir.</translation>
+<translation id="6827416153061837992">Bu bağlantı şifrlənməyib.</translation>
+<translation id="9193357432624119544">Səhv kodu: <ph name="ERROR_NAME"/></translation>
+<translation id="4910619056351738551">Bəzi təkliflər:</translation>
+<translation id="2954705784594331199">Bu veb-səhifəni <ph name="BEGIN_LINK"/>yenidən yükləyin<ph name="END_LINK"/>.</translation>
+<translation id="4977565600485911823">Genişlənmələrinizi qeyri-aktiv edin və sonra bu veb-səhifəni <ph name="BEGIN_LINK"/>yenidən yükləyin<ph name="END_LINK"/>.</translation>
+<translation id="1103966635949043187">Saytın başlanğıc sıhifəsinə gedin:</translation>
+<translation id="7747589364844254751">İnternet bağlantısını yoxlayın. İstifadə edə biləcəyiniz hər hansı bir yönləndirici, modem və ya digər şəbəkə cihazlarını yenidən başladın.</translation>
+<translation id="5548623538190661145">DNS parametrlərinizi yoxlayın. Bunun nə olduğuna əmin deyilsinizsə, səbəkə inzibatçınızla əlaqə saxlayın.</translation>
+<translation id="4545046228395991092">Əgər proksi-serverdən istifadə edirsinizsə, proksi parametrlərini yoxlayın və ya proksi-serverin işlədiyinə əmin olmaq üçün şəbəkə inzibztçınıza müraciət edin.</translation>
+<translation id="1712673276482711826">Əgər proksi-serverdən istifadə edirsinizsə, proksi parametrlərini yoxlayın və ya proksi-serverin işlədiyinə əmin olmaq üçün şəbəkə inzibztçınıza müraciət edin. Əgər proksi-serverdən istifadə etdiyinizə əmin deyilsinizsə, proksi parametrlərini uyğunlaşdırın: <ph name="PLATFORM_TEXT"/></translation>
+<translation id="721197778055552897">Bu problem barədə <ph name="BEGIN_LINK"/>ətraflı məlumat<ph name="END_LINK"/> əldə edin.</translation>
+<translation id="8235325155053717782">Səhv <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="3986287159189541211">HTTP səhvi <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="3225919329040284222">Server daxili gözəmələrə uyğun olmayan sertifikat təqdim etdi. Bu gözləmələr sizi qorumaq ğörə, müəyyən yüksək təhlükəsiz serverlər üçün daxil edilmişdir.</translation>
+<translation id="6957887021205513506">Serverin sertifikatı saxtaya bənzəyir.</translation>
+<translation id="6429639049555216915">Bu proqram hal-hazırda əlçatmazdır.</translation>
+<translation id="9127307628159259612"><ph name="PRODUCT_NAME"/> icazə verilmiş proqram kimi qoruyucu divar və antivirus proqramlarınızın parametrlərinə əlavə edin. Əgər bu, icazə verilmiş proqramdırsa, onu icazə verilmiş proqramlar siyahısından silib, yenidən əlavə edin.</translation>
+<translation id="4544369257849566741">Təhlükəsiz əl sıxmada yenidən SSL anlaşması əlavəsi çatışmır. Bəzi məlum yenidən anlaşmanın əlavəsini dəstəkləyən saytlar üçün, <ph name="PRODUCT_NAME"/> məlum hücumlar sinfinin qarşısını almaq məqsədi ilə daha təhlükəsiz əl sıxma tələb edir. Bu əlavənin əskik olması, başqalarının əlaqənizə girmiş və ötürülənlən zaman manipulyasiya etmiş olduğunu göstərməkdədir.</translation>
+<translation id="8162734958263531433">USB sazlamadan istifadə üçün siz, Android gihazınızda Android SDK və USB sazlamanı aktivləşdirməniz lazımdır. Daha ətraflı məlumat üçün <ph name="HTML_HELPURL"/> baxın.</translation>
+<translation id="1875071432292773474">İş masasındakı baxış proqramınızda <ph name="ACCESS_POINT"/> ünvanını daxil edin. İş masasının baxış proqramı Android cihazı kimi eyni şəbəkədə olmalıdır.</translation>
+<translation id="7227425938337339799">UPnP-nin işləməsi üçün siz eyni alt şəbəkədə olmalı və ya yönəldicini alt şəbəkələr vasitəsilə yayımları yönəltməyə yönləndirməlisiniz.</translation>
+<translation id="4553629908098215669">Bu kompüterdə <ph name="HTMLADBCOMMAND"/> icra edin və Chromium serverlə <ph name="HTMLLOCALHOSTURL"/>-a gedin.</translation>
+<translation id="4570032796877367747">Ön kamera</translation>
+<translation id="2599796128805996109">Arxa kamera</translation>
+<translation id="2124507516322945394">Standart mikrofon</translation>
+<translation id="1587215898571986504">Dinamik</translation>
+<translation id="5614598979078259956">Simli qulaqlıq dəsti</translation>
+<translation id="9031226374756103225">Qulaqlıq dəstinin qulaqlığı</translation>
+<translation id="149679617917926491">Bluetooth qulaqlıq dəsti</translation>
+<translation id="6060685159320643512">Ehtiyatlı olun, bu eksperimentlər zərər vura bilər</translation>
+<translation id="5199729219167945352">Eksperimentlər</translation>
+<translation id="533563709691128800">ləğv edilib</translation>
+<translation id="2506903884491778518">Axtarış eksperimentləri</translation>
+<translation id="1138663153846032155">HTML-ı Flaşdan üstün tut</translation>
+<translation id="2081453640527377956">Qoşulmalar siyahısından Flaşı gizlədərək HTML məzmununu üstün tutun.</translation>
+<translation id="5998167623928667649">Flaş parametri ''icazə ver'' kimi qurulan zaman bütün Flaş məzmununu icra edin</translation>
+<translation id="5138177765054221193">Flaş məzmununa ''icazə ver'' qurulan bütün saytlar üçün əhəmiyyətsiz hesab edilən kontent daxil olmaqla bütün məzmunu icra edin.</translation>
+<translation id="2112624549618815628">Standart (aktivdir)</translation>
+<translation id="3696363537446376816">Standart (qeyri-aktivdir)</translation>
+<translation id="5773249585542913314">Windows Runtime MIDI API</translation>
+<translation id="7122132768827815392">WebMIDI üçün Windows Runtime MIDI API istifadə edin (yalnız Windows 10 və sonrakı versiyalar üçün etibarlıdır).</translation>
+<translation id="1375198122581997741">Versiya haqqında</translation>
+<translation id="7248671827512403053">Proqram</translation>
+<translation id="1710259589646384581">ƏS</translation>
+<translation id="6897140037006041989">İstifadəçi Agenti</translation>
+<translation id="7353601530677266744">Əmr Sətri</translation>
+<translation id="7225807090967870017">Quruluş ID-si</translation>
+</translationbundle>

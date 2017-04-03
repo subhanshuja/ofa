@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="en-GB">
+<translation id="1974060860693918893">Advanced</translation>
+<translation id="3462200631372590220">Hide advanced</translation>
+<translation id="3369192424181595722">Clock error</translation>
+<translation id="2625385379895617796">Your clock is ahead</translation>
+<translation id="8932102934695377596">Your clock is behind</translation>
+<translation id="3858027520442213535">Update date and time</translation>
+<translation id="725866823122871198">A private connection to <ph name="BEGIN_BOLD"/><ph name="DOMAIN"/><ph name="END_BOLD"/> can't be established because your computer's date and time (<ph name="DATE_AND_TIME"/>) are incorrect.</translation>
+<translation id="4879058462256654741">To establish a secure connection, your clock needs to be set correctly. This is because the certificates that websites use to identify themselves are only valid for specific periods of time. Since your device's clock is incorrect, these certificates cannot be verified.</translation>
+<translation id="1413809658975081374">Privacy error</translation>
+<translation id="3566021033012934673">Your connection is not private</translation>
+<translation id="340013220407300675">Attackers might be trying to steal your information from <ph name="BEGIN_BOLD"/><ph name="SITE"/><ph name="END_BOLD"/> (for example, passwords, messages, or credit cards).</translation>
+<translation id="629137324635910832"><ph name="SITE"/> normally uses encryption to protect your information. When Opera tried to connect to <ph name="SITE"/> this time, the website sent back unusual and incorrect credentials. This may happen when an attacker is trying to pretend to be <ph name="SITE"/>, or a Wi-Fi sign-in screen has interrupted the connection. Your information is still secure because Opera stopped the connection before any data was exchanged.</translation>
+<translation id="4404555778932203074">You cannot visit <ph name="SITE"/> right now because the website sent scrambled credentials that Opera cannot process. Network errors and attacks are usually temporary, so this page will probably work later.</translation>
+<translation id="8882627153668738693"><ph name="SITE"/> normally uses encryption to protect your information. When Avast SafeZone tried to connect to <ph name="SITE"/> this time, the website sent back unusual and incorrect credentials. This may happen when an attacker is trying to pretend to be <ph name="SITE"/>, or a Wi-Fi sign-in screen has interrupted the connection. Your information is still secure because Avast SafeZone stopped the connection before any data was exchanged.</translation>
+<translation id="1888865191717601957">You cannot visit <ph name="SITE"/> right now because the website sent scrambled credentials that Avast SafeZone cannot process. Network errors and attacks are usually temporary, so this page will probably work later.</translation>
+<translation id="6264485186158353794">Back to safety</translation>
+<translation id="7704050614460855821"><ph name="BEGIN_LINK"/>Proceed to <ph name="SITE"/> (unsafe)<ph name="END_LINK"/></translation>
+<translation id="5556459405103347317">Reload</translation>
+<translation id="6051221802930200923">You cannot visit <ph name="SITE"/> right now because the website uses certificate pinning. Network errors and attacks are usually temporary, so this page will probably work later.</translation>
+<translation id="2991571918955627853">You cannot visit <ph name="SITE"/> right now because the website uses HSTS. Network errors and attacks are usually temporary, so this page will probably work later.</translation>
+<translation id="1430489501396597835">You cannot visit <ph name="SITE"/> right now because this certificate has been revoked. Network errors and attacks are usually temporary, so this page will probably work later.</translation>
+<translation id="4513896196857653318">Go to
+          the Main menu &gt;
+          <ph name="SETTINGS_TITLE"/>
+          &gt;
+          <ph name="ADVANCED_TITLE"/>
+          and deselect "<ph name="NO_PREFETCH_DESCRIPTION"/>."
+          If this does not resolve the issue, we recommend selecting this option
+          again for improved performance.</translation>
+<translation id="8888594059056485523">Allow Opera to access the network in your firewall or antivirus settings.</translation>
+<translation id="8040357206858000048">Go to Applications &gt; System Preferences &gt; Network &gt; Advanced &gt; Proxies and deselect any proxies that have been selected.</translation>
+<translation id="1532685482177999023">Go to the Main menu &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; LAN Settings and deselect "Use a proxy server for your LAN".</translation>
+<translation id="6118049677165320383">Your changes will take effect the next time you relaunch the browser.</translation>
+<translation id="5510583790312051907">Crash reporting is not available.</translation>
+<translation id="1011013207380005827">Opera is made possible by the <ph name="BEGIN_LINK_CHROMIUM"/>Chromium<ph name="END_LINK_CHROMIUM"/> open source project and other <ph name="BEGIN_LINK_OSS"/>open source software<ph name="END_LINK_OSS"/>.</translation>
+<translation id="3108493547597012279">You are viewing a secure page.</translation>
+<translation id="8530361534096361731">Opera didn't shut down correctly.</translation>
+</translationbundle>

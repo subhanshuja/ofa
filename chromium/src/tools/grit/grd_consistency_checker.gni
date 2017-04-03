@@ -1,0 +1,32 @@
+# Copyright (C) 2015 Opera Software ASA.  All rights reserved.
+#
+# This file is an original work developed by Opera Software ASA.
+
+# Checks if two grd files define the same resources.
+#
+# Arguments:
+#
+#   sources
+#       grd files to check
+#   output_dir
+#       directory in which the stamp file should be placed
+template("check_grd_consistency") {
+  action(target_name) {
+    assert(defined(invoker.sources), "Need sources for $target_name")
+    assert(defined(invoker.output_dir), "Need output_dir for $target_name")
+
+    output_dir = invoker.output_dir
+    stamp_file = "$output_dir/$target_name.stamp"
+
+    script = "//tools/grit/grd_consistency_checker.py"
+
+    sources = invoker.sources
+    outputs = [ stamp_file ]
+
+    args = [
+      "--stamp-file",
+      rebase_path(stamp_file, root_build_dir),
+    ]
+    args += rebase_path(invoker.sources, root_build_dir)
+  }
+}

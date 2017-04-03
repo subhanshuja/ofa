@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="zh-TW">
+<translation id="3929428121849375048">Avast SafeZone</translation>
+<translation id="806546331937022936">Avast</translation>
+<translation id="3609966143444339170">Avast 強烈建議你不要瀏覽這個頁面。</translation>
+<translation id="4206706288435313269">Avast SafeZone 通知中心</translation>
+<translation id="254978580676301713">SafeZone - 通知</translation>
+<translation id="8084325208922689406">SafeZone - 通知 (<ph name="QUANTITY"/> 個未讀)</translation>
+<translation id="678670207776683961">SafeZone - 通知</translation>
+<translation id="191361968702850015">SafeZone - 通知 (<ph name="QUANTITY"/> 個未讀)</translation>
+<translation id="1359674843509087498">這個網站使用過期的安全設定，可能會將來新版的 SafeZone 無法安全的與它建立連線。</translation>
+<translation id="3485921796584936414">在你的防火牆或是防毒程式的設定裡面，允許 SafeZone 連上網路。</translation>
+<translation id="7041993155087650094">請到 SafeZone 選單 &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; 區域網路設定，並取消選取「在你的區域網路中使用 proxy 代理伺服器」。</translation>
+<translation id="5366394231680131980">你的更動將會在重新啟動 SafeZone 後生效。</translation>
+<translation id="6964843943881946410">要檢視 SafeZone 儲存的密碼，請輸入你電腦的密碼。</translation>
+</translationbundle>

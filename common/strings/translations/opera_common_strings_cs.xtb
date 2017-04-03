@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="cs">
+<translation id="2978824962390592855">Opera</translation>
+<translation id="9071130496134948492">Opera Software</translation>
+<translation id="6494666865857176946">Opera Software důrazně nedoporučuje návštěvu této stránky.</translation>
+<translation id="7459549266751278805">Oznamovací centrum Opery</translation>
+<translation id="4501379002264542907">Opera - oznámení</translation>
+<translation id="1352092048463356430">Opera - oznámení (nepřečteno <ph name="QUANTITY"/>)</translation>
+<translation id="4159400746343093340">Opera - oznámení</translation>
+<translation id="6018626517703817463">Opera - oznámení (nepřečteno <ph name="QUANTITY"/>)</translation>
+<translation id="6161036283010589960">Stránka používá zastaralé nastavení zabezpečení, a proto nemusí být budoucí verze Opery schopné zajistit bezpečný přístup na stránku.</translation>
+<translation id="8888594059056485523">Povolte Opeře přístup k síti v nastavení vašeho firewallu či antivirového software.</translation>
+<translation id="7158277678571698323">Jděte do menu Opery &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; Nastavení LAN a odznačte volbu „Použít proxy server pro vaši LAN“.</translation>
+<translation id="5873732809085338161">Chcete-li povolit nezabezpečené objekty WebSocket ve vašem prohlížeči, použijte odkaz <ph name="HTMLOPERAFLAG"/> (pro Operu 24+) či <ph name="HTMLCHROMEFLAG"/> (pro Chrome 36+).</translation>
+<translation id="2005166128312586988">Vaše změny budou použity po novém spuštění Opery.</translation>
+<translation id="684302243018322820">Chcete-li zobrazit hesla uchovávaná Operou, prosím zadejte heslo k vašemu systémovému účtu.</translation>
+</translationbundle>

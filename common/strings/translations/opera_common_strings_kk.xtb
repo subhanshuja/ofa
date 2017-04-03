@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="kk">
+<translation id="2978824962390592855">Opera</translation>
+<translation id="9071130496134948492">Opera Software</translation>
+<translation id="6494666865857176946">Opera Software компаниясы бұл бетке кірмеуді ұсынады.</translation>
+<translation id="7459549266751278805">Opera хабарландыру орталығы</translation>
+<translation id="4501379002264542907">Opera - хабарландырулар</translation>
+<translation id="1352092048463356430">Opera - хабарландырулары (<ph name="QUANTITY"/> оқылмаған)</translation>
+<translation id="4159400746343093340">Opera - хабарландырулар</translation>
+<translation id="6018626517703817463">Opera - хабарландырулары (<ph name="QUANTITY"/> оқылмаған)</translation>
+<translation id="6161036283010589960">Сайт Opera бағдарламасының болашақтағы нұсқаларына қауіпсіз қатынауға кедергі болуы мүмкін ескірген қауіпсіздік параметрлерін пайдалануда.</translation>
+<translation id="8888594059056485523">Opera бағдарламасына желіаралық қорғау құрылғысында немесе антивирус параметрлерінде желіге кіру мүмкіндігіне рұқсат беріңіз.</translation>
+<translation id="7158277678571698323">Opera мәзіріне өтіңіз &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; LAN параметрлері "LAN үшін прокси серверін пайдалану" құсбелгісін алып тастаңыз.</translation>
+<translation id="5873732809085338161">Жұмыс үстелі браузерінде қорғалмаған WebSockets қосу үшін <ph name="HTMLOPERAFLAG"/> (Opera 24+) немесе <ph name="HTMLCHROMEFLAG"/> (Chrome 36+) торабына өтіңіз.</translation>
+<translation id="2005166128312586988">Өзгерістер Opera браузерін қайта іске қосқан кезде күшіне енеді.</translation>
+<translation id="684302243018322820">Opera браузерінің сақталған құпия сөздерін көру үшін компьютер құпия сөзін енгізіңіз.</translation>
+</translationbundle>

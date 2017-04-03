@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="zh-CN">
+<translation id="3942946088478181888">帮助我理解</translation>
+<translation id="1396529432791646744">当您使用安全连接访问网站的时候，网站的服务器会向浏览器提供一个“证书”来验证它的身份。 此证书包含服务器的身份信息，比如网站的网址，这些信息是由值得信任的第三方机构验证过的。 通过检查证书中包含的地址是否与网站的地址吻合，可以验证您否在和您希望的网站安全地通信，而不是其它网站（比如网络攻击者伪造的网站）。</translation>
+<translation id="6295228342562451544">当您使用安全连接访问网站的时候，网站的服务器会向浏览器提供一个“证书”来验证它的身份。 此证书包含服务器的身份信息，比如网站的网址，这些信息是由值得信任的第三方机构验证过的。 通过检查证书中包含的地址是否与网站的地址吻合，可以验证您否在和您希望的网站安全地通信，而不是其它网站（比如网络攻击者伪造的网站）。</translation>
+<translation id="8187473050234053012">服务器的证书已经被撤销。</translation>
+<translation id="5598024575303778520">欺诈警告</translation>
+<translation id="7311721172731074902">欺诈警告</translation>
+<translation id="1858130628205855959">此网站可能被黑客攻击或具有欺骗性。向其提供密码或个人信息可能会使您遭受身份窃取或金融诈骗的风险。</translation>
+<translation id="8357891144266644027">恶意站点警告</translation>
+<translation id="4664012235452972339">恶意站点警告</translation>
+<translation id="1030973920598092450">此网站可能被黑客攻击或具有欺骗性。访问此页面可能会遭受损害。</translation>
+<translation id="4863259811271883558">报告人：<ph name="BEGIN_LINK"/><ph name="PROVIDER_NAME"/><ph name="END_LINK"/></translation>
+<translation id="3141322567138977593">安全后退</translation>
+<translation id="833642844779103272">安全后退</translation>
+<translation id="4238466718818823211">忽略此警告</translation>
+<translation id="1755698976576372535">为什么拦截此网页？</translation>
+<translation id="2962647877740028287">我们的欺诈报告由第三方供应商维护。</translation>
+<translation id="7470668651798735849">从此处的网站可查看所有通知。</translation>
+<translation id="6426222199977479699">SSL 错误</translation>
+<translation id="8398877366907290961">仍然继续</translation>
+<translation id="6264485186158353794">返回以确保安全</translation>
+<translation id="2225024820658613551">您不应该继续，如果这是第一次在此网站看到此警告，&lt;strong&gt;更不应该&lt;/strong&gt;继续。</translation>
+<translation id="5645845270586517071">安全错误</translation>
+<translation id="1103666958012677467">无法继续，因为此网站对此域要求更高的安全性。</translation>
+<translation id="5463275305984126951"><ph name="LOCATION"/> 的索引</translation>
+<translation id="8877448029301136595">[上级目录]</translation>
+<translation id="3835522725882634757">糟糕！该服务器发送的数据 <ph name="PRODUCT_NAME"/> 无法识别。还请<ph name="BEGIN_LINK"/>报告错误<ph name="END_LINK"/>，并在报告中包含<ph name="BEGIN2_LINK"/>原始清单<ph name="END2_LINK"/>。</translation>
+<translation id="5327248766486351172">名称</translation>
+<translation id="8028993641010258682">大小</translation>
+<translation id="57646104491463491">修改日期</translation>
+<translation id="8465929756435120446">该网页包含一些不安全的内容。</translation>
+<translation id="6827416153061837992">此连接未加密。</translation>
+<translation id="9193357432624119544">错误代码：<ph name="ERROR_NAME"/></translation>
+<translation id="4910619056351738551">下面是一些建议：</translation>
+<translation id="2954705784594331199">稍后<ph name="BEGIN_LINK"/>重新载入<ph name="END_LINK"/>此网页。</translation>
+<translation id="4977565600485911823">禁用扩展，然后<ph name="BEGIN_LINK"/>重新载入<ph name="END_LINK"/>此网页。</translation>
+<translation id="1103966635949043187">打开网站的首页：</translation>
+<translation id="7747589364844254751">检查网络连接。 重启路由器、调制解调器或任何您正在使用的网络设备。</translation>
+<translation id="5548623538190661145">检查 DNS 设置。如果不确定其含义，请联系网络管理员。</translation>
+<translation id="4545046228395991092">如果您使用代理服务器，检查代理设置或联系网络管理员，确保代理服务器工作正常。</translation>
+<translation id="1712673276482711826">如果您使用代理服务器，检查您的代理设置或联系您的网络管理员，确保代理服务器工作正常。如果您觉得没有必要使用代理服务器，请调整您的代理设置：<ph name="PLATFORM_TEXT"/></translation>
+<translation id="721197778055552897"><ph name="BEGIN_LINK"/>详细了解<ph name="END_LINK"/>该问题。</translation>
+<translation id="8235325155053717782">错误 <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>)：<ph name="ERROR_TEXT"/></translation>
+<translation id="3986287159189541211">HTTP 错误 <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>)：<ph name="ERROR_TEXT"/></translation>
+<translation id="3225919329040284222">服务器提供的证书与内置预期结果不符。这些预期针对安全性高的某些网站制定，用于保护浏览安全。</translation>
+<translation id="6957887021205513506">服务器的证书是伪造的。</translation>
+<translation id="6429639049555216915">无法访问此应用。</translation>
+<translation id="9127307628159259612">添加 <ph name="PRODUCT_NAME"/> 到防火墙或防病毒软件允许的程序中。如果它已经在允许的程序中，尝试从列表中删除它然后再重新加入允许的程序中。</translation>
+<translation id="4544369257849566741">安全信号交换中没有包含 SSL 重新协商扩展。对于支持 SSL 重新协商扩展的网站，<ph name="PRODUCT_NAME"/> 需要更安全的信号交换以防范一些已知的攻击手段。缺少这个扩展意味着您的连接在通信过程中被劫持或操控了。</translation>
+<translation id="8162734958263531433">要使用 USB 调试，需要在您的 Android 设备上启用 Android SDK 和 USB 调试。有关更多信息，请参阅 <ph name="HTML_HELPURL"/>。</translation>
+<translation id="1875071432292773474">在您的桌面浏览器中输入地址 <ph name="ACCESS_POINT"/>。 桌面浏览器必须和 Android 设备处于同一网络。</translation>
+<translation id="7227425938337339799">要让 UPnP 正常运行，必须处于同一个子网络中，或者通过路由器桥接将广播转发到子网络中。</translation>
+<translation id="4553629908098215669">在您的计算机上运行 <ph name="HTMLADBCOMMAND"/>，并使用基于 Chromium 的浏览器导航至 <ph name="HTMLLOCALHOSTURL"/>。</translation>
+<translation id="4570032796877367747">前摄像头</translation>
+<translation id="2599796128805996109">后摄像头</translation>
+<translation id="2124507516322945394">默认麦克风</translation>
+<translation id="1587215898571986504">非手持电话机</translation>
+<translation id="5614598979078259956">有线耳机</translation>
+<translation id="9031226374756103225">耳塞式耳机</translation>
+<translation id="149679617917926491">蓝牙耳机</translation>
+<translation id="6060685159320643512">小心，这些试验功能可能产生不利作用</translation>
+<translation id="5199729219167945352">试验功能</translation>
+<translation id="533563709691128800">已禁用</translation>
+<translation id="2506903884491778518">搜索试验功能</translation>
+<translation id="1138663153846032155">HTML 与 Flash 两者中首选 HTML</translation>
+<translation id="2081453640527377956">在插件列表中隐藏 Flash，首选 HTML。</translation>
+<translation id="5998167623928667649">Flash 设置为“允许”时，运行所有 Flash 内容</translation>
+<translation id="5138177765054221193">在浏览设置为“允许”Flash 内容的网站时，运行网站上的所有内容，包括不重要的内容。</translation>
+<translation id="2112624549618815628">默认值（启用）</translation>
+<translation id="3696363537446376816">默认值（禁用）</translation>
+<translation id="5773249585542913314">Windows 运行时 MIDI API</translation>
+<translation id="7122132768827815392">将 Windows 运行时 MIDI API 用于 WebMIDI（仅在 Windows 10 或更高版本中有效）</translation>
+<translation id="1375198122581997741">关于版本</translation>
+<translation id="7248671827512403053">应用程序</translation>
+<translation id="1710259589646384581">操作系统</translation>
+<translation id="6897140037006041989">用户代理</translation>
+<translation id="7353601530677266744">命令行</translation>
+<translation id="7225807090967870017">内部版本 ID</translation>
+</translationbundle>

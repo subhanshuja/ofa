@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="zh-TW">
+<translation id="2978824962390592855">Opera</translation>
+<translation id="9071130496134948492">Opera Software</translation>
+<translation id="6494666865857176946">Opera Software 強烈建議你不要瀏覽這個頁面。</translation>
+<translation id="7459549266751278805">Opera 通知中心</translation>
+<translation id="4501379002264542907">Opera - 通知</translation>
+<translation id="1352092048463356430">Opera ─ 通知（<ph name="QUANTITY"/> 個未讀）</translation>
+<translation id="4159400746343093340">Opera - 通知</translation>
+<translation id="6018626517703817463">Opera ─ 通知（<ph name="QUANTITY"/> 個未讀）</translation>
+<translation id="6161036283010589960">這個網站使用過期的安全設定，可能會將來新版的 Opera 無法安全的與它建立連線。</translation>
+<translation id="8888594059056485523">在你的防火牆或是防毒程式的設定裡面，允許 Opera 連上網路。</translation>
+<translation id="7158277678571698323">請到 Opera 選單 &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; 區域網路設定，並取消選取「在你的區域網路中使用 proxy 代理伺服器」。</translation>
+<translation id="5873732809085338161">要在你的電腦版瀏覽器裡啟用不安全的 WebSocket，請到 <ph name="HTMLOPERAFLAG"/> (Opera 24+) 或是 <ph name="HTMLCHROMEFLAG"/> (Chrome 36+)。</translation>
+<translation id="2005166128312586988">你的更動將會在重新啟動 Opera 後生效。</translation>
+<translation id="684302243018322820">要檢視 Opear 儲存的密碼，請輸入你電腦的密碼。</translation>
+</translationbundle>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="sv">
+<translation id="3929428121849375048">Avast SafeZone</translation>
+<translation id="806546331937022936">Avast</translation>
+<translation id="3609966143444339170">Avast rekommenderar starkt att inte gå till den här sidan.</translation>
+<translation id="4206706288435313269">Avast SafeZone-meddelandecenter</translation>
+<translation id="254978580676301713">SafeZone - meddelanden</translation>
+<translation id="8084325208922689406">SafeZone - meddelanden (<ph name="QUANTITY"/> olästa)</translation>
+<translation id="678670207776683961">SafeZone - Meddelanden</translation>
+<translation id="191361968702850015">SafeZone - Meddelanden (<ph name="QUANTITY"/> olästa)</translation>
+<translation id="1359674843509087498">Webbplatsen använder föråldrade säkerhetsinställningar som kan förhindra framtida versioner av SafeZone från att få säker tillgång till den.</translation>
+<translation id="3485921796584936414">Tillåt att SafeZone får tillgång till nätverket i dina inställningar för brandvägg och antivirus.</translation>
+<translation id="7041993155087650094">Gå till SafeZone-menyn &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; LAN-inställningar och avmarkera "Använd en proxyserver för ditt lokala nätverk".</translation>
+<translation id="5366394231680131980">Ändringarna börjar gälla när du startar om SafeZone.</translation>
+<translation id="6964843943881946410">Se SafeZones lagrade lösenord genom att ange ditt lösenord för datorn.</translation>
+</translationbundle>

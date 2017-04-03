@@ -1,0 +1,308 @@
+# Copyright (C) 2015 Opera Software ASA.  All rights reserved.
+#
+# This file is an original work developed by Opera Software ASA.
+
+import("//build/config/opera-common.gni")
+import("//testing/test.gni")
+
+chrome_browser_dir = "//chrome/browser"
+imported_browser_dir = "$opera/common/chrome_imports/chrome/browser"
+
+source_set("sync_config") {
+  sources = [
+    "sync_config.cc",
+    "sync_config.h",
+  ]
+
+  configs += [ "../config:include_config" ]
+
+  deps = [
+    "../constants:opera_constants",
+    "../oauth2:oauth2_shared",
+    "../../mobile/common/sync:sync_config_impl"
+  ]
+
+  if (is_clang) {
+    # HACK: Here clang means "host build", which cannot depend on anything in
+    # mobile/common
+    deps -= [ "../../mobile/common/sync:sync_config_impl" ]
+  }
+}
+
+source_set("sync_status") {
+  sources = [
+    "sync_status.cc",
+    "sync_status.h",
+  ]
+
+  configs += [ "../config:include_config" ]
+}
+
+source_set("shared") {
+  sources = [
+    "sync_account.cc",
+    "sync_account.h",
+    "sync_account_impl.cc",
+    "sync_account_impl.h",
+    "sync_auth_data_updater.cc",
+    "sync_auth_data_updater.h",
+    "sync_duplication_debugging.h",
+    "sync_error_handler.cc",
+    "sync_error_handler.h",
+    "sync_login_error_data.cc",
+    "sync_login_error_data.h",
+    "sync_server_info.cc",
+    "sync_server_info.h",
+  ]
+
+  configs += [
+    "../config:include_config",
+  ]
+
+  defines = []
+  visibility = [ ":*" ]
+
+  deps = [
+    ":sync_config",
+    ":sync_login_data",
+    ":sync_status",
+    "../account",
+    "../constants:opera_constants",
+    "../net",
+    "//components/os_crypt",
+    "//components/sync",
+  ]
+
+  if (opera_desktop) {
+    deps += [
+      # sync_account_impl.cc uses profile.h which uses
+      # content_browser_client.h.
+      "//content/public/browser",
+    ]
+  }
+}
+
+source_set("sync_login_data") {
+  sources = [
+    "sync_login_data.cc",
+    "sync_login_data.h",
+    "sync_login_data_store_impl.cc",
+    "sync_login_data_store_impl.h",
+  ]
+
+  configs += [
+    "../config:include_config",
+  ]
+
+  defines = []
+}
+
+source_set("sync_config_test_support") {
+  testonly = true
+
+  sources = [
+    "sync_config_stub.cc",
+  ]
+
+  configs += [ "../config:include_config" ]
+
+  deps = [
+    ":sync_config",
+  ]
+}
+
+source_set("test_support") {
+  testonly = true
+
+  sources = [
+    "sync_account_mock.cc",
+    "sync_account_mock.h",
+    "sync_login_data_store_mock.cc",
+    "sync_login_data_store_mock.h",
+  ]
+
+  configs += [ "../config:include_config" ]
+
+  deps = [
+    ":shared",
+    "../constants:chrome_constants",
+    "//testing/gmock",
+    "//url",
+  ]
+
+  if (opera_desktop) {
+    deps += [
+      "$opera_desktop_dir/common/features",
+      "$opera_desktop_dir/common/sync:sync_config_impl",
+    ]
+  }
+}
+
+source_set("chrome_browser_sync") {
+  sources = [
+    "$chrome_browser_dir/sync/chrome_sync_client.h",
+    "$chrome_browser_dir/sync/glue/extensions_activity_monitor.h",
+    "$chrome_browser_dir/sync/glue/sync_start_util.cc",
+    "$chrome_browser_dir/sync/glue/sync_start_util.h",
+    "$chrome_browser_dir/sync/profile_sync_components_factory_impl.h",
+    "$chrome_browser_dir/sync/profile_sync_service_factory.h",
+    "$chrome_browser_dir/sync/sync_startup_tracker.cc",
+    "$chrome_browser_dir/sync/sync_startup_tracker.h",
+    "$imported_browser_dir/sync/chrome_sync_client.cc",
+    "$imported_browser_dir/sync/profile_sync_service_factory.cc",
+    "pref_names.cc",
+    "pref_names.h",
+    "profile_sync_service_params_provider.cc",
+    "profile_sync_service_params_provider.h",
+    "sync_auth_keeper.cc",
+    "sync_auth_keeper.h",
+    "sync_auth_keeper_event_recorder.cc",
+    "sync_auth_keeper_event_recorder.h",
+    "sync_auth_keeper_factory.cc",
+    "sync_auth_keeper_factory.h",
+    "sync_auth_keeper_observer.h",
+    "sync_auth_keeper_status.cc",
+    "sync_auth_keeper_status.h",
+    "sync_auth_keeper_util.cc",
+    "sync_auth_keeper_util.h",
+    "sync_delay_provider.h",
+    "sync_login_data_store.h",
+    "sync_observer.h",
+    "sync_state_store.h",
+    "sync_types.cc",
+    "sync_types.h",
+  ]
+
+  configs += [
+    "../config:include_config",
+    "//third_party/cacheinvalidation:cacheinvalidation_config",
+  ]
+
+  public_deps = [
+    ":components_invalidation",
+  ]
+
+  deps = [
+    ":shared",
+    "../strings",
+    "../oauth2:oauth2_factories",
+    "//components/bookmarks/browser",
+    "//components/browser_sync",
+    "//components/keyed_service/content",
+    "//components/password_manager/core/browser",
+    "//components/sessions:sessions",
+    "//components/sync",
+    "//components/sync_bookmarks",
+    "//components/sync_sessions",
+    "//components/syncable_prefs",
+    "//google_apis",
+  ]
+
+  if (!is_ios) {
+    deps += [ "//content/public/browser" ]
+  }
+
+  if (opera_desktop) {
+    sources += [
+      "$chrome_browser_dir/sync/glue/extensions_activity_monitor.cc",
+      "$chrome_browser_dir/sync/sessions/notification_service_sessions_router.cc",
+      "$chrome_browser_dir/sync/sessions/notification_service_sessions_router.h",
+      "sync_password_recoverer.cc",
+      "sync_password_recoverer.h",
+    ]
+  }
+}
+
+source_set("chrome_browser_sync_test_support") {
+  testonly = true
+
+  sources = [
+    "$chrome_browser_dir/sync/profile_sync_test_util.h",
+    "$imported_browser_dir/sync/profile_sync_test_util.cc",
+    "sync_test_utils.cc",
+    "sync_test_utils.h",
+  ]
+
+  deps = [
+    ":test_support",
+    "../account:test_support",
+    "//components/browser_sync:test_support",
+    "//components/sync/protocol",
+    "//testing/gmock",
+  ]
+
+  if (!is_ios) {
+    deps += [ "//content/public/browser" ]
+  }
+}
+
+static_library("components_invalidation") {
+  sources = [
+    "$imported_browser_dir/invalidation/profile_invalidation_provider_factory.cc",
+    "$imported_browser_dir/invalidation/profile_invalidation_provider_factory.h",
+  ]
+
+  configs += [ "../config:include_config" ]
+
+  public_deps = [
+    "//components/sync",
+    "//third_party/cacheinvalidation",
+  ]
+
+  deps = [
+    "../oauth2",
+    "//components/invalidation/impl",
+    "//components/metrics",
+    "//components/network_time",
+    "//content/public/browser",
+    "//jingle:notifier",
+  ]
+
+  if (!is_android && !is_ios) {
+    deps += [
+      ":shared",
+      "//content",
+      "//google_apis",
+    ]
+  }
+}
+
+test("common_sync_unittests") {
+  sources = [
+    "sync_account_test.cc",
+    "sync_config_test.cc",
+    "sync_error_handler_test.cc",
+    "sync_login_data_store_impl_test.cc",
+    "sync_login_data_test.cc",
+    "sync_login_error_data_test.cc",
+  ]
+
+  data = [
+    "$root_out_dir/pyproto/google/",
+  ]
+
+  deps = [
+    ":components_invalidation",
+    ":shared",
+    ":test_support",
+    "../sync:sync_config_test_support",
+    "../account:test_support",
+    "../bookmarks",
+    "//base/allocator",
+    "//base/test:run_all_unittests",
+    "//components/os_crypt",
+    "//components/pref_registry",
+    "//components/prefs:test_support",
+    "//components/signin/core/common",
+    "//components/sync/protocol",
+    "//content/test:test_support",
+    "//testing/gmock",
+    "//testing/gtest",
+  ]
+
+  if (!is_clang) {
+    # HACK: Here !is_clang means a mobile build where we have our own
+    # sync configuration.
+    deps -= [ "../sync:sync_config_test_support" ]
+  }
+}

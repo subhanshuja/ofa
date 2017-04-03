@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="fi">
+<translation id="1974060860693918893">Lisäasetukset</translation>
+<translation id="3462200631372590220">Piilota lisätiedot</translation>
+<translation id="3369192424181595722">Kellonaikavirhe</translation>
+<translation id="2625385379895617796">Kellonaika on edellä</translation>
+<translation id="8932102934695377596">Kellonaika on jäljessä</translation>
+<translation id="3858027520442213535">Päivitä päivämäärä ja aika</translation>
+<translation id="725866823122871198">Suojattua yhteyttä sivustoon <ph name="BEGIN_BOLD"/><ph name="DOMAIN"/><ph name="END_BOLD"/> ei voida muodostaa, koska tietokoneen päivämäärä ja aika (<ph name="DATE_AND_TIME"/>) ovat virheelliset.</translation>
+<translation id="4879058462256654741">Kellonaika on asetettava oikeaksi, jotta suojattu yhteys voidaan muodostaa. Näin on toimittava, koska verkkosivustot tunnistautuvat varmenteilla, jotka ovat voimassa vain tietyn ajan. Jos laitteen kellonaika on virheellinen, varmenteita ei voida todentaa.</translation>
+<translation id="1413809658975081374">Yksityisyysvirhe</translation>
+<translation id="3566021033012934673">Yhteytesi ei ole yksityinen</translation>
+<translation id="340013220407300675">Verkkohyökkääjät saattavat yrittää varastaa tietojasi sivustosta <ph name="BEGIN_BOLD"/><ph name="SITE"/><ph name="END_BOLD"/> (esimerkiksi salasanoja, viestejä tai luottokorttitietoja).</translation>
+<translation id="629137324635910832"><ph name="SITE"/> salaa käyttäjien tiedot yleensä suojatun yhteyden kautta. Opera yritti muodostaa yhteyden sivustoon <ph name="SITE"/>, mutta tällä kertaa sivusto vastasi lähettämällä epätavallisen ja virheellisen tunnisteen. Näin saattaa käydä, jos <ph name="SITE"/> on verkkohyökkääjien huijaussivusto, tai jos Wi-Fi-yhteyden sisäänkirjautumissivu on keskeyttänyt verkkoyhteyden. Tietosi ovat yhä turvassa, koska Opera katkaisi yhteyden, ennen kuin tietoja siirrettiin.</translation>
+<translation id="4404555778932203074">Et pääse sivustoon <ph name="SITE"/> tällä hetkellä, koska verkkosivusto lähetti epäjohdonmukaisia tunnistetietoja, joita Opera ei voi käsitellä. Verkkovirheet ja -hyökkäykset ovat yleensä väliaikaisia, joten sivu toimii todennäköisesti myöhemmin.</translation>
+<translation id="8882627153668738693"><ph name="SITE"/> salaa käyttäjien tiedot yleensä suojatun yhteyden kautta. AvastSafeZone yritti muodostaa yhteyden sivustoon <ph name="SITE"/>, mutta tällä kertaa sivusto vastasi lähettämällä epätavallisen ja virheellisen tunnisteen. Näin saattaa käydä, jos <ph name="SITE"/> on verkkohyökkääjien huijaussivusto, tai jos Wi-Fi-yhteyden sisäänkirjautumissivu on keskeyttänyt verkkoyhteyden. Tietosi ovat yhä turvassa, koska Avast SafeZone katkaisi yhteyden, ennen kuin tietoja siirrettiin.</translation>
+<translation id="1888865191717601957">Et pääse sivustoon <ph name="SITE"/> tällä hetkellä, koska verkkosivusto lähetti epäjohdonmukaisia tunnistetietoja, joita Avast SafeZone ei voi käsitellä. Verkkovirheet ja -hyökkäykset ovat yleensä väliaikaisia, joten sivu toimii todennäköisesti myöhemmin.</translation>
+<translation id="6264485186158353794">Palaa turvalliseen sivustoon</translation>
+<translation id="7704050614460855821"><ph name="BEGIN_LINK"/>Jatka osoitteeseen <ph name="SITE"/> (ei turvallinen)<ph name="END_LINK"/></translation>
+<translation id="5556459405103347317">Päivitä</translation>
+<translation id="6051221802930200923">Et pääse sivustolle <ph name="SITE"/> juuri nyt, sillä verkkosivusto käyttää varmennekiinnitystä (certificate pinning). Verkkovirheet ja -hyökkäykset ovat yleensä väliaikaisia, joten sivu toimii todennäköisesti myöhemmin.</translation>
+<translation id="2991571918955627853">Et pääse sivustolle <ph name="SITE"/> juuri nyt, sillä verkkosivusto käyttää HSTS-protokollaa. Verkkovirheet ja -hyökkäykset ovat yleensä väliaikaisia, joten sivu toimii todennäköisesti myöhemmin.</translation>
+<translation id="1430489501396597835">Et pääse sivustoon <ph name="SITE"/> tällä hetkellä, koska varmenne on evätty. Verkkovirheet ja -hyökkäykset ovat yleensä väliaikaisia, joten sivu toimii todennäköisesti myöhemmin.</translation>
+<translation id="4513896196857653318">Valitse
+          päävalikko &gt;
+          <ph name="SETTINGS_TITLE"/>
+          &gt;
+          <ph name="ADVANCED_TITLE"/>
+          ja poista valinta "<ph name="NO_PREFETCH_DESCRIPTION"/>."
+          Jos ongelma ei poistu, suosittelemme valitsemaan vaihtoehdon
+          uudelleen suorituskyvyn parantamiseksi.</translation>
+<translation id="8888594059056485523">Salli verkon käyttö Opera-selaimelle laitteesi palomuuri- ja virustorjunta-asetuksissa.</translation>
+<translation id="8040357206858000048">Valitse Sovellukset &gt; Järjestelmäasetukset &gt; Verkko &gt; Lisäasetukset &gt; Välityspalvelimet. Poista kaikki valitut välityspalvelimet käytöstä.</translation>
+<translation id="1532685482177999023">Valitse Päävalikko &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; Lähiverkon asetukset. Poista valinta ”Käytä välityspalvelinta lähiverkossa”.</translation>
+<translation id="6118049677165320383">Muutokset tulevat voimaan, kun selain käynnistetään seuraavan kerran.</translation>
+<translation id="5510583790312051907">Kaatumisraportteja ei ole saatavilla.</translation>
+<translation id="1011013207380005827">Opera-selaimen ovat mahdollistaneet avoimen lähdekoodin <ph name="BEGIN_LINK_CHROMIUM"/>Chromium<ph name="END_LINK_CHROMIUM"/>-projekti ja muut <ph name="BEGIN_LINK_OSS"/>avoimen lähdekoodin ohjelmistot<ph name="END_LINK_OSS"/>.</translation>
+<translation id="3108493547597012279">Nykyinen sivu on suojattu.</translation>
+<translation id="8530361534096361731">Opera-selainta ei suljettu oikein.</translation>
+</translationbundle>

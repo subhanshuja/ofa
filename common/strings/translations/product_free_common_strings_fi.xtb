@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="fi">
+<translation id="3942946088478181888">Näytä tarkempi kuvaus</translation>
+<translation id="1396529432791646744">Kun muodostat yhteyden suojattuun sivustoon, sivustoa ylläpitävä palvelin toimittaa selaimelle niin sanotun varmenteen identiteettinsä varmistamiseksi. Tämä varmenne sisältää identiteettitietoja, kuten sivuston osoitteen, jotka varmennetaan laitteesi luottaman kolmannen osapuolen toimesta. Kun tarkistetaan, että varmenteessa ilmoitettu osoite vastaa sivuston osoitetta, voidaan varmistua siitä, että suojattu yhteys on muodostettu tarkoitettuun sivustoon eikä jonkin kolmannen osapuolen (kuten verkossasi toimivan vihamielisen tahon) sivustoon.</translation>
+<translation id="6295228342562451544">Kun muodostat yhteyden suojattuun sivustoon, sivustoa ylläpitävä palvelin toimittaa selaimelle niin sanotun varmenteen identiteetin varmistamiseksi. Varmenne sisältää identiteettitietoja, kuten sivuston osoitteen, jotka varmennetaan laitteesi luottaman kolmannen osapuolen toimesta. Tarkistamalla, että varmenteessa ilmoitettu osoite vastaa sivuston osoitetta, voidaan varmistua siitä, että suojattu yhteys on muodostettu tarkoitettuun sivustoon eikä jonkin kolmannen osapuolen (kuten verkossasi toimivan vihamielisen tahon) sivustoon.</translation>
+<translation id="8187473050234053012">Palvelimen suojausvarmenne on kumottu!</translation>
+<translation id="5598024575303778520">Huijausvaroitus</translation>
+<translation id="7311721172731074902">Huijausvaroitus</translation>
+<translation id="1858130628205855959">Sivusto voi olla hakkeroitu tai huijaussivusto. Salasanojen tai henkilökohtaisten tietojen antaminen saattaa altistaa henkilöllisyysvarkauksille tai talouspetoksille.</translation>
+<translation id="8357891144266644027">Mahdollisesti haitallisen sivuston varoitus</translation>
+<translation id="4664012235452972339">Mahdollisesti haitallisen sivuston varoitus</translation>
+<translation id="1030973920598092450">Sivusto voi olla hakkeroitu, tai se voi sisältää haittaohjelmia. Sivun avaaminen voi olla vaarallista.</translation>
+<translation id="4863259811271883558">Ilmoittaja: <ph name="BEGIN_LINK"/><ph name="PROVIDER_NAME"/><ph name="END_LINK"/></translation>
+<translation id="3141322567138977593">Palaa turvallisesti</translation>
+<translation id="833642844779103272">Palaa turvallisesti</translation>
+<translation id="4238466718818823211">Ohita tämä varoitus</translation>
+<translation id="1755698976576372535">Miksi tämä sivu on estetty?</translation>
+<translation id="2962647877740028287">Petosraporttimme käsittelijät ovat kolmannen osapuolen toimijoita.</translation>
+<translation id="7470668651798735849">Täällä näet kaikki saamasi sivustoja koskevat ilmoitukset.</translation>
+<translation id="6426222199977479699">SSL-virhe</translation>
+<translation id="8398877366907290961">Jatka silti</translation>
+<translation id="6264485186158353794">Palaa turvalliseen sivustoon</translation>
+<translation id="2225024820658613551">Sinun ei tule jatkaa &lt;strong&gt;varsinkaan&lt;/strong&gt; siinä tapauksessa, että et ole koskaan ennen nähnyt varoitusta tästä sivustosta.</translation>
+<translation id="5645845270586517071">Suojausvirhe</translation>
+<translation id="1103666958012677467">Et voi jatkaa, koska sivuston ylläpitäjä on pyytänyt tämän toimialueen osalta korkeampaa suojausta.</translation>
+<translation id="5463275305984126951">Hakemisto: <ph name="LOCATION"/></translation>
+<translation id="8877448029301136595">[Ylätason hakemisto]</translation>
+<translation id="3835522725882634757">Voi ei! Palvelin lähettää tietoja, joita <ph name="PRODUCT_NAME"/> ei ymmärrä. <ph name="BEGIN_LINK"/>Ilmoita virheestä<ph name="END_LINK"/> ja liitä mukaan <ph name="BEGIN2_LINK"/>raakatiedot<ph name="END2_LINK"/>.</translation>
+<translation id="5327248766486351172">Nimi</translation>
+<translation id="8028993641010258682">Koko</translation>
+<translation id="57646104491463491">Muokkauspäivämäärä</translation>
+<translation id="8465929756435120446">Tällä sivulla on suojaamatonta sisältöä.</translation>
+<translation id="6827416153061837992">Yhteys ei ole salattu.</translation>
+<translation id="9193357432624119544">Virhekoodi: <ph name="ERROR_NAME"/></translation>
+<translation id="4910619056351738551">Tässä on joitakin ehdotuksia:</translation>
+<translation id="2954705784594331199"><ph name="BEGIN_LINK"/>Lataa<ph name="END_LINK"/> verkkosivu uudelleen myöhemmin.</translation>
+<translation id="4977565600485911823">Poista laajennukset käytöstä ja <ph name="BEGIN_LINK"/>lataa<ph name="END_LINK"/> verkkosivu uudelleen.</translation>
+<translation id="1103966635949043187">Siirry sivuston aloitussivulle:</translation>
+<translation id="7747589364844254751">Tarkista Internet-yhteys. Käynnistä uudelleen reititin, modeemi tai muut verkkolaitteet, joita voi olla käytössä.</translation>
+<translation id="5548623538190661145">Tarkista DNS-asetukset. Ota yhteys verkon järjestelmänvalvojaan, jos et tiedä, mitä tämä tarkoittaa.</translation>
+<translation id="4545046228395991092">Jos käytössä on välityspalvelin, tarkista välityspalvelimen asetukset tai ota yhteys verkon järjestelmänvalvojaan ja varmista, että välityspalvelin toimii.</translation>
+<translation id="1712673276482711826">Jos käytössä on välityspalvelin, tarkista välityspalvelimen asetukset tai ota yhteys verkon järjestelmänvalvojaan ja varmista, että välityspalvelin toimii. Jos et usko, että käytössä tulisi olla välityspalvelin, muokkaa välityspalvelimen asetuksia: <ph name="PLATFORM_TEXT"/></translation>
+<translation id="721197778055552897"><ph name="BEGIN_LINK"/>Lue lisää<ph name="END_LINK"/> tästä ongelmasta.</translation>
+<translation id="8235325155053717782">Virhe <ph name="ERROR_NUMBER"/>(<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="3986287159189541211">HTTP-virhe <ph name="ERROR_NUMBER"/>(<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="3225919329040284222">Palvelin esitti varmenteen, joka ei vastaa sisäisiä odotuksia. Odotukset on sisällytetty tiettyihin turvallisiin sivustoihin käyttäjien suojaamiseksi.</translation>
+<translation id="6957887021205513506">Palvelimen varmenne vaikuttaa väärennökseltä.</translation>
+<translation id="6429639049555216915">Sovellukseen ei saada yhteyttä tällä hetkellä.</translation>
+<translation id="9127307628159259612">Lisää <ph name="PRODUCT_NAME"/> sallituksi ohjelmaksi palomuurin tai virustentorjuntaohjelman asetuksissa. Jos sovellus on jo määritetty sallituksi ohjelmaksi, poista se sallittujen ohjelmien luettelosta ja lisää sitten uudelleen.</translation>
+<translation id="4544369257849566741">SSL-uudelleenneuvottelun laajennus puuttui suojatusta kättelystä. Joillakin sivuilla, joiden tiedetään tukevan uudelleenneuvottelulaajennusta, <ph name="PRODUCT_NAME"/> edellyttää paremmin suojatun kättelyn tunnettujen hyökkäysten estämiseksi. Tämän laajennuksen pois jättäminen tarkoittaa, että yhteys siepattiin ja sitä käsiteltiin siirron aikana.</translation>
+<translation id="8162734958263531433">USB-vianmäärityksen käyttö edellyttää Android SDK:ta ja USB-vianmäärityksen ottamista käyttöön Android-laitteessa. Katso lisätiedot: <ph name="HTML_HELPURL"/>.</translation>
+<translation id="1875071432292773474">Kirjoita osoite <ph name="ACCESS_POINT"/> työpöytäselaimeen. Työpöytäselaimen ja Android-laitteen on oltava samassa verkossa.</translation>
+<translation id="7227425938337339799">UPnP:n toimiminen edellyttää, että olet samassa aliverkossa tai että siltaat reitittimen ja välität lähetykset eri aliverkoissa.</translation>
+<translation id="4553629908098215669">Suorita tietokoneessa <ph name="HTMLADBCOMMAND"/> ja siirry osoitteeseen <ph name="HTMLLOCALHOSTURL"/> Chromium-pohjaisella selaimella.</translation>
+<translation id="4570032796877367747">Etukamera</translation>
+<translation id="2599796128805996109">Takakamera</translation>
+<translation id="2124507516322945394">Oletusmikrofoni</translation>
+<translation id="1587215898571986504">Kaiutinpuhelin</translation>
+<translation id="5614598979078259956">Langalliset kuulokkeet</translation>
+<translation id="9031226374756103225">Korvakuuloke</translation>
+<translation id="149679617917926491">Bluetooth-kuulokkeet</translation>
+<translation id="6060685159320643512">Ole varovainen – kokeilut voivat olla haitallisia</translation>
+<translation id="5199729219167945352">Kokeilut</translation>
+<translation id="533563709691128800">poissa käytöstä</translation>
+<translation id="2506903884491778518">Hae kokeiluja</translation>
+<translation id="1138663153846032155">Salli ensisijaisesti HTML ja estä Flash</translation>
+<translation id="2081453640527377956">Aseta HTML-sisältö ensisijaiseksi piilottamalla Flash lisäosien luettelosta.</translation>
+<translation id="5998167623928667649">Suorita kaikki Flash-sisältö, kun Flash-asetukseksi on määritetty ”Salli”</translation>
+<translation id="5138177765054221193">Jos sivuston asetukset sallivat Flash-sisällön, suorita kaikki sisältö, vaikka osa sisällöstä olisi todettu merkityksettömäksi.</translation>
+<translation id="2112624549618815628">Oletus (käytössä)</translation>
+<translation id="3696363537446376816">Oletus (poissa käytöstä)</translation>
+<translation id="5773249585542913314">Windows-suorituspalvelun MIDI API</translation>
+<translation id="7122132768827815392">Valitse Windows-suorituspalvelun MIDI API käyttöön kohteelle WebMIDI (koskee vain Windows 10 -käyttöjärjestelmää ja sitä uudempia versioita).</translation>
+<translation id="1375198122581997741">Tietoja versiosta</translation>
+<translation id="7248671827512403053">Sovellus</translation>
+<translation id="1710259589646384581">OS</translation>
+<translation id="6897140037006041989">Käyttäjäagentti</translation>
+<translation id="7353601530677266744">Komentorivi</translation>
+<translation id="7225807090967870017">Tunnus</translation>
+</translationbundle>

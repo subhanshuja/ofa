@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="nn">
+<translation id="1974060860693918893">Avansert</translation>
+<translation id="3462200631372590220">Gøym avansert</translation>
+<translation id="3369192424181595722">Klokka er feil</translation>
+<translation id="2625385379895617796">Klokka er stilt for langt fram</translation>
+<translation id="8932102934695377596">Klokka er stilt for langt bak</translation>
+<translation id="3858027520442213535">Oppdater dato og tid</translation>
+<translation id="725866823122871198">Kan ikkje opprette privat tilkopling til <ph name="BEGIN_BOLD"/><ph name="DOMAIN"/><ph name="END_BOLD"/> fordi datoen og klokkeslettet (<ph name="DATE_AND_TIME"/>) til datamaskina er feil.</translation>
+<translation id="4879058462256654741">Klokka må vere rett stilt for å opprette ei sikker tilkopling. Dette er fordi sertifikata som nettstadar brukar for å identifiserast berre er gyldige i spesifikke tidsrom om gongen. Når klokka på eininga di er feil, kan ikkje desse sertifikata bekreftast.</translation>
+<translation id="1413809658975081374">Feil med personvern</translation>
+<translation id="3566021033012934673">Tilkoplinga di er ikkje privat</translation>
+<translation id="340013220407300675">Inntrengjarar kan prøve å stele informasjonen din frå <ph name="BEGIN_BOLD"/><ph name="SITE"/><ph name="END_BOLD"/> (for eksempel passord, meldingar eller kredittkortdetaljar).</translation>
+<translation id="629137324635910832"><ph name="SITE"/> brukar vanlegvis kryptering for å beskytte informasjonen din. Då Opera prøvde å kople til <ph name="SITE"/> denne gongen, sendte nettstaden uvanlig og urett autentiseringsopplysningar tilbake. Dette kan skje når ein inntrengjar prøvar å gje seg ut som <ph name="SITE"/>, eller ein Wi-Fi-påloggingsskjerm har brote tilkoplinga. Informasjonen din er framleis sikker fordi Opera braut tilkoplinga før data blei utveksla.</translation>
+<translation id="4404555778932203074">Du kan ikkje gå til <ph name="SITE"/> nett no, fordi nettsida sendte forvrengt eller kryptert sikkerheitsinformasjon som Opera ikkje kan behandle. Nettverksfeil og angrep er vanlegvis mellombels, so denne sida kjem sannsynligvis til å fungere igjen seinare.</translation>
+<translation id="8882627153668738693"><ph name="SITE"/> brukar vanlegvis kryptering for å beskytte informasjonen din. Då Avast SafeZone prøvde å kople til <ph name="SITE"/> denne gongen, sendte nettstaden uvanlig og urett autentiseringsopplysningar tilbake. Dette kan skje når ein inntrengjar prøvar å gje seg ut som <ph name="SITE"/>, eller ein Wi-Fi-påloggingsskjerm har brote tilkoplinga. Informasjonen din er framleis sikker fordi Avast SafeZone braut tilkoplinga før data blei utveksla.</translation>
+<translation id="1888865191717601957">Du kan ikkje gå til <ph name="SITE"/> nett no, fordi nettsida sendte forvrengt eller kryptert sikkerheitsinformasjon som Avast SafeZone ikkje kan behandle. Nettverksfeil og angrep er vanlegvis mellombels, so denne sida kjem sannsynligvis til å fungere igjen seinare.</translation>
+<translation id="6264485186158353794">Attende til tryggleik</translation>
+<translation id="7704050614460855821"><ph name="BEGIN_LINK"/>Hald fram til <ph name="SITE"/> (usikker)<ph name="END_LINK"/></translation>
+<translation id="5556459405103347317">Last om att</translation>
+<translation id="6051221802930200923">Du kan ikkje gå til <ph name="SITE"/> nett no, fordi nettsida brukar innskrenka sertifikatvalidering (cert pinning). Nettverksfeil og angrep er vanlegvis mellombels, so denne sida kjem sannsynligvis til å fungere igjen seinare.</translation>
+<translation id="2991571918955627853">Du kan ikkje gå til ￼<ph name="SITE"/> nett no, fordi nettsida brukar HSTS. Nettverksfeil og angrep er vanlegvis mellombels, so denne sida kjem sannsynligvis til å fungere igjen seinare.</translation>
+<translation id="1430489501396597835">Du kan ikkje gå til ￼<ph name="SITE"/>￼ nett no, fordi dette sertifikatet er tilbakekalla. Nettverksfeil og angrep er vanlegvis mellombels, so denne sida kjem sannsynligvis til å fungere igjen seinare.</translation>
+<translation id="4513896196857653318">Gå til
+          hovudmenyen &gt;
+          <ph name="SETTINGS_TITLE"/>
+          &gt;
+          <ph name="ADVANCED_TITLE"/>
+          og fjern valet for «<ph name="NO_PREFETCH_DESCRIPTION"/>».
+          Om dette ikkje løyser problemet, anbefalar vi å velje dette alternativet
+          igjen for forbetra yting.</translation>
+<translation id="8888594059056485523">Gje Opera løyve til å gå på nettverket i innstillingane for brannmuren eller antivirusprogrammet.</translation>
+<translation id="8040357206858000048">Gå til Applikasjonar &gt; Systemvalg &gt; Nettverk &gt; Avansert &gt; Mellomtenarar og vel vekk valde mellomtenarar.</translation>
+<translation id="1532685482177999023">Gå til hovudmenyen &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; LAN-innstillingar og vel «Bruk ein mellomtenar til ditt lokale datanett».</translation>
+<translation id="6118049677165320383">Endringane vil tre i kraft neste gong du startar nettlesaren.</translation>
+<translation id="5510583790312051907">Krasjrapportering er ikkje tilgjengeleg.</translation>
+<translation id="1011013207380005827">Opera er gjort mogleg av <ph name="BEGIN_LINK_CHROMIUM"/>Chromium<ph name="END_LINK_CHROMIUM"/> ope kjeldekodeprosjekt og anna <ph name="BEGIN_LINK_OSS"/>open programvare<ph name="END_LINK_OSS"/>.</translation>
+<translation id="3108493547597012279">Du er på ei sikker side.</translation>
+<translation id="8530361534096361731">Opera avslutta ikkje på rett måte.</translation>
+</translationbundle>

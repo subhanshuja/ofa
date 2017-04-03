@@ -1,0 +1,40 @@
+# Copyright (C) 2015 Opera Software ASA.  All rights reserved.
+#
+# This file is an original work developed by Opera Software ASA.
+
+static_library("bookmarks") {
+  sources = [
+    "calculate_hash_task.cc",
+    "calculate_hash_task.h",
+    "duplicate_sync_helper.cc",
+    "duplicate_sync_helper.h",
+    "duplicate_task.cc",
+    "duplicate_task.h",
+    "duplicate_task_runner.cc",
+    "duplicate_task_runner.h",
+    "duplicate_task_runner_observer.h",
+    "duplicate_tracker.cc",
+    "duplicate_tracker.h",
+    "duplicate_tracker_delegate.h",
+    "duplicate_tracker_factory.cc",
+    "duplicate_tracker_factory.h",
+    "duplicate_util.cc",
+    "duplicate_util.h",
+    "original_elector.cc",
+    "original_elector.h",
+    "original_elector_local.cc",
+    "original_elector_local.h",
+    "original_elector_sync.cc",
+    "original_elector_sync.h",
+    "remove_duplicate_task.cc",
+    "remove_duplicate_task.h",
+    "tracker_observer.h",
+  ]
+  configs += [ "../config:include_config" ]
+
+  deps = [
+    "../sync:sync_status",
+    "//components/bookmarks/browser",
+    "//components/sync/protocol",
+  ]
+}

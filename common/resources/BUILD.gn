@@ -1,0 +1,42 @@
+# Copyright (C) 2015 Opera Software ASA.  All rights reserved.
+#
+# This file is an original work developed by Opera Software ASA.
+
+import("//tools/grit/grd_consistency_checker.gni")
+import("//tools/grit/grit_rule.gni")
+
+grit_output_dir = "$root_gen_dir/opera_common"
+
+check_grd_consistency("common_resources_consistency_check") {
+  sources = [
+    "opera_common_resources.grd",
+    "safezone_common_resources.grd",
+  ]
+  output_dir = grit_output_dir
+}
+
+grit("resources") {
+  source = "opera_common_resources.grd"
+  resource_ids = "resource_ids"
+  output_dir = grit_output_dir
+  outputs = [
+    "grit/opera_common_resources.h",
+    "common_resources.rc",
+    "common_resources.pak",
+  ]
+  deps = [
+    ":common_resources_consistency_check",
+  ]
+}
+
+grit("safezone_resources") {
+  source = "safezone_common_resources.grd"
+  resource_ids = "resource_ids"
+  output_dir = grit_output_dir
+  outputs = [
+    "safezone_common_resources.pak",
+  ]
+  deps = [
+    ":common_resources_consistency_check",
+  ]
+}

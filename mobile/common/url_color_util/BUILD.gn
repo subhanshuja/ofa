@@ -1,0 +1,26 @@
+# Copyright (C) 2016 Opera Software ASA.  All rights reserved.
+#
+# This file is an original work developed by Opera Software ASA
+
+# TODO(ohrn): Implement unit tests.
+
+import("//build/config/opera-common.gni")
+
+source_set("url_color_util") {
+  sources = [
+    "url_color_table.cc",
+    "url_color_table.h",
+    "url_fall_back_colors.cc",
+    "url_fall_back_colors.h",
+    "url_hasher.cc",
+    "url_hasher.h",
+  ]
+
+  configs += [ "$opera/common/config:include_config" ]
+
+  deps = [
+    "//base",
+    "//third_party/smhasher:murmurhash3",
+    "//url",
+  ]
+}

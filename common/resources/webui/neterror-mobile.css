@@ -1,0 +1,177 @@
+html {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #fff;
+  box-sizing: border-box;
+  color: #222;
+  font-family: sans-serif;
+  font-size: 1em;
+  line-height: 1.5;
+  margin: 0;
+  overflow-wrap: break-word;
+  padding: 0.5em 1em;
+}
+
+#error {
+  margin: 0 auto;
+  max-width: 100%;
+  position: relative;
+  text-align: left;
+  width: 640px;
+}
+
+html[dir='rtl'] #error {
+  text-align: right;
+}
+
+img {
+  border: 0;
+}
+
+#icon {
+  display: block;
+  height: auto;
+  margin: 1.5em auto 1.5em auto;
+  max-width: 148px;
+  width: 33%;
+}
+
+.main {
+  margin-top: 1em;
+  text-align: justify;
+  }
+
+h1 {
+  font-family: sans-serif-condensed, sans-serif;
+  font-size: 1.2em;
+  line-height: 1.2;
+  text-align: center;
+  margin: 0 0 1em 0
+}
+
+h2 {
+  font-size: 1.1em;
+  margin: 1em 0;
+}
+
+button {
+  box-sizing: border-box;
+  display: block;
+  font-size: 1em;
+  margin: 0 0 1.5em 0;
+  padding: 0.3em 0.75em;
+  width: 100%;
+}
+
+.web-search {
+  position:relative;
+  padding-right:3.2em;
+  margin:0 auto;
+  overflow: hidden;
+}
+
+.web-search-input {
+  float:left;
+  width:100%;
+  box-sizing:border-box;
+  height:40px;
+  border:1px solid #aaa;
+  border-right: 0;
+  padding: 0 10px;
+  font-size: 1em;
+}
+
+.web-search-input:focus{
+  outline: none !important;
+  border:1px solid #aaa;
+  border-right: 0;
+  box-shadow: none;
+}
+
+.web-search-submit {
+  box-sizing:border-box;
+  background:#1077dd url('search_icon.png') center center/20px no-repeat;
+  width:48px;
+  height:40px;
+  border:1px solid #aaa;
+  text-indent:-999em;
+  position:absolute;
+  top:0;
+  display: inline-block;
+  border-left: 0;
+}
+
+html[dir="rtl"] .web-search{
+    padding-right: 0;
+}
+
+html[dir="rtl"] .web-search-input{
+    border-right: 1px solid #aaa;
+    border-left-width: 0;
+}
+
+html[dir="rtl"] .web-search-submit{
+    left: 0;
+    border-left: 1px solid #aaa;
+    border-right: 0;
+}
+
+.faded {
+  font-size: 0.8em;
+  font-weight: normal;
+  opacity: 0.6;
+}
+
+form {
+  margin: 1.5em 0 0 0;
+  padding: 0;
+}
+
+a {
+  color: #1096d5;
+  text-decoration: none;
+}
+
+ul {
+  list-style-position: inside;
+  margin: 0 0 1.5em 0;
+  padding: 0;
+}
+
+.moreinfotitle {
+  padding-left: 0.5em;
+}
+
+.submission {
+  padding-bottom: 1.4em;
+}
+
+#suggestions, #errorDetails {
+  margin-top: 1em;
+  text-align: justify;
+}
+
+@media screen and (orientation: landscape) and (min-device-width: 800px){
+    body {
+        margin: 0 auto;
+        padding: 1em 5em;
+    }
+}
+
+@media screen and (orientation: landscape) and (max-device-width: 800px) and (min-aspect-ratio: 16/10){
+  body {
+    padding: 1em 1.5em;
+  }
+  #icon {
+    float: right;
+    margin: 0 0 1em 1em;
+    width: 28%;
+  }
+  h1 {
+    padding-top: 0.5em;
+  }
+}

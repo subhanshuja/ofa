@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="ar">
+<translation id="3942946088478181888">ساعدني على الفهم</translation>
+<translation id="1396529432791646744">عند الاتصال بموقع آمن، يقدم الخادم المستضيف لهذا الموقع ما يسمى "شهادة" لمتصفحك للتحقق من هويته. تحتوي هذه الشهادة على معلومات الهوية، مثل عنوان الموقع الذي يتم التحقق منه بواسطة جهة خارجية يثق بها جهازك المتنقل. عند التأكد من مطابقة العنوان الموجود في الشهادة لعنوان الموقع، يصبح من الممكن التحقق من أنك متصل بشكل آمن مع الموقع الذي تريده، وليس جهة خارجية (مثل أحد المهاجمين لشبكتك).</translation>
+<translation id="6295228342562451544">عند الاتصال بموقع آمن، يقدم الخادم المستضيف لهذا الموقع ما يسمى "شهادة" لمتصفحك للتحقق من هويته. تحتوي هذه الشهادة على معلومات الهوية، مثل عنوان الموقع الذي يتم التحقق منه بواسطة جهة خارجية يثق بها جهاز الكمبيوتر الخاص بك. عند التأكد من مطابقة العنوان الموجود في الشهادة لعنوان الموقع، يصبح من الممكن التحقق من أنك متصل بشكل آمن مع الموقع الذي تريده، وليس جهة خارجية (مثل أحد المهاجمين لشبكتك).</translation>
+<translation id="8187473050234053012">تم إبطال شهادة أمان الخادم!</translation>
+<translation id="5598024575303778520">تحذير بشأن الاحتيال</translation>
+<translation id="7311721172731074902">تحذير بشأن الاحتيال</translation>
+<translation id="1858130628205855959">ربما تم اختراق هذا الموقع أو كان موقعًا احتياليًا. لذلك، فإن تقديم كلمات المرور أو المعلومات الشخصية له قد يعرضك لخطر سرقة الهوية أو الاحتيال المالي.</translation>
+<translation id="8357891144266644027">تحذير موقع مشبوه</translation>
+<translation id="4664012235452972339">تحذير موقع مشبوه</translation>
+<translation id="1030973920598092450">ربما تم اختراق هذا الموقع أو يحتوي على برامج خبيثة. زيارة هذه الصفحة قد تكون ضارة.</translation>
+<translation id="4863259811271883558">تم الإبلاغ بواسطة <ph name="BEGIN_LINK"/><ph name="PROVIDER_NAME"/><ph name="END_LINK"/></translation>
+<translation id="3141322567138977593">ارجع بأمان</translation>
+<translation id="833642844779103272">أنتقل للخلف بأمان</translation>
+<translation id="4238466718818823211">تجاهل هذا التحذير</translation>
+<translation id="1755698976576372535">لماذا تمّ منع هذه الصفحة؟</translation>
+<translation id="2962647877740028287">تُحفظ تقارير الاحتيال الخاصة بنا بواسطة بائعين خارجيين.</translation>
+<translation id="7470668651798735849">يمكنك الاطلاع على جميع التنبيهات من موقع الويب هنا.</translation>
+<translation id="6426222199977479699">خطأ في طبقة المقابس الآمنة (SSL)</translation>
+<translation id="8398877366907290961">متابعة على أي حال</translation>
+<translation id="6264485186158353794">العودة إلى الأمان</translation>
+<translation id="2225024820658613551">ينبغي عدم المتابعة، &lt;strong&gt;خاصةً&lt;/strong&gt; إذا لم يسبق لك مشاهدة هذا التحذير من قبل لهذا الموقع.</translation>
+<translation id="5645845270586517071">خطأ بالأمان</translation>
+<translation id="1103666958012677467">لا يمكنك المتابعة حيث إن مشغل الموقع طلب حماية معززة لهذا المجال.</translation>
+<translation id="5463275305984126951">فهرس <ph name="LOCATION"/></translation>
+<translation id="8877448029301136595">[الدليل الرئيسي]</translation>
+<translation id="3835522725882634757">لا، غير معقول! هذا الخادم يرسل بيانات <ph name="PRODUCT_NAME"/> لا يستطيع فهمها. يرجى <ph name="BEGIN_LINK"/>الإبلاغ عن خطأ<ph name="END_LINK"/>، وتضمين <ph name="BEGIN2_LINK"/>إدراج أولي<ph name="END2_LINK"/>.</translation>
+<translation id="5327248766486351172">الاسم</translation>
+<translation id="8028993641010258682">الحجم</translation>
+<translation id="57646104491463491">تاريخ التعديل</translation>
+<translation id="8465929756435120446">تحتوي هذه الصفحة على بعض المحتوى غير الآمن.</translation>
+<translation id="6827416153061837992">هذا الاتصال غير مشفر.</translation>
+<translation id="9193357432624119544">رمز الخطأ: <ph name="ERROR_NAME"/></translation>
+<translation id="4910619056351738551">فيما يلي بعض الاقتراحات:</translation>
+<translation id="2954705784594331199"><ph name="BEGIN_LINK"/>إعادة تحميل<ph name="END_LINK"/> هذه الصفحة لاحقًا.</translation>
+<translation id="4977565600485911823">قم بتعطيل الامتدادات الخاصة بك ثم <ph name="BEGIN_LINK"/>أعد تحميل<ph name="END_LINK"/> صفحة الويب هذه.</translation>
+<translation id="1103966635949043187">الانتقال إلى الصفحة الرئيسية لهذا الموقع:</translation>
+<translation id="7747589364844254751">تأكد من اتصالك بالإنترنت. أعد تشغيل أي جهاز توجيه أو مودم أو غير ذلك من الأجهزة المتصلة بالشبكة التي قد تكون تستخدمها.</translation>
+<translation id="5548623538190661145">تحقق من إعدادات نظام أسماء النطاقات (DNS). اتصل بمسؤول شبكتك إذا لم تكن متأكدًا مما يعنيه هذا.</translation>
+<translation id="4545046228395991092">إذا كنت تستخدم إعدادات خادم وكيل، فتحقق من إعدادات الوكيل أو اتصل بمسؤول شبكتك للتأكد من أن الخادم الوكيل يعمل تمامًا.</translation>
+<translation id="1712673276482711826">إذا كنت تستخدم إعدادات خادم وكيل، فتحقق من إعدادات هذا الخادم الوكيل أو اتصل بمسؤول شبكتك للتأكد من أن الخادم الوكيل يعمل. إذا كنت لا تظن أنه ينبغي استخدام خادم وكيل، فقم بتعديل إعدادات الوكيل: <ph name="PLATFORM_TEXT"/></translation>
+<translation id="721197778055552897"><ph name="BEGIN_LINK"/>تعرف على مزيد من المعلومات<ph name="END_LINK"/> حول هذه المشكلة.</translation>
+<translation id="8235325155053717782">خطأ <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="3986287159189541211">خطأ HTTP <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="3225919329040284222">الخادم قدم شهادة لا تطابق التوقعات المضمنة. تم تضمين هذه التوقعات لبعض مواقع الويب عالية الأمان لحمايتك.</translation>
+<translation id="6957887021205513506">شهادة الخادم قد تكون مزورة.</translation>
+<translation id="6429639049555216915">يتعذر الوصول حاليًا إلى التطبيق.</translation>
+<translation id="9127307628159259612">أضف <ph name="PRODUCT_NAME"/> كبرنامج مسموح له في إعدادات برنامج الجدار الناري أو مكافحة الفيروسات. وإذا كان برنامجًا مسموحًا له بالفعل، فحاول حذفه من قائمة البرامج المسموح لها ثم أضفه مرةً أخرى.</translation>
+<translation id="4544369257849566741">ملحق إعادة تفاوض طبقة المقابس الآمنة (SSL) كان مفقودًا من تأكيد الاتصال الآمن. بالنسبة لبعض المواقع، المعروفة بدعمها لملحق إعادة التفاوض، يتطلب <ph name="PRODUCT_NAME"/> تأكيدًا أكثر أمنًا لمنع مجموعة من الهجمات المعروفة. يشير حذف هذا الملحق إلى أن اتصالك قد تم اعتراضه والتلاعب به أثناء الانتقال.</translation>
+<translation id="8162734958263531433">لاستخدام تصحيح الأخطاء في الناقل التسلسلي العام، فإنك تحتاج لتمكين تصحيح أخطاء Android SDK والناقل التسلسلي العام على جهاز Android الخاص بك. اطلع على <ph name="HTML_HELPURL"/> للمزيد من المعلومات.</translation>
+<translation id="1875071432292773474">أدخل العنوان <ph name="ACCESS_POINT"/> على متصفح سطح المكتب. يجب أن يكون متصفح سطح المكتب على نفس شبكة جهاز Android.</translation>
+<translation id="7227425938337339799">لكي تعمل تقنية UPnP، تحتاج إما أن تكون على نفس الشبكة الفرعية، أو عمل جسر لجهاز التوجيه لإعادة توجيه عمليات البث عبر الشبكات الفرعية.</translation>
+<translation id="4553629908098215669">من الكمبيوتر لديك، قم بتشغيل <ph name="HTMLADBCOMMAND"/>، وانتقل إلى <ph name="HTMLLOCALHOSTURL"/> باستخدام متصفح مستند إلى Chromium.</translation>
+<translation id="4570032796877367747">الكاميرا الأمامية</translation>
+<translation id="2599796128805996109">الكاميرا الخلفية</translation>
+<translation id="2124507516322945394">الميكروفون الافتراضي</translation>
+<translation id="1587215898571986504">مكبر الصوت</translation>
+<translation id="5614598979078259956">سماعة الرأس السلكية</translation>
+<translation id="9031226374756103225">سماعة الأذن</translation>
+<translation id="149679617917926491">سماعة رأس Bluetooth</translation>
+<translation id="6060685159320643512">احذر، هذه التجارب غير مضمونة النتائج</translation>
+<translation id="5199729219167945352">التجارب</translation>
+<translation id="533563709691128800">معطّل</translation>
+<translation id="2506903884491778518">تجارب البحث</translation>
+<translation id="1138663153846032155">تفضيل HTML عبر فلاش</translation>
+<translation id="2081453640527377956">أفضل محتوى HTML من خلال إخفاء فلاش من قائمة المكونات الإضافية.</translation>
+<translation id="5998167623928667649">تشغيل جميع محتوى فلاش عند تعيين إعداد فلاش على "السماح"</translation>
+<translation id="5138177765054221193">بالنسبة للمواقع التي تم تعيين إعداد "السماح" بمحتوى فلاش بها، يمكنك تشغيل جميع المحتوى بما في ذلك أي محتوى يعتبر غير مهم.</translation>
+<translation id="2112624549618815628">الوضع الافتراضي (ممكّن)</translation>
+<translation id="3696363537446376816">الوضع الافتراضي (معطّل)</translation>
+<translation id="8150391391298684512">تعطيل Windows Runtime MIDI API</translation>
+<translation id="3575927481544652747">تعطيل Windows Runtime MIDI API لـ WebMIDI، والذي تم تمكينه افتراضيًا على إصدار Windows 10 أو الإصدار الأحدث.</translation>
+<translation id="1375198122581997741">حول الإصدار</translation>
+<translation id="7248671827512403053">التطبيق</translation>
+<translation id="1710259589646384581">نظام التشغيل</translation>
+<translation id="6897140037006041989">عميل المستخدم</translation>
+<translation id="7353601530677266744">سطر الأوامر</translation>
+<translation id="7225807090967870017">معرف الإصدار</translation>
+</translationbundle>

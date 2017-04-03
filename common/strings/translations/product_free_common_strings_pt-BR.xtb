@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="pt-BR">
+<translation id="3942946088478181888">Ajude-me a entender</translation>
+<translation id="1396529432791646744">Quando você se conecta a um site seguro, o servidor que hospeda o site apresenta ao seu navegador algo chamado "certificado" para verificar a identidade dele. Este certificado contém informações de identidade, como o endereço do site, que são verificadas por um terceiro em quem seu dispositivo móvel confia. Ao verificar se o endereço no certificado corresponde ao endereço do site, será possível verificar se você está se comunicando com segurança com o site pretendido, e não com um terceiro (como um invasor em sua rede).</translation>
+<translation id="6295228342562451544">Quando você se conecta a um site seguro, o servidor que hospeda o site apresenta ao seu navegador algo chamado "certificado" para verificar a identidade dele. Este certificado contém informações de identidade, como o endereço do site, que são verificadas por um terceiro em quem seu dispositivo móvel confia. Ao verificar se o endereço no certificado corresponde ao endereço do site, será possível verificar se você está se comunicando com segurança com o site pretendido, e não com um terceiro (como um invasor em sua rede).</translation>
+<translation id="8187473050234053012">O certificado de segurança do servidor foi revogado!</translation>
+<translation id="5598024575303778520">Aviso de fraude</translation>
+<translation id="7311721172731074902">Aviso de Fraude</translation>
+<translation id="1858130628205855959">Este site pode ter sido invadido ou ser uma fraude. Fornecer senhas ou informações pessoais a ele podem colocá-lo em risco de roubo de identidade ou fraude financeira.</translation>
+<translation id="8357891144266644027">Alerta de site mal-intencionado</translation>
+<translation id="4664012235452972339">Alerta de site mal-intencionado</translation>
+<translation id="1030973920598092450">Este site pode ter sido invadido ou conter software mal-intencionado. Pode ser perigoso visitar esta página.</translation>
+<translation id="4863259811271883558">Reportado por <ph name="BEGIN_LINK"/><ph name="PROVIDER_NAME"/><ph name="END_LINK"/></translation>
+<translation id="3141322567138977593">Voltar com segurança</translation>
+<translation id="833642844779103272">Voltar com Segurança</translation>
+<translation id="4238466718818823211">Ignorar este aviso</translation>
+<translation id="1755698976576372535">Por que esta página foi bloqueada?</translation>
+<translation id="2962647877740028287">Nossos relatórios de fraude são mantidos por fornecedores terceirizados.</translation>
+<translation id="7470668651798735849">Você pode ver todas as notificações dos sites aqui.</translation>
+<translation id="6426222199977479699">Erro de SSL</translation>
+<translation id="8398877366907290961">Prosseguir assim mesmo</translation>
+<translation id="6264485186158353794">Voltar para segurança</translation>
+<translation id="2225024820658613551">Você não deve prosseguir, &lt;strong&gt;especialmente&lt;/strong&gt; se nunca tiver visto este aviso antes neste site.</translation>
+<translation id="5645845270586517071">Erro de Segurança</translation>
+<translation id="1103666958012677467">Você não pode prosseguir porque o operador do site solicitou uma segurança mais alta para este domínio.</translation>
+<translation id="5463275305984126951">Índice de <ph name="LOCATION"/></translation>
+<translation id="8877448029301136595">[diretório-pai]</translation>
+<translation id="3835522725882634757">Este servidor está enviando dados que o <ph name="PRODUCT_NAME"/> não entende. <ph name="BEGIN_LINK"/>Relate um bug<ph name="END_LINK"/> e inclua uma <ph name="BEGIN2_LINK"/>listagem bruta<ph name="END2_LINK"/>.</translation>
+<translation id="5327248766486351172">Nome</translation>
+<translation id="8028993641010258682">Tamanho</translation>
+<translation id="57646104491463491">Data de Modificação</translation>
+<translation id="8465929756435120446">Esta página contém algum conteúdo inseguro.</translation>
+<translation id="6827416153061837992">Esta conexão não é criptografada.</translation>
+<translation id="9193357432624119544">Código de erro: <ph name="ERROR_NAME"/></translation>
+<translation id="4910619056351738551">Veja algumas sugestões:</translation>
+<translation id="2954705784594331199"><ph name="BEGIN_LINK"/>Recarregar<ph name="END_LINK"/> esta página da Web mais tarde.</translation>
+<translation id="4977565600485911823">Desabilite suas extensões e <ph name="BEGIN_LINK"/>recarregue<ph name="END_LINK"/> esta página da Web.</translation>
+<translation id="1103966635949043187">Vá para a página inicial do site:</translation>
+<translation id="7747589364844254751">Verifique sua conexão com a Internet. Reinicie qualquer roteador, modem ou outros dispositivos de rede que esteja usando.</translation>
+<translation id="5548623538190661145">Verifique as configurações de DNS. Entre em contato com o administrador da rede, caso não tenha certeza do que isso significa.</translation>
+<translation id="4545046228395991092">Se você usa um servidor proxy, verifique suas configurações de proxy ou entre em contato com o administrador da rede para confirmar se o servidor proxy está funcionando.</translation>
+<translation id="1712673276482711826">Se você usa um servidor proxy, verifique suas configurações de proxy ou entre em contato com seu administrador de rede para garantir que o servidor proxy esteja funcionando. Se você não acredita que deveria estar usando um servidor proxy, ajuste as configurações do seu proxy: <ph name="PLATFORM_TEXT"/></translation>
+<translation id="721197778055552897"><ph name="BEGIN_LINK"/>Saiba mais<ph name="END_LINK"/> sobre este problema.</translation>
+<translation id="8235325155053717782">Erro <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="3986287159189541211">Erro de HTTP <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="3225919329040284222">O servidor apresentou um certificado que não corresponde às expectativas internas. Essas expectativas foram incluídas para determinados sites de alta segurança para proteger você.</translation>
+<translation id="6957887021205513506">O certificado do servidor parece ser uma falsificação.</translation>
+<translation id="6429639049555216915">O aplicativo não pode ser acessado no momento.</translation>
+<translation id="9127307628159259612">Adicione o <ph name="PRODUCT_NAME"/> como um programa permitido nas configurações do firewall ou do software antivírus. Se ele já for um programa permitido, tente excluí-lo da lista de programas permitidos e adicione-o novamente.</translation>
+<translation id="4544369257849566741">A extensão de renegociação de SSL estava ausente do handshake seguro. Para alguns sites, conhecidos por darem suporte à extensão de renegociação, o <ph name="PRODUCT_NAME"/> exige um handshake mais seguro para impedir alguns ataques conhecidos. A omissão dessa extensão sugere que sua conexão foi interceptada e manipulada em trânsito.</translation>
+<translation id="8162734958263531433">Para usar a depuração USB, você precisa habilitar o Android SDK e a depuração USB em seu dispositivo Android. Consulte <ph name="HTML_HELPURL"/> para obter mais informações.</translation>
+<translation id="1875071432292773474">Digite o endereço <ph name="ACCESS_POINT"/> no seu navegador de desktop. O navegador de desktop deve estar na mesma rede do dispositivo Android.</translation>
+<translation id="7227425938337339799">Para o UPnP funcionar, você deve estar na mesma sub-rede ou criar uma ponte com o roteador para encaminhar transmissões através das sub-redes.</translation>
+<translation id="4553629908098215669">No seu computador, execute <ph name="HTMLADBCOMMAND"/> e navegue para <ph name="HTMLLOCALHOSTURL"/> com um navegador baseado no Chromium.</translation>
+<translation id="4570032796877367747">Câmera dianteira</translation>
+<translation id="2599796128805996109">Câmera traseira</translation>
+<translation id="2124507516322945394">Microfone padrão</translation>
+<translation id="1587215898571986504">Viva-voz</translation>
+<translation id="5614598979078259956">Fone de ouvido com fio</translation>
+<translation id="9031226374756103225">Receptor de ouvido</translation>
+<translation id="149679617917926491">Fone Bluetooth</translation>
+<translation id="6060685159320643512">Cuidado, esses experimentos podem ter um grande impacto</translation>
+<translation id="5199729219167945352">Experimentos</translation>
+<translation id="533563709691128800">desabilitado</translation>
+<translation id="2506903884491778518">Experimentos de pesquisa</translation>
+<translation id="1138663153846032155">Preferir HTML em relação ao Flash</translation>
+<translation id="2081453640527377956">Preferir conteúdo HTML, ocultando o Flash da lista de plug-ins.</translation>
+<translation id="5998167623928667649">Executar todo o conteúdo Flash quando a configuração de Flash está definida como "permitir"</translation>
+<translation id="5138177765054221193">Nos sites com conteúdo Flash definido como "permitir", executar todo o conteúdo, inclusive aquele considerado irrelevante.</translation>
+<translation id="2112624549618815628">Padrão (habilitado)</translation>
+<translation id="3696363537446376816">Padrão (desabilitado)</translation>
+<translation id="5773249585542913314">API de MIDI do Windows Runtime</translation>
+<translation id="7122132768827815392">Use a API de MIDI do Windows Runtime para WebMIDI (em vigor apenas no Windows 10 ou posterior).</translation>
+<translation id="1375198122581997741">Sobre a Versão</translation>
+<translation id="7248671827512403053">Aplicativo</translation>
+<translation id="1710259589646384581">Sistema Operacional</translation>
+<translation id="6897140037006041989">User Agent</translation>
+<translation id="7353601530677266744">Linha de Comando</translation>
+<translation id="7225807090967870017">ID do Build</translation>
+</translationbundle>

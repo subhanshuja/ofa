@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="af">
+<translation id="3942946088478181888">Help my om te verstaan</translation>
+<translation id="1396529432791646744">Wanneer jy aan 'n beveiligde webwerf koppel verskaf die bediener wat daardie werf huisves jou blaaier met 'n sogenaamde "sertifikaat" om sy identiteit te verifieer. Hierdie sertifikaat bevat identiteitsinligting soos die adres van die webwerf wat deur 'n derde party wat deur jou selfoon vertrou word geverifieer is. Jy kan seker maak dat jy veilig kommunikeer met die webwerf wat jy bedoel het en nie 'n derdeparty (soos 'n aanvaller op jou netwerk) nie, deur te kontroleer dat die adres in die sertifikaat dieselfde is as die adres van die webwerf.</translation>
+<translation id="6295228342562451544">Wanneer jy aan 'n beveiligde webwerf koppel verskaf die bediener wat daardie werf huisves jou blaaier met 'n sogenaamde "sertifikaat" om sy identiteit te verifieer. Hierdie sertifikaat bevat identiteitsinligting soos die adres van die webwerf wat deur 'n derde party wat deur jou rekenaar vertrou word geverifieer is. Jy kan seker maak dat jy veilig kommunikeer met die webwerf wat jy bedoel het en nie 'n derdeparty (soos 'n aanvaller op jou netwerk) nie, deur te kontroleer dat die adres in die sertifikaat dieselfde is as die adres van die webwerf.</translation>
+<translation id="8187473050234053012">Die bediener se sertifikaat is herroep!</translation>
+<translation id="5598024575303778520">Bedrogwaarskuwing</translation>
+<translation id="7311721172731074902">Bedrogwaarskuwing</translation>
+<translation id="1858130628205855959">Hierdie webwerf mag dalk ingebreek word of is bedrieglik. Deur dit wagwoorde of persoonlike inligting te gee, kan jou in gevaar stel vir identiteitsroof of finansiële bedrog.</translation>
+<translation id="8357891144266644027">Kwaadwillige werf waarskuwing</translation>
+<translation id="4664012235452972339">Kwaadwillige werf waarskuwing</translation>
+<translation id="1030973920598092450">Hierdie webwerf mag dalk by ingebreek word of bevat kwaadwillige sagteware. Deur hierdie bladsy te besoek, mag dalk skadelik wees.</translation>
+<translation id="4863259811271883558">Gerapporteer deur <ph name="BEGIN_LINK"/><ph name="PROVIDER_NAME"/><ph name="END_LINK"/></translation>
+<translation id="3141322567138977593">Gaan Veilig Terug</translation>
+<translation id="833642844779103272">Gaan Veilig Terug</translation>
+<translation id="4238466718818823211">Ignoreer hierdie waarskuwing</translation>
+<translation id="1755698976576372535">Hoekom is hierdie bladsy geblokkeer?</translation>
+<translation id="2962647877740028287">Ons bedrogverslae word deur derdeparty-handelaars beheer.</translation>
+<translation id="7470668651798735849">Jy kan al jou kennisgewings van webwerwe hier sien.</translation>
+<translation id="6426222199977479699">SSL Fout</translation>
+<translation id="8398877366907290961">Gaan in elk geval voort</translation>
+<translation id="6264485186158353794">Terug na veiligheid</translation>
+<translation id="2225024820658613551">Jy behoort nie voort te gaan &lt;strong&gt;especially&lt;/strong&gt; nie vantevore hierdie waarskuwing vir hierdie werf gesien het nie.</translation>
+<translation id="5645845270586517071">Sekuriteitsfout</translation>
+<translation id="1103666958012677467">Jy kan nie voortgaan nie omdat die webwerfoperateur 'n verhoogde sekuriteit vir hierdie domein aangevra het.</translation>
+<translation id="5463275305984126951">Indeks van <ph name="LOCATION"/></translation>
+<translation id="8877448029301136595">[ouerindeks]</translation>
+<translation id="3835522725882634757">Ag nee! Hierdie bediener stuur data wat <ph name="PRODUCT_NAME"/> nie kan verstaan nie. Rapporteer asseblief <ph name="BEGIN_LINK"/>'n fout<ph name="END_LINK"/>en sluit die <ph name="BEGIN2_LINK"/>ruwe lys<ph name="END2_LINK"/>in.</translation>
+<translation id="5327248766486351172">Naam</translation>
+<translation id="8028993641010258682">Grootte</translation>
+<translation id="57646104491463491">Wysigingsdatum</translation>
+<translation id="8465929756435120446">Hierdie bladsy bevat onveiligie inhoud.</translation>
+<translation id="6827416153061837992">Hierdie verbinding is nie geënkripteer nie.</translation>
+<translation id="9193357432624119544">Foutkode: <ph name="ERROR_NAME"/></translation>
+<translation id="4910619056351738551">Hier is 'n paar voorstelle:</translation>
+<translation id="2954705784594331199"><ph name="BEGIN_LINK"/>Herlaai<ph name="END_LINK"/> hierdie webbladsy later.</translation>
+<translation id="4977565600485911823">Deaktiveer jou uitbreidings en <ph name="BEGIN_LINK"/>herlaai dan<ph name="END_LINK"/> hierdie webbladsy.</translation>
+<translation id="1103966635949043187">Gaan na die tuisblad van hierdie werf:</translation>
+<translation id="7747589364844254751">Kontroleer jou internetverbinding. Herbegin enige roeteerder, modem of ander netwerktoestel wat jy moontlik gebruik.</translation>
+<translation id="5548623538190661145">Kontroleer jou DNS-instellings. Kontak jou netwerkadministreerder as jy nie seker is wat dit beteken nie.</translation>
+<translation id="4545046228395991092">Indien jy 'n volmagbediener gebruik, kontroleer jou volmaginstellings of kontak jou netwerkadministreerder om seker te maak dat die volmagbediener werk.</translation>
+<translation id="1712673276482711826">Indien jy 'n instaanbediener gebruik, kontroleer jou instaaninstellings of kontak jou netwerkadministrateur om seker te maak dat die instaanbediener werk. Pas jou instaaninstellings aan as jy nie dink dat jy 'n instaanbediener moet gebruik nie: <ph name="PLATFORM_TEXT"/></translation>
+<translation id="721197778055552897"><ph name="BEGIN_LINK"/>Kom meer te wete<ph name="END_LINK"/> oor hierdie probleem.</translation>
+<translation id="8235325155053717782">Fout <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="3986287159189541211">HTTP-fout <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="3225919329040284222">Die bediener het 'n sertifikaat aangebied wat nie pas by die ingeboude verwagtinge nie. Hierdie verwagtinge is ingesluit vir sekere hoë-sekuriteitwebwerwe om jou te beskerm.</translation>
+<translation id="6957887021205513506">Die bediener se sertifikaat bleik 'n vervalsing te wees.</translation>
+<translation id="6429639049555216915">Die program is tans onbereikbaar.</translation>
+<translation id="9127307628159259612">Voeg <ph name="PRODUCT_NAME"/> by as 'n toelaatbare program in jou brandmuur of antivirus-sagteware se instellings. Indien dit reeds 'n toelaatbare program is, probeer om dit te skrap van die lys van toelaatbare programme en voeg dit dat weer by.</translation>
+<translation id="4544369257849566741">Die SSL-heronderhandeling het ontbreek van die beveiligde bladskud. Sekere werwe waarvoor dit bekend is dat hulle die heronderhandelingsuitbreiding <ph name="PRODUCT_NAME"/> ondersteun vereis 'n veiliger handdruk om 'n klas van bekende aanvalle te voorkom. Die weglating van hierdie uitbreiding stel voor dat jou koppeling onderskep en onderweg gemanipuleer is.</translation>
+<translation id="8162734958263531433">Om die USB-ontfouting te gebruik benodig jy die Android SDK en USB-ontfouting geaktiveer op jou Android-toestel. Kyk na <ph name="HTML_HELPURL"/> vir meer inligting.</translation>
+<translation id="1875071432292773474">Voer die adres <ph name="ACCESS_POINT"/> op jou werkskermblaaier in. Die werkskermblaaier moet op dieselfde netwerk as die Android-toestel wees.</translation>
+<translation id="7227425938337339799">Vir UPnP om te werk moet jy of op dieselfde subnetwerk wees of anders moet jy die roeteerder oorbrug om uitsendings oor subnetwerke aan te stuur.</translation>
+<translation id="4553629908098215669">Laat <ph name="HTMLADBCOMMAND"/> op jou rekenaar loop en navigeer na <ph name="HTMLLOCALHOSTURL"/> met 'n Chromium-gebaseerde blaaier.</translation>
+<translation id="4570032796877367747">Voorste kamera</translation>
+<translation id="2599796128805996109">Agterste kamera</translation>
+<translation id="2124507516322945394">Verstek mikrofoon</translation>
+<translation id="1587215898571986504">Luidsprekerfoon</translation>
+<translation id="5614598979078259956">Bedrade oorfone</translation>
+<translation id="9031226374756103225">Oorfoon-oorstuk</translation>
+<translation id="149679617917926491">Bluetooth-oorfone</translation>
+<translation id="6060685159320643512">Wees versigtig, hierdie eksperimente mag moontlik probleme veroorsaak</translation>
+<translation id="5199729219167945352">Eksperimente</translation>
+<translation id="533563709691128800">gedeaktiveer</translation>
+<translation id="2506903884491778518">Soek eksperimente</translation>
+<translation id="1138663153846032155">Verkies HTML bo Flash</translation>
+<translation id="2081453640527377956">Verkies HTML-inhoud deur Flash van die lys van inproppe te versteek.</translation>
+<translation id="5998167623928667649">Laat loop alle Flash-inhoud wanneer Flash-instellings na"toelaat" gestel is</translation>
+<translation id="5138177765054221193">Vir webwerwe wat na "toelaat" gestel is vir Flash-inhoud, laat loop alale inhoud insluitend enigiets wat as onbelangrik geag word.</translation>
+<translation id="2112624549618815628">Verstek (geaktiveer)</translation>
+<translation id="3696363537446376816">Verstek (gedeaktiveer)</translation>
+<translation id="5773249585542913314">Windows looptyd MIDI API</translation>
+<translation id="7122132768827815392">Gebruik Windows looptyd MIDI API vir WebMIDI (slegs effektief op Windows 10 of later).</translation>
+<translation id="1375198122581997741">Meer oor weergawe</translation>
+<translation id="7248671827512403053">Toepassing</translation>
+<translation id="1710259589646384581">Bedryfstelsel</translation>
+<translation id="6897140037006041989">Gebruikersagent</translation>
+<translation id="7353601530677266744">Bevelreël</translation>
+<translation id="7225807090967870017">Bou-ID</translation>
+</translationbundle>

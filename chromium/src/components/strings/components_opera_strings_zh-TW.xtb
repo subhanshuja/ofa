@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="zh-TW">
+<translation id="1974060860693918893">進階</translation>
+<translation id="3462200631372590220">隱藏進階</translation>
+<translation id="3369192424181595722">系統時間錯誤</translation>
+<translation id="2625385379895617796">你的電腦系統時間太快了</translation>
+<translation id="8932102934695377596">你的電腦系統時間太慢了</translation>
+<translation id="3858027520442213535">更新日期與時間</translation>
+<translation id="725866823122871198">無法建立與 <ph name="BEGIN_BOLD"/><ph name="DOMAIN"/><ph name="END_BOLD"/> 的加密連線，因為你電腦的系統日期與時間 (<ph name="DATE_AND_TIME"/>) 不正確。</translation>
+<translation id="4879058462256654741">要建立一個安全的連線，你需要有正確的系統時間。這是因為網站用來表明自己身分的憑證只在特定的時間裡有效，但是因為你裝置的時間設定錯誤，這些憑證無法被驗證。</translation>
+<translation id="1413809658975081374">隱私有疑慮</translation>
+<translation id="3566021033012934673">你的網路連線不安全</translation>
+<translation id="340013220407300675">駭客可能在 <ph name="BEGIN_BOLD"/><ph name="SITE"/><ph name="END_BOLD"/> 試著偷你的個人資料（如：密碼、信件，或是信用卡）。</translation>
+<translation id="629137324635910832"><ph name="SITE"/> 一般來說會用加密來保護你的資料，但這次當 Opera 試著連線到 <ph name="SITE"/> 時，這個網站卻送回異常且不正確的憑證。這在駭客試圖假裝它是 <ph name="SITE"/> 時，或是連線被 Wi-Fi 登入畫面中斷時都有可能會發生。你的資料仍然是安全的，因為 Opera 在任何資料被傳送之前就將連線中斷。</translation>
+<translation id="4404555778932203074">你現在無法瀏覽 <ph name="SITE"/> 因為這個網站送來的憑證不完整，導致 Opera 無法處理。網路上的錯誤與攻擊行為通常是暫時的，所以稍後這個頁面可能又可以瀏覽了。</translation>
+<translation id="8882627153668738693"><ph name="SITE"/> 一般來說會用加密來保護你的資料，但這次當 Avast SafeZone 試著連線到 <ph name="SITE"/> 時，這個網站卻送回異常且不正確的憑證。這在駭客試圖假裝它是 <ph name="SITE"/> 時，或是連線被 Wi-Fi 登入畫面中斷時都有可能會發生。你的資料仍然是安全的，因為 Avast SafeZone 在任何資料被傳送之前就將連線中斷。</translation>
+<translation id="1888865191717601957">你現在無法瀏覽 <ph name="SITE"/> 因為這個網站送來的憑證不完整，導致 Avast SafeZone 無法處理。網路上的錯誤與攻擊行為通常是暫時的，所以稍後這個頁面可能又可以瀏覽了。</translation>
+<translation id="6264485186158353794">回到安全的地方</translation>
+<translation id="7704050614460855821"><ph name="BEGIN_LINK"/>無論如何都要繼續 <ph name="SITE"/> (不安全)<ph name="END_LINK"/></translation>
+<translation id="5556459405103347317">重新載入</translation>
+<translation id="6051221802930200923">你現在無法瀏覽 <ph name="SITE"/> 因為這個網站使用憑證綁定 (certificate pinning)。網路上的錯誤與攻擊行為通常是暫時的，所以稍後這個頁面可能又可以瀏覽了。</translation>
+<translation id="2991571918955627853">你現在無法瀏覽 <ph name="SITE"/> 因為這個網站 使用強制安全傳輸 (HSTS)。網路上的錯誤與攻擊行為通常是暫時的，所以稍後這個頁面可能又可以瀏覽了。</translation>
+<translation id="1430489501396597835">你現在無法瀏覽 <ph name="SITE"/> 因為 這個憑證已經被撤銷了。網路上的錯誤與攻擊行為通常是暫時的，所以稍後這個頁面可能又可以瀏覽了。</translation>
+<translation id="4513896196857653318">請到
+          主選單 &gt;
+          <ph name="SETTINGS_TITLE"/>
+          &gt;
+          <ph name="ADVANCED_TITLE"/>
+          並停用 "<ph name="NO_PREFETCH_DESCRIPTION"/>"。
+          如果這並沒有解決問題，建議你再勾選這個選項，
+          以改善效能。</translation>
+<translation id="8888594059056485523">在你的防火牆或是防毒程式的設定裡面，允許 Opera 連上網路。</translation>
+<translation id="8040357206858000048">請按 應用程式 &gt; 系統偏好設定 &gt; 網路 &gt; 進階 &gt; 代理伺服器，並將所有被選擇的代理伺服器通通取消選擇。</translation>
+<translation id="1532685482177999023">請到主選單 &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; 區域網路設定，並取消選取「在你的區域網路中使用 proxy 代理伺服器」。</translation>
+<translation id="6118049677165320383">你的更動將會在下次重新啟動瀏覽器後生效。</translation>
+<translation id="5510583790312051907">不支援當機報告的功能。</translation>
+<translation id="1011013207380005827">Opera 要感謝 <ph name="BEGIN_LINK_CHROMIUM"/>Chromium<ph name="END_LINK_CHROMIUM"/> 開放原始碼計畫與其他 <ph name="BEGIN_LINK_OSS"/>開放原始碼軟體<ph name="END_LINK_OSS"/>。</translation>
+<translation id="3108493547597012279">你正在看一個安全頁面。</translation>
+<translation id="8530361534096361731">Opera 上次並未正確關閉。</translation>
+</translationbundle>

@@ -1,0 +1,1234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This file contains definitions of strings that are distribution specific.
+These strings will not be translated and only english versions will
+be available for now. -->
+<grit base_dir="." latest_public_release="0" current_release="1" source_lang_id="en" enc_check="möl">
+  <outputs>
+    <output filename="grit/product_free_common_strings.h" type="rc_header">
+      <emit emit_type="prepend" />
+    </output>
+    <output filename="grit/product_free_common_strings_resources_map.cc" type="resource_map_source" />
+    <output filename="grit/product_free_common_strings_resources_map.h" type="resource_map_header" />
+    <output filename="product_free_common_strings_af.pak" type="data_package" lang="af" />
+    <output filename="product_free_common_strings_am.pak" type="data_package" lang="am" />
+    <output filename="product_free_common_strings_ar.pak" type="data_package" lang="ar" />
+    <output filename="product_free_common_strings_as.pak" type="data_package" lang="as" />
+    <if expr="pp_ifdef('use_third_party_translations')">
+      <output filename="product_free_common_strings_ast.pak" type="data_package" lang="ast" />
+    </if>
+    <output filename="product_free_common_strings_az.pak" type="data_package" lang="az" />
+    <output filename="product_free_common_strings_be.pak" type="data_package" lang="be" />
+    <output filename="product_free_common_strings_bg.pak" type="data_package" lang="bg" />
+    <output filename="product_free_common_strings_bn.pak" type="data_package" lang="bn" />
+    <output filename="product_free_common_strings_bn-BD.pak" type="data_package" lang="bn-BD" />
+    <if expr="pp_ifdef('use_third_party_translations')">
+      <output filename="product_free_common_strings_bs.pak" type="data_package" lang="bs" />
+    </if>
+    <output filename="product_free_common_strings_ca.pak" type="data_package" lang="ca" />
+    <if expr="pp_ifdef('use_third_party_translations')">
+      <output filename="product_free_common_strings_ca@valencia.pak" type="data_package" lang="ca@valencia" />
+    </if>
+    <output filename="product_free_common_strings_cs.pak" type="data_package" lang="cs" />
+    <output filename="product_free_common_strings_da.pak" type="data_package" lang="da" />
+    <output filename="product_free_common_strings_de.pak" type="data_package" lang="de" />
+    <output filename="product_free_common_strings_el.pak" type="data_package" lang="el" />
+    <if expr="pp_ifdef('use_third_party_translations')">
+      <output filename="product_free_common_strings_en-AU.pak" type="data_package" lang="en-AU" />
+    </if>
+    <output filename="product_free_common_strings_en-GB.pak" type="data_package" lang="en-GB" />
+    <output filename="product_free_common_strings_en-US.pak" type="data_package" lang="en" />
+    <if expr="pp_ifdef('use_third_party_translations')">
+      <output filename="product_free_common_strings_eo.pak" type="data_package" lang="eo" />
+    </if>
+    <output filename="product_free_common_strings_es.pak" type="data_package" lang="es" />
+    <output filename="product_free_common_strings_es-419.pak" type="data_package" lang="es-419" />
+    <output filename="product_free_common_strings_et.pak" type="data_package" lang="et" />
+    <if expr="pp_ifdef('use_third_party_translations')">
+      <output filename="product_free_common_strings_eu.pak" type="data_package" lang="eu" />
+    </if>
+    <output filename="product_free_common_strings_fa.pak" type="data_package" lang="fa" />
+    <output filename="product_free_common_strings_fake-bidi.pak" type="data_package" lang="fake-bidi" />
+    <output filename="product_free_common_strings_fi.pak" type="data_package" lang="fi" />
+    <output filename="product_free_common_strings_fil.pak" type="data_package" lang="fil" />
+    <output filename="product_free_common_strings_fr.pak" type="data_package" lang="fr" />
+    <output filename="product_free_common_strings_fr-CA.pak" type="data_package" lang="fr-CA" />
+    <output filename="product_free_common_strings_fy.pak" type="data_package" lang="fy" />
+    <output filename="product_free_common_strings_gd.pak" type="data_package" lang="gd" />
+    <if expr="pp_ifdef('use_third_party_translations')">
+      <output filename="product_free_common_strings_gl.pak" type="data_package" lang="gl" />
+    </if>
+    <output filename="product_free_common_strings_gu.pak" type="data_package" lang="gu" />
+    <output filename="product_free_common_strings_he.pak" type="data_package" lang="he" />
+    <output filename="product_free_common_strings_hi.pak" type="data_package" lang="hi" />
+    <output filename="product_free_common_strings_hr.pak" type="data_package" lang="hr" />
+    <output filename="product_free_common_strings_hu.pak" type="data_package" lang="hu" />
+    <if expr="pp_ifdef('use_third_party_translations')">
+      <output filename="product_free_common_strings_hy.pak" type="data_package" lang="hy" />
+      <output filename="product_free_common_strings_ia.pak" type="data_package" lang="ia" />
+    </if>
+    <output filename="product_free_common_strings_id.pak" type="data_package" lang="id" />
+    <output filename="product_free_common_strings_it.pak" type="data_package" lang="it" />
+    <output filename="product_free_common_strings_ja.pak" type="data_package" lang="ja" />
+    <if expr="pp_ifdef('use_third_party_translations')">
+      <output filename="product_free_common_strings_ka.pak" type="data_package" lang="ka" />
+    </if>
+    <output filename="product_free_common_strings_kk.pak" type="data_package" lang="kk" />
+    <output filename="product_free_common_strings_kn.pak" type="data_package" lang="kn" />
+    <output filename="product_free_common_strings_ko.pak" type="data_package" lang="ko" />
+    <if expr="pp_ifdef('use_third_party_translations')">
+      <output filename="product_free_common_strings_ku.pak" type="data_package" lang="ku" />
+      <output filename="product_free_common_strings_kw.pak" type="data_package" lang="kw" />
+    </if>
+    <output filename="product_free_common_strings_lt.pak" type="data_package" lang="lt" />
+    <output filename="product_free_common_strings_lv.pak" type="data_package" lang="lv" />
+    <output filename="product_free_common_strings_me.pak" type="data_package" lang="me" />
+    <output filename="product_free_common_strings_mk.pak" type="data_package" lang="mk" />
+    <output filename="product_free_common_strings_ml.pak" type="data_package" lang="ml" />
+    <output filename="product_free_common_strings_mr.pak" type="data_package" lang="mr" />
+    <output filename="product_free_common_strings_ms.pak" type="data_package" lang="ms" />
+    <output filename="product_free_common_strings_my.pak" type="data_package" lang="my" />
+    <if expr="not pp_if('zawgyi_encoding')">
+      <output filename="product_free_common_strings_my-ZG.pak" type="data_package" lang="my-ZG" />
+    </if>
+    <output filename="product_free_common_strings_nl.pak" type="data_package" lang="nl" />
+    <output filename="product_free_common_strings_nn.pak" type="data_package" lang="nn" />
+    <output filename="product_free_common_strings_nb.pak" type="data_package" lang="nb" />
+    <!-- 'no' for Norwegian Bokmal. It should be 'nb'. -->
+    <output filename="product_free_common_strings_or.pak" type="data_package" lang="or" />
+    <output filename="product_free_common_strings_pa.pak" type="data_package" lang="pa" />
+    <output filename="product_free_common_strings_pl.pak" type="data_package" lang="pl" />
+    <if expr="pp_ifdef('ios')">
+      <!-- iOS uses pt for pt-BR -->
+      <output filename="product_free_common_strings_pt.pak" type="data_package" lang="pt-BR" />
+    </if>
+    <if expr="not pp_ifdef('ios')">
+      <output filename="product_free_common_strings_pt-BR.pak" type="data_package" lang="pt-BR" />
+    </if>
+    <output filename="product_free_common_strings_pt-PT.pak" type="data_package" lang="pt-PT" />
+    <output filename="product_free_common_strings_ro.pak" type="data_package" lang="ro" />
+    <output filename="product_free_common_strings_ru.pak" type="data_package" lang="ru" />
+    <output filename="product_free_common_strings_si.pak" type="data_package" lang="si" />
+    <output filename="product_free_common_strings_sk.pak" type="data_package" lang="sk" />
+    <output filename="product_free_common_strings_sl.pak" type="data_package" lang="sl" />
+    <output filename="product_free_common_strings_sr.pak" type="data_package" lang="sr" />
+    <output filename="product_free_common_strings_sv.pak" type="data_package" lang="sv" />
+    <output filename="product_free_common_strings_sw.pak" type="data_package" lang="sw" />
+    <output filename="product_free_common_strings_ta.pak" type="data_package" lang="ta" />
+    <output filename="product_free_common_strings_te.pak" type="data_package" lang="te" />
+    <output filename="product_free_common_strings_th.pak" type="data_package" lang="th" />
+    <output filename="product_free_common_strings_tr.pak" type="data_package" lang="tr" />
+    <if expr="pp_ifdef('use_third_party_translations')">
+      <output filename="product_free_common_strings_ug.pak" type="data_package" lang="ug" />
+    </if>
+    <output filename="product_free_common_strings_uk.pak" type="data_package" lang="uk" />
+    <output filename="product_free_common_strings_ur.pak" type="data_package" lang="ur" />
+    <output filename="product_free_common_strings_uz.pak" type="data_package" lang="uz" />
+    <output filename="product_free_common_strings_vi.pak" type="data_package" lang="vi" />
+    <output filename="product_free_common_strings_zh-CN.pak" type="data_package" lang="zh-CN" />
+    <output filename="product_free_common_strings_zh-TW.pak" type="data_package" lang="zh-TW" />
+    <output filename="product_free_common_strings_zu.pak" type="data_package" lang="zu" />
+    <if expr="pp_ifdef('use_platina_translations')">
+      <output filename="product_free_common_strings_as.pak" type="data_package" lang="as" />
+      <output filename="product_free_common_strings_bn-BD.pak" type="data_package" lang="bn-BD" />
+      <output filename="product_free_common_strings_eu.pak" type="data_package" lang="eu" />
+      <output filename="product_free_common_strings_gl.pak" type="data_package" lang="gl" />
+      <output filename="product_free_common_strings_ha.pak" type="data_package" lang="ha" />
+      <output filename="product_free_common_strings_hy.pak" type="data_package" lang="hy" />
+      <output filename="product_free_common_strings_ig.pak" type="data_package" lang="ig" />
+      <output filename="product_free_common_strings_ka.pak" type="data_package" lang="ka" />
+      <output filename="product_free_common_strings_km.pak" type="data_package" lang="km" />
+      <output filename="product_free_common_strings_ky.pak" type="data_package" lang="ky" />
+      <output filename="product_free_common_strings_ln.pak" type="data_package" lang="ln" />
+      <output filename="product_free_common_strings_mn.pak" type="data_package" lang="mn" />
+      <output filename="product_free_common_strings_ps.pak" type="data_package" lang="ps" />
+      <output filename="product_free_common_strings_st.pak" type="data_package" lang="st" />
+      <output filename="product_free_common_strings_tg.pak" type="data_package" lang="tg" />
+      <output filename="product_free_common_strings_tk.pak" type="data_package" lang="tk" />
+      <output filename="product_free_common_strings_xh.pak" type="data_package" lang="xh" />
+      <output filename="product_free_common_strings_yo.pak" type="data_package" lang="yo" />
+      <output filename="product_free_common_strings_zh-HK.pak" type="data_package" lang="zh-HK" />
+    </if>
+  </outputs>
+  <translations>
+    <file path="translations/product_free_common_strings_af.xtb" lang="af" />
+    <file path="translations/product_free_common_strings_ar.xtb" lang="ar" />
+    <file path="translations/product_free_common_strings_as.xtb" lang="as" />
+    <file path="translations/product_free_common_strings_az.xtb" lang="az" />
+    <file path="translations/product_free_common_strings_be.xtb" lang="be" />
+    <file path="translations/product_free_common_strings_bg.xtb" lang="bg" />
+    <file path="translations/product_free_common_strings_bn-BD.xtb" lang="bn-BD" />
+    <file path="translations/product_free_common_strings_bn.xtb" lang="bn" />
+    <file path="translations/product_free_common_strings_ca.xtb" lang="ca" />
+    <file path="translations/product_free_common_strings_cs.xtb" lang="cs" />
+    <file path="translations/product_free_common_strings_da.xtb" lang="da" />
+    <file path="translations/product_free_common_strings_de.xtb" lang="de" />
+    <file path="translations/product_free_common_strings_el.xtb" lang="el" />
+    <file path="translations/product_free_common_strings_eu.xtb" lang="eu" />
+    <file path="translations/product_free_common_strings_en-GB.xtb" lang="en-GB" />
+    <file path="translations/product_free_common_strings_es-419.xtb" lang="es-419" />
+    <file path="translations/product_free_common_strings_es.xtb" lang="es" />
+    <file path="translations/product_free_common_strings_fa.xtb" lang="fa" />
+    <file path="translations/product_free_common_strings_fi.xtb" lang="fi" />
+    <file path="translations/product_free_common_strings_fil.xtb" lang="fil" />
+    <file path="translations/product_free_common_strings_fr-CA.xtb" lang="fr-CA" />
+    <file path="translations/product_free_common_strings_fr.xtb" lang="fr" />
+    <file path="translations/product_free_common_strings_fy.xtb" lang="fy" />
+    <file path="translations/product_free_common_strings_gd.xtb" lang="gd" />
+    <file path="translations/product_free_common_strings_gl.xtb" lang="gl" />
+    <file path="translations/product_free_common_strings_ha.xtb" lang="ha" />
+    <file path="translations/product_free_common_strings_he.xtb" lang="he" />
+    <file path="translations/product_free_common_strings_hi.xtb" lang="hi" />
+    <file path="translations/product_free_common_strings_hr.xtb" lang="hr" />
+    <file path="translations/product_free_common_strings_hu.xtb" lang="hu" />
+    <file path="translations/product_free_common_strings_hy.xtb" lang="hy" />
+    <file path="translations/product_free_common_strings_id.xtb" lang="id" />
+    <file path="translations/product_free_common_strings_ig.xtb" lang="ig" />
+    <file path="translations/product_free_common_strings_it.xtb" lang="it" />
+    <file path="translations/product_free_common_strings_ja.xtb" lang="ja" />
+    <file path="translations/product_free_common_strings_ka.xtb" lang="ka" />
+    <file path="translations/product_free_common_strings_kk.xtb" lang="kk" />
+    <file path="translations/product_free_common_strings_km.xtb" lang="km" />
+    <file path="translations/product_free_common_strings_ko.xtb" lang="ko" />
+    <file path="translations/product_free_common_strings_ky.xtb" lang="ky" />
+    <file path="translations/product_free_common_strings_ln.xtb" lang="ln" />
+    <file path="translations/product_free_common_strings_lt.xtb" lang="lt" />
+    <file path="translations/product_free_common_strings_lv.xtb" lang="lv" />
+    <file path="translations/product_free_common_strings_me.xtb" lang="me" />
+    <file path="translations/product_free_common_strings_mk.xtb" lang="mk" />
+    <file path="translations/product_free_common_strings_mn.xtb" lang="mn" />
+    <file path="translations/product_free_common_strings_ms.xtb" lang="ms" />
+    <if expr="pp_if('zawgyi_encoding')">
+      <file path="translations/product_free_common_strings_my-Zawgyi.xtb" lang="my" />
+    </if>
+    <if expr="not pp_if('zawgyi_encoding')">
+      <file path="translations/product_free_common_strings_my.xtb" lang="my" />
+      <file path="translations/product_free_common_strings_my-Zawgyi.xtb" lang="my-ZG" />
+    </if>
+    <file path="translations/product_free_common_strings_nb.xtb" lang="nb" />
+    <file path="translations/product_free_common_strings_nl.xtb" lang="nl" />
+    <file path="translations/product_free_common_strings_nn.xtb" lang="nn" />
+    <file path="translations/product_free_common_strings_or.xtb" lang="or" />
+    <file path="translations/product_free_common_strings_pa.xtb" lang="pa" />
+    <file path="translations/product_free_common_strings_pl.xtb" lang="pl" />
+    <file path="translations/product_free_common_strings_ps.xtb" lang="ps" />
+    <file path="translations/product_free_common_strings_pt-BR.xtb" lang="pt-BR" />
+    <file path="translations/product_free_common_strings_pt-PT.xtb" lang="pt-PT" />
+    <file path="translations/product_free_common_strings_ro.xtb" lang="ro" />
+    <file path="translations/product_free_common_strings_ru.xtb" lang="ru" />
+    <file path="translations/product_free_common_strings_si.xtb" lang="si" />
+    <file path="translations/product_free_common_strings_sk.xtb" lang="sk" />
+    <file path="translations/product_free_common_strings_sl.xtb" lang="sl" />
+    <file path="translations/product_free_common_strings_sr.xtb" lang="sr" />
+    <file path="translations/product_free_common_strings_st.xtb" lang="st" />
+    <file path="translations/product_free_common_strings_sv.xtb" lang="sv" />
+    <file path="translations/product_free_common_strings_sw.xtb" lang="sw" />
+    <file path="translations/product_free_common_strings_ta.xtb" lang="ta" />
+    <file path="translations/product_free_common_strings_te.xtb" lang="te" />
+    <file path="translations/product_free_common_strings_tg.xtb" lang="tg" />
+    <file path="translations/product_free_common_strings_th.xtb" lang="th" />
+    <file path="translations/product_free_common_strings_tk.xtb" lang="tk" />
+    <file path="translations/product_free_common_strings_tr.xtb" lang="tr" />
+    <file path="translations/product_free_common_strings_uk.xtb" lang="uk" />
+    <file path="translations/product_free_common_strings_ur.xtb" lang="ur" />
+    <file path="translations/product_free_common_strings_uz.xtb" lang="uz" />
+    <file path="translations/product_free_common_strings_vi.xtb" lang="vi" />
+    <file path="translations/product_free_common_strings_xh.xtb" lang="xh" />
+    <file path="translations/product_free_common_strings_yo.xtb" lang="yo" />
+    <file path="translations/product_free_common_strings_zh-CN.xtb" lang="zh-CN" />
+    <file path="translations/product_free_common_strings_zh-HK.xtb" lang="zh-HK" />
+    <file path="translations/product_free_common_strings_zh-TW.xtb" lang="zh-TW" />
+    <file path="translations/product_free_common_strings_zu.xtb" lang="zu" />
+  </translations>
+  <release seq="1" allow_pseudo="false">
+    <messages fallback_to_english="true">
+      <!-- Certificate error strings -->
+      <message name="IDS_CERT_ERROR_EXTRA_INFO_TITLE" desc="The title for the extra information section displayed when a page contains a certificate error">
+        Help me understand
+      </message>
+      <if expr="is_android or pp_ifdef('ios')">
+        <message name="IDS_CERT_ERROR_EXTRA_INFO_1" desc="Mobile: 1st paragraph of extra information for any certificate error">
+          When you connect to a secure website, the server hosting that site presents your browser with something called a "certificate" to verify its identity. This certificate contains identity information, such as the address of the website, which is verified by a third party that your mobile device trusts. By checking that the address in the certificate matches the address of the website, it is possible to verify that you are securely communicating with the website you intended, and not a third party (such as an attacker on your network).
+        </message>
+      </if>
+      <if expr="not is_android and not pp_ifdef('ios')">
+        <message name="IDS_CERT_ERROR_EXTRA_INFO_1" desc="1st paragraph of extra information for any certificate error">
+          When you connect to a secure website, the server hosting that site presents your browser with something called a "certificate" to verify its identity. This certificate contains identity information, such as the address of the website, which is verified by a third party that your computer trusts. By checking that the address in the certificate matches the address of the website, it is possible to verify that you are securely communicating with the website you intended, and not a third party (such as an attacker on your network).
+        </message>
+      </if>
+      <message name="IDS_CERT_ERROR_REVOKED_CERT_TITLE" desc="Title of the error page for a revoked certificate">
+        The server's security certificate is revoked!
+      </message>
+      <!-- Fraud warning page -->
+      <if expr="not pp_ifdef('use_titlecase')">
+        <message name="IDS_PHISHING_WARNING_TITLE" desc="Title of the Phishing fraud warning page">
+          Fraud warning
+        </message>
+      </if>
+      <if expr="pp_ifdef('use_titlecase')">
+        <message name="IDS_PHISHING_WARNING_TITLE" desc="In Title Case: Title of the Phishing fraud warning page">
+          Fraud Warning
+        </message>
+      </if>
+      <message name="IDS_PHISHING_WARNING_HEADER" desc="Header on the Phishing fraud warning page">
+        Fraud warning
+      </message>
+      <message name="IDS_PHISHING_WARNING_SUMMARY" desc="Text on the Phishing fraud warning page">
+        This site may be hacked or fraudulent. Giving it passwords or personal information could put you at risk for identity theft or financial fraud.
+      </message>
+      <if expr="not pp_ifdef('use_titlecase')">
+        <message name="IDS_MALWARE_WARNING_TITLE" desc="Title of the Malware fraud warning page">
+          Malicious site warning
+        </message>
+      </if>
+      <if expr="pp_ifdef('use_titlecase')">
+        <message name="IDS_MALWARE_WARNING_TITLE" desc="In Title Case: Title of the Malware fraud warning page">
+          Malicious Site Warning
+        </message>
+      </if>
+      <message name="IDS_MALWARE_WARNING_HEADER" desc="Header on the Malware fraud warning page">
+        Malicious site warning
+      </message>
+      <message name="IDS_MALWARE_WARNING_SUMMARY" desc="Text on the Malware fraud warning page">
+        This site may be hacked or contain malicious software. Visiting this page may be harmful.
+      </message>
+      <message name="IDS_FRAUDWARNING_ADVISORY_TEXT" desc="Text with a link to advisory, on the Fraud warning page">
+        Reported by <ph name="BEGIN_LINK">&lt;a href="$1" onclick="showAdvisoryPage();" &gt;</ph><ph name="PROVIDER_NAME">$2</ph><ph name="END_LINK">&lt;/a&gt;</ph>
+      </message>
+      <if expr="not pp_ifdef('use_titlecase')">
+        <message name="IDS_FRAUDWARNING_BACK_BUTTON" desc="Title of the button to go back, on Fraud warning page">
+          Go back safely
+        </message>
+      </if>
+      <if expr="pp_ifdef('use_titlecase')">
+        <message name="IDS_FRAUDWARNING_BACK_BUTTON" desc="In Title Case: Title of the button to go back, on Fraud warning page">
+          Go Back Safely
+        </message>
+      </if>
+      <message name="IDS_FRAUDWARNING_PROCEED_LINK" desc="Text on the link to proceed, on the Fraud warning page">
+        Ignore this warning
+      </message>
+      <message name="IDS_FRAUDWARNING_WHY_LINK" desc="Text on the link to show more information, on the Fraud warning page">
+        Why was this page blocked?
+      </message>
+      <message name="IDS_FRAUDWARNING_MORE_INFO_TEXT" desc="Paragraph to explain the where we get our blocklists from">
+        Our fraud reports are maintained by third-party vendors.
+      </message>
+
+      <!-- Tray notifications (imported from chromium_strings.grd) -->
+      <if expr="enable_notifications">
+        <if expr="is_win">
+          <message name="IDS_MESSAGE_CENTER_BALLOON_TEXT" desc="Body text for the the first run notification ballon describing the notification center.">
+            You can see all your notifications from websites here.
+          </message>
+        </if>
+      </if>
+
+      <!-- SSL Blocking Page -->
+      <message name="IDS_SSL_BLOCKING_PAGE_TITLE" desc="The title of the SSL blocking page.">
+        SSL Error
+      </message>
+      <message name="IDS_SSL_BLOCKING_PAGE_PROCEED" desc="Proceed button text of the SSL blocking page.">
+        Proceed anyway
+      </message>
+      <message name="IDS_SSL_BLOCKING_PAGE_EXIT" desc="'Back' button text of the SSL blocking page.">
+        Back to safety
+      </message>
+      <message name="IDS_SSL_BLOCKING_PAGE_SHOULD_NOT_PROCEED" desc="Message advising the user not to proceed past the SSL blocking page.">
+        You should not proceed, &lt;strong&gt;especially&lt;/strong&gt; if you have never seen this warning before for this site.
+      </message>
+
+      <!-- SSL Error Page -->
+      <message name="IDS_SSL_ERROR_PAGE_TITLE" desc="The title of the SSL error page.">
+        Security Error
+      </message>
+      <message name="IDS_SSL_ERROR_PAGE_CANNOT_PROCEED" desc="Message advising the user that they cannot proceed past the SSL error page.">
+        You cannot proceed because the website operator has requested heightened security for this domain.
+      </message>
+
+      <!-- Strings used in local directory listings -->
+      <message name="IDS_DIRECTORY_LISTING_HEADER" desc="When viewing a local directory, this is the title of the page.">
+        Index of <ph name="LOCATION">LOCATION<ex>c:\Documents and Settings</ex></ph>
+      </message>
+      <message name="IDS_DIRECTORY_LISTING_PARENT" desc="When viewing a local directory, this is the text for a link to the parent directory.">
+        [parent directory]
+      </message>
+      <message name="IDS_DIRECTORY_LISTING_PARSING_ERROR_BOX_TEXT" desc="Text to show in a box when we failed to parse FTP directory listing.">
+        Oh, no! This server is sending data <ph name="PRODUCT_NAME">$1<ex>Opera</ex></ph> can't understand. Please <ph name="BEGIN_LINK">&lt;a href="http://code.google.com/p/chromium/issues/entry"&gt;</ph>report a bug<ph name="END_LINK">&lt;/a&gt;<ex>&lt;/a&gt;</ex></ph>, and include the <ph name="BEGIN2_LINK">&lt;a href="LOCATION"&gt;</ph>raw listing<ph name="END2_LINK">&lt;/a&gt;</ph>.
+      </message>
+      <message name="IDS_DIRECTORY_LISTING_NAME" desc="When viewing a local directory, this is the text for the column above the filenames.">
+        Name
+      </message>
+      <message name="IDS_DIRECTORY_LISTING_SIZE" desc="When viewing a local directory, this is the text for the column above the file sizes.">
+        Size
+      </message>
+      <message name="IDS_DIRECTORY_LISTING_DATE_MODIFIED" desc="When viewing a local directory, this is the text for the column above the last modified dates.">
+        Date Modified
+      </message>
+
+      <!-- Secure connection errors/explanations -->
+      <message name="IDS_CONN_ERROR_INSECURE_INLINES" desc="Explanation that a page contains insecure inlines">
+        This page contains some insecure content.
+      </message>
+      <message name="IDS_CONN_NO_ENCRYPTION" desc="Explanation that a page does not use encryption">
+        This connection is not encrypted.
+      </message>
+
+      <!-- Secure connection warnings -->
+      <!-- error page messages -->
+      <message name="IDS_ERRORPAGES_ERROR_CODE" desc="At the bottom of error pages, a non-internationalized string or numeric code is displayed for debugging purposes">
+        Error code: <ph name="ERROR_NAME">$1<ex>ERR_FILE_NOT_FOUND</ex></ph>
+      </message>
+      <message name="IDS_ERRORPAGES_SUGGESTION_HEADING" desc="Heading in the error page above the actual suggestions">
+        Here are some suggestions:
+      </message>
+
+      <message name="IDS_ERRORPAGES_SUGGESTION_RELOAD" desc="When a page fails to load, we provide a suggestion that the user try reloading the page later">
+        <ph name="BEGIN_LINK">&lt;a jsvalues="href:reloadUrl"&gt;</ph>Reload<ph name="END_LINK">&lt;/a&gt;<ex>&lt;/a&gt;</ex></ph> this webpage later.
+      </message>
+      <message name="IDS_ERRORPAGES_SUGGESTION_DISABLE_EXTENSION" desc="When a page fails to load, we provide a suggestion that the user try disabling an extension that's blocking it">
+        Disable your extensions and then <ph name="BEGIN_LINK">&lt;a jsvalues="href:reloadUrl"&gt;</ph>reload<ph name="END_LINK">&lt;/a&gt;<ex>&lt;/a&gt;</ex></ph> this webpage.
+      </message>
+      <message name="IDS_ERRORPAGES_SUGGESTION_HOMEPAGE" desc="When a page fails to load, sometimes we provide a suggesting of trying just the hostname of the site.">
+        Go to the home page of the site:
+      </message>
+      <message name="IDS_ERRORPAGES_SUGGESTION_CHECK_CONNECTION" desc="When a page fails to load, sometimes we suggest checking the network connection.">
+        Check your internet connection. Restart any router, modem, or other network devices you may be using.
+      </message>
+      <message name="IDS_ERRORPAGES_SUGGESTION_DNS_CONFIG" desc="When a page fails to load, sometimes we suggest checking the DNS configuration.">
+        Check your DNS settings. Contact your network administrator if you're not sure what this means.
+      </message>
+      <if expr="is_android or pp_ifdef('ios')">
+        <message name="IDS_ERRORPAGES_SUGGESTION_PROXY_CONFIG" desc="When a webpage fails to load, in some cases we suggest checking the proxy server configuration, or disabling the proxy server.">
+          If you use a proxy server, check your proxy settings or contact your network administrator to make sure the proxy server is working.
+        </message>
+      </if>
+      <if expr="not is_android and not pp_ifdef('ios')">
+        <message name="IDS_ERRORPAGES_SUGGESTION_PROXY_CONFIG" desc="When a webpage fails to load, in some cases we suggest checking the proxy server configuration, or disabling the proxy server.">
+          If you use a proxy server, check your proxy settings or contact your network administrator to make sure the proxy server is working. If you don't believe you should be using a proxy server, adjust your proxy settings: <ph name="PLATFORM_TEXT">$1<ex>Goto the wrench menu and choose Fix It</ex></ph>
+        </message>
+      </if>
+      <message name="IDS_ERRORPAGES_SUGGESTION_LEARNMORE" desc="When a webpage fails to load, we provide a link to the help center to learn more about the failure.">
+        <ph name="BEGIN_LINK">&lt;a jsvalues="href:learnMoreUrl"&gt;</ph>Learn more<ph name="END_LINK">&lt;/a&gt;<ex>&lt;/a&gt;</ex></ph> about this problem.
+      </message>
+
+      <message name="IDS_ERRORPAGES_DETAILS_TEMPLATE" desc="On the bottom of the error page text, there is a box that includes extra information for tech savvy users.">
+        Error <ph name="ERROR_NUMBER">$1<ex>5</ex></ph> (<ph name="ERROR_NAME">$2<ex>net::ERR_FILE_NOT_FOUND</ex></ph>): <ph name="ERROR_TEXT">$3<ex>The requested file is not found.</ex></ph>
+      </message>
+      <message name="IDS_ERRORPAGES_HTTP_DETAILS_TEMPLATE" desc="On the bottom of the error page text for http errors, there is a box that includes extra information for tech savvy users.">
+        HTTP Error <ph name="ERROR_NUMBER">$1<ex>500</ex></ph> (<ph name="ERROR_NAME">$2<ex>Internal Server Error</ex></ph>): <ph name="ERROR_TEXT">$3<ex>The server encountered an internal error.</ex></ph>
+      </message>
+
+      <message name="IDS_ERRORPAGES_SUMMARY_PINNING_FAILURE" desc="Details of the error page for a certificate which doesn't match the built-in pins for that name">
+        The server presented a certificate that doesn't match built-in expectations. These expectations are included for certain, high-security websites in order to protect you.
+      </message>
+      <message name="IDS_ERRORPAGES_DETAILS_PINNING_FAILURE" desc="Description of the error page for a certificate which doesn't match the built-in pins for that name">
+        The server's certificate appears to be a forgery.
+      </message>
+
+      <message name="IDS_ERRORPAGES_APP_WARNING" desc="The error message displayed when the browser can not reach the requested page from an app.">
+        The app is currently unreachable.
+      </message>
+
+      <message name="IDS_ERRORPAGES_SUGGESTION_FIREWALL_CONFIG" desc="When a webpage fails to load, in some cases we suggest reconfiguring the firewall.">
+        Add <ph name="PRODUCT_NAME">&lt;span jscontent="productName"&gt;&lt;/span&gt;<ex>Opera</ex></ph> as a permitted program in your firewall's or antivirus software's settings. If it is already a permitted program, try deleting it from the list of permitted programs and adding it again.
+      </message>
+
+      <message name="IDS_ERRORPAGES_DETAILS_SSL_UNSAFE_NEGOTIATION" desc="The error message displayed when the SSL renegotiation extension is missing.">
+        The SSL renegotiation extension was missing from the secure handshake. For some sites, which are known to support the renegotiation extension, <ph name="PRODUCT_NAME">&lt;span jscontent="productName"&gt;&lt;/span&gt;<ex>Opera</ex></ph> requires a more secure handshake to prevent a class of known attacks. The omission of this extension suggests that your connection was intercepted and manipulated in transit.
+      </message>
+
+      <if expr="is_android">
+        <message name="IDS_USB_DEVTOOLS_INFO" desc="Short summary of what is needed for USB debugging to work on Android devices.">
+          To use USB debugging, you need the Android SDK and USB debugging enabled on your Android device. See <ph name="HTML_HELPURL">$1<ex>&lt;a href="http://www.opera.com"&gt;http://www.opera.com&lt;/a&gt;</ex></ph> for more information.
+        </message>
+      </if>
+      <if expr="is_android">
+        <message name="IDS_WIFI_DEVTOOLS_INFO" desc="Short summary of what is needed for network debugging to work on Android devices.">
+          Enter the address <ph name="ACCESS_POINT">$1<ex>127.0.0.1</ex></ph> on your desktop browser. The desktop browser must be on the same network as the Android device.
+        </message>
+      </if>
+      <if expr="is_android">
+        <message name="IDS_UPNP_DEVTOOLS_INFO" desc="Short summary of what is needed for upnp debugging to work on Android devices.">
+          For UPnP to work you either need to be on the same subnet, or bridge the router to forward broadcasts across subnets.
+        </message>
+      </if>
+
+      <if expr="is_android">
+        <message name="IDS_USB_DEVTOOLS_ADB_HELP" desc="Short text about how to forward the devtools socket through ADB to the localhost domainname.">
+          On your computer, run <ph name="HTMLADBCOMMAND">$1<ex>&lt;code&gt;adb forward tcp:9222 localabstract:opera_devtools_remote&lt;/code&gt;</ex></ph>, and navigate to <ph name="HTMLLocalhostUrl">$2<ex>&lt;span class="desktopLink"&gt;http://localhost:9222&lt;/span&gt;</ex></ph> with a Chromium-based browser.
+        </message>
+      </if>
+
+      <if expr="is_android">
+        <message name="IDS_USER_MEDIA_FRONT_CAMERA" desc="Front camera description for multiple choice dialog.">
+          Front camera
+        </message>
+      </if>
+      <if expr="is_android">
+        <message name="IDS_USER_MEDIA_BACK_CAMERA" desc="Back camera description for multiple choice dialog.">
+          Back camera
+        </message>
+      </if>
+      <if expr="is_android">
+        <message name="IDS_USER_MEDIA_DEFAULT_MICROPHONE" desc="Default microphone description for multiple choice dialog.">
+          Default microphone
+        </message>
+      </if>
+      <if expr="is_android">
+        <message name="IDS_USER_MEDIA_MICROPHONE_SPEAKERPHONE" desc="Speakerphone microphone description for multiple choice dialog.">
+          Speakerphone
+        </message>
+      </if>
+      <if expr="is_android">
+        <message name="IDS_USER_MEDIA_MICROPHONE_WIRED_HEADSET" desc="Wired headset microphone description for multiple choice dialog.">
+          Wired headset
+        </message>
+      </if>
+      <if expr="is_android">
+        <message name="IDS_USER_MEDIA_MICROPHONE_EARPIECE" desc="Headset earpiece microphone description for multiple choice dialog.">
+          Headset earpiece
+        </message>
+      </if>
+      <if expr="is_android">
+        <message name="IDS_USER_MEDIA_MICROPHONE_BLUETOOTH_HEADSET" desc="Bluetooth headset microphone description for multiple choice dialog.">
+          Bluetooth headset
+        </message>
+      </if>
+
+      <!-- about:flags -->
+      <message name="IDS_FLAGS_UI_LONG_HEADER" desc="Long version of the title for the about:flags page.">
+        Careful, these experiments may bite
+      </message>
+      <message name="IDS_MARK_NON_SECURE_AS_NAME" desc="Name of the 'Mark Non-Secure Origins As' lab.">
+        Mark non-secure origins as non-secure.
+      </message>
+      <message name="IDS_MARK_NON_SECURE_AS_DESCRIPTION" desc="Description of the 'Mark Non-Secure Origins As' lab.">
+        Mark non-secure origins as non-secure, or as "dubious".
+      </message>
+      <message name="IDS_MARK_NON_SECURE_AS_NEUTRAL">
+        Mark non-secure origins as neutral.
+      </message>
+      <message name="IDS_MARK_NON_SECURE_AS_NON_SECURE">
+        Mark non-secure origins as non-secure.
+      </message>
+      <message name="IDS_FLAGS_COMPOSITED_LAYER_BORDERS" translateable="false" desc="Name of the 'Composited layer borders' lab.">
+        Composited render layer borders
+      </message>
+      <message name="IDS_FLAGS_COMPOSITED_LAYER_BORDERS_DESCRIPTION" translateable="false" desc="Description of the 'Composited layer borders' lab.">
+        Renders a border around composited Render Layers to help debug and study layer compositing.
+      </message>
+      <message name="IDS_FLAGS_IGNORE_GPU_BLACKLIST_NAME" translateable="false" desc="Name of the 'Ignore GPU blacklist' lab.">
+        Override software rendering list
+      </message>
+      <message name="IDS_FLAGS_IGNORE_GPU_BLACKLIST_DESCRIPTION" translateable="false" desc="Description of the 'Ignore GPU blacklist' lab.">
+        Overrides the built-in software rendering list and enables GPU-acceleration on unsupported system configurations.
+      </message>
+      <message name="IDS_FLAGS_EXPERIMENTAL_CANVAS_FEATURES_NAME" translateable="false" desc="Name of the 'Enable experimental canvas features' lab.">
+        Experimental canvas features
+      </message>
+      <message name="IDS_FLAGS_EXPERIMENTAL_CANVAS_FEATURES_DESCRIPTION" translateable="false" desc="Description of the 'Enable experimental canvas features' lab.">
+        Enables the use of experimental canvas features which are still in development.
+      </message>
+      <message name="IDS_FLAGS_ACCELERATED_2D_CANVAS_NAME" translateable="false" desc="Name of the 'Disable accelerated 2D canvas' lab.">
+        Accelerated 2D canvas
+      </message>
+      <message name="IDS_FLAGS_ACCELERATED_2D_CANVAS_DESCRIPTION" translateable="false" desc="Description of the 'Disable accelerated 2D canvas' lab.">
+        Enables the use of the GPU to perform 2D canvas rendering, instead of software rendering.
+      </message>
+      <message name="IDS_FLAGS_DISPLAY_LIST_2D_CANVAS_NAME" translateable="false" desc="Name of the 'Enable display list 2D canvas' lab.">
+        Display list 2D canvas
+      </message>
+      <message name="IDS_FLAGS_DISPLAY_LIST_2D_CANVAS_DESCRIPTION" translateable="false" desc="Description of the 'Enable display list 2D canvas' lab.">
+        Enables the use of display lists to record 2D canvas commands, allowing 2D canvas rasterization to be performed on a separate thread.
+      </message>
+      <message name="IDS_FLAGS_SHOW_AUTOFILL_TYPE_PREDICTIONS_NAME" translateable="false" desc="Title for the flag to show Autofill field type predictions for all forms">
+        Show Autofill predictions
+      </message>
+      <message name="IDS_FLAGS_SHOW_AUTOFILL_TYPE_PREDICTIONS_DESCRIPTION" translateable="false" desc="Description for the flag to show Autofill field type predictions for all forms">
+        Annotates web forms with Autofill field type predictions as placeholder text.
+      </message>
+      <message name="IDS_FLAGS_TCP_FAST_OPEN_NAME" translateable="false" desc="Name of the flag that enables TCP Fast Open.">
+        TCP Fast Open
+      </message>
+      <message name="IDS_FLAGS_TCP_FAST_OPEN_DESCRIPTION" translateable="false" desc="Description of the flag that enables TCP Fast Open.">
+        Enable the option to send extra authentication information in the initial SYN packet for a previously connected client, allowing faster data send start.
+      </message>
+      <message name="IDS_FLAGS_WEBGL_DRAFT_EXTENSIONS_NAME" translateable="false" desc="Name of the 'Enable WebGL Draft Extensions' flag.">
+        WebGL Draft Extensions
+      </message>
+      <message name="IDS_FLAGS_WEBGL_DRAFT_EXTENSIONS_DESCRIPTION" translateable="false" desc="Description for the flag to enable WebGL Draft Extensions.">
+        Enabling this option allows web applications to access the WebGL Extensions that are still in draft status.
+      </message>
+      <message name="IDS_FLAGS_ENABLE_WORKER_FRAME_NAME" translateable="false" desc="Name of the flag to enable the &lt;workerframe&gt; element.">
+        Experimental &lt;workerframe&gt; element
+      </message>
+      <message name="IDS_FLAGS_ENABLE_WORKER_FRAME_DESCRIPTION" translateable="false" desc="Description of the flag to enable the &lt;workerframe&gt; element.">
+        Enable the experimental &lt;workerframe&gt; element.
+      </message>
+      <message name="IDS_FLAGS_FIXED_POSITION_CREATES_STACKING_CONTEXT_NAME" translateable="false" desc="Name of the 'Fixed position creates stacking context' lab.">
+        Fixed position elements create stacking contexts
+      </message>
+      <message name="IDS_FLAGS_FIXED_POSITION_CREATES_STACKING_CONTEXT_DESCRIPTION" translateable="false" desc="Description for the flag to make fixed position elements create stacking contexts.">
+        Enabling this option makes all fixed position elements create new CSS stacking contexts.
+      </message>
+      <message name="IDS_FLAGS_COMPOSITING_FOR_FIXED_POSITION_HIGH_DPI" translateable="false" desc="Description of the 'Compositing for fixed position elements on high DPI' experiment.">
+        Enabled only for HiDPI displays
+      </message>
+      <message name="IDS_FLAGS_ENCRYPTED_MEDIA_NAME" translateable="false" desc="Title for the flag to disable the (unprefixed) Encrypted Media Extensions APIs (e.g. MediaKeys).">
+        Encrypted Media Extensions
+      </message>
+      <message name="IDS_FLAGS_ENCRYPTED_MEDIA_DESCRIPTION" translateable="false" desc="Description for the flag to disable the (unprefixed) Encrypted Media Extensions APIs (e.g. MediaKeys).">
+        Encrypted Media Extensions on video and audio elements.
+      </message>
+      <message name="IDS_FLAGS_GESTURE_REQUIREMENT_FOR_MEDIA_PLAYBACK_NAME" translateable="false" desc="Title for the flag to disable gesture requiment for media playback">
+        User interaction required for media playback
+      </message>
+      <message name="IDS_FLAGS_GESTURE_REQUIREMENT_FOR_MEDIA_PLAYBACK_DESCRIPTION" translateable="false" desc="Description for the flag to disable gesture requiment for media playback">
+        User interaction required for playing media elements. Disabling this will allow autoplay to work.
+      </message>
+      <message name="IDS_FLAGS_PASSIVE_EVENT_LISTENER_DOCUMENT_TRUE" translateable="false" desc="Choice for passive listeners to default to true on document level nodes.">
+        Document level true (when unspecified)
+      </message>
+      <message name="IDS_FLAGS_PASSIVE_EVENT_LISTENER_TRUE" translateable="false" desc="Choice for passive listeners to default to true on all nodes not explicitly set.">
+        True (when unspecified)
+      </message>
+      <message name="IDS_FLAGS_PASSIVE_EVENT_LISTENER_FORCE_ALL_TRUE" translateable="false" desc="Choice for passive listeners to default to true on all nodes.">
+        Force all true
+      </message>
+      <message name="IDS_FLAGS_PASSIVE_EVENT_LISTENER_DEFAULT_NAME" translateable="false" desc="Name for the flag to adjust the default behaviour for passive event listeners.">
+        Passive event listener override
+      </message>
+      <message name="IDS_FLAGS_PASSIVE_EVENT_LISTENER_DEFAULT_DESCRIPTION" translateable="false" desc="Description for the flag to adjust default behaviour for passive event listeners.">
+        Forces touchstart, touchmove, mousewheel and wheel event listeners (which haven't requested otherwise) to be treated as passive. This will break touch/wheel behavior on some websites but is useful for demonstrating the potential performance benefits of adopting passive event listeners.
+      </message>
+      <message name="IDS_FLAGS_OPTIMIZE_LOADING_IPC_FOR_SMALL_RESOURCES_NAME" desc="Title for the flag to enable a loading IPC optimization for small resources.">
+        Enable loading IPC optimization for small resources.
+      </message>
+      <message name="IDS_FLAGS_OPTIMIZE_LOADING_IPC_FOR_SMALL_RESOURCES_DESCRIPTION" desc="Description for the flag to enable improved IPC">
+        Enable loading IPC optimization for small resources.
+      </message>
+      <message name="IDS_FLAGS_JAVASCRIPT_HARMONY_SHIPPING_NAME" translateable="false" desc="Title for the flag to disable latest (non-experimental) JavaScript fatures">
+        Latest stable JavaScript features
+      </message>
+      <message name="IDS_FLAGS_JAVASCRIPT_HARMONY_SHIPPING_DESCRIPTION" translateable="false" desc="Description for the flag to disable latest (non-experimental) JavaScript fatures">
+        Some webpages use legacy or non-standard JavaScript extensions that may conflict with the latest JavaScript features. This flag allows disabling support of those features for compatibility with such pages.
+      </message>
+      <message name="IDS_FLAGS_JAVASCRIPT_HARMONY_NAME" translateable="false" desc="Title for the flag to enable JavaScript Harmony features.">
+        Experimental JavaScript
+      </message>
+      <message name="IDS_FLAGS_JAVASCRIPT_HARMONY_DESCRIPTION" translateable="false" desc="Description for the flag to enable JavaScript Harmony features.">
+        Enable webpages to use experimental JavaScript features.
+      </message>
+      <message name="IDS_FLAGS_V8_IGNITION_NAME" translateable="false" desc="Title for the flag to enable the Ignition interpreter.">
+        Experimental JavaScript interpreter
+      </message>
+      <message name="IDS_FLAGS_V8_IGNITION_DESCRIPTION" translateable="false" desc="Description for the flag to enable the JavaScript interpreter.">
+        Enable V8 to use the experimental Ignition interpreter for JavaScript execution.
+      </message>
+      <message name="IDS_FLAGS_ENABLE_WASM_NAME" translateable="false" desc="Title for the flag to enable WebAssembly.">
+        Experimental WebAssembly
+      </message>
+      <message name="IDS_FLAGS_ENABLE_WASM_DESCRIPTION" translateable="false" desc="Description for the flag to enable WebAssembly.">
+        Enable web pages to use experimental WebAssembly.
+      </message>
+      <message name="IDS_FLAGS_GPU_RASTERIZATION_NAME" translateable="false" desc="Title for the flag to enable GPU rasterization.">
+        GPU rasterization
+      </message>
+      <message name="IDS_FLAGS_GPU_RASTERIZATION_DESCRIPTION" translateable="false" desc="Description for the flag to enable GPU rasterizer.">
+        Use GPU to rasterize web content. Requires impl-side painting.
+      </message>
+      <message name="IDS_FLAGS_FORCE_GPU_RASTERIZATION" translateable="false" desc="Description of the 'Force GPU rasterization' experiment">
+        Force-enabled for all layers
+      </message>
+      <message name="IDS_FLAGS_ENABLE_THREADED_GPU_RASTERIZATION_NAME" translateable="false" desc="Title for the flag to enable threaded GPU rasterization.">
+        Enable threaded GPU rasterization
+      </message>
+      <message name="IDS_FLAGS_ENABLE_THREADED_GPU_RASTERIZATION_DESCRIPTION" translateable="false" desc="Description for the flag to enable threaded GPU rasterizer.">
+        Use secondary thread for GPU rasterization of web content. Requires GPU rasterization to be enabled.
+      </message>
+      <message name="IDS_FLAGS_GPU_RASTERIZATION_MSAA_SAMPLE_COUNT_NAME" translateable="false" desc="Name of about:flags option for number of GPU rasterization MSAA samples.">
+        GPU rasterization MSAA sample count
+      </message>
+      <message name="IDS_FLAGS_GPU_RASTERIZATION_MSAA_SAMPLE_COUNT_DESCRIPTION" translateable="false" desc="Description of about:flags option for number of GPU rasterization MSAA samples.">
+        Specify the number of MSAA samples for GPU rasterization.
+      </message>
+      <message name="IDS_FLAGS_GPU_RASTERIZATION_MSAA_SAMPLE_COUNT_ZERO" translateable="false" desc="">
+        0
+      </message>
+      <message name="IDS_FLAGS_GPU_RASTERIZATION_MSAA_SAMPLE_COUNT_TWO" translateable="false" desc="">
+        2
+      </message>
+      <message name="IDS_FLAGS_GPU_RASTERIZATION_MSAA_SAMPLE_COUNT_FOUR" translateable="false" desc="">
+        4
+      </message>
+      <message name="IDS_FLAGS_GPU_RASTERIZATION_MSAA_SAMPLE_COUNT_EIGHT" translateable="false" desc="">
+        8
+      </message>
+      <message name="IDS_FLAGS_GPU_RASTERIZATION_MSAA_SAMPLE_COUNT_SIXTEEN" translateable="false" desc="">
+        16
+      </message>
+      <message name="IDS_FLAGS_EXPERIMENTAL_WEB_PLATFORM_FEATURES_NAME" translateable="false" desc="Name for the flag to enable experimental Web Platform features.">
+        Enable experimental Web Platform features
+      </message>
+      <message name="IDS_FLAGS_EXPERIMENTAL_WEB_PLATFORM_FEATURES_DESCRIPTION" translateable="false" desc="Description for the flag to enable experimental Web Platform features.">
+        Enable experimental Web Platform features that are in development.
+      </message>
+      <message name="IDS_FLAGS_EXPERIMENTAL_POINTER_EVENT_NAME" translateable="false" desc="Name for the flag to enable the experimental pointer events.">
+        Pointer events
+      </message>
+      <message name="IDS_FLAGS_EXPERIMENTAL_POINTER_EVENT_DESCRIPTION" translateable="false" desc="Description for the flag to enable the experimental pointer events.">
+        Enable partial experimental support for the Pointer Events API.  This is intended only for testing by web developers, it will cause some websites to be subtly broken.
+      </message>
+      <message name="IDS_FLAGS_ORIGIN_TRIALS_NAME" translateable="false" desc="Name for the flag to enable origin trials.">
+        Origin trials
+      </message>
+      <message name="IDS_FLAGS_ORIGIN_TRIALS_DESCRIPTION" translateable="false" desc="Description for the flag to enable origin trials.">
+        Enable origin trials for controlling access to feature/API experiments.
+      </message>
+      <message name="IDS_FLAGS_DEFAULT_TILE_WIDTH_NAME" translateable="false" desc="Name of about:flags option for default tile width.">
+        Default tile width
+      </message>
+      <message name="IDS_FLAGS_DEFAULT_TILE_WIDTH_DESCRIPTION" translateable="false" desc="Description of about:flags option for default tile width.">
+        Specify the default tile width.
+      </message>
+      <message name="IDS_FLAGS_DEFAULT_TILE_WIDTH_SHORT" translateable="false" desc="">
+        128
+      </message>
+      <message name="IDS_FLAGS_DEFAULT_TILE_WIDTH_TALL" translateable="false" desc="">
+        256
+      </message>
+      <message name="IDS_FLAGS_DEFAULT_TILE_WIDTH_GRANDE" translateable="false" desc="">
+        512
+      </message>
+      <message name="IDS_FLAGS_DEFAULT_TILE_WIDTH_VENTI" translateable="false" desc="">
+        1024
+      </message>
+      <message name="IDS_FLAGS_DEFAULT_TILE_HEIGHT_NAME" translateable="false" desc="Name of about:flags option for default tile height.">
+        Default tile height
+      </message>
+      <message name="IDS_FLAGS_DEFAULT_TILE_HEIGHT_DESCRIPTION" translateable="false" desc="Description of about:flags option for default tile height.">
+        Specify the default tile height.
+      </message>
+      <message name="IDS_FLAGS_DEFAULT_TILE_HEIGHT_SHORT" translateable="false" desc="">
+        128
+      </message>
+      <message name="IDS_FLAGS_DEFAULT_TILE_HEIGHT_TALL" translateable="false" desc="">
+        256
+      </message>
+      <message name="IDS_FLAGS_DEFAULT_TILE_HEIGHT_GRANDE" translateable="false" desc="">
+        512
+      </message>
+      <message name="IDS_FLAGS_DEFAULT_TILE_HEIGHT_VENTI" translateable="false" desc="">
+        1024
+      </message>
+      <message name="IDS_FLAGS_NUM_RASTER_THREADS_NAME" translateable="false" desc="Name of about:flags option for number of raster threads.">
+        Number of raster threads
+      </message>
+      <message name="IDS_FLAGS_NUM_RASTER_THREADS_DESCRIPTION" translateable="false" desc="Description of about:flags option for number of raster threads.">
+        Specify the number of raster threads.
+      </message>
+      <message name="IDS_FLAGS_NUM_RASTER_THREADS_ONE" translateable="false" desc="">
+        1
+      </message>
+      <message name="IDS_FLAGS_NUM_RASTER_THREADS_TWO" translateable="false" desc="">
+        2
+      </message>
+      <message name="IDS_FLAGS_NUM_RASTER_THREADS_THREE" translateable="false" desc="">
+        3
+      </message>
+      <message name="IDS_FLAGS_NUM_RASTER_THREADS_FOUR" translateable="false" desc="">
+        4
+      </message>
+      <message name="IDS_FLAGS_ENABLE_OFFLINE_MODE_NAME" translateable="false" desc="Name of the flag to make reads in offline mode come from the cache even if it's stale">
+        Enable Offline Cache Mode
+      </message>
+      <message name="IDS_FLAGS_ENABLE_OFFLINE_MODE_DESCRIPTION" translateable="false" desc="Description of the flag to make reads in offline mode come from the cache even if it's stale">
+        When the source is unavailable, web resources will be taken from available stale cache entries.
+      </message>
+      <message name="IDS_FLAGS_OFFLINE_AUTO_RELOAD_NAME" translateable="false" desc="Name of the flag to make pages which failed to load while offline auto-reload">
+        Offline auto-reload mode
+      </message>
+      <message name="IDS_FLAGS_OFFLINE_AUTO_RELOAD_DESCRIPTION" translateable="false" desc="Description of the flag to make pages which failed to load while offline auto-reload">
+        Pages that fail to load while the browser is offline will be auto-reloaded when the browser is online again.
+      </message>
+      <message name="IDS_FLAGS_OFFLINE_AUTO_RELOAD_VISIBLE_ONLY_NAME" translateable="false" desc="Name of the flag to only enable auto-reload on visible tabs">
+        Only auto-reload visible tabs
+      </message>
+      <message name="IDS_FLAGS_OFFLINE_AUTO_RELOAD_VISIBLE_ONLY_DESCRIPTION" translateable="false" desc="Description of the flag to only auto-reload visible tabs">
+        Pages that fail to load while the browser is offline will only be auto-reloaded if their tab is visible.
+      </message>
+      <message name="IDS_FLAGS_BYPASS_APP_BANNER_ENGAGEMENT_CHECKS_NAME" translateable="false" desc="Title of the flag which bypasses the user engagement checks for app banners.">
+        Bypass user engagement checks
+      </message>
+      <message name="IDS_FLAGS_BYPASS_APP_BANNER_ENGAGEMENT_CHECKS_DESCRIPTION" translateable="false" desc="Description of the flag to bypass the user engagement checks for app banners.">
+        Bypasses user engagement checks for displaying app banners, such as requiring that users have visited the site before and that the banner hasn't been shown recently. This allows developers to test that other eligibility requirements for showing app banners, such as having a manifest, are met.
+      </message>
+      <message name="IDS_FLAGS_ENABLE_TILE_COMPRESSION_NAME" translateable="false" desc="Name of the enable tile compression feature.">
+        Tile compression
+      </message>
+      <message name="IDS_FLAGS_ENABLE_TILE_COMPRESSION_DESCRIPTION" translateable="false" desc="Description of the enable tile compression feature.">
+        Enables or disables texture compression for the content tiles used by the compositor. This only has an effect if the GPU has support for one of the required extensions.
+      </message>
+      <message name="IDS_FLAGS_TILE_COMPRESSION_HEURISTIC_NAME" translateable="false" desc="Name of the tile compression heuristic setting.">
+        Tile compression heuristic
+      </message>
+      <message name="IDS_FLAGS_TILE_COMPRESSION_HEURISTIC_DESCRIPTION" translateable="false" desc="Description of the tile compression heuristic setting.">
+        Heuristic to when to use tile compression. Tiles with selected type will not be compressed.
+      </message>
+      <message name="IDS_FLAGS_TILE_COMPRESSION_HEURISTIC_DEFAULT" translateable="false" desc="">
+        Default
+      </message>
+      <message name="IDS_FLAGS_TILE_COMPRESSION_HEURISTIC_NONE" translateable="false" desc="">
+        None
+      </message>
+      <message name="IDS_FLAGS_TILE_COMPRESSION_HEURISTIC_GRADIENT" translateable="false" desc="">
+        Gradient
+      </message>
+      <message name="IDS_FLAGS_TILE_COMPRESSION_HEURISTIC_IMAGE" translateable="false" desc="">
+        Image
+      </message>
+      <message name="IDS_FLAGS_TILE_COMPRESSION_HEURISTIC_GRADIENT_AND_IMAGE" translateable="false" desc="">
+        Gradient and Image
+      </message>
+      <message name="IDS_FLAGS_ENABLE_BROTLI_NAME" translateable="false" desc="Title for the flag to enable Brotli Content-Encoding.">
+        Brotli Content-Encoding
+      </message>
+      <message name="IDS_FLAGS_ENABLE_BROTLI_DESCRIPTION" translateable="false" desc="Description for the flag to enable Brotli Content-Encoding.">
+        Enable Brotli Content-Encoding support.
+      </message>
+      <message name="IDS_FLAGS_ENABLE_WEBFONTS_INTERVENTION_NAME" translateable="false" desc="Title for the flag to enable WebFonts User Agent Intervention.">
+        User Agent Intervention for WebFonts loading
+      </message>
+      <message name="IDS_FLAGS_ENABLE_WEBFONTS_INTERVENTION_DESCRIPTION" translateable="false" desc="Description for the flag to enable WebFonts User Agent Intervention.">
+        Enable User Agent Intervention for WebFonts loading.
+      </message>
+      <message name="IDS_FLAGS_ENABLE_WEBFONTS_INTERVENTION_TRIGGER_NAME" translateable="false" desc="Title for the flag to trigger WebFonts User Agent Intervention always.">
+        Always trigger User Agent Intervention for WebFonts loading
+      </message>
+      <message name="IDS_FLAGS_ENABLE_WEBFONTS_INTERVENTION_TRIGGER_DESCRIPTION" translateable="false" desc="Description for the flag to trigger WebFonts User Agent Intervention always.">
+        Enable triggering User Agent Intervention for WebFonts loading. This flag has an effect only when the intervention is enabled.
+      </message>
+      <message name="IDS_FLAGS_ENABLE_SCROLL_ANCHORING_NAME" translateable="false" desc="Name of the scroll anchoring flag.">
+        Scroll anchoring
+      </message>
+      <message name="IDS_FLAGS_ENABLE_SCROLL_ANCHORING_DESCRIPTION" translateable="false" desc="Description of the scroll anchoring flag">
+        Adjusts scroll position to prevent visible jumps when offscreen content changes.
+      </message>
+      <message name="IDS_FLAGS_ENABLE_WEB_USB_NAME" translateable="false" desc="Title for the flag to enable WebUSB.">
+        WebUSB
+      </message>
+      <message name="IDS_FLAGS_ENABLE_WEB_USB_DESCRIPTION" translateable="false" desc="Description for the flag to enable WebUSB.">
+        Enable WebUSB support.
+      </message>
+
+      <if expr="pp_ifdef('use_opera_desktop_translations')">
+        <if expr="not pp_ifdef('use_titlecase')">
+          <message name="IDS_FLAGS_UI_TITLE" desc="The title of the opera:flags page.">
+            Experiments
+          </message>
+        </if>
+        <if expr="pp_ifdef('use_titlecase')">
+          <message name="IDS_FLAGS_UI_TITLE" desc="In Title Case: The title of the opera:flags page.">
+            Experiments
+          </message>
+        </if>
+        <message name="IDS_FLAGS_UI_DISABLED" desc="Text that signifies that the experiment is currently disabled." meaning="Experiment description">
+          disabled
+        </message>
+        <message name="IDS_FLAGS_UI_SEARCH_TEXT" desc="Placeholder of the search input in the experiments page">
+          Search experiments
+        </message>
+          <message name="IDS_FLAG_DISABLE_AUDIO_FOR_DESKTOP_SHARE" translateable="false" desc="Title for the flag to disable Audio Sharing.">
+          Disable Audio For Desktop Share
+        </message>
+        <message name="IDS_FLAG_DISABLE_AUDIO_FOR_DESKTOP_SHARE_DESCRIPTION" translateable="false" desc="Description for the flag to disable Audio Sharing.">
+          With this flag on, desktop share picker window will not let the user choose whether to share audio.
+        </message>
+        <message name="IDS_FLAG_DISABLE_TAB_FOR_DESKTOP_SHARE" translateable="false" desc="Title for the flag to disable tab for desktop share.">
+          Desktop Share with tab source
+        </message>
+        <message name="IDS_FLAG_DISABLE_TAB_FOR_DESKTOP_SHARE_DESCRIPTION" translateable="false" desc="Description for the flag to disable tab for desktop share.">
+          This flag controls whether users can choose a tab for desktop share.
+        </message>
+        <message name="IDS_FLAG_DISABLE_DESKTOP_CAPTURE_PICKER_OLD_UI" translateable="false" desc="Title for the flag to disable desktop capture picker window new UI.">
+          Disable old desktop capture picker window UI
+        </message>
+        <message name="IDS_FLAG_DISABLE_DESKTOP_CAPTURE_PICKER_OLD_UI_DESCRIPTION" translateable="false" desc="Description for the flag to disable desktop capture picker window new UI.">
+          This flag controls whether we show the old or new UI for desktop capture picker window.
+        </message>
+        <message name="IDS_FLAGS_V8_PAC_MOJO_OUT_OF_PROCESS_NAME" translateable="false" desc="Name of the flag to enable out-of-process V8 proxy resolver.">
+          Out-of-process V8 proxy resolver
+        </message>
+        <message name="IDS_FLAGS_V8_PAC_MOJO_OUT_OF_PROCESS_DESCRIPTION" translateable="false" desc="Description for the flag to enable out-of-process V8 proxy resolver.">
+          Enable the out-of-process V8 proxy resolver, which runs inside of a utility process instead of a browser process.
+        </message>
+        <message name="IDS_FLAGS_V8_CACHE_OPTIONS_NAME" translateable="false" desc="Name of V8 cache options flag">
+          V8 caching mode
+        </message>
+        <message name="IDS_FLAGS_V8_CACHE_OPTIONS_DESCRIPTION" translateable="false" desc="Description of V8 cache options flag">
+          Caching mode for the V8 JavaScript engine.
+        </message>
+        <message name="IDS_FLAGS_V8_CACHE_OPTIONS_PARSE" translateable="false" desc="Name of V8 cache option 'parser'">
+          Cache parsing data.
+        </message>
+        <message name="IDS_FLAGS_V8_CACHE_OPTIONS_CODE" translateable="false" desc="Name of V8 cache option 'code'">
+          Cache generated machine code.
+        </message>
+        <message name="IDS_FLAGS_V8_CACHE_STRATEGIES_FOR_CACHE_STORAGE_NAME" translateable="false" desc="Name of the about::flags setting for V8 cache strategies for CacheStorage. The V8 cache for CacheStorage supports three strategies: disabled; normal; aggressive. This is the option to choose among them.">
+          V8 caching strategy for CacheStorage
+        </message>
+        <message name="IDS_FLAGS_V8_CACHE_STRATEGIES_FOR_CACHE_STORAGE_DESCRIPTION" translateable="false" desc="Description of the about::flags setting for V8 cache strategies for CacheStorage. The V8 cache for CacheStorage supports three strategies: disabled; normal; aggressive.">
+          Caching strategy of scripts in CacheStorage for the V8 JavaScript engine.
+        </message>
+        <message name="IDS_FLAGS_V8_CACHE_STRATEGIES_FOR_CACHE_STORAGE_NORMAL" translateable="false" desc="The V8 cache for CacheStorage supports three strategies: disabled; caching same as if the script is in HTTPCache; force caching on the first load. This option describes the 2nd of these, caching same as if the script is in HTTPCache.">
+          Normal
+        </message>
+        <message name="IDS_FLAGS_V8_CACHE_STRATEGIES_FOR_CACHE_STORAGE_AGGRESSIVE" translateable="false" desc="The V8 cache for CacheStorage supports three strategies: disabled; caching same as if the script is in HTTPCache; force caching on the first load. This option describes the 3rd of these, force caching on the first load.">
+          Aggressive
+        </message>
+        <message name="IDS_FLAGS_IMPL_SIDE_PAINTING_NAME" translateable="false" desc="Name of about:flags option for impl-side painting.">
+          Impl-side painting
+        </message>
+        <message name="IDS_FLAGS_IMPL_SIDE_PAINTING_DESCRIPTION" translateable="false" desc="Description of about:flags option for impl-side painting.">
+          If enabled, painting is done on a separate thread instead of the main thread.
+        </message>
+        <message name="IDS_FLAGS_LCD_TEXT_NAME" translateable="false" desc="Name of about:flags option for LCD text.">
+          LCD text anti-aliasing
+        </message>
+        <message name="IDS_FLAGS_LCD_TEXT_DESCRIPTION" translateable="false" desc="Description of about:flags option for LCD text.">
+          If disabled, text is rendered with grayscale anti-aliasing instead of LCD (subpixel rendering) when doing accelerated compositing.
+        </message>
+        <message name="IDS_FLAGS_DISTANCE_FIELD_TEXT_NAME" translateable="false" desc="Name of about:flags option for distance field text.">
+          Enable distance field text
+        </message>
+        <message name="IDS_FLAGS_DISTANCE_FIELD_TEXT_DESCRIPTION" translateable="false" desc="Description of about:flags option for distance field text.">
+          If enabled, text is rendered with signed distance fields rather than bitmap alpha masks.
+        </message>
+        <message name="IDS_FLAGS_SAVE_PAGE_AS_MHTML_NAME" translateable="false" desc="Name of the 'Save Page as MHTML' lab.">
+          Save Page as MHTML
+        </message>
+        <message name="IDS_FLAGS_SAVE_PAGE_AS_MHTML_DESCRIPTION" translateable="false" desc="Description of the 'Save Page as MHTML' lab.">
+          Disables saving pages as HTML-only or HTML Complete; enables saving pages only as MHTML: a single text file containing HTML and all sub-resources.
+        </message>
+        <message name="IDS_FLAGS_THREADED_SCROLLING_NAME" translateable="false" desc="Title for the flag to disable threaded scrolling.">
+          Threaded scrolling
+        </message>
+        <message name="IDS_FLAGS_THREADED_SCROLLING_DESCRIPTION" translateable="false" desc="Description for the flag to disable threaded scrolling.">
+          Threaded handling of scroll-related input events. Disabling this will force all such scroll events to be handled on the main thread. Note that this can dramatically hurt scrolling performance of most websites and is intended for testing purposes only.
+        </message>
+        <message name="IDS_FLAGS_HARFBUZZ_RENDERTEXT_NAME" translateable="false" desc="Name of the about:flags HarfBuzz RenderText experiment.">
+          HarfBuzz for UI text
+        </message>
+        <message name="IDS_FLAGS_HARFBUZZ_RENDERTEXT_DESCRIPTION" translateable="false" desc="Description of the about:flags HarfBuzz RenderText experiment.">
+          Enable cross-platform HarfBuzz layout engine for UI text. Doesn't affect web content.
+        </message>
+        <message name="IDS_FLAGS_SCROLL_PREDICTION_NAME" translateable="false" desc="Title of the flag which enables scroll prediction.">
+          Scroll prediction
+        </message>
+        <message name="IDS_FLAGS_SCROLL_PREDICTION_DESCRIPTION" translateable="false" desc="Description of the flag to enable scroll prediction.">
+          Predicts the finger's future position during scrolls allowing time to render the frame before the finger is there.
+        </message>
+        <message name="IDS_TOUCH_EVENTS_NAME" translateable="false" desc="Title of the touch-events flag." >
+          Touch events
+        </message>
+        <message name="IDS_TOUCH_EVENTS_DESCRIPTION" translateable="false" desc="Description of the touch-events flag.">
+          Force touchscreen support to always be enabled or disabled, or to be enabled when a touchscreen is detected on startup (Automatic, the default).
+        </message>
+        <message name="IDS_FLAGS_TOUCH_ADJUSTMENT_NAME" translateable="false" desc="Title of the disable touch adjustment flag.">
+          Touch adjustment
+        </message>
+        <message name="IDS_FLAGS_TOUCH_ADJUSTMENT_DESCRIPTION" translateable="false" desc="Description of the disable touch adjustment flag.">
+          Refine the position of a touch gesture in order to compensate for touches having poor resolution compared to a mouse.
+        </message>
+        <message name="IDS_FLAGS_HYPERLINK_AUDITING_NAME" translateable="false" desc="Name of the 'Disable hyperlink auditing' lab.">
+          Hyperlink auditing
+        </message>
+        <message name="IDS_FLAGS_HYPERLINK_AUDITING_DESCRIPTION" translateable="false" desc="Description of the 'Disable hyperlink auditing' lab.">
+          Sends hyperlink auditing pings.
+        </message>
+        <message name="IDS_FLAGS_SMOOTH_SCROLLING_NAME" translateable="false" desc="Name of the smooth scrolling flag">
+          Smooth scrolling
+        </message>
+        <message name="IDS_FLAGS_SMOOTH_SCROLLING_DESCRIPTION" translateable="false" desc="Description of the smooth scrolling flag">
+          Animate smoothly when scrolling page content.
+        </message>
+        <message name="IDS_FLAGS_TOUCH_DRAG_DROP_NAME" translateable="false" desc="Name of the flag that enables touch initiated drag drop.">
+          Touch-initiated drag and drop
+        </message>
+        <message name="IDS_FLAGS_TOUCH_DRAG_DROP_DESCRIPTION" translateable="false" desc="Description of the flag to enable touch initiated drag drop.">
+          Touch drag and drop can be initiated through long press on a draggable element.
+        </message>
+        <message name="IDS_FLAGS_WEBGL2_NAME" translateable="false" desc="Name of the 'Enable WebGL 2.0' flag.">
+          WebGL 2.0 Prototype
+        </message>
+        <message name="IDS_FLAGS_WEBGL2_DESCRIPTION" translateable="false" desc="Description for the flag to enable WebGL 2.0.">
+          Enabling this option allows web applications to access the experimental WebGL 2.0 feature. This option should only be used for application development, and should not be used when browsing arbitrary web sites.
+        </message>
+        <message name="IDS_FLAGS_CREDENTIAL_MANAGER_API_NAME" translateable="false" desc="Name for the flag to enable 'navigator.credentials'.">
+          Experimental Credential Manager API
+        </message>
+        <message name="IDS_FLAGS_CREDENTIAL_MANAGER_API_DESCRIPTION" translateable="false" desc="Description for the flag to enable 'navigator.credentials'.">
+          Enables an experimental implementation of the Credential Manager API. No promises that this won't expose all your passwords to every site on the web; don't enable this unless you know what you're doing.
+        </message>
+        <message name="IDS_FLAGS_REDUCED_REFERRER_GRANULARITY_NAME" translateable="false" desc="Name for the flag to reduce referer granularity.">
+          Reduce default 'referer' header granularity
+        </message>
+        <message name="IDS_FLAGS_REDUCED_REFERRER_GRANULARITY_DESCRIPTION" translateable="false" desc="Description for the flag to reduce referer granularity.">
+          If a page hasn't set an explicit referrer policy, setting this flag will reduce the amount of information in the 'referer' header for cross-origin requests.
+        </message>
+        <message name="IDS_FLAGS_DISALLOW_DOC_WRITTEN_SCRIPTS_UI_NAME" translateable="false" desc="Name of the flag to disallow fetch of scripts inserted into the main frame by document.write.">
+          Block scripts loaded via document.write
+        </message>
+        <message name="IDS_FLAGS_DISALLOW_DOC_WRITTEN_SCRIPTS_UI_DESCRIPTION" translateable="false" desc="Description of the flag to disallow fetch of scripts inserted into the main frame by document.write.">
+          Disallow fetches for third-party parser-blocking scripts inserted into the main frame via document.write.
+        </message>
+        <message name="IDS_FLAGS_WEBRTC_HW_DECODING_NAME" translateable="false" desc="Name of chrome:flags option to turn off WebRTC hardware video decoding support.">
+          WebRTC hardware video decoding
+        </message>
+        <message name="IDS_FLAGS_WEBRTC_HW_DECODING_DESCRIPTION" translateable="false" desc="Description of chrome:flags option to turn off WebRTC hardware video decoding support.">
+          Support in WebRTC for decoding video streams using platform hardware.
+        </message>
+        <message name="IDS_FLAGS_WEBRTC_HW_ENCODING_NAME" translateable="false" desc="Name of chrome:flags option to turn off WebRTC hardware video encoding support.">
+          WebRTC hardware video encoding
+        </message>
+        <message name="IDS_FLAGS_WEBRTC_HW_ENCODING_DESCRIPTION" translateable="false" desc="Description of chrome:flags option to turn off WebRTC hardware video encoding support.">
+          Support in WebRTC for encoding video streams using platform hardware.
+        </message>
+        <message name="IDS_FLAGS_WEBRTC_DTLS12_NAME" translateable="false" desc="Name of chrome:flags option to enable DTLS 1.2 for WebRTC">
+          Negotiation with DTLS 1.2 for WebRTC
+        </message>
+        <message name="IDS_FLAGS_WEBRTC_DTLS12_DESCRIPTION" translateable="false" desc="Description of chrome:flags option to enable DTLS 1.2 for WebRTC">
+          When enabled, WebRTC will try to negotiate DTLS 1.2.
+        </message>
+        <message name="IDS_FLAGS_WEBRTC_STUN_ORIGIN_NAME" translateable="false" desc="Name of chrome:flags option to turn on Origin header for WebRTC STUN messages">
+          WebRTC STUN origin header
+        </message>
+        <message name="IDS_FLAGS_WEBRTC_STUN_ORIGIN_DESCRIPTION" translateable="false" desc="Description of chrome:flags option to turn on Origin header for WebRTC STUN messages">
+          When enabled, STUN messages generated by WebRTC will contain the Origin header.
+        </message>
+        <message name="IDS_FLAGS_AUTOMATIC_PASSWORD_SAVING_NAME" translateable="false" desc="Name of the flag to automatically save password.">
+          Save passwords automatically
+        </message>
+        <message name="IDS_FLAGS_AUTOMATIC_PASSWORD_SAVING_DESCRIPTION" translateable="false" desc="Description of the flag to automatically save password.">
+          Skip the passwords prompt and save passwords automatically.
+        </message>
+        <message name="IDS_FLAGS_DISABLE_PASSWORD_MANAGER_REAUTHENTICATION_NAME" translateable="false" desc="Name of the flag for the password manager reauthentication option.">
+          Disable password manager reauthentication
+        </message>
+        <message name="IDS_FLAGS_DISABLE_PASSWORD_MANAGER_REAUTHENTICATION_DESCRIPTION" translateable="false" desc="Description of the flag for the password manager reauthentication option.">
+          Skip prompting the user for their OS password before revealing passwords on the passwords page.
+        </message>
+        <message name="IDS_FLAGS_OVERLAY_SCROLLBARS_NAME" translateable="false" desc="Title for the flag to turn on overlay scrollbars">
+          Overlay scrollbars
+        </message>
+        <message name="IDS_FLAGS_OVERLAY_SCROLLBARS_DESCRIPTION" translateable="false" desc="Description for the flag to turn on overlay scrollbars">
+          Enable the experimental overlay scrollbars implementation. You must also enable threaded compositing to have the scrollbars animate.
+        </message>
+        <message name="IDS_FLAGS_QUIC_NAME" translateable="false" desc="Title for the flag to enable QUIC.">
+          Experimental QUIC protocol
+        </message>
+        <message name="IDS_FLAGS_QUIC_DESCRIPTION" translateable="false" desc="Description for the flag to enable QUIC.">
+          Enable experimental QUIC protocol support.
+        </message>
+        <message name="IDS_FLAGS_TRY_SUPPORTED_CHANNEL_LAYOUTS_NAME" translateable="false" desc="Title for the flag to enable support for trying supported channel layouts.">
+          Non-default channel layouts for audio output streams
+        </message>
+        <message name="IDS_FLAGS_TRY_SUPPORTED_CHANNEL_LAYOUTS_DESCRIPTION" translateable="false" desc="Description for the flag to enable support for trying supported channel layouts.">
+          Causes audio output streams to check if channel layouts other than the default hardware layout are available. Turning this on will allow the OS to do stereo to surround expansion if supported. May expose third party driver bugs, use with caution.
+        </message>
+        <message name="IDS_FLAGS_SIMPLIFIED_FULLSCREEN_UI_NAME" translateable="false" desc="Name of the flag to enable the new simplified fullscreen and mouse lock UI.">
+          Simplified fullscreen / mouse lock UI
+        </message>
+        <message name="IDS_FLAGS_SIMPLIFIED_FULLSCREEN_UI_DESCRIPTION" translateable="false" desc="Description of the flag to enable the new simplified fullscreen and mouse lock UI.">
+          An experimental new user experience when entering page-triggered fullscreen or mouse pointer lock states.
+        </message>
+        <message name="IDS_FLAGS_ENABLE_WEBFONTS_INTERVENTION_V2_CHOICE_DEFAULT" desc="Text to indicate a experiment group name for enable-webfonts-intervention-v2">
+          Default
+        </message>
+        <message name="IDS_FLAGS_ENABLE_WEBFONTS_INTERVENTION_V2_CHOICE_ENABLED_WITH_2G" desc="Text to indicate a experiment group name for enable-webfonts-intervention-v2">
+          Enabled: 2G
+        </message>
+        <message name="IDS_FLAGS_ENABLE_WEBFONTS_INTERVENTION_V2_CHOICE_ENABLED_WITH_SLOW2G" desc="Text to indicate a experiment group name for enable-webfonts-intervention-v2">
+          Enabled: Slow 2G
+        </message>
+        <message name="IDS_FLAGS_ENABLE_WEBFONTS_INTERVENTION_V2_CHOICE_DISABLED" desc="Text to indicate a experiment group name for enable-webfonts-intervention-v2">
+          Disabled
+        </message>
+        <message name="IDS_FLAGS_FONT_CACHE_SCALING_NAME" desc="Title for the flag to enable FontCache scaling">
+          FontCache scaling
+        </message>
+        <message name="IDS_FLAGS_FONT_CACHE_SCALING_DESCRIPTION" desc="Description for the flag to enable FontCache scaling">
+          Reuse a cached font in the renderer to serve different sizes of font for faster layout.
+        </message>
+        <!-- Flag and values for MHTML Geenrator options lab. -->
+        <message name="IDS_FLAGS_MHTML_GENERATOR_OPTION_NAME" desc="Name of the 'MHTML Generator Options' lab.">
+          MHTML Generation Option
+        </message>
+        <message name="IDS_FLAGS_MHTML_GENERATOR_OPTION_DESCRIPTION" desc="Description of the 'MHTML Generator Options' lab.">
+          Provides experimental options for MHTML file generator.
+        </message>
+        <message name="IDS_FLAGS_MHTML_SKIP_NOSTORE_MAIN">
+          Skips no-store main frame.
+        </message>
+        <message name="IDS_FLAGS_MHTML_SKIP_NOSTORE_ALL">
+          Skips all no-store resources.
+        </message>
+        <message name="IDS_FLAGS_ENABLE_WEAK_MEMORYCACHE_NAME" desc="Title for the flag to enable Weak MemoryCache.">
+          Weak MemoryCache.
+        </message>
+        <message name="IDS_FLAGS_ENABLE_WEAK_MEMORYCACHE_DESCRIPTION" desc="Description for the flag to enable Weak MemoryCache.">
+          Enable Weak MemoryCache.
+        </message>
+
+        <!-- Audio rendering mixing experiment strings. -->
+        <message name="IDS_NEW_AUDIO_RENDERING_MIXING_STRATEGY_NAME" desc="Name of the flag for enabling the new audio rendering mixing strategy.">
+          New audio rendering mixing strategy
+        </message>
+        <message name="IDS_NEW_AUDIO_RENDERING_MIXING_STRATEGY_DESCRIPTION" desc="Description of the flag for enabling the new audio rendering mixing strategy.">
+          Use the new audio rendering mixing strategy.
+        </message>
+
+        <!-- Simple Cache Backend experiment. -->
+        <message name="IDS_FLAGS_SIMPLE_CACHE_BACKEND_NAME" translateable="false" desc="Name of about:flags option to turn on the Simple Cache Backend">
+          Simple Cache for HTTP
+        </message>
+        <message name="IDS_FLAGS_SIMPLE_CACHE_BACKEND_DESCRIPTION" translateable="false" desc="Description of about:flags option to turn on the Simple Cache Backend">
+          The Simple Cache for HTTP is a new cache. It relies on the filesystem for disk space allocation.
+        </message>
+        <!-- Site per process mode -->
+        <message name="IDS_FLAGS_SITE_PER_PROCESS_NAME" translateable="false" desc="Name of about:flag option to turn on experimental out-of-process iframe support">
+          Out-of-process iframes
+        </message>
+        <message name="IDS_FLAGS_SITE_PER_PROCESS_DESCRIPTION" translateable="false" desc="Description of about:flag option to turn on experimental out-of-process iframe support">
+          Highly experimental support for rendering cross-site iframes in separate processes.
+        </message>
+        <!-- Top document isolation mode -->
+        <message name="IDS_FLAGS_TOP_DOCUMENT_ISOLATION_NAME" translateable="false" desc="Name of about:flag option to turn on experimental top document isolation support">
+          Top document isolation
+        </message>
+        <message name="IDS_FLAGS_TOP_DOCUMENT_ISOLATION_DESCRIPTION" translateable="false" desc="Description of about:flag option to turn on top document isolation">
+          Highly experimental performance mode where cross-site iframes are kept in a separate process from the top document. In this mode, iframes from different third-party sites will be allowed to share a process.
+        </message>
+        <message name="IDS_ALLOW_INSECURE_LOCALHOST" translateable="false" desc="Name of the 'Allow insecure localhost' flag.">
+          Allow invalid certificates for resources loaded from localhost
+        </message>
+        <message name="IDS_ALLOW_INSECURE_LOCALHOST_DESCRIPTION" translateable="false" desc="Description of the 'Allow insecure localhost' flag.">
+          Allows requests to localhost over HTTPS even when an invalid certificate is presented.
+        </message>
+        <message name="IDS_GENERIC_EXPERIMENT_CHOICE_DEFAULT_ENABLED" desc="Generic 'Default' experiment choice option name for opera experiments which are enabled by default. E.G. shown in opera experiment options in about:flags.">
+          Default (enabled)
+        </message>
+        <message name="IDS_GENERIC_EXPERIMENT_CHOICE_DEFAULT_DISABLED" desc="Generic 'Default' experiment choice option name for opera experiments which are disabled by default. E.G. shown in opera experiment options in about:flags.">
+          Default (disabled)
+        </message>
+        <message name="IDS_FLAGS_DEVTOOLS_EXPERIMENTS_NAME" translateable="false" desc="Name for the flag to enable experiments in Developer Tools">
+          Developer Tools experiments
+        </message>
+        <message name="IDS_FLAGS_DEVTOOLS_EXPERIMENTS_DESCRIPTION" translateable="false" desc="Description for the flag to enable experiments in Developer Tools.">
+          Enable Developer Tools experiments. Use Settings panel in Developer Tools to toggle individual experiments.
+        </message>
+        <message name="IDS_FLAGS_ACCELERATED_VIDEO_DECODE_NAME" translateable="false" desc="Name of the flag to disable accelerated video decode where available.">
+          Hardware-accelerated video decode
+        </message>
+        <message name="IDS_FLAGS_ACCELERATED_VIDEO_DECODE_DESCRIPTION" translateable="false" desc="Description for the flag to disable accelerated video decode where available.">
+          Hardware-accelerated video decode where available.
+        </message>
+        <message name="IDS_FLAGS_SUGGESTIONS_WITH_SUB_STRING_MATCH_NAME" translateable="false" desc="Name of the flag to enable substring matching for Autofill suggestions.">
+          Substring matching for Autofill suggestions
+        </message>
+        <message name="IDS_FLAGS_SUGGESTIONS_WITH_SUB_STRING_MATCH_DESCRIPTION" translateable="false" desc="Description of the flag to enable substring matching for Autofill suggestions.">
+          Match Autofill suggestions based on substrings (token prefixes) rather than just prefixes.
+        </message>
+        <message name="IDS_FLAGS_ENABLE_AUTOFILL_IGNORE_AUTOCOMPLETE_OFF_NAME" translateable="false" desc="Name of the autofill ignore autocomplete='off' lab">
+          Autofill HTML forms even if the 'autocomplete' attribute is set to 'off'
+        </message>
+        <message name="IDS_FLAGS_ENABLE_AUTOFILL_IGNORE_AUTOCOMPLETE_OFF_DESCRIPTION" translateable="false" desc="Description of the autofill ignore autocomplete='off' lab">
+          Ignore the 'autocomplete' attribute for HTML forms, making it possible to autofill a form even if the webpage otherwise prevents it.
+        </message>
+        <!-- Autofill experiment flags -->
+        <message name="IDS_FLAGS_SINGLE_CLICK_AUTOFILL_NAME" translateable="false" desc="Name of the single click autofill lab">
+          Single-click Autofill
+        </message>
+        <message name="IDS_FLAGS_SINGLE_CLICK_AUTOFILL_DESCRIPTION" translateable="false" desc="Description of the single click autofill lab">
+          Make Autofill suggestions trigger on initial mouse click on a form element.
+        </message>
+      </if>
+      <if expr="is_win">
+        <message name="IDS_FLAGS_MERGE_KEY_CHAR_EVENTS_NAME" translateable="false" desc="Name for the flag to enable/disable merging the key event with char event.">
+          Merge the key event (WM_KEY*) with the char event (WM_CHAR)
+        </message>
+        <message name="IDS_FLAGS_MERGE_KEY_CHAR_EVENTS_DESCRIPTION" translateable="false" desc="Description for the flag to enable/disable merging the key event with char event.">
+          If disabled, Opera will handle WM_KEY* and WM_CHAR separately.
+        </message>
+      </if>
+      <if expr="is_android">
+        <message name="IDS_FLAGS_DISABLE_WEBRTC_NAME" translateable="false" desc="Name of the 'Disable WebRTC' lab.">
+          Disable WebRTC
+        </message>
+        <message name="IDS_FLAGS_DISABLE_WEBRTC_DESCRIPTION" translateable="false" desc="Description for the flag to disable WebRTC.">
+          Enabling this option prevents web applications from accessing the WebRTC API.
+        </message>
+        <message name="IDS_FLAGS_DISABLE_WEBAUDIO_NAME" translateable="false" desc="Name of the 'Disable WebAudio' lab.">
+          Disable WebAudio
+        </message>
+        <message name="IDS_FLAGS_DISABLE_WEBAUDIO_DESCRIPTION" translateable="false" desc="Description for the flag to disable WebAudio.">
+          Enabling this option prevents web sites from accessing the WebAudio API.
+        </message>
+        <message name="IDS_FLAGS_PULL_TO_REFRESH_EFFECT_NAME" translateable="false" desc="Name of the flag for the pull-to-refresh effect.">
+          The pull-to-refresh effect
+        </message>
+        <message name="IDS_FLAGS_PULL_TO_REFRESH_EFFECT_DESCRIPTION" translateable="false" desc="Description of the flag for the pull-to-refresh effect.">
+          Page reloads triggered by vertically overscrolling content.
+        </message>
+        <message name="IDS_FLAGS_ENABLE_WEB_BLUETOOTH_NAME" translateable="false" desc="Name of the flag for the Web Bluetooth API">
+          Web Bluetooth
+        </message>
+        <message name="IDS_FLAGS_ENABLE_WEB_BLUETOOTH_DESCRIPTION" translateable="false" desc="Description of the flag for the Web Bluetooth API.">
+        Enabling this option allows web applications to access the Web Bluetooth API.
+        </message>
+
+        <!-- about:version strings -->
+        <message name="IDS_ABOUT_VERSION_TITLE" desc="Title on the about:version page">
+          About Version
+        </message>
+        <message name="IDS_ABOUT_VERSION_APPLICATION" desc="label for the application on the about:version page">
+          Application
+        </message>
+        <message name="IDS_ABOUT_VERSION_OS" desc="label for the OS on the about:version page">
+          OS
+        </message>
+        <message name="IDS_ABOUT_VERSION_USER_AGENT" desc="label for the user agent on the about:version page">
+          User Agent
+        </message>
+        <message name="IDS_ABOUT_VERSION_COMMAND_LINE" desc="label for the command line on the about:version page">
+          Command Line
+        </message>
+        <message name="IDS_ABOUT_VERSION_BUILD_ID" desc="label for the build identifier on the about:version page">
+          Build ID
+        </message>
+
+        <!-- about:memory strings -->
+
+        <!-- Opera page titles -->
+        <message desc="Title for opera://gpu page to be used in the suggestion list." name="IDS_OPERA_HOST_TITLE_GPU" internal_comment="section(omnibar)">
+          Gpu
+        </message>
+        <message desc="Title for opera://serviceworker-internals page to be used in the suggestion list." name="IDS_OPERA_HOST_TITLE_SERVICE_WORKER_INTERNALS" internal_comment="section(omnibar)">
+          Service worker internals
+        </message>
+        <message desc="Title for opera://about page to be used in the suggestion list." name="IDS_OPERA_HOST_TITLE_ABOUT" internal_comment="section(omnibar)">
+          About
+        </message>
+        <message desc="Title for opera://flags page to be used in the suggestion list." name="IDS_OPERA_HOST_TITLE_FLAGS" internal_comment="section(omnibar)">
+          Flags
+        </message>
+        <message desc="Title for opera://net-internals page to be used in the suggestion list." name="IDS_OPERA_HOST_TITLE_NET_INTERNALS" internal_comment="section(omnibar)">
+          Net internals
+        </message>
+        <message desc="Title for opera://memory page to be used in the suggestion list." name="IDS_OPERA_HOST_TITLE_MEMORY" internal_comment="section(omnibar)">
+          Memory
+        </message>
+        </if>
+    </messages>
+  </release>
+</grit>

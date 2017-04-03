@@ -1,0 +1,73 @@
+Opera Hotlist version 2.0
+Options: encoding = utf8, version=3
+
+#FOLDER
+	ID=33
+	NAME=Trash
+	CREATED=1351608158
+	TRASH FOLDER=YES
+	DELETABLE=NO
+	UNIQUEID=14C645A5B8A3470FB3B52CC32C97E2B8
+
+#URL
+	ID=36
+	NAME=Deleted Boomark
+	URL=http://someurl
+	CREATED=1351610186
+	UNIQUEID=FB790F013F23594FBAE0FDE3785ED8FB
+
+-
+
+#FOLDER
+	ID=34
+	NAME=Folder1
+	CREATED=1351608443
+	DESCRIPTION=This is a folder in root.
+	SHORT NAME=F1
+	ACTIVE=YES
+	EXPANDED=YES
+	UNIQUEID=70157CBD1F949F4F82EB812E711A8954
+
+#URL
+	ID=35
+	NAME=Opera1
+	URL=http://www.opera.com
+	CREATED=1351608465
+	DESCRIPTION=This is a bookmark to Opera. It has a very long description. It has a very long description. It has a very long description. It has a very long description. It has a very long description. It has a very long description. It has a very long description. It has a very long description. It has a very long description. It has a very long description. It has a very long description.
+	SHORT NAME=Op
+	ON PERSONALBAR=YES
+	PERSONALBAR_POS=0
+	IN PANEL=YES
+	PANEL_POS=0
+	UNIQUEID=F0582B365D25B14DA87B9811C33D88AF
+
+#SEPERATOR
+	ID=37
+	UNIQUEID=67266CCECA84064DA18E655CE9FE5994
+
+#URL
+	ID=38
+	NAME=Ebay
+	URL=http://ebay.com
+	CREATED=1351608852
+	UNIQUEID=2A9BE8F7F4FF504084CD97B7B9329EB6
+
+#FOLDER
+	ID=39
+	NAME=Folder2
+	CREATED=1351610348
+	ON PERSONALBAR=YES
+	PERSONALBAR_POS=0
+	UNIQUEID=EFDFAD04AC5537469708D8DA560BFC43
+
+-
+
+-
+
+#URL
+	ID=40
+	NAME=Facebook
+	URL=http://facebook.com
+	CREATED=1351608222
+	UNIQUEID=0072B1FD028B904CA552858815D4E4C6
+

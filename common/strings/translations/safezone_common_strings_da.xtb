@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="da">
+<translation id="3929428121849375048">Avast SafeZone</translation>
+<translation id="806546331937022936">Avast</translation>
+<translation id="3609966143444339170">Avast fraråder på det kraftigste at besøge denne side.</translation>
+<translation id="4206706288435313269">Avast SafeZone Notitscenter</translation>
+<translation id="254978580676301713">SafeZone - notitser</translation>
+<translation id="8084325208922689406">SafeZone - notitser (<ph name="QUANTITY"/> ulæste)</translation>
+<translation id="678670207776683961">SafeZone - Notitser</translation>
+<translation id="191361968702850015">SafeZone - Notitser (<ph name="QUANTITY"/> ulæste)</translation>
+<translation id="1359674843509087498">Webstedet bruger forældede sikkerhedsindstillinger, der kan forhindre, at fremtidige versioner af SafeZone kan få sikker adgang til det.</translation>
+<translation id="3485921796584936414">Tillad, at SafeZone har adgang til netværket i dine indstillinger for firewall eller antivirus.</translation>
+<translation id="7041993155087650094">Gå til SafeZone-menuen &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; LAN-indstillinger, og fjern markeringen i "Brug en proxyserver til LAN".</translation>
+<translation id="5366394231680131980">Dine ændringer træder i kraft, når du genstarter SafeZone.</translation>
+<translation id="6964843943881946410">Indtast adgangskoden til din computer, hvis du vil se SafeZones gemte adgangskoder.</translation>
+</translationbundle>

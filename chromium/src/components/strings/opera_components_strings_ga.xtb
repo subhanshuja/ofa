@@ -1,0 +1,375 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="ga">
+<translation id="113188000913989374">Deir <ph name="SITE"/>:</translation>
+<translation id="5544037170328430102">Deir leathanach leabaithe ag <ph name="SITE"/>:</translation>
+<translation id="8866959479196209191">Deir an leathanach seo:</translation>
+<translation id="7424977062513257142">Deir leathanach leabaithe ar an leathanach gréasáin seo:</translation>
+<translation id="333371639341676808">Coisc an leathanach seo ó bhoscaí dialóige breise a chruthú.</translation>
+<translation id="5622887735448669177">An bhfuil fonn ort imeacht ón suíomh seo?</translation>
+<translation id="425582637250725228">Is féidir nach sábhálfar athruithe a rinne tú.</translation>
+<translation id="2677748264148917807">Imigh</translation>
+<translation id="662080504995468778">Fan</translation>
+<translation id="3032412215588512954">An bhfuil fonn ort an suíomh seo a athlódáil?</translation>
+<translation id="5556459405103347317">Athlódáil</translation>
+<translation id="2889159643044928134">Ná hAthlódáil</translation>
+<translation id="2835170189407361413">Glan an fhoirm</translation>
+<translation id="935608979562296692">GLAN AN FHOIRM</translation>
+<translation id="5029568752722684782">Glan an chóip</translation>
+<translation id="2455981314101692989">Tá uathlíonadh na foirme seo díchumasaithe ar an leathanach gréasáin seo.</translation>
+<translation id="7542995811387359312">Tá uathlíonadh cárta creidmheasa díchumasaithe de bhrí nach bhfuil nasc slán in úsáid ag an bhfoirm seo.</translation>
+<translation id="8483780878231876732">Chun cártaí ó do Chuntas Google a úsáid, sínigh isteach i Chrome</translation>
+<translation id="7813600968533626083">Bain moltaí foirme de Chrome?</translation>
+<translation id="7569952961197462199">Bain cárta creidmheasa de Chrome?</translation>
+<translation id="4587425331216688090">Bain seoladh de Chrome?</translation>
+<translation id="6671697161687535275">Bain moltaí foirme de Chromium?</translation>
+<translation id="7637571805876720304">Bain cárta creidmheasa de Chromium?</translation>
+<translation id="6218753634732582820">Bain seoladh de Chromium?</translation>
+<translation id="4148925816941278100">American Express</translation>
+<translation id="1734864079702812349">Amex</translation>
+<translation id="933712198907837967">Diners Club</translation>
+<translation id="3169472444629675720">Discover</translation>
+<translation id="6008256403891681546">JCB</translation>
+<translation id="3450660100078934250">MasterCard</translation>
+<translation id="7012363358306927923">China UnionPay</translation>
+<translation id="719464814642662924">Visa</translation>
+<translation id="2113977810652731515">Cárta</translation>
+<translation id="4668929960204016307">, </translation>
+<translation id="5089810972385038852">Tír</translation>
+<translation id="6839929833149231406">Ceantar</translation>
+<translation id="7087282848513945231">Contae</translation>
+<translation id="2096368010154057602">Roinn</translation>
+<translation id="6970216967273061347">Dúiche</translation>
+<translation id="7139724024395191329">Eimríocht</translation>
+<translation id="3174168572213147020">Oileán</translation>
+<translation id="3885155851504623709">Paróiste</translation>
+<translation id="777702478322588152">Maoracht</translation>
+<translation id="5095208057601539847">Cúige</translation>
+<translation id="2053553514270667976">Cód poist</translation>
+<translation id="6282194474023008486">Cód poist</translation>
+<translation id="6445051938772793705">Tír</translation>
+<translation id="8804164990146287819">Beartas príobháideachais</translation>
+<translation id="1132774398110320017">Socruithe uathlíonta Chrome...</translation>
+<translation id="1344588688991793829">Socruithe uathlíonta Chromium...</translation>
+<translation id="3340978935015468852">socruithe</translation>
+<translation id="8530504477309582336">Níl tacú in Google Payments don chineál cárta seo. Roghnaigh cárta eile.</translation>
+<translation id="59107663811261420">Níl tacú in Google Payments don chineál cárta seo i gcás an díoltóra seo. Roghnaigh cárta eile.</translation>
+<translation id="8834246243508017242">Cumasaigh Uathlíonadh le Teagmhálaithe…</translation>
+<translation id="2498091847651709837">Scan cárta nua</translation>
+<translation id="3542684924769048008">Úsáid pasfhocal le haghaidh:</translation>
+<translation id="5786044859038896871">An bhfuil fonn ort d'fhaisnéis chárta a líonadh isteach?</translation>
+<translation id="5803412860119678065">An bhfuil fonn ort do <ph name="CARD_DETAIL"/> a líonadh isteach?</translation>
+<translation id="2463739503403862330">Líon isteach</translation>
+<translation id="5317780077021120954">Sábháil</translation>
+<translation id="1629803312968146339">An bhfuil tú cinnte gur mhaith leat go sábhálfadh Chrome an cárta seo?</translation>
+<translation id="4169947484918424451">An bhfuil tú cinnte gur mhaith leat go sábhálfadh Chromium an cárta seo?</translation>
+<translation id="8931333241327730545">An bhfuil tú cinnte gur mhaith leat an cárta seo a shábháil chuig do Chuntas Google?</translation>
+<translation id="7578104083680115302">Íoc go tapa ar shuíomhanna agus ar fheidhmchláir ar ghléasanna éagsúla le cártaí atá sábháilte agat ar Google.</translation>
+<translation id="7613889955535752492">Exp: <ph name="EXPIRATION_MONTH"/>/<ph name="EXPIRATION_YEAR"/></translation>
+<translation id="7887683347370398519">Seiceáil do CVC agus triail arís é</translation>
+<translation id="4800132727771399293">Seiceáil do dháta éaga agus CVC agus triail arís é</translation>
+<translation id="3063697135517575841">Ní féidir le Chrome do chárta a dheimhniú faoi láthair. Triail arís níos déanaí é.</translation>
+<translation id="2704951214193499422">Ní féidir le Chromium do chárta a dheimhniú faoi láthair. Triail arís ar ball é.</translation>
+<translation id="5784606427469807560">Ní féidir do chárta a dheimhniú. Seiceáil do nasc idirlín agus triail arís é.</translation>
+<translation id="323107829343500871">Iontráil an CVC le haghaidh <ph name="CREDIT_CARD"/></translation>
+<translation id="962701380617707048">Iontráil an dáta éaga agus CVC le haghaidh <ph name="CREDIT_CARD"/> chun sonraí do chárta a nuashonrú</translation>
+<translation id="8877192140621905067">Tar éis é a dheimhniú, comhroinnfear sonraí do chárta leis an suíomh seo</translation>
+<translation id="7390545607259442187">Deimhnigh cárta</translation>
+<translation id="3008447029300691911">Iontráil an CVC le haghaidh <ph name="CREDIT_CARD"/>. Tar éis é a dheimhniú, comhroinnfear sonraí do chárta leis an suíomh seo.</translation>
+<translation id="724975217298816891">Iontráil an dáta éaga agus CVC le haghaidh <ph name="CREDIT_CARD"/> chun sonraí do chárta a nuashonrú. Tar éis é a dheimhniú, comhroinnfear sonraí do chárta leis an suíomh seo.</translation>
+<translation id="3539171420378717834">Coimeád cóip den chárta seo ar an ngléas seo</translation>
+<translation id="1107591249535594099">Ach é seo a thiceáil, coimeádfaidh Chrome cóip den chárta seo ar an ngléas seo chun foirmeacha a líonadh go tapa.</translation>
+<translation id="2495093607237746763">Ach é seo a thiceáil, coimeádfaidh Chromium cóip den chárta seo ar an ngléas seo chun foirmeacha a líonadh go tapa.</translation>
+<translation id="5002932099480077015">Ach é seo a chumasú, coimeádfaidh Chrome cóip den chárta seo ar an ngléas seo chun foirmeacha a líonadh go tapa.</translation>
+<translation id="2985306909656435243">Ach é seo a chumasú, coimeádfaidh Chromium cóip den chárta seo ar an ngléas seo chun foirmeacha a líonadh go tapa.</translation>
+<translation id="8131740175452115882">Deimhnigh</translation>
+<translation id="7469372306589899959">Cárta á dheimhniú</translation>
+<translation id="6895330447102777224">Tá do chárta deimhnithe</translation>
+<translation id="3901925938762663762">Tá an cárta éagtha</translation>
+<translation id="7378810950367401542">/</translation>
+<translation id="230155334948463882">Cárta nua?</translation>
+<translation id="6820686453637990663">CVC</translation>
+<translation id="8349305172487531364">Barra na leabharmharc</translation>
+<translation id="5190835502935405962">Barra na Leabharmharc</translation>
+<translation id="106701514854093668">Leabharmhairc Deisce</translation>
+<translation id="2985817184168264963">Leabharmhairc neamhshórtáilte</translation>
+<translation id="7365825044069934695">M'Fhillteáin</translation>
+<translation id="2873951654529031587">Dramhaíl</translation>
+<translation id="7956713633345437162">Leabharmhairc fón póca</translation>
+<translation id="2354001756790975382">Leabharmhairc eile</translation>
+<translation id="6263376278284652872"><ph name="DOMAIN"/> leabharmhairc</translation>
+<translation id="5509780412636533143">Leabharmhairc faoi bhainistiú</translation>
+<translation id="4300246636397505754">Moltaí tuismitheoirí</translation>
+<translation id="213826338245044447">Leabharmhairc Fón Póca</translation>
+<translation id="883848425547221593">Leabharmhairc Eile</translation>
+<translation id="1962204205936693436"><ph name="DOMAIN"/> Leabharmhairc</translation>
+<translation id="7275334191706090484">Leabharmhairc faoi Bhainistiú</translation>
+<translation id="5872918882028971132">Moltaí Tuismitheoirí</translation>
+<translation id="1181037720776840403">Bain</translation>
+<translation id="939736085109172342">Fillteán nua</translation>
+<translation id="2149973817440762519">Cuir Leabharmharc in eagar</translation>
+<translation id="5327248766486351172">Ainm</translation>
+<translation id="7400418766976504921">URL</translation>
+<translation id="1254117744268754948">Roghnaigh Fillteán</translation>
+<translation id="8293206222192510085">Cuir Leabharmharc Leis</translation>
+<translation id="5857090052475505287">Fillteán Nua</translation>
+<translation id="6656103420185847513">Cuir Fillteán in Eagar</translation>
+<translation id="7912024687060120840">I bhFillteán:</translation>
+<translation id="3527085408025491307">Fillteán</translation>
+<translation id="3254409185687681395">Leabharmharcáil an leathanach seo</translation>
+<translation id="8428213095426709021">Socruithe</translation>
+<translation id="5801568494490449797">Sainroghanna</translation>
+<translation id="765676359832457558">Folaigh ardsocruithe...</translation>
+<translation id="2415454585822379970">Taispeáin ardsocruithe</translation>
+<translation id="6989763994942163495">Taispeáin ardsocruithe...</translation>
+<translation id="5737306429639033676">Tuar gníomhartha líonra chun feidhmíocht lódála leathanaigh a fheabhsú</translation>
+<translation id="9038649477754266430">Úsáid seirbhís tuarthach chun leathanaigh a lódáil ar shlí níos tapa</translation>
+<translation id="3355823806454867987">Athraigh socruithe seachfhreastalaí...</translation>
+<translation id="7823073559911777904">Athraigh Socruithe Seachfhreastalaí...</translation>
+<translation id="4231205248927312226">Deimhnigh seoladh na foirme</translation>
+<translation id="6451458296329894277">Deimhnigh athsheoladh na foirme</translation>
+<translation id="8241707690549784388">D'úsáid an leathanach atá uait faisnéis a d'iontráil tú. Má fhilleann tú ar an leathanach sin d'fhéadfaí aon ghníomh a rinne tú a athdhéanamh. An bhfuil fonn ort leanúint ar aghaidh?</translation>
+<translation id="2359808026110333948">Lean ar aghaidh</translation>
+<translation id="4522570452068850558">Sonraí</translation>
+<translation id="3586931643579894722">Folaigh sonraí</translation>
+<translation id="8962083179518285172">Folaigh Sonraí</translation>
+<translation id="6042308850641462728">Tuilleadh</translation>
+<translation id="2089090684895656482">Níos lú</translation>
+<translation id="3005723025932146533">Taispeáin an chóip shábháilte</translation>
+<translation id="1506687042165942984">Taispeáin cóip shábháilte (i.e. cóip ar fios é a bheith as dáta) den leathanach seo.</translation>
+<translation id="3447661539832366887">Chas úinéir an ghléis seo an cluiche díneasáir as.</translation>
+<translation id="1152921474424827756">Oscail <ph name="BEGIN_LINK"/>cóip taiscthe de<ph name="END_LINK"/> de <ph name="URL"/></translation>
+<translation id="2030481566774242610">Arbh é <ph name="LINK"/> a bhí uait?</translation>
+<translation id="194030505837763158">Gabh chuig <ph name="LINK"/></translation>
+<translation id="3226128629678568754">Brúigh an cnaipe athlódála chun na sonraí is gá a athchur chun an leathanach seo a lódáil.</translation>
+<translation id="3155309969919037916">Seiceáil do nasc idirlín.</translation>
+<translation id="6203231073485539293">Seiceáil do nasc idirlín</translation>
+<translation id="1519957265434608160">Seiceáil aon cháblaí agus athbhútáil aon ródairí, móideimí, nó gléasanna eile líonra atá in úsáid agat.</translation>
+<translation id="6146055958333702838">Seiceáil aon cháblaí agus athbhútáil aon ródairí, móideimí, nó gléasanna eile
+    líonra atá in úsáid agat.</translation>
+<translation id="2319236583141234177">Seiceáil do shocruithe DNS.</translation>
+<translation id="6321917430147971392">Seiceáil do shocruithe DNS</translation>
+<translation id="8289355894181816810">Déan teagmháil le riarthóir do líonra mura bhfuil tú cinnte cén chiall atá leis seo.</translation>
+<translation id="5573959367212558217">Triail tuar líonra a dhíchumasú.</translation>
+<translation id="6328639280570009161">Triail tuar líonra a dhíchumasú</translation>
+<translation id="3630155396527302611">Má tá sé liostaithe cheana féin mar ríomhchlár atá ceadaithe chun an líonra a rochtain, triail é a bhaint den liosta agus é a chur leis arís.</translation>
+<translation id="382518646247711829">Má úsáideann tú seachfhreastalaí...</translation>
+<translation id="8454634452929957533">Seiceáil do sheachshocruithe nó déan teagmháil le riarthóir do líonra le cinntiú go bhfuil an seachfhreastalaí ag obair. Más dóigh leat nár cheart seachfhreastalaí a bheith in úsáid agat: <ph name="PLATFORM_TEXT"/></translation>
+<translation id="3176929007561373547">Seiceáil do sheachshocruithe nó déan teagmháil le riarthóir do líonra le
+      cinntiú go bhfuil an freastalaí ag obair. Más dóigh leat nár cheart
+      seachfhreastalaí a bheith in úsáid agat:
+      <ph name="PLATFORM_TEXT"/></translation>
+<translation id="2948083400971632585">Aon seachfhreastalaithe atá cumraithe le haghaidh naisc, is féidir é a dhíchumasú ón leathanach socruithe.</translation>
+<translation id="5023310440958281426">Seiceáil beartais do riarthóra</translation>
+<translation id="4103763322291513355">Oscail &lt;strong&gt;chrome://policy&lt;/strong&gt; go bhfeice tú liosta na URL bactha agus beartais eile a fhorfheidhmíonn riarthóir do chórais.</translation>
+<translation id="1645368109819982629">Prótacal neamhthacaithe</translation>
+<translation id="4075732493274867456">Ní thacaíonn an cliant agus an seachfhreastalaí le leagan coiteann prótacail SSL ná le sraith sifear.</translation>
+<translation id="5869405914158311789">Níl féidir an suíomh a shroicheadh</translation>
+<translation id="2292556288342944218">Tá do rochtain ar an Idirlíon bactha</translation>
+<translation id="933612690413056017">Níl aon nasc Idirlín ann</translation>
+<translation id="3093245981617870298">Tá tú as líne.</translation>
+<translation id="7716424297397655342">Ní féidir an suíomh seo a lódáil ón taisce</translation>
+<translation id="4708268264240856090">Rinneadh do nasc a idirbhriseadh</translation>
+<translation id="5452270690849572955">Ní féidir an leathanach <ph name="HOST_NAME"/> seo a aimsiú</translation>
+<translation id="5431657950005405462">Níor aimsíodh do chomhad</translation>
+<translation id="7269802741830436641">Tá lúb atreoraithe ag an leathanach gréasáin seo</translation>
+<translation id="778579833039460630">Ní bhfuarthas aon sonraí</translation>
+<translation id="3973234410852337861">Tá <ph name="HOST_NAME"/> bactha</translation>
+<translation id="4764776831041365478">Is féidir go bhfuil an leathanach gréasáin ag <ph name="URL"/> a bheith thíos go sealadach nó is féidir gur bogadh é chuig seoladh nua gréasáin.</translation>
+<translation id="8498891568109133222">Bhí <ph name="HOST_NAME"/> rómhall ag freagairt.</translation>
+<translation id="2784949926578158345">Athshocraíodh an nasc.</translation>
+<translation id="1158211211994409885">Dhún <ph name="HOST_NAME"/> an nasc gan choinne.</translation>
+<translation id="3422472998109090673">Ní féidir <ph name="HOST_NAME"/> a rochtain faoi láthair.</translation>
+<translation id="2909946352844186028">Braitheadh athrú líonra.</translation>
+<translation id="6433595998831338502">Dhiúltaigh <ph name="HOST_NAME"/> nascadh.</translation>
+<translation id="8134994873729925007">I gcás freastalaí <ph name="HOST_NAME"/>, níorbh fhéidir an <ph name="BEGIN_ABBR"/>seoladh DNS<ph name="END_ABBR"/> a aimsiú.</translation>
+<translation id="4021036232240155012">Is é DNS an tseirbhís líonra a aistríonn ainm suímh gréasáin isteach ina sheoladh Idirlín.</translation>
+<translation id="5492298309214877701">Tá an URL céanna ag an gcuideachta, eagraíocht nó inlíon scoile seo agus atá ag suíomh gréasáin seachtrach.
+   <ph name="LINE_BREAK"/>
+   Bain triail as teagmháil a dhéanamh le riarthóir do chórais.</translation>
+<translation id="6305205051461490394">Ní féidir <ph name="URL"/> a rochtain.</translation>
+<translation id="8150722005171944719">Níl an comhad ag <ph name="URL"/> inléite. Is féidir go bhfuil sé bainte, bogtha, nó is féidir go gcoisceann ceadanna comhaid rochtain air.</translation>
+<translation id="7758069387465995638">Is féidir gur bhac balla dóiteáin nó bogearraí frithvíreas an nasc.</translation>
+<translation id="6711464428925977395">Tá rud éigin cearr leis an seachfhreastalaí, sin nó tá an seoladh mícheart.</translation>
+<translation id="2705137772291741111">Bhí cóip shábháilte (taiscithe) an láithreáin seo doléite.</translation>
+<translation id="6757797048963528358">Chuaigh do ghléas a chodladh.</translation>
+<translation id="8149426793427495338">Chuaigh do ríomhaire a chodladh.</translation>
+<translation id="7518003948725431193">Ní bhfuarthas aon leathanach gréasáin le haghaidh an tseolta ghréasáin seo: <ph name="URL"/></translation>
+<translation id="5510766032865166053">Is féidir gur baineadh nó gur scriosadh é.</translation>
+<translation id="5617949217645503996">D'atreoraigh <ph name="HOST_NAME"/> thú an iomarca amanna.</translation>
+<translation id="139305205187523129">Níor sheol <ph name="HOST_NAME"/> aon sonraí.</translation>
+<translation id="255002559098805027">Sheol <ph name="HOST_NAME"/> freagairt neamhbhailí.</translation>
+<translation id="8740359287975076522">Níorbh fhéidir <ph name="HOST_NAME"/> &lt;abbr id="dnsDefinition"&gt;seoladh DNS&lt;/abbr&gt; a aimsiú. An fhadhb á diagnóisiú.</translation>
+<translation id="8332188693563227489">Diúltaíodh rochtain ar <ph name="HOST_NAME"/></translation>
+<translation id="2650446666397867134">Diúltaíodh rochtain ar an gcomhad</translation>
+<translation id="3109728660330352905">Níl an t-údarú agat chun an leathanach seo a fheiceáil.</translation>
+<translation id="9092364396508701805">Níl leathanach <ph name="HOST_NAME"/> ag obair</translation>
+<translation id="759889825892636187">Níl <ph name="HOST_NAME"/> in ann an t-iarratas seo a láimhsiú faoi láthair.</translation>
+<translation id="6830600606572693159">Níl an leathanach gréasáin ag <ph name="URL"/> ar fáil faoi láthair. Is féidir go bhfuil sé ró-ualaithe nó thíos le haghaidh cothabhála.</translation>
+<translation id="7210863904660874423">Ní chloíonn <ph name="HOST_NAME"/> le caighdeáin slándála.</translation>
+<translation id="5228309736894624122">Earráid prótacail SSL.</translation>
+<translation id="2803407661478021186">Bhí tacachumas SSLv3 in ann lámh a chroitheadh leis an bhfreastalaí seo, ach ní ghlacaimid níos mó le tacachumais SSLv3 de bharr ionsaithe nua in aghaidh an phrótacail. Ní mór an freastalaí a uasdátú chun tacú le TLS 1.0 ar a laghad agus le TLS 1.2 de rogha air sin.</translation>
+<translation id="5900623698597156974">Bhí tacachumas TLS 1.0 in ann lámh a chroitheadh leis an bhfreastalaí, ach ní ghlacaimid níos mó le tacachumais TLS 1.0. Ní mór an freastalaí a uasdátú chun idirbheartú leagain a chur chun feidhme i gceart agus tacú de rogha le TLS 1.2.</translation>
+<translation id="9183425211371246419">Úsáideann <ph name="HOST_NAME"/> prótacal neamhthacaithe.</translation>
+<translation id="5283991396172801811">Ní féidir leis an mbrabhsálaí agus an freastalaí aontú maidir leis an leagan den TLS agus svuít sifir is cóir a úsaid. Is féidir gurb é an chúis leis sin nach bhfuil tacú sa fhreastalaí ach do sheanphrótacail, e.g. SSL leagan 3 amháin.</translation>
+<translation id="284702764277384724">Is cosúil gur brionnú é an deimhniú freastalaí ag <ph name="HOST_NAME"/>.</translation>
+<translation id="2166378884831602661">Ní féidir leis an suíomh nasc slán a sholáthar</translation>
+<translation id="1911837502049945214">Níor ghlac <ph name="HOST_NAME"/> le do dheimhniú logála isteach, nó is féidir go bhfuil do dheimhniú logála isteach éagtha.</translation>
+<translation id="5990559369517809815">Tá iarratais chuig an bhfreastalaí bactha ag breisiú.</translation>
+<translation id="8225771182978767009">Roghnaigh an duine a chumraigh an ríomhaire seo an suíomh seo a bhacadh.</translation>
+<translation id="8315720913203253727">Tá sonraí a d'iontráil tú roimhe seo de dhíth ar an leathanach gréasáin seo chun é a thaispeáint i gceart. Is féidir na sonraí sin a sheoladh arís, ach má dhéanann athdhéanfaidh tú aon bheart a rinneadh roimhe seo ar an leathanach seo. Brúigh Athlódáil chun na sonraí sin a athsheoladh agus an leathanach seo a thaispeáint.</translation>
+<translation id="7549584377607005141">Tá sonraí a d'iontráil tú roimhe seo de dhíth ar an leathanach gréasáin seo chun é a thaispeáint i gceart. Is féidir na sonraí sin a sheoladh arís, ach má dhéanann athdhéanfaidh tú aon bheart a rinneadh roimhe seo ar an leathanach seo.</translation>
+<translation id="614940544461990577">Triail:</translation>
+<translation id="5610142619324316209">An nasc á sheiceáil</translation>
+<translation id="3717027428350673159"><ph name="BEGIN_LINK"/>An seachfhreastalaí, an balla dóiteáin agus cumraíocht DNS á seiceáil<ph name="END_LINK"/></translation>
+<translation id="4203896806696719780"><ph name="BEGIN_LINK"/>An balla dóiteáin agus cumraíochta frithvíreas á seiceáil<ph name="END_LINK"/></translation>
+<translation id="2032962459168915086"><ph name="BEGIN_LINK"/>An seachfhreastalaí agus an balla dóiteáin á seiceáil<ph name="END_LINK"/></translation>
+<translation id="5070335125961472645"><ph name="BEGIN_LINK"/>Seoladh an sheachfhreastalaí á sheiceáil<ph name="END_LINK"/></translation>
+<translation id="4506599922270137252">Teagmháil á déanamh le riarthóir an chórais</translation>
+<translation id="1734878702283171397">Bain triail as teagmháil a dhéanamh le riarthóir an chórais.</translation>
+<translation id="7451311239929941790"><ph name="BEGIN_LINK"/>Ag foghlaim tuileadh<ph name="END_LINK"/> faoin bhfadhb seo.</translation>
+<translation id="721197778055552897"><ph name="BEGIN_LINK"/>Foghlaim tuileadh<ph name="END_LINK"/> faoin bhfadhb seo.</translation>
+<translation id="129863573139666797"><ph name="BEGIN_LINK"/>Triail do chuacha a ghlanadh<ph name="END_LINK"/></translation>
+<translation id="8363502534493474904">Mód eitleáin á chasadh as</translation>
+<translation id="3714780639079136834">Sonraí móibíleacha nó Wi-Fi á chasadh air</translation>
+<translation id="2515629240566999685">An comhartha i do cheantar á sheiceáil</translation>
+<translation id="4130226655945681476">Cáblaí, móideim agus an ródaire líonra á seiceáil</translation>
+<translation id="1161325031994447685">Ag athcheangal le Wi-Fi</translation>
+<translation id="2230458221926704099">Deisigh do nasc leis an <ph name="BEGIN_LINK"/>bhfeidhmchlár diagnóisice<ph name="END_LINK"/></translation>
+<translation id="6685834062052613830">Sínigh amach agus críochnaigh an chumraíocht</translation>
+<translation id="4558551763791394412">Triail do bhreisithe a dhíchumasú.</translation>
+<translation id="7090678807593890770">Cuardaigh <ph name="LINK"/> ar Google</translation>
+<translation id="2467694685043708798"><ph name="BEGIN_LINK"/>Diagnóisic Líonra á rith<ph name="END_LINK"/></translation>
+<translation id="4226937834893929579"><ph name="BEGIN_LINK"/>Triail Diagnóisic Líonra a rith<ph name="END_LINK"/>.</translation>
+<translation id="4722547256916164131"><ph name="BEGIN_LINK"/>Diagnóisic Líonra Windows á rith<ph name="END_LINK"/></translation>
+<translation id="1768211456781949159"><ph name="BEGIN_LINK"/>Triail Diagnóisic Líonra Windows a rith<ph name="END_LINK"/>.</translation>
+<translation id="2730326759066348565"><ph name="BEGIN_LINK"/>Diagnóisic Nascachta á rith<ph name="END_LINK"/></translation>
+<translation id="31207688938192855"><ph name="BEGIN_LINK"/>Triail Diagnóisic Nascachta a rith<ph name="END_LINK"/></translation>
+<translation id="7793809570500803535">Is féidir go bhfuil an leathanach gréasáin ag <ph name="SITE"/> a bheith thíos go sealadach nó is féidir gur bogadh é chuig seoladh nua gréasáin.</translation>
+<translation id="6060685159320643512">Bí cúramach, d'fhéadfadh na trialacha seo greim a bhaint asat</translation>
+<translation id="5199729219167945352">Trialacha</translation>
+<translation id="404928562651467259">FOLÁIREAMH</translation>
+<translation id="3648607100222897006">D'fhéadfadh na gnéithe trialacha seo athrú, briseadh, nó imeacht uair ar bith. Ní thugaimid aon ráthaíocht ar chor ar bith faoina bhféadfadh tarlú má chasann tú aon cheann de na trialacha air, agus is féidir go ndófadh do bhrabhsalaí uaidh féin go spontáineach. Gan fiacail a chur ann, d'fhéadfadh do bhrabhsálaí don shonraí uile a scriosadh, nó d'fhéadfaí do shlándáil agus do phríobháideacht a chur i gcontúirt ar shlite nach mbeadh coinne agat leo. Aon trialacha a chumasóidh tú, beidh siad cumasaithe done uile úsáideoir den bhrabhsálaí seo. Bí cúramach agus tú ag dul ar aghaidh.</translation>
+<translation id="6387478394221739770">An spéis leat gnéithe nua Chrome? Bain triail as ár gcainéal béite ag chrome.com/beta.</translation>
+<translation id="7674629440242451245">An spéis leat gnéithe nua Chrome? Bain triail as ár gcainéal forbartha ag chrome.com/dev.</translation>
+<translation id="4394049700291259645">Díchumasaigh</translation>
+<translation id="3435896845095436175">Cumasaigh</translation>
+<translation id="8647750283161643317">Athshocraigh gach ceann ag réamhshocrú</translation>
+<translation id="2282872951544483773">Trialacha nach bhfuil ar fáil</translation>
+<translation id="889901481107108152">Ár leithscéal, níl an triail seo ar fáil ar d'árdánsa.</translation>
+<translation id="2128531968068887769">Cliant Dúchasach</translation>
+<translation id="7179921470347911571">Athsheol Anois</translation>
+<translation id="3286538390144397061">Atosaigh Anois</translation>
+<translation id="901974403500617787">Flags that apply system-wide can only be set by the owner: <ph name="OWNER_EMAIL"/>.</translation>
+<translation id="604124094241169006">Uathoibríoch</translation>
+<translation id="8798099450830957504">Réamhshocraithe</translation>
+<translation id="59174027418879706">Cumasaithe</translation>
+<translation id="4176463684765177261">Díchumasaithe</translation>
+<translation id="2516305470678292029">UI Malartacha</translation>
+<translation id="237718015863234333">Níl aon UI malartach ar fáil</translation>
+<translation id="2905347027687583044">Sínigh Isteach</translation>
+<translation id="5388588172257446328">Ainm Úsáideora:</translation>
+<translation id="3693415264595406141">Pasfhocal:</translation>
+<translation id="8286036467436129157">Sínigh Isteach</translation>
+<translation id="4013794286379809233">Sínigh isteach</translation>
+<translation id="3950820424414687140">Sínigh isteach</translation>
+<translation id="2065985942032347596">Fíordheimhniú de Dhíth</translation>
+<translation id="2317259163369394535">Tá ainm úsáideora agus pasfhocal de dhíth ar <ph name="DOMAIN"/>.</translation>
+<translation id="9001074447101275817">Tá ainm úsáideora agus pasfhocal de dhíth ar sheachfhreastalaí <ph name="DOMAIN"/>.</translation>
+<translation id="4381091992796011497">Ainm Úsáideora:</translation>
+<translation id="4304224509867189079">Logáil Isteach</translation>
+<translation id="1232569758102978740">Gan teideal</translation>
+<translation id="4325510092712699937">Thuairteáil an leathanach</translation>
+<translation id="3638100076508518786">Ar an drochuair, scoir an leathanach seo ar chúis éigin. Is féidir gur coinbhleacht breisithe nó cúis éigin eile atá leis.</translation>
+<translation id="7283651035050528610">Bain triail as an leathanach a athlódáil, nó déan nascleanúint chuig leathanach eile chun leanúint ar aghaidh.</translation>
+<translation id="1713401550786096559">Tuilleadh maidir leis an earráid seo</translation>
+<translation id="7221869452894271364">Athlódáil an leathanach seo</translation>
+<translation id="8053390638574070785">Athlódáil an Leathanach seo</translation>
+<translation id="3037605927509011580">Á, Léim!</translation>
+<translation id="1583429793053364125">Bhí rud éigin cearr fad a bhí an leathanach gréasáin seo á thaispeáint.</translation>
+<translation id="2900469785430194048">Tháinig Google Chrome chun deireadh na cuimhne agus é ag iarraidh an leathanach gréasáin seo a thaispeáint.</translation>
+<translation id="6389758589412724634">Tháinig Chromium chun deireadh na cuimhne agus é ag iarraidh an leathanach gréasáin a thaispeáint.</translation>
+<translation id="3655670868607891010">Má fheiceann tú é seo go minic, bain triail as na <ph name="HELP_LINK"/> seo.</translation>
+<translation id="1374468813861204354">moltaí</translation>
+<translation id="7554791636758816595">Táb Nua</translation>
+<translation id="8728672262656704056">Tá tú incognito anois</translation>
+<translation id="3167968892399408617">Leathanaigh a osclaíonn tú i dtáib incognito, ní fhanfaidh siad i stair do bhrabhsálaí, i do thaisce cuacha, nó i do stair chuardaigh tar éis duit do tháib incognito a dhúnadh. Coinneofar aon chomhaid a íoslódálann tú nó leabharmharcanna a chruthaíonn tú.</translation>
+<translation id="6165508094623778733">Foghlaim tuilleadh</translation>
+<translation id="785549533363645510">Mar sin féin, ní tú infheicthe. Ní chiallaíonn a bheith incognito go bhfolaíonn tú do bhrabhsáil ó d'fhostóir, ó do sholáthraí seirbhíse idirlín, nó ó na suíomhanna gréasáin dá dtugann tú cuairt orthu.</translation>
+<translation id="2079545284768500474">Cealaigh</translation>
+<translation id="2597378329261239068">Tá an doiciméad seo faoi chosaint pasfhocail. Iontráil pasfhocal.</translation>
+<translation id="2653659639078652383">Cuir isteach</translation>
+<translation id="5045550434625856497">Pasfhocal mícheart</translation>
+<translation id="370665806235115550">Ag lódáil...</translation>
+<translation id="3934680773876859118">Theip ar lódáil an doiciméid PDF</translation>
+<translation id="8820817407110198400">Leabharmhairc</translation>
+<translation id="1032854598605920125">Roghlaigh deiseal</translation>
+<translation id="7514365320538308">Íoslódáil</translation>
+<translation id="1430915738399379752">Priontáil</translation>
+<translation id="4816492930507672669">Oiriúnaigh don leathanach</translation>
+<translation id="1080116354587839789">Oiriúnaigh don leithead</translation>
+<translation id="8903921497873541725">Zúmáil isteach</translation>
+<translation id="5975083100439434680">Zúmáil amach</translation>
+<translation id="1753706481035618306">Uimhir an leathanaigh</translation>
+<translation id="6016158022840135739">{COUNT, plural,
+         =1 {Leathanach 1}
+         other {Leathanach #}}</translation>
+<translation id="2941952326391522266">Ní féidir leis an bhfreastalaí seo a chruthú gur <ph name="DOMAIN"/> atá ann; ó <ph name="DOMAIN2"/> dá dheimhniú slándála. Is féidir gur míchumrú nó ionsaitheoir atá ag idircheapadh do naisc is cúis leis sin.</translation>
+<translation id="7761701407923456692">Ní hionann deimhniú an fhreastalaí agus an URL.</translation>
+<translation id="1655462015569774233">{1, plural,
+     =1 {Ní féidir leis an bhfreastalaí seo a chruthú gur <ph name="DOMAIN"/> atá ann; d'éag a dheimhniú slándála inné. Is féidir gur míchumrú nó ionsaitheoir atá ag idircheapadh do naisc is cúis leis sin. Tá clog do ríomhaire socraithe faoi láthair ag <ph name="CURRENT_DATE"/>. An bhfuil an chuma cheart air sin? Mura bhfuil, ba chóir duit clog an chórais a cheartú, agus an leathanach seo a athnuachan ansin.}
+     other {Ní féidir leis an bhfreastalaí seo a chruthú gur <ph name="DOMAIN"/> atá ann; d'éag a dheimhniú slándála # lá ó shin. Is féidir gur míchumrú nó ionsaitheoir atá ag idircheapadh do naisc is cúis leis sin. Tá clog do ríomhaire socraithe faoi láthair ag <ph name="CURRENT_DATE"/>. An bhfuil an chuma cheart air sin? Mura bhfuil, ba chóir duit clog an chórais a cheartú, agus an leathanach seo a athnuachan ansin.}}</translation>
+<translation id="8971063699422889582">Tá deimhniú an fhreastalaí éagtha.</translation>
+<translation id="1706954506755087368">{1, plural,
+     =1 {Ní féidir leis an bhfreastalaí seo a chruthú gur <ph name="DOMAIN"/> atá ann; tá deimhniú slándála aige a thosaíonn amárach, mar dhea. Is féidir gur míchumrú nó ionsaitheoir atá ag idircheapadh do naisc is cúis leis sin.}
+     other {Ní féidir leis an bhfreastalaí seo a chruthú gur <ph name="DOMAIN"/> atá ann; tá deimhniú slándála aige a thosaíonn ó # lá amach anseo, mar dhea. Is féidir gur míchumrú nó ionsaitheoir atá ag idircheapadh do naisc is cúis leis sin.}}</translation>
+<translation id="7938958445268990899">Níl deimhniú an fhreastalaí bailí go fóill.</translation>
+<translation id="540969355065856584">Ní féidir leis an bhfreastalaí seo a chruthú gur <ph name="DOMAIN"/> atá ann; níl a dheimhniú slándála bailí faoi láthair. Is féidir gur míchumrú nó ionsaitheoir atá ag idircheapadh do naisc is cúis leis sin.</translation>
+<translation id="5087286274860437796">Níl deimhniú an fhreastalaí bailí faoi láthair.</translation>
+<translation id="2915500479781995473">Ní féidir leis an bhfreastalaí seo a chruthú gur <ph name="DOMAIN"/> atá ann ; tá a dheimhniú slándála éagtha. Is féidir gur míchumrú nó ionsaitheoir atá ag idircheapadh do naisc is cúis leis sin. Tá clog do ríomhaire socraithe faoi láthair ag <ph name="CURRENT_TIME"/>. An bhfuil an chuma cheart air sin? Mura bhfuil, ba chóir duit clog an chórais a cheartú, agus an leathanach seo a athnuachan ansin.</translation>
+<translation id="229702904922032456">Tá fréamhdheimhniú nó deimhniú meánach éagtha.</translation>
+<translation id="3528171143076753409">Níl aon iontaoibh as deimhniú an fhreastalaí.</translation>
+<translation id="467662567472608290">Ní féidir leis an freastalaí seo a chruthú gur <ph name="DOMAIN"/> atá ann; tá earráidí ina dheimhniú slándála. Is féidir gur míchumrú nó ionsaitheoir atá ag idircheapadh do naisc is cúis leis sin.</translation>
+<translation id="2491120439723279231">Tá earráid i ndeimhniú an fhreastalaí.</translation>
+<translation id="2413528052993050574">Ní féidir leis an freastalaí seo a chruthú gur <ph name="DOMAIN"/> atá ann; níl iontaoibh ag Chrome as a dheimhniú slándála. Is féidir gur míchumrú nó ionsaitheoir atá ag idircheapadh do naisc is cúis leis se.</translation>
+<translation id="2922350208395188000">Ní féidir deimhniú an fhreastalaí a sheiceáil.</translation>
+<translation id="884923133447025588">Ní bhfuarthas aon mheicníocht aisghairthe.</translation>
+<translation id="4377125064752653719">Rinne tú iarracht <ph name="DOMAIN"/> a shroicheadh, ach an deimhniú a thug an freastalaí, bhí sé aisghairthe ag an eisitheoir. Ciallaíonn sé sin nár cheart ar chor ar bith iontaoibh a chur i bhfaisnéis aitheantais slándála an fhreastalaí.</translation>
+<translation id="2386255080630008482">Bhí deimhniú an fhreastalaí aisghairthe.</translation>
+<translation id="9049981332609050619">Rinne tú iarracht <ph name="DOMAIN"/> a shroicheadh, ach thug an freastalaí deimhniú neamhbhailí.</translation>
+<translation id="917450738466192189">Tá deimhniú an fhreastalaí neamhbhailí.</translation>
+<translation id="2171101176734966184">Rinne tú iarracht <ph name="DOMAIN"/> a shroicheadh, ach thug an freastalaí deimhniú a síníodh le halgartam lag síniúcháin. Ciallaíonn sé sin gur féidir gur brionnaíodh an fhaisnéis aitheantais a thug an freastalaí agus is féidir nach é an freastalaí an freastalaí a bhfuil coinne agat leis (is féidir go bhfuil tú i mbun cumarsáide le hionsaitheoir).</translation>
+<translation id="2728127805433021124">Síníodh deimhniú an fhreastalaí le halgartam lag síniúcháin.</translation>
+<translation id="121201262018556460">Rinne tú iarracht <ph name="DOMAIN"/> a shroicheadh, ach thug an freastalaí deimhniú ina raibh eochair lag. Is féidir gur bhris ionsaitheoir an eochair phríobháideach, agus is féidir nach é an freastalaí an freastalaí a bhfuil coinne agat leis (is féidir go bhfuil tú i mbun cumarsáide le hionsaitheoir).</translation>
+<translation id="168841957122794586">Tá eochair lag chripteagrafach i ndeimhniú an fhreastalaí.</translation>
+<translation id="7567204685887185387">Ní féidir leis an freastalaí seo a chruthú gur <ph name="DOMAIN"/> atá ann; is féidir gur eisiodh do dheimhniú slándála go calaoiseach. Is féidir gur míchumrú nó ionsaitheoir atá ag idircheapadh do naisc is cúis leis sin.</translation>
+<translation id="7592362899630581445">Sáraíonn deimhniú an fhreastalaí srianta ainm.</translation>
+<translation id="7050187094878475250">Rinne tú iarracht <ph name="DOMAIN"/> a shroicheadh, ach thug an freastalaí deimhniú le tréimhse bailíochta atá rófhada le bheith iontaofa.</translation>
+<translation id="6151417162996330722">Tá tréimhse bailíochta an teastais freastalaí rófhada.</translation>
+<translation id="4771973620359291008">Tharla earráid neamhaithnid.</translation>
+<translation id="674375294223700098">Earráid deimhnithe freastalaí neamhaithnid.</translation>
+<translation id="3225919329040284222">Chuir an freastalaí deimhniú i láthair nach meaitseálann na hionchais ionsuite. Cuirtear an hionchais sin san áireamh i gcás suíomhanna gréasáin áirithe ardslándála chun tú a chosaint.</translation>
+<translation id="6957887021205513506">Is cosúil gur brionnú é deimhniú an fhreastalaí.</translation>
+<translation id="4424024547088906515">Ní féidir leis an freastalaí seo a chruthú gur <ph name="DOMAIN"/> atá ann; níl iontaoibh ag Chrome as a dheimhniú slándála. Is féidir gur míchumrú nó ionsaitheoir atá ag idircheapadh do naisc is cúis leis seo.</translation>
+<translation id="1763864636252898013">Ní féidir leis an freastalaí seo a chruthú gur <ph name="DOMAIN"/> atá ann; níl iontaoibh ag córas oibriúcháin do ghléis as a dheimhniú slándála. Is féidir gur míchumrú nó ionsaitheoir atá ag idircheapadh do naisc is cúis leis seo.</translation>
+<translation id="1150979032973867961">Ní féidir leis an freastalaí seo a chruthú gur <ph name="DOMAIN"/> atá ann; níl iontaoibh ag córas oibriúcháin do ríomhaire as a dheimhniú slándála. Is féidir gur míchumrú nó ionsaitheoir atá ag idircheapadh do naisc is cúis leis seo.</translation>
+<translation id="5094747076828555589">Ní féidir leis an freastalaí seo a chruthú gur <ph name="DOMAIN"/> atá ann; níl iontaoibh ag Chromium as a dheimhniú slándála. Is féidir gur míchumrú nó ionsaitheoir atá ag idircheapadh do naisc is cúis leis sen.</translation>
+<translation id="7658239707568436148">Cealaigh</translation>
+<translation id="6040143037577758943">Dún</translation>
+<translation id="8730621377337864115">Déanta</translation>
+<translation id="6965382102122355670">OK</translation>
+<translation id="780301667611848630">Níor mhaith, go raibh maith agat</translation>
+<translation id="3479552764303398839">Ní anois</translation>
+<translation id="1008557486741366299">Ní Anois</translation>
+<translation id="2896499918916051536">Níl tacú ann don bhreiseán seo.</translation>
+<translation id="1175364870820465910">&amp;Priontáil...</translation>
+<translation id="129553762522093515">Dúnadh é le déanaí</translation>
+<translation id="8870413625673593573">Dúnadh é le Déanaí</translation>
+<translation id="385051799172605136">Siar</translation>
+<translation id="7481312909269577407">Ar aghaidh</translation>
+<translation id="2824775600643448204">Barra seoltaí agus cuardaigh</translation>
+<translation id="2495083838625180221">JSON Parser</translation>
+<translation id="3157931365184549694">Athchuir</translation>
+<translation id="7634554953375732414">Níl nasc príobháideach agat chuig an suíomh seo.</translation>
+<translation id="5040262127954254034">Príobháideacht</translation>
+</translationbundle>

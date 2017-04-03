@@ -1,0 +1,89 @@
+# Copyright (C) 2016 Opera Software ASA.  All rights reserved.
+#
+# This file is an original work developed by Opera Software ASA
+import("//build/config/opera-common.gni")
+import("//tools/grit/grit_rule.gni")
+
+declare_args() {
+  # Location of brand specific resources.
+  brand_res_dir = ""
+}
+
+action("js_inflate") {
+  script = "minify_js.py"
+
+  sources = [ "js-inflate.js" ]
+  outputs = [ "$target_gen_dir/wam_resources/js-inflate-min.js" ]
+
+  args = [
+    "--chromium", rebase_path("//", root_build_dir),
+    "--input", rebase_path(sources[0], root_build_dir),
+    "--output", rebase_path(outputs[0], root_build_dir),
+  ]
+}
+
+action("opera_about") {
+  script = "opera_about.py"
+
+  sources = [ "opera_about.tmpl", "opera_about_entry.tmpl", "third_party.py" ]
+  outputs = [ "$target_gen_dir/wam_resources/opera_about.html.lzma" ]
+
+  lzma_target = "../src/common/lzma:LzmaUtil($host_toolchain)"
+  lzma_util = rebase_path(get_label_info(lzma_target, "root_out_dir") + "/LzmaUtil", root_build_dir)
+
+  args = [
+    "--chromium", rebase_path("//", root_build_dir),
+    "--input", rebase_path(".", root_build_dir),
+    "--output", rebase_path(outputs[0], root_build_dir),
+    "--lzma", lzma_util,
+  ]
+
+  deps = [ lzma_target ]
+}
+
+action("expand_about_version") {
+  script = "about_version.py"
+
+  sources = [
+    "webui/about_version.html.jinja2",
+  ]
+
+  # We want to regenerate about_version.html everytime HEAD changes.
+  # This hack originates from:
+  # https://groups.google.com/a/chromium.org/forum/#!topic/gn-dev/DpWGGCNNYi8
+  is_git = exec_script("//build/dir_exists.py", [ rebase_path("$opera/.git", root_build_dir) ], "string") == "True"
+  if (is_git) {
+    sources += [ "$opera/.git/logs/HEAD" ]
+  }
+
+  outputs = [
+    "$target_gen_dir/wam_resources/webui/about_version.html"
+  ]
+
+  args = [
+    "--input", rebase_path(sources[0], root_build_dir),
+    "--output", rebase_path(outputs[0], root_build_dir),
+  ]
+}
+
+grit("resources") {
+  source = "wam_resources.grd"
+  resource_ids = "resource_ids"
+
+  outputs = [
+    "grit/wam_resources.h",
+    "wam_resources.pak",
+    "wam_resources.rc",
+  ]
+
+  grit_flags = [
+    "-E", "WAM_OUT=" + rebase_path("$target_gen_dir/wam_resources", "."),
+    "-E", "BRAND_RES_DIR=$brand_res_dir",
+  ]
+
+  deps = [
+    ":opera_about",
+    ":js_inflate",
+    ":expand_about_version"
+  ]
+}

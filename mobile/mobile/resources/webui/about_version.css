@@ -1,0 +1,45 @@
+/* Copyright (c) 2012 The Chromium Authors. All rights reserved.
+ * Use of this source code is governed by a BSD-style license that can be
+ * found in the LICENSE file.
+ *
+ * Modified by Opera Software ASA
+ * @copied-from chromium/src/chrome/browser/resources/about_version.css
+ * @last-synchronized 74c0c0bc7a5a8c2699c740a1f5dd910a8e2d0ea7
+ */
+
+body {
+  background-color: white;
+  color: black;
+  font-family: Helvetica,Arial,sans-serif;
+  margin: 0;
+}
+
+#outer {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  text-align: left;
+  width: 90%;
+}
+
+#inner {
+  padding-top: 10px;
+}
+
+.label {
+  -webkit-padding-end: 5px;
+  font-weight: bold;
+  text-align: end;
+  vertical-align: top;
+  white-space: nowrap;
+}
+
+.label::after {
+  content: ':';
+}
+
+.version {
+  max-width: 430px;
+  padding-bottom: 3px;
+  padding-left: 5px;
+}

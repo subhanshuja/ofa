@@ -1,0 +1,35 @@
+# Copyright (C) 2015 Opera Software ASA.  All rights reserved.
+#
+# This file is an original work developed by Opera Software ASA.
+
+source_set("favorites") {
+  sources = [
+    "favorite.cc",
+    "favorite.h",
+    "favorite_collection.h",
+    "favorite_collection_impl.cc",
+    "favorite_collection_impl.h",
+    "favorite_collection_observer.h",
+    "favorite_data.cc",
+    "favorite_data.h",
+    "favorite_db_storage.cc",
+    "favorite_db_storage.h",
+    "favorite_index.cc",
+    "favorite_index.h",
+    "favorite_storage.cc",
+    "favorite_storage.h",
+    "favorite_suggestion_provider.cc",
+    "favorite_suggestion_provider.h",
+    "favorite_utils.cc",
+    "favorite_utils.h",
+  ]
+
+  configs += [ "../config:include_config" ]
+
+  deps = [
+    "../suggestion",
+    "//sql",
+    "//url",
+  ]
+}
+# TODO: Implement unit test

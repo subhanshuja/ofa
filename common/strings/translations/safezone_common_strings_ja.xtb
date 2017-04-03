@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="ja">
+<translation id="3929428121849375048">Avast SafeZone</translation>
+<translation id="806546331937022936">Avast</translation>
+<translation id="3609966143444339170">Avast は、このページにアクセスしないことを強くお勧めします。</translation>
+<translation id="4206706288435313269">Avast SafeZone 通知センター</translation>
+<translation id="254978580676301713">SafeZone - 通知</translation>
+<translation id="8084325208922689406">SafeZone - 通知（<ph name="QUANTITY"/> 未読）</translation>
+<translation id="678670207776683961">SafeZone - 通知</translation>
+<translation id="191361968702850015">SafeZone - 通知（<ph name="QUANTITY"/> 未読）</translation>
+<translation id="1359674843509087498">サイトが期限切れのセキュリティ設定を使用しているため、SafeZone の今後のバージョンによる安全なアクセスが妨げられる可能性があります。</translation>
+<translation id="3485921796584936414">ファイヤウォールあるいはウイルス対策の設定で、SafeZone にネットワークへのアクセスを許可してください。</translation>
+<translation id="7041993155087650094">SafeZone メニュー &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; LAN 設定にアクセスし、「LAN にプロキシサーバーを使用」のチェックを外してください。</translation>
+<translation id="5366394231680131980">変更を有効にするには SafeZone を再起動してください。</translation>
+<translation id="6964843943881946410">SafeZone で保存したパスワードを確認するには、コンピュータのパスワードを入力してください。</translation>
+</translationbundle>

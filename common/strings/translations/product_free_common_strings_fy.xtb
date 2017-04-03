@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="fy">
+<translation id="3942946088478181888">Help my dit te snappen</translation>
+<translation id="1396529432791646744">As jo ferbine mei in feilige webstee, sil de tsjinner dêr't de webstee op rint jo blêder in "sertifikaat" jaan om syn identiteit te ferifiearjen. Dit sertifikaat befettet identiteitsynformaasje, lykas it adres fan de webstee, hokker ferifiearre is troch in tredde partij dy jo mobyl apparaat fertroud. Troch te kontrolearjen dat it adres yn it sertifikaat oerienkomt mei it adres fan de webstee, is it mooglik om nei te gean oft jo feilich kommunisearje mei de eksakte webstee, en net in tredde partij (lykas in oanfaller op jo netwurk).</translation>
+<translation id="6295228342562451544">As jo ferbine mei in feilige webstee, sil de tsjinner dêr't de webstee op rint jo blêder in "sertifikaat" jaan om syn identiteit te ferifiearjen. Dit sertifikaat befettet identiteitsynformaasje, lykas it adres fan de webstee, hokker ferifiearre is troch in tredde partij dy't jo kompjûter fertroud. Troch te kontrolearjen dat it adres yn it sertifikaat oerienkomt mei it adres fan de webstee, is it mooglik om nei te gean oft jo feilich kommunisearje mei de eksakte webstee, en net in tredde partij (lykas in oanfaller op jo netwurk).</translation>
+<translation id="8187473050234053012">De tsjinner syn feiligens sertifikaat is ynlutsen!</translation>
+<translation id="5598024575303778520">Fraude warskôging</translation>
+<translation id="7311721172731074902">Fraude warskôging</translation>
+<translation id="1858130628205855959">Dizze webstee kin oernaam of frauduleus wêze. Om dêr wachtwurden en persoanlike ynformaasje te jaan kin it risiko op it stellen fan identiteit of finansjele fraude grutter meitsje.</translation>
+<translation id="8357891144266644027">Skealike webstee warskôging</translation>
+<translation id="4664012235452972339">Skealike webstee warskôging</translation>
+<translation id="1030973920598092450">Dizze webstee kin oernaam wêze of skealike sêftguod befetsje. It besykjen fan dizze side kin kwea dwaan.</translation>
+<translation id="4863259811271883558">Rapportearre troch <ph name="BEGIN_LINK"/><ph name="PROVIDER_NAME"/><ph name="END_LINK"/></translation>
+<translation id="3141322567138977593">Gean feilich werom</translation>
+<translation id="833642844779103272">Gean feilich werom</translation>
+<translation id="4238466718818823211">Dizze warskôging negearje</translation>
+<translation id="1755698976576372535">Wêrom wie dizze side warre?</translation>
+<translation id="2962647877740028287">Us fraude rapporten wurde byhâlden troch fabrikanten fan tredden.</translation>
+<translation id="7470668651798735849">Jo kinne hjir alle notifikaasjes fan westeeën sjen.</translation>
+<translation id="6426222199977479699">SSL flater</translation>
+<translation id="8398877366907290961">Dochs fierdergean</translation>
+<translation id="6264485186158353794">Werom nei feiligens</translation>
+<translation id="2225024820658613551">Jo moatte net fierdergean, &lt;strong&gt;al hielendal&lt;/strong&gt; as nea dizze warskôging sjoen ha foar dizze webstee.</translation>
+<translation id="5645845270586517071">Feiligens flater</translation>
+<translation id="1103666958012677467">Jo kinne net fierdergean omdat de webstee operator frege hat om in ferhege feiligens foar dit domein.</translation>
+<translation id="5463275305984126951">Yndeks fan <ph name="LOCATION"/></translation>
+<translation id="8877448029301136595">[Boppelizzende triemtafel]</translation>
+<translation id="3835522725882634757">O, nee! Dizze tsjinner stjoer gegevens dy <ph name="PRODUCT_NAME"/> net snapt. <ph name="BEGIN_LINK"/>Rapportearje in brek<ph name="END_LINK"/>, doch de <ph name="BEGIN2_LINK"/>ruge ynfo<ph name="END2_LINK"/> derby.</translation>
+<translation id="5327248766486351172">Namme</translation>
+<translation id="8028993641010258682">Grutte</translation>
+<translation id="57646104491463491">Datum feroare</translation>
+<translation id="8465929756435120446">Dizze side befettet wat ûnfeilige ynhâld.</translation>
+<translation id="6827416153061837992">Dizze ferbining is net fersifere.</translation>
+<translation id="9193357432624119544">Flater koade: <ph name="ERROR_NAME"/></translation>
+<translation id="4910619056351738551">Hjir binne wat suggestjes:</translation>
+<translation id="2954705784594331199"><ph name="BEGIN_LINK"/>Ferfarskje<ph name="END_LINK"/> dizze webstee letter.</translation>
+<translation id="4977565600485911823">Set jo tafoegings út en <ph name="BEGIN_LINK"/>ferfarskje<ph name="END_LINK"/> dan dizze webstee.</translation>
+<translation id="1103966635949043187">Gean nei it thúsblêd fan de webstee:</translation>
+<translation id="7747589364844254751">Kontrolearje jo ynternetferbining. Werstart eltse router, modem, of oare netwurk apparaten dat jo brûke.</translation>
+<translation id="5548623538190661145">Kontrolearje jo DNS ynstellings. Nim kontakt op mei jo netwurk administrator as jo net wis binne wat dit oanjout.</translation>
+<translation id="4545046228395991092">As jo in proksytsjinner brûke, kontrolearje de ynstellings of nim kontakt op mei jo netwurk administrator om wis te wêzen dat jo proksytsjinner wurket.</translation>
+<translation id="1712673276482711826">As jo in proksytsjinner brûke, kontrolearje de ynstellings of nim kontakt op mei jo netwurk administrator om wis te wêzen dat jo proksytsjinner wurket. As jo net liuwe dat jo in proksytsjinner brûke moat, feroarje jo proksy ynstellings: <ph name="PLATFORM_TEXT"/></translation>
+<translation id="721197778055552897"><ph name="BEGIN_LINK"/>Mear ynformaasje<ph name="END_LINK"/> oer dizze swierrigens.</translation>
+<translation id="8235325155053717782">Flater <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="3986287159189541211">HTTP Flater <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="3225919329040284222">De tsjinner presentearre in sertifikaat dat net oerienkomt mei de ynboude ferwachtings. Dizze ferwachtings binne ynboud foar bepaalde, hege-feiligens websteeën om jo te beskermjen.</translation>
+<translation id="6957887021205513506">It sertifikaat fan de tsjinner liket in ferfalsking te wêzen.</translation>
+<translation id="6429639049555216915">De app is op it stuit net berikber.</translation>
+<translation id="9127307628159259612"><ph name="PRODUCT_NAME"/> as in tastean programma yn jo brânmoarre of anty-firus ynstellings taheakje. As it al in tastean programma is, besykje dan it te wiskjen fan de list mei tasteane programma's en heakje it nochris ta.</translation>
+<translation id="4544369257849566741">De SSL-renegotiation tafoeging ûntbruts by de feiligens befêstiging. Foar guon websteeën, hokker bekend steane it renegotiation tafoegings te stypjen, fereasket <ph name="PRODUCT_NAME"/> in mear feilige befêstiging om bepaalde soarte fan oanfallen te foarkommen. It ûntbrekken fan dizze tafoegings jout de suggestje dat jo ferbining ûnderskept en ûnderweis manipulearre wurdt.</translation>
+<translation id="8162734958263531433">Om USB útbrekken te brûken, ha jo de Android SDK en USB útbrekken ynskeakele op jo Android apparaat. Sjoch <ph name="HTML_HELPURL"/> foar mear ynformaasje.</translation>
+<translation id="1875071432292773474">Fier it adres <ph name="ACCESS_POINT"/> yn op jo buroblêd blêder. De buroblêd blêder moat op itselde netwurk sitte as it Android apparaat.</translation>
+<translation id="7227425938337339799">Om UPnP wurkje te litten moatte jo of op it selde subnet sitte, of de router sa ynstelle dat útstjoerings oer subnets trochstjoerd wurde.</translation>
+<translation id="4553629908098215669">Op jo kompjûter, <ph name="HTMLADBCOMMAND"/> útfiere, en navigearje nei <ph name="HTMLLOCALHOSTURL"/> mei in op Chromium basearre blêder.</translation>
+<translation id="4570032796877367747">Front kamera</translation>
+<translation id="2599796128805996109">Efter kamera</translation>
+<translation id="2124507516322945394">Standert mikrofoan</translation>
+<translation id="1587215898571986504">Lûdsprekker</translation>
+<translation id="5614598979078259956">Triede koptelefoan</translation>
+<translation id="9031226374756103225">Koptelefoan earset</translation>
+<translation id="149679617917926491">Blauwetosk koptelefoan</translation>
+<translation id="6060685159320643512">Wês foarsichtich, dizze eksperiminten hawwe skerpe tosken</translation>
+<translation id="5199729219167945352">Eksperimenten</translation>
+<translation id="533563709691128800">útskeakele</translation>
+<translation id="2506903884491778518">Troch eksperimenten sykje</translation>
+<translation id="1138663153846032155">Foarkar foar HTML ynstee fan Flash</translation>
+<translation id="2081453640527377956">Foarkar foar HTML-ynhâld troch Flash te ferbergjen yn'e list mei ynstekkers.</translation>
+<translation id="5998167623928667649">Alle Flash-ynhâld utfiere wannear Flash is ynstelle op 'tastean'</translation>
+<translation id="5138177765054221193">Alle ynhâld utfiere foar siden dy't binne ynsteld op 'tastean' foar Flash-ynhâld, ynklusyf ynhâld dy't as ûnbelangryk wurdt beskôge.</translation>
+<translation id="2112624549618815628">Standert (ynskeakele)</translation>
+<translation id="3696363537446376816">Standert (útskeakele)</translation>
+<translation id="5773249585542913314">Windows Runtime MIDI API</translation>
+<translation id="7122132768827815392">Windows Runtime MIDI API foar WebMIDI brûke (wurket allinich yn Windows 10 of nijer).</translation>
+<translation id="1375198122581997741">Ferzje ynformaasje</translation>
+<translation id="7248671827512403053">Programma</translation>
+<translation id="1710259589646384581">OS</translation>
+<translation id="6897140037006041989">Brûker agint</translation>
+<translation id="7353601530677266744">Kommandorigel</translation>
+<translation id="7225807090967870017">Bou ID</translation>
+</translationbundle>

@@ -1,0 +1,8 @@
+{
+  "SRCDIR": ".",
+
+  "wam_resources.grd": {
+    "includes": [41000],
+    "structures": [42000],
+  },
+}

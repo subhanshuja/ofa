@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="pt-PT">
+<translation id="2978824962390592855">Opera</translation>
+<translation id="9071130496134948492">Opera Software</translation>
+<translation id="6494666865857176946">A Opera Software aconselha fortemente que não visite esta página.</translation>
+<translation id="7459549266751278805">Centro de notificações do Opera</translation>
+<translation id="4501379002264542907">Opera - notificações</translation>
+<translation id="1352092048463356430">Opera - notificações (<ph name="QUANTITY"/> não lidas)</translation>
+<translation id="4159400746343093340">Opera - Notificações</translation>
+<translation id="6018626517703817463">Opera - Notificações (<ph name="QUANTITY"/> não lidas)</translation>
+<translation id="6161036283010589960">O sítio está a utilizar configurações de segurança desactualizadas que podem impedir que futuras versões do Opera possam aceder em segurança.</translation>
+<translation id="8888594059056485523">Permitir que o Opera aceda à rede nas suas configurações de firewall ou antivirus.</translation>
+<translation id="7158277678571698323">Vá ao menu Opera &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; Configurações LAN e remova a selecção "Utilizar um servidor proxy para a sua LAN".</translation>
+<translation id="5873732809085338161">Para activar WebSockets inseguros no seu browser de desktop, vá a <ph name="HTMLOPERAFLAG"/> (Opera 24+) ou <ph name="HTMLCHROMEFLAG"/> (Chrome 36+).</translation>
+<translation id="2005166128312586988">As suas alterações terão efeito quando reiniciar o Opera.</translation>
+<translation id="684302243018322820">Para ver as palavras-passe guardadas pelo Opera, por favor insira a palavra-passe do seu computador.</translation>
+</translationbundle>

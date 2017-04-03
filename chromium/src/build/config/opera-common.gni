@@ -1,0 +1,18 @@
+# Copyright (C) 2015 Opera Software ASA.  All rights reserved.
+#
+# This file is an original work developed by Opera Software ASA
+
+declare_args() {
+  # Absolute path to opera root directory.
+  opera = ""
+
+  opera_desktop = false
+  opera_wam = false
+
+  # Whether Opera's modifications to Sync code are enabled.
+  # Turned off when compiling Chromium.
+  opera_sync = false
+
+  # Opera browser version number string.
+  opr_version = "1.2.3.4"
+}

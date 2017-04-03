@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="zh-CN">
+<translation id="2978824962390592855">Opera</translation>
+<translation id="9071130496134948492">Opera Software</translation>
+<translation id="6494666865857176946">Opera Software 强烈建议您不要访问此网页。</translation>
+<translation id="7459549266751278805">Opera 通知中心</translation>
+<translation id="4501379002264542907">Opera - 通知</translation>
+<translation id="1352092048463356430">Opera - 通知（<ph name="QUANTITY"/> 条未读）</translation>
+<translation id="4159400746343093340">Opera - 通知</translation>
+<translation id="6018626517703817463">Opera - 通知（<ph name="QUANTITY"/> 条未读）</translation>
+<translation id="6161036283010589960">该网站使用的安全设置已过期，这可能导致未来的 Opera 版本无法安全访问该网站。</translation>
+<translation id="8888594059056485523">在防火墙或防病毒设置中允许 Opera 访问网络。</translation>
+<translation id="7158277678571698323">转到 Opera 菜单 &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; LAN 设置，然后取消选择“为 LAN 使用代理服务器”。</translation>
+<translation id="5873732809085338161">如需为桌面浏览器启用不安全的 WebSockets，请转至 <ph name="HTMLOPERAFLAG"/> (Opera 24+) 或 <ph name="HTMLCHROMEFLAG"/> (Chrome 36+)。</translation>
+<translation id="2005166128312586988">更改将在重新启动 Opera 后生效。</translation>
+<translation id="684302243018322820">如需查看 Opera 已储存的密码，请输入计算机密码。</translation>
+</translationbundle>

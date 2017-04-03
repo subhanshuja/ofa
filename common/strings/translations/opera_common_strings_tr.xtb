@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="tr">
+<translation id="2978824962390592855">Opera</translation>
+<translation id="9071130496134948492">Opera Software</translation>
+<translation id="6494666865857176946">Opera Software, bu sitede gezmemenizi şiddetle önerir.</translation>
+<translation id="7459549266751278805">Opera bildirim merkezi</translation>
+<translation id="4501379002264542907">Opera - bildirimler</translation>
+<translation id="1352092048463356430">Opera - bildirimler (<ph name="QUANTITY"/> okunmadı)</translation>
+<translation id="4159400746343093340">Opera - Bildirimler</translation>
+<translation id="6018626517703817463">Opera - Bildirimler (<ph name="QUANTITY"/> okunmadı)</translation>
+<translation id="6161036283010589960">Bu site, gelecek Opera sürümlerinin güvenle erişmelerine engel olabilecek kadar eski güvenlik ayarları kullanıyor.</translation>
+<translation id="8888594059056485523">Güvenlik duvarı veya antivirüs ayarlarınızda Opera'nın ağa erişmesine izin verin.</translation>
+<translation id="7158277678571698323">Opera menüsü &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; LAN Ayarları'na gidin ve "Yerel ağınız için Ara Sunucu kullanın" seçimini kaldırın.</translation>
+<translation id="5873732809085338161">Güvenli olmayan WebSockets'ı masaüstü tarayıcınızda etkinleştirmek için <ph name="HTMLOPERAFLAG"/> Opera 24+) veya <ph name="HTMLCHROMEFLAG"/>'a (Chrome 36+) gidin.</translation>
+<translation id="2005166128312586988">Yaptığınız değişiklikler, Opera'yı yeniden çalıştırdığınızda etkili olacak.</translation>
+<translation id="684302243018322820">Opera'da kayıtlı parolaları görmek için bilgisayarınızın parolasını giriniz.</translation>
+</translationbundle>

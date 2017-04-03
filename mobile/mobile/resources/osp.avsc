@@ -1,0 +1,1320 @@
+{
+  "namespace": "com.opera.android.analytics",
+  "name": "OSP",
+  "type": "record",
+  "fields": [
+    {
+      "name": "OSPMessageUUID",
+      "type": ["null", "string"],
+      "default": null,
+      "doc": "M42PV1: Message ID. Can be populated by client. Will be populated by submission API if left null by client",
+      "source": "ospsubmit/client"
+    },
+    {
+      "name": "OSPSubmissionServerMetadata",
+      "type": [
+        "null",
+        {
+          "name": "OSPSubmissionServerMetadata",
+          "type": "record",
+          "fields": [
+            {
+              "name": "ReceivedTimestamp",
+              "type": ["null", "long"],
+              "default": null,
+              "doc": "Timestamp request was received by submission API server",
+              "logicalType": "timestamp-millis",
+              "source": "ospsubmit"
+            },
+            {
+              "name": "RemoteIPAddr",
+              "type": ["null", "string"],
+              "default": null,
+              "doc": "IPv6 address of remote end as seen by submission server. IPv4 adresses are stored as IPv4-mapped",
+              "retention": 180,
+              "source": "ospsubmit"
+            },
+            {
+              "name": "RemoteGeoCountry",
+              "type": ["null", "string"],
+              "default": null,
+              "doc": "GeoLocation country from remote IP address",
+              "source": "ospsubmit"
+            },
+            {
+              "name": "Forwarded",
+              "type": [
+                "null",
+                {
+                  "type": "array",
+                  "items": "string"
+                }
+              ],
+              "default": null,
+              "doc": "Contents of X-Forwarded-For header as list of IPv6 adresses",
+              "retention": 180,
+              "source": "ospsubmit"
+            },
+            {
+              "name": "ForwardedGeoCountry",
+              "type": ["null", "string"],
+              "default": null,
+              "doc": "GeoLocation country from the last routable (non-private) IP adress in X-Forwarded-For data. Set to null if there's no X-Forwarded-For header",
+              "source": "ospsubmit"
+            },
+            {
+              "name": "ReceivingNode",
+              "type": ["null", "string"],
+              "default": null,
+              "doc": "Hostname of receiving submission server node. Useful for debugging infrastructure problems",
+              "source": "ospsubmit"
+            },
+            {
+              "name": "WriteKeyTags",
+              "type": [
+                "null",
+                {
+                  "type": "map",
+                  "values": "string"
+                }
+              ],
+              "default": null,
+              "doc": "Tags defined for Write Key, can be used to distinguish between data from different write keys being saved in the same topic",
+              "source": "ospsubmit"
+            }
+          ]
+        }
+      ],
+      "default": null
+    },
+    {
+      "name": "EventTimestamp",
+      "type": "long",
+      "default": 0,
+      "doc": "M42PV1: Timestamp of event, i.e. when it happened in time",
+      "logicalType": "timestamp-millis",
+      "source": "client"
+    },
+    {
+      "name": "SentTimestamp",
+      "type": "long",
+      "default": 0,
+      "doc": "M42PV1: Timestamp event was sent to server.",
+      "logicalType": "timestamp-millis",
+      "source": "client"
+    },
+    {
+      "name": "UTCOffset",
+      "type": "int",
+      "default": 0,
+      "doc": "M42PV1: UTC offset in minutes for EventTimestamp/SentTimestamp. I.e, if EventTimestamp/SentTimestamp are not in UTC, this field should represent the number of minutes the timestamp differs compared to UTC. Invalid value sent from M20PV1",
+      "source": "client"
+    },
+    {
+      "name": "context",
+      "type": [
+        "null",
+        {
+          "name": "context",
+          "type": "record",
+          "fields": [
+            {
+              "name": "active",
+              "type": "boolean",
+              "default": true,
+              "doc": "M42PV1: Defines if user was active or passive in this event. Background reporting while client is inactive can f. ex. set this to false",
+              "source": "client"
+            },
+            {
+              "name": "application",
+              "type": [
+                "null",
+                {
+                  "name": "application",
+                  "type": "record",
+                  "fields": [
+                    {
+                      "name": "name",
+                      "type": ["null", "string"],
+                      "default": null,
+                      "doc": "M42PV1: Name of application",
+                      "source": "client"
+                    },
+                    {
+                      "name": "version",
+                      "type": ["null", "string"],
+                      "default": null,
+                      "doc": "M42PV1: Application version",
+                      "source": "client"
+                    },
+                    {
+                      "name": "build",
+                      "type": ["null", "string"],
+                      "default": null,
+                      "doc": "M42PV1: Application build number",
+                      "source": "client"
+                    }
+                  ]
+                }
+              ],
+              "default": null
+            },
+            {
+              "name": "campaign",
+              "type": [
+                "null",
+                {
+                  "name": "campaign",
+                  "type": "record",
+                  "fields": [
+                    {
+                      "name": "name",
+                      "type": ["null", "string"],
+                      "default": null,
+                      "doc": "M42PV1",
+                      "source": "client"
+                    },
+                    {
+                      "name": "source",
+                      "type": ["null", "string"],
+                      "default": null,
+                      "doc": "M42PV1",
+                      "source": "client"
+                    },
+                    {
+                      "name": "medium",
+                      "type": ["null", "string"],
+                      "default": null,
+                      "doc": "M42PV1",
+                      "source": "client"
+                    },
+                    {
+                      "name": "term",
+                      "type": ["null", "string"],
+                      "default": null,
+                      "doc": "M42PV1",
+                      "source": "client"
+                    },
+                    {
+                      "name": "content",
+                      "type": ["null", "string"],
+                      "default": null,
+                      "doc": "M42PV1",
+                      "source": "client"
+                    }
+                  ]
+                }
+              ],
+              "default": null,
+              "doc": "M42PV1: Information about campaign that resulted in the event. Maps to common UTM campaign parameters"
+            },
+            {
+              "name": "custom_campaign",
+              "type": [
+                "null",
+                {
+                  "type": "map",
+                  "values": "string"
+                }
+              ],
+              "default": null,
+              "doc": "Custom campaign information that does not fit in common UTM campaign parameters",
+              "source": "client"
+            },
+            {
+              "name": "ipv6address",
+              "type": ["null", "string"],
+              "default": null,
+              "doc": "IPv6 adress of client, in cases where client has this information. In most cases it's more relevant to use IP adress from OSPSubmissionServerMetadata. If client does not have this information, leave as null. IPv4 adresses should be stored as IPv4-mapped IPv6.",
+              "retention": 180,
+              "source": "client"
+            },
+            {
+              "name": "locale",
+              "type": ["null", "string"],
+              "default": null,
+              "doc": "The locale string for the current user, for example en-US",
+              "source": "client"
+            },
+            {
+              "name": "location",
+              "type": [
+                "null",
+                {
+                  "name": "location",
+                  "type": "record",
+                  "fields": [
+                    {
+                      "name": "country",
+                      "type": ["null", "string"],
+                      "default": null,
+                      "source": "client"
+                    },
+                    {
+                      "name": "city",
+                      "type": ["null", "string"],
+                      "default": null,
+                      "source": "client"
+                    },
+                    {
+                      "name": "latitude",
+                      "type": ["null", "string"],
+                      "default": null,
+                      "source": "client"
+                    },
+                    {
+                      "name": "longtitude",
+                      "type": ["null", "string"],
+                      "default": null,
+                      "source": "client"
+                    },
+                    {
+                      "name": "region",
+                      "type": ["null", "string"],
+                      "default": null,
+                      "source": "client"
+                    }
+                  ],
+                  "default": null,
+                  "doc": "Location, as reported by client for clients which support it"
+                }
+              ]
+            },
+            {
+              "name": "connection",
+              "type": [
+                "null",
+                {
+                  "name": "connection",
+                  "type": "enum",
+                  "symbols": [
+                    "bluetooth",
+                    "cellular",
+                    "wifi"
+                  ]
+                }
+              ],
+              "default": null,
+              "doc": "Connection type",
+              "source": "client"
+            },
+            {
+              "name": "carrier",
+              "type": ["null", "string"],
+              "default": null,
+              "doc": "Name of Carrier, as seen by client",
+              "source": "client"
+            },
+            {
+              "name": "osname",
+              "type": ["null", "string"],
+              "default": null,
+              "doc": "M42PV1: Name of Operating System, eg. Android",
+              "source": "client"
+            },
+            {
+              "name": "osversion",
+              "type": ["null", "string"],
+              "default": null,
+              "doc": "M42PV1: Version of Operating System",
+              "source": "client"
+            },
+            {
+              "name": "referrer",
+              "type": [
+                "null",
+                {
+                  "type": "record",
+                  "name": "referrer",
+                  "fields": [
+                    {
+                      "name": "type",
+                      "type": ["null", "string"],
+                      "default": null,
+                      "source": "client"
+                    },
+                    {
+                      "name": "name",
+                      "type": ["null", "string"],
+                      "default": null,
+                      "source": "client"
+                    },
+                    {
+                      "name": "url",
+                      "type": ["null", "string"],
+                      "default": null,
+                      "source": "client"
+                    },
+                    {
+                      "name": "link",
+                      "type": ["null", "string"],
+                      "default": null,
+                      "source": "client"
+                    }
+                  ]
+                }
+              ],
+              "default": null,
+              "doc": "How the user was referred to the website or app"
+            },
+            {
+              "name": "screen",
+              "type": [
+                "null",
+                {
+                  "name": "screen",
+                  "type": "record",
+                  "fields": [
+                    {
+                      "name": "density",
+                      "type": "float",
+                      "doc": "M42PV1: Pixel density of screen, as reported by Android (https://developer.android.com/reference/android/util/DisplayMetrics.html#density)",
+                      "source": "client"
+                    },
+                    {
+                      "name": "height",
+                      "type": "int",
+                      "doc": "M42PV1: The absolute height of the available display size in pixels",
+                      "source": "client"
+                    },
+                    {
+                      "name": "width",
+                      "type": "int",
+                      "doc": "M42PV1: The absolute width of the available display size in pixels",
+                      "source": "client"
+                    },
+                    {
+                      "name": "form_factor",
+                      "type": [
+                        "null",
+                        {
+                          "name": "form_factor",
+                          "type": "enum",
+                          "symbols": [
+                            "phone",
+                            "tablet"
+                          ]
+                        }
+                      ],
+                      "default": null,
+                      "doc": "M42PV1: Whether the device is tablet or mobile (t for tablet, m for mobile.). Screens >= 6 inch count as tablets.",
+                      "source": "client"
+                    }
+                  ]
+                }
+              ],
+              "default": null,
+              "doc": "M42PV1: Information about the device's screen",
+              "source": "client"
+            },
+            {
+              "name": "useragent",
+              "type": ["null", "string"],
+              "default": null,
+              "doc": "M42PV1: Useragent of device making the request",
+              "source": "client"
+            },
+            {
+              "name": "device",
+              "type": [
+                "null",
+                {
+                  "name": "device",
+                  "type": "record",
+                  "fields": [
+                    {
+                      "name": "ram_size",
+                      "type": ["null", "long"],
+                      "default": null,
+                      "doc": "M42PV1: The total memory accessible by the kernel. This is basically the RAM size of the device, not including below-kernel fixed allocations like DMA buffers, RAM for the baseband CPU, etc.",
+                      "source": "client"
+                    },
+                    {
+                      "name": "cpu_family",
+                      "type": ["null", "string"],
+                      "default": null,
+                      "doc": "M42PV1: The CPU family.",
+                      "source": "client"
+                    },
+                    {
+                      "name": "supported_abis",
+                      "type": ["null", {"type": "array", "items": "string"}],
+                      "default": null,
+                      "doc": "M42PV1: List of the supported ABIs",
+                      "source": "client"
+                    },
+                    {
+                      "name": "neon_supported",
+                      "type": ["null", "boolean"],
+                      "default": null,
+                      "doc": "M42PV1: Whether the CPU supports NEON instructions",
+                      "source": "client"
+                    },
+                    {
+                      "name": "total_storage",
+                      "type": ["null", "long"],
+                      "default": null,
+                      "doc": "M42PV1: Total storage size",
+                      "source": "client"
+                    },
+                    {
+                      "name": "available_storage",
+                      "type": ["null", "long"],
+                      "default": null,
+                      "doc": "M42PV1: Available storage size",
+                      "source": "client"
+                    },
+                    {
+                      "name": "device_model",
+                      "type": ["null", "string"],
+                      "default": null,
+                      "doc": "M42PV1: The end-user-visible name for the end produc",
+                      "source": "client"
+                    }
+                  ]
+                }
+              ],
+              "default": null,
+              "doc": "M42PV1: Information about the device",
+              "source": "client"
+            }
+          ]
+        }
+      ],
+      "default": null,
+      "doc": "Extra information sent by the client that adds context about the request",
+      "source": "client"
+    },
+    {
+      "name": "identifiers",
+      "type": [
+        "null",
+        {
+          "name": "identifiers",
+          "type": "record",
+          "fields": [
+            {
+              "name": "advertising_id",
+              "type": ["null", "string"],
+              "default": null,
+              "doc": "M42PV1: The Android advertising id, if available.",
+              "source": "client"
+            },
+            {
+              "name": "android_id",
+              "type": ["null", "string"],
+              "default": null,
+              "doc": "M42PV1: The Android ID of the device, if available.",
+              "source": "client"
+            },
+            {
+              "name": "turbo_id",
+              "type": ["null", "string"],
+              "default": null,
+              "doc": "M42PV1: Turbo client id.",
+              "source": "client"
+            },
+            {
+              "name": "hashed_uid",
+              "type": ["null", "string"],
+              "default": null,
+              "doc": "M42PV1: Hashed OBML cookie",
+              "source": "client"
+            },
+            {
+              "name": "news_client_id",
+              "type": ["null", "string"],
+              "default": null,
+              "doc": "M42PV1: The device id assigned by the newsfeed server for the device.",
+              "source": "client"
+            },
+            {
+              "name": "appsflyer_uid",
+              "type": ["null", "string"],
+              "default": null,
+              "doc": "M42PV1: The AppsFlyer UID, if available.",
+              "source": "client"
+            }
+          ]
+        }
+      ],
+      "default": null,
+      "doc": "Identifiers for client. Each product should add its own set of string fields with the identifiers the client have access to. For clients reporting via JSON endpoint, identifiers can be set in the traits mapping of the context object, with an extra attribute segment_source pointing at the attribute. See https://wiki.opera.com/display/OSP/Data+Submission+REST+API",
+      "source": "client"
+    },
+    {
+      "name": "eventtype",
+      "type": ["null", "string"],
+      "default": null,
+      "doc": "Type of event",
+      "source": "client"
+    },
+    {
+      "name": "protocol_version",
+      "type": "long",
+      "default": 0,
+      "doc": "M42PV1: Starts at 1 and increases by one for each schema update or release (including betas) if no schema update was done. Abbreviated as PV documentation for other fields.",
+      "source": "client"
+    },
+    {
+      "name": "major_version",
+      "type": ["null", "long"],
+      "default": null,
+      "doc": "M42PV1: The major version of OFA. Can be used together with PV to identify where certain fields have been added. Abbreviated as M in documentation for other fields.",
+      "source": "client"
+    },
+    {
+      "name": "migrated_news_user",
+      "type": ["null", "boolean"],
+      "default": null,
+      "doc": "M42PV1",
+      "source": "client"
+    },
+    {
+      "name": "restored_news_user",
+      "type": ["null", "boolean"],
+      "default": null,
+      "doc": "M42PV1",
+      "source": "client"
+    },
+    {
+      "name": "product",
+      "type": [
+        "null",
+        {
+          "name": "Product",
+          "type": "record",
+          "fields": [
+            {
+              "name": "turbo_branding",
+              "type": ["null", "string"],
+              "default": null,
+              "doc": "M42PV1",
+              "source": "client"
+            },
+            {
+              "name": "branding",
+              "type": ["null", "string"],
+              "default": null,
+              "doc": "M42PV1",
+              "source": "client"
+            },
+            {
+              "name": "build_type",
+              "type": ["null", "string"],
+              "default": null,
+              "doc": "M42PV1",
+              "source": "client"
+            },
+            {
+              "name": "distribution_source",
+              "type": ["null", "string"],
+              "default": null,
+              "doc": "M42PV1",
+              "source": "client"
+            },
+            {
+              "name": "distribution_medium",
+              "type": ["null", "string"],
+              "default": null,
+              "doc": "M42PV1",
+              "source": "client"
+            },
+            {
+              "name": "default_referrer",
+              "type": ["null", "string"],
+              "default": null,
+              "doc": "M42PV1",
+              "source": "client"
+            },
+            {
+              "name": "preinstall_source",
+              "type": ["null", "string"],
+              "default": null,
+              "doc": "M42PV1",
+              "source": "client"
+            },
+            {
+              "name": "preinstall_medium",
+              "type": ["null", "string"],
+              "default": null,
+              "doc": "M42PV1",
+              "source": "client"
+            },
+            {
+              "name": "preinstall_provider",
+              "type": ["null", "string"],
+              "default": null,
+              "doc": "M42PV1",
+              "source": "client"
+            },
+            {
+              "name": "install_referrer",
+              "type": ["null", "string"],
+              "default": null,
+              "doc": "M42PV1",
+              "source": "client"
+            },
+            {
+              "name": "campaign",
+              "type": ["null", "string"],
+              "default": null,
+              "doc": "M42PV1",
+              "source": "client"
+            },
+            {
+              "name": "appsflyer_campaign",
+              "type": ["null", "string"],
+              "default": null,
+              "doc": "M42PV1",
+              "source": "client"
+            },
+            {
+              "name": "appsflyer_source",
+              "type": ["null", "string"],
+              "default": null,
+              "doc": "M42PV1",
+              "source": "client"
+            },
+            {
+              "name": "install_time",
+              "type": ["null", "long"],
+              "default": null,
+              "doc": "M42PV1",
+              "source": "client"
+            },
+            {
+              "name": "first_seen",
+              "type": ["null", "long"],
+              "default": null,
+              "doc": "M42PV1",
+              "source": "client"
+            },
+            {
+              "name": "package_abi",
+              "type": ["null", "string"],
+              "default": null,
+              "doc": "M42PV1",
+              "source": "client"
+            },
+            {
+              "name": "package_name",
+              "type": ["null", "string"],
+              "default": null,
+              "doc": "M42PV1",
+              "source": "client"
+            }
+          ]
+        }
+      ],
+      "default": null,
+      "doc": "M42PV1",
+      "source": "client"
+    },
+    {
+      "name": "system",
+      "type": [
+        "null",
+        {
+          "name": "System",
+          "type": "record",
+          "fields": [
+            {
+              "name": "android_sdk",
+              "type": ["null", "int"],
+              "default": null,
+              "doc": "M42PV1",
+              "source": "client"
+            },
+            {
+              "name": "mnc",
+              "type": ["null", "string"],
+              "default": null,
+              "doc": "M42PV1",
+              "source": "client"
+            },
+            {
+              "name": "mcc",
+              "type": ["null", "string"],
+              "default": null,
+              "doc": "M42PV1",
+              "source": "client"
+            },
+            {
+              "name": "country_code",
+              "type": ["null", "string"],
+              "default": null,
+              "doc": "M42PV1",
+              "source": "client"
+            },
+            {
+              "name": "locale",
+              "type": ["null", "string"],
+              "default": null,
+              "doc": "M42PV1",
+              "source": "client"
+            },
+            {
+              "name": "app_notifications_enabled",
+              "type": ["null", "boolean"],
+              "default": null,
+              "doc": "M42PV1",
+              "source": "client"
+            },
+            {
+              "name": "google_play_service_available",
+              "type": ["null", "boolean"],
+              "default": null,
+              "doc": "M42PV1",
+              "source": "client"
+            },
+            {
+              "name": "youtube_api_service_init_result",
+              "type": ["null", "string"],
+              "default": null,
+              "doc": "M42PV1",
+              "source": "client"
+            }
+          ]
+        }
+      ],
+      "default": null,
+      "doc": "M42PV1",
+      "source": "client"
+    },
+    {
+      "name": "durations",
+      "type": [
+        "null",
+        {
+          "type": "record",
+          "name": "Durations",
+          "fields": [
+            {
+              "name": "session_durations",
+              "type": ["null", {"type": "array", "items": "long"}],
+              "default": null,
+              "doc": "M42PV1: Time in milliseconds for each session.",
+              "source": "client"
+            },
+            {
+              "name": "startup",
+              "type": [
+                "null",
+                {
+                  "type": "array",
+                  "items": {
+                    "name": "StartupTimings",
+                    "type": "record",
+                    "fields": [
+                      {
+                        "name": "startup_timings",
+                        "type": ["null", {"type": "map", "values": "long"}],
+                        "default": null,
+                        "doc": "M42PV1: Time measurements for various startup tasks.",
+                        "source": "client"
+                      }
+                    ]
+                  }
+                }
+              ],
+              "default": null,
+              "doc": "M42PV1",
+              "source": "client"
+            }
+          ]
+        }
+      ],
+      "default": null,
+      "doc": "M42PV1: Various duration measurements, measured in milliseconds.",
+      "source": "client"
+    },
+    {
+      "name": "search",
+      "type": [
+        "null",
+        {
+          "name": "Search",
+          "type": "record",
+          "fields": [
+            {
+              "name": "google",
+              "type": [
+                "null",
+                {
+                  "name": "Google",
+                  "type": "record",
+                  "fields": [
+                    {
+                      "name": "linked",
+                      "type": ["null", "int"],
+                      "default": null,
+                      "doc": "M42PV1",
+                      "source": "client"
+                    },
+                    {
+                      "name": "unlinked",
+                      "type": ["null", "int"],
+                      "default": null,
+                      "doc": "M42PV1",
+                      "source": "client"
+                    }
+                  ]
+                }
+              ],
+              "default": null,
+              "doc": "M42PV1",
+              "source": "client"
+            },
+            {
+              "name": "yandex",
+              "type": ["null", "int"],
+              "default": null,
+              "doc": "M42PV1",
+              "source": "client"
+            },
+            {
+              "name": "yahoo",
+              "type": ["null", "int"],
+              "default": null,
+              "doc": "M42PV1",
+              "source": "client"
+            },
+            {
+              "name": "search_engine",
+              "type": ["null", "string"],
+              "default": null,
+              "doc": "M42PV1",
+              "source": "client"
+            }
+          ]
+        }
+      ],
+      "default": null,
+      "doc": "M42PV1",
+      "source": "client"
+    },
+    {
+      "name": "omni_bar",
+      "type": [
+        "null",
+        {
+          "name": "OmniBar",
+          "type": "record",
+          "fields": [
+            {
+              "name": "usages",
+              "type": ["null", "int"],
+              "default": null,
+              "doc": "M42PV1",
+              "source": "client"
+            },
+            {
+              "name": "search_engine_usages",
+              "type": ["null", {"type": "map", "values": "int"}],
+              "default": null,
+              "doc": "M42PV1",
+              "source": "client"
+            },
+            {
+              "name": "suggestion_clicks",
+              "type": ["null", "int"],
+              "default": null,
+              "doc": "M42PV1",
+              "source": "client"
+            }
+          ]
+        }
+      ],
+      "default": null,
+      "doc": "M42PV1",
+      "source": "client"
+    },
+    {
+      "name": "page_view",
+      "type": [
+        "null",
+        {
+          "name": "PageView",
+          "type": "record",
+          "fields": [
+            {
+              "name": "turbo",
+              "type": ["null", "int"],
+              "default": null,
+              "doc": "M42PV1",
+              "source": "client"
+            },
+            {
+              "name": "wifi",
+              "type": ["null", "int"],
+              "default": null,
+              "doc": "M42PV1",
+              "source": "client"
+            },
+            {
+              "name": "count",
+              "type": ["null", "int"],
+              "default": null,
+              "doc": "M42PV1",
+              "source": "client"
+            }
+          ]
+        }
+      ],
+      "default": null,
+      "doc": "M42PV1",
+      "source": "client"
+    },
+    {
+      "name": "tab_manager",
+      "type": [
+        "null",
+        {
+          "name": "TabManager",
+          "type": "record",
+          "fields": [
+            {
+              "name": "max_opened_tabs",
+              "type": ["null", "int"],
+              "default": null,
+              "doc": "M42PV1",
+              "source": "client"
+            },
+            {
+              "name": "max_opened_private_tabs",
+              "type": ["null", "int"],
+              "default": null,
+              "doc": "M42PV1",
+              "source": "client"
+            }
+          ]
+        }
+      ],
+      "default": null,
+      "doc": "M42PV1",
+      "source": "client"
+    },
+    {
+      "name": "add_to_home_screen_usages",
+      "type": ["null", "int"],
+      "default": null,
+      "doc": "M42PV1",
+      "source": "client"
+    },
+    {
+      "name": "exit_clicks",
+      "type": ["null", "int"],
+      "default": null,
+      "doc": "M42PV1",
+      "source": "client"
+    },
+    {
+      "name": "back_button_long_clicks",
+      "type": ["null", "int"],
+      "default": null,
+      "doc": "M42PV1",
+      "source": "client"
+    },
+    {
+      "name": "compressed_videos_delta",
+      "type": ["null", "long"],
+      "default": null,
+      "doc": "M42PV1",
+      "source": "client"
+    },
+    {
+      "name": "track",
+      "type": [
+        "null",
+        {
+          "name": "Track",
+          "type": "record",
+          "fields": [
+            {
+              "name": "unique",
+              "type": ["null", "int"],
+              "default": null,
+              "doc": "M42PV1",
+              "source": "client"
+            },
+            {
+              "name": "visited_urls",
+              "type": ["null", {"type": "map", "values": "int"}],
+              "default": null,
+              "doc": "M42PV1",
+              "source": "client"
+            },
+            {
+              "name": "intercepted_urls",
+              "type": ["null", {"type": "map", "values": "int"}],
+              "default": null,
+              "doc": "M42PV1",
+              "source": "client"
+            }
+          ]
+        }
+      ],
+      "default": null,
+      "doc": "M42PV1",
+      "source": "client"
+    },
+    {
+      "name": "password_manager",
+      "type": [
+        "null",
+        {
+          "name": "PasswordManager",
+          "type": "record",
+          "fields": [
+            {
+              "name": "save_password_dialog",
+              "type": [
+                "null",
+                {
+                  "name": "SavePasswordDialog",
+                  "type": "record",
+                  "fields": [
+                    {
+                      "name": "shown",
+                      "type": ["null", "int"],
+                      "default": null,
+                      "doc": "M42PV1",
+                      "source": "client"
+                    },
+                    {
+                      "name": "save_clicked",
+                      "type": ["null", "int"],
+                      "default": null,
+                      "doc": "M42PV1",
+                      "source": "client"
+                    },
+                    {
+                      "name": "never_clicked",
+                      "type": ["null", "int"],
+                      "default": null,
+                      "doc": "M42PV1",
+                      "source": "client"
+                    }
+                  ]
+                }
+              ],
+              "default": null,
+              "doc": "M42PV1",
+              "source": "client"
+            }
+          ]
+        }
+      ],
+      "default": null,
+      "doc": "M42PV1",
+      "source": "client"
+    },
+    {
+      "name": "settings",
+      "type": ["null", {"type": "map", "values": "string"}],
+      "default": null,
+      "doc": "M42PV1",
+      "source": "client"
+    },
+    {
+      "name": "installed_apps",
+      "type": ["null", {"type": "array", "items": "string"}],
+      "default": null,
+      "doc": "M42PV1",
+      "source": "client"
+    },
+    {
+      "name": "connection_type",
+      "type": ["null", "string"],
+      "default": null,
+      "doc": "M42PV1",
+      "source": "client"
+    },
+    {
+      "name": "events",
+      "type": [
+        "null",
+        {
+          "name": "events",
+          "type": "array",
+          "items": {
+            "name": "CustomEvent",
+            "type": "record",
+            "fields": [
+              {
+                "name": "time",
+                "type": ["null", "long"],
+                "default": null,
+                "doc": "M42PV1",
+                "source": "client"
+              },
+              {
+                "name": "id",
+                "type": ["null", "string"],
+                "default": null,
+                "doc": "M42PV1",
+                "source": "client"
+              },
+              {
+                "name": "data",
+                "type": ["null", {"type": "map", "values": "string"}],
+                "default": null,
+                "doc": "M42PV1",
+                "source": "client"
+              }
+            ]
+          }
+        }
+      ],
+      "default": null,
+      "doc": "M42PV1",
+      "source": "client"
+    },
+    {
+      "name": "prefs",
+      "type": ["null", "string"],
+      "default": null,
+      "doc": "M42PV1",
+      "source": "client"
+    },
+    {
+      "name": "speed_dial",
+      "type": [
+        "null",
+        {
+          "name": "SpeedDial",
+          "type": "record",
+          "fields": [
+            {
+              "name": "item_clicks",
+              "type": ["null", {"type": "map", "values": "int"}],
+              "default": null,
+              "doc": "M42PV1",
+              "source": "client"
+            }
+          ]
+        }
+      ],
+      "default": null,
+      "doc": "M42PV1",
+      "source": "client"
+    },
+    {
+      "name": "news_server",
+      "type": ["null", "string"],
+      "default": null,
+      "doc": "M42PV1",
+      "source": "client"
+    },
+    {
+      "name": "downloads",
+      "type": [
+        "null",
+        {
+          "type": "record",
+          "name": "Downloads",
+          "fields": [
+            {
+              "name": "finished_downloads",
+              "type": [
+                "null",
+                {
+                  "type": "array",
+                  "items": {
+                    "type": "record",
+                    "name": "FinishedDownload",
+                    "fields": [
+                      {
+                        "name": "status",
+                        "type": [
+                          "null",
+                          {
+                            "name": "DownloadStatus",
+                            "type": "enum",
+                            "symbols": [
+                              "completed",
+                              "canceled",
+                              "failed"
+                            ]
+                          }
+                        ],
+                        "default": null,
+                        "doc": "M42PV1: Enum indicating download status.",
+                        "source": "client"
+                      },
+                      {
+                        "name": "content_length",
+                        "type": ["null", "long"],
+                        "default": null,
+                        "doc": "M42PV1: The declared size of the resource in bytes (might not be specified).",
+                        "source": "client"
+                      },
+                      {
+                        "name": "received_bytes",
+                        "type": ["null", "long"],
+                        "default": null,
+                        "doc": "M42PV1: Number of downloaded bytes. For successful downloads should be equal to content_length (if present).",
+                        "source": "client"
+                      },
+                      {
+                        "name": "start_time",
+                        "type": ["null", "long"],
+                        "default": null,
+                        "doc": "M42PV1: Initialization of the download timestamp in milliseconds.",
+                        "logicalType": "timestamp-millis",
+                        "source": "client"
+                      },
+                      {
+                        "name": "end_time",
+                        "type": ["null", "long"],
+                        "default": null,
+                        "doc": "M42PV1: Finalization of the download timestamp in milliseconds.",
+                        "logicalType": "timestamp-millis",
+                        "source": "client"
+                      },
+                      {
+                        "name": "highest_speed",
+                        "type": ["null", "long"],
+                        "default": null,
+                        "doc": "M42PV1: Highest speed estimate in bytes/s",
+                        "source": "client"
+                      },
+                      {
+                        "name": "failure_reason",
+                        "type": ["null", "string"],
+                        "default": null,
+                        "doc": "M42PV1: Details concerning the failure reason.",
+                        "source": "client"
+                      },
+                      {
+                        "name": "directory",
+                        "type": ["null", "string"],
+                        "default": null,
+                        "doc": "M42PV1: Directory where the downloaded file was supposed to be saved on the device.",
+                        "source": "client"
+                      },
+                      {
+                        "name": "free_space",
+                        "type": ["null", "long"],
+                        "default": null,
+                        "doc": "M42PV1: Free space of the selected filesystem of the device in bytes upon initialization of download.",
+                        "source": "client"
+                      }
+                    ]
+                  }
+                }
+              ],
+              "default": null,
+              "doc": "M42PV1: Events for each finished download.",
+              "source": "client"
+            }
+          ]
+        }
+      ],
+      "default": null,
+      "doc": "M42PV1: Downloads related events.",
+      "source": "client"
+    }
+  ]
+}

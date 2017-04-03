@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="sv">
+<translation id="3942946088478181888">Hjälp mig att förstå</translation>
+<translation id="1396529432791646744">Varje gång du ansluter till en säker webbplats sänder servern som står värd för webbplatsen ett "certifikat" för att bekräfta sin identitet. Certifikatet innehåller information om identiteten, till exempel webbplatsens adress, vilken bekräftas av en tredjepart som din mobila enhet litar på. Genom att kontrollera att certifikatets adress motsvarar webbplatsens adress går det att bekräfta att du kommunicerar på ett säkert sätt med den webbplats du förväntar dig, och inte en tredjepart (såsom en angripare på ditt nätverk).</translation>
+<translation id="6295228342562451544">Varje gång du ansluter till en säker webbplats sänder servern som står värd för webbplatsen ett "certifikat" för att bekräfta sin identitet. Certifikatet innehåller information om identiteten, till exempel webbplatsens adress, vilken bekräftas av en tredjepart som din dator litar på. Genom att kontrollera att certifikatets adress motsvarar webbplatsens adress går det att bekräfta att du kommunicerar på ett säkert sätt med den webbplats du förväntar dig, och inte en tredjepart (såsom en angripare på ditt nätverk).</translation>
+<translation id="8187473050234053012">Serverns säkerhetscertifikat har återkallats!</translation>
+<translation id="5598024575303778520">Bedrägerivarning</translation>
+<translation id="7311721172731074902">Bedrägerivarning</translation>
+<translation id="1858130628205855959">Den här webbplatsen kan ha hackats eller vara bedräglig. Om du ger den lösenord eller personuppgifter kan det innebära en risk för identitetsstöld eller finansiella bedrägerier.</translation>
+<translation id="8357891144266644027">Varning för skadlig webbplats</translation>
+<translation id="4664012235452972339">Varning för skadlig webbplats</translation>
+<translation id="1030973920598092450">Den här webbplatsen kan ha hackats eller innehålla skadlig programvara. Det kan vara farligt att besöka sidan.</translation>
+<translation id="4863259811271883558">Rapporterat av <ph name="BEGIN_LINK"/><ph name="PROVIDER_NAME"/><ph name="END_LINK"/></translation>
+<translation id="3141322567138977593">Gå tillbaka på ett säkert sätt</translation>
+<translation id="833642844779103272">Gå tillbaka på ett säkert sätt</translation>
+<translation id="4238466718818823211">Bortse från denna varning</translation>
+<translation id="1755698976576372535">Varför blockerades sidan?</translation>
+<translation id="2962647877740028287">Våra bedrägerirapporter upprättas av tredjepartsleverantörer.</translation>
+<translation id="7470668651798735849">Du kan se alla dina meddelanden från webbplatser här.</translation>
+<translation id="6426222199977479699">SSL-fel</translation>
+<translation id="8398877366907290961">Fortsätt ändå</translation>
+<translation id="6264485186158353794">Tillbaka till säkerheten</translation>
+<translation id="2225024820658613551">Du bör inte fortsätta, &lt;strong&gt;speciellt&lt;/strong&gt; om du aldrig har sett den här varningen tidigare för den här webbplatsen.</translation>
+<translation id="5645845270586517071">Säkerhetsfel</translation>
+<translation id="1103666958012677467">Du kan inte fortsätta eftersom webbplatsansvariga har bett om ökad säkerhet för domänen.</translation>
+<translation id="5463275305984126951">Index för <ph name="LOCATION"/></translation>
+<translation id="8877448029301136595">[överordnad katalog]</translation>
+<translation id="3835522725882634757">Åh, nej! Den här servern skickar data som <ph name="PRODUCT_NAME"/> inte kan förstå. <ph name="BEGIN_LINK"/>Rapportera ett fel<ph name="END_LINK"/>, och ta med <ph name="BEGIN2_LINK"/>rålistan<ph name="END2_LINK"/>.</translation>
+<translation id="5327248766486351172">Namn</translation>
+<translation id="8028993641010258682">Storlek</translation>
+<translation id="57646104491463491">Datum ändrat</translation>
+<translation id="8465929756435120446">Sidans innehåll är delvis osäkert.</translation>
+<translation id="6827416153061837992">Denna anslutning krypteras inte.</translation>
+<translation id="9193357432624119544">Felkod: <ph name="ERROR_NAME"/></translation>
+<translation id="4910619056351738551">Här är några förslag:</translation>
+<translation id="2954705784594331199"><ph name="BEGIN_LINK"/>Hämta om<ph name="END_LINK"/> webbsidan senare.</translation>
+<translation id="4977565600485911823">Inaktivera dina tillägg och <ph name="BEGIN_LINK"/>hämta om<ph name="END_LINK"/> webbsidan.</translation>
+<translation id="1103966635949043187">Gå till webbplatsens startsida:</translation>
+<translation id="7747589364844254751">Kontrollera din internetanslutning. Starta om eventuell router, modem eller annan nätverksutrustning du använder.</translation>
+<translation id="5548623538190661145">Kontrollera dina DNS-inställningar. Kontakta din nätverksadministratör om du inte är säker på vad det här innebär.</translation>
+<translation id="4545046228395991092">Om du använder en proxyserver, kontrollera dina inställningar eller kontakta din nätverksadministratör för att se till att proxyservern fungerar.</translation>
+<translation id="1712673276482711826">Om du använder en proxyserver, kontrollera dina inställningar eller kontakta din nätverksadministratör för att se till att proxyservern fungerar. Om du inte tror att du borde använda en proxyserver, justera dina inställningar: <ph name="PLATFORM_TEXT"/></translation>
+<translation id="721197778055552897"><ph name="BEGIN_LINK"/>Läs mer<ph name="END_LINK"/> om detta problem.</translation>
+<translation id="8235325155053717782">Fel <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="3986287159189541211">HTTP-fel <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="3225919329040284222">Servern sände ett certifikat som inte motsvarar inbyggda förväntningar. Förväntningar finns för vissa, högsäkerhetswebbplatser för att skydda dig.</translation>
+<translation id="6957887021205513506">Serverns certifikat verkar vara en förfalskning.</translation>
+<translation id="6429639049555216915">Appen kan inte nås för närvarande.</translation>
+<translation id="9127307628159259612">Lägg till <ph name="PRODUCT_NAME"/> som ett tillåtet program i inställningarna för din brandvägg eller antivirusprogram. Om det redan är ett tillåtet program, försök ta bort det från listan över tillåtna program och lägg till det igen.</translation>
+<translation id="4544369257849566741">Tillägget för SSL-omförhandling saknas i den säkra handskakningen. För vissa webbplatser, där det är känt att de stöder omförhandlingstillägget kräver <ph name="PRODUCT_NAME"/> en säkrare handskakning för att förhindra ett antal kända angrepp. Att tillägget saknas indikerar att anslutningen har fångats upp och manipulerats medan den var på väg.</translation>
+<translation id="8162734958263531433">För att använda USB-felsökning behöver du Android-SDK:t och ha aktiverat USB-felsökning på din Android-enhet. Se <ph name="HTML_HELPURL"/> för mer information.</translation>
+<translation id="1875071432292773474">Ange adressen <ph name="ACCESS_POINT"/> i webbläsaren på din dator. Webbläsaren på datorn måste vara på samma nätverk som Android-enheten.</translation>
+<translation id="7227425938337339799">Om UPnP ska fungera måste du antingen vara på samma undernät eller skapa en brygga på routern för att vidarebefordra sändningar mellan undernät.</translation>
+<translation id="4553629908098215669">Kör <ph name="HTMLADBCOMMAND"/> på din dator och navigera till <ph name="HTMLLOCALHOSTURL"/> med en Chromium-baserad webbläsare.</translation>
+<translation id="4570032796877367747">Framkamera</translation>
+<translation id="2599796128805996109">Bakkamera</translation>
+<translation id="2124507516322945394">Standardmikrofon</translation>
+<translation id="1587215898571986504">Högtalartelefon</translation>
+<translation id="5614598979078259956">Trådbundet headset</translation>
+<translation id="9031226374756103225">Headsethörlur</translation>
+<translation id="149679617917926491">Bluetooth-headset</translation>
+<translation id="6060685159320643512">Var försiktig när du utför experimenten</translation>
+<translation id="5199729219167945352">Experiment</translation>
+<translation id="533563709691128800">inaktiverat</translation>
+<translation id="2506903884491778518">Sök experiment</translation>
+<translation id="1138663153846032155">Hellre HTML än Flash</translation>
+<translation id="2081453640527377956">Föredra HTML genom att dölja Flash i listan över insticksprogram.</translation>
+<translation id="5998167623928667649">Kör allt Flash-innehåll när Flash-inställningen är inställd till "tillåt"</translation>
+<translation id="5138177765054221193">För webbplatser som har ställts in till att "tillåta" Flash-innehåll, kör allt innehåll, även sådant som har bedömts som oviktigt.</translation>
+<translation id="2112624549618815628">Standard (aktiverat)</translation>
+<translation id="3696363537446376816">Standard (inaktiverat)</translation>
+<translation id="5773249585542913314">Windows körmiljö MIDI API</translation>
+<translation id="7122132768827815392">Använd Windows körmiljö MIDI API för WebMIDI (gäller endast i Windows 10 eller senare).</translation>
+<translation id="1375198122581997741">Om version</translation>
+<translation id="7248671827512403053">Program</translation>
+<translation id="1710259589646384581">OS</translation>
+<translation id="6897140037006041989">Användaragent</translation>
+<translation id="7353601530677266744">Kommandorad</translation>
+<translation id="7225807090967870017">Versions-ID</translation>
+</translationbundle>

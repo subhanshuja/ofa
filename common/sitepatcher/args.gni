@@ -1,0 +1,4 @@
+declare_args() {
+  # If true, a test certificate will be used to verify the signatures of the sitepatcher files.
+  enable_sitepatcher_test = false
+}

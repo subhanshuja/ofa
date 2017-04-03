@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="nl">
+<translation id="3942946088478181888">Leg me dit uit</translation>
+<translation id="1396529432791646744">Wanneer je een verbinding maakt met een beveiligde website, geeft de server waarop de site draait een "certificaat" aan je browser om zijn identiteit te controleren. Dit certificaat bevat identiteitsinformatie, zoals het adres van de website, wat gecontroleerd is door een derde partij die door jouw mobiel wordt vertrouwd. Door te controleren of het adres in het certificaat overeenkomt met het adres van de website, is het mogelijk om te controleren dat je een beveiligde verbinding hebt met de gewenste website, en niet met een tussenpersoon (zoals een aanvaller op jouw netwerk).</translation>
+<translation id="6295228342562451544">Wanneer je een verbinding maakt met een beveiligde website, geeft de server waarop de site draait een "certificaat" aan je browser om zijn identiteit te controleren. Dit certificaat bevat identiteitsinformatie, zoals het adres van de website, wat gecontroleerd is door een derde partij die door jouw computer wordt vertrouwd. Door te controleren of het adres in het certificaat overeenkomt met het adres van de website, is het mogelijk om te controleren dat je een beveiligde verbinding hebt met de gewenste website, en niet met een tussenpersoon (zoals een aanvaller op jouw netwerk).</translation>
+<translation id="8187473050234053012">Het beveiligingscertificaat van de server is ingetrokken!</translation>
+<translation id="5598024575303778520">Waarschuwing voor fraude</translation>
+<translation id="7311721172731074902">Waarschuwing voor fraude</translation>
+<translation id="1858130628205855959">Deze website kan gehackt of frauduleus zijn. Door wachtwoorden of persoonlijke gegevens aan deze site te geven, kan je het risico lopen van identiteitsdiefstal of financiële fraude.</translation>
+<translation id="8357891144266644027">Waarschuwing voor gevaarlijke website</translation>
+<translation id="4664012235452972339">Waarschuwing voor gevaarlijke website</translation>
+<translation id="1030973920598092450">Deze website kan gehackt zijn of schadelijke software bevatten. Het bezoeken van deze pagina kan schadelijk zijn.</translation>
+<translation id="4863259811271883558">Gerapporteerd door <ph name="BEGIN_LINK"/><ph name="PROVIDER_NAME"/><ph name="END_LINK"/></translation>
+<translation id="3141322567138977593">Veilig teruggaan</translation>
+<translation id="833642844779103272">Veilig teruggaan</translation>
+<translation id="4238466718818823211">Deze waarschuwing negeren</translation>
+<translation id="1755698976576372535">Waarom is deze pagina geblokkeerd?</translation>
+<translation id="2962647877740028287">Onze frauderapporten worden onderhouden door derden.</translation>
+<translation id="7470668651798735849">Hier kan je al je meldingen van websites bekijken.</translation>
+<translation id="6426222199977479699">SSL-fout</translation>
+<translation id="8398877366907290961">Toch verdergaan</translation>
+<translation id="6264485186158353794">Terug naar veiligheid</translation>
+<translation id="2225024820658613551">Je zou niet verder moeten gaan, &lt;strong&gt;vooral&lt;/strong&gt; als je nooit eerder deze waarschuwing zag voor deze website.</translation>
+<translation id="5645845270586517071">Beveiligingsfout</translation>
+<translation id="1103666958012677467">Je kunt niet doorgaan omdat de beheerder van de website verhoogde beveiliging heeft gevraagd voor dit domein.</translation>
+<translation id="5463275305984126951">Index van <ph name="LOCATION"/></translation>
+<translation id="8877448029301136595">[bovenliggende map]</translation>
+<translation id="3835522725882634757">O nee! <ph name="PRODUCT_NAME"/> begrijpt de gegevens niet die deze server stuurt. <ph name="BEGIN_LINK"/>Meld het probleem<ph name="END_LINK"/> aub en voeg de <ph name="BEGIN2_LINK"/>ruwe lijst<ph name="END2_LINK"/> bij.</translation>
+<translation id="5327248766486351172">Naam</translation>
+<translation id="8028993641010258682">Grootte</translation>
+<translation id="57646104491463491">Datum gewijzigd</translation>
+<translation id="8465929756435120446">Deze pagina bevat ook onbeveiligd materiaal.</translation>
+<translation id="6827416153061837992">Deze verbinding is niet versleuteld.</translation>
+<translation id="9193357432624119544">Foutcode: <ph name="ERROR_NAME"/></translation>
+<translation id="4910619056351738551">Hier zijn enkele suggesties:</translation>
+<translation id="2954705784594331199"><ph name="BEGIN_LINK"/>Herlaad<ph name="END_LINK"/> deze webpagina later.</translation>
+<translation id="4977565600485911823">Schakel de extensies uit en <ph name="BEGIN_LINK"/>herlaad <ph name="END_LINK"/>daarna deze webpagina.</translation>
+<translation id="1103966635949043187">Ga naar de homepage van de website:</translation>
+<translation id="7747589364844254751">Controleer de internetverbinding. Herstart elke router, modem of ander netwerkapparaat dat je gebruikt.</translation>
+<translation id="5548623538190661145">Controleer je DNS-instellingen. Neem contact op met je netwerkbeheerder als je niet helemaal weet wat dit betekent.</translation>
+<translation id="4545046228395991092">Als je een proxyserver gebruikt, controleer dan de proxy-instellingen, of neem contact op met je netwerkbeheerder om zeker te weten dat de proxyserver werkt.</translation>
+<translation id="1712673276482711826">Als je een proxyserver gebruikt, controleer dan de proxy-instellingen, of neem contact op met je netwerkbeheerder om zeker te weten dat de proxyserver werkt. Als je denkt dat je geen proxyserver zou moeten gebruiken, pas dan de proxyinstellingen aan: <ph name="PLATFORM_TEXT"/></translation>
+<translation id="721197778055552897"><ph name="BEGIN_LINK"/>Meer te weten komen<ph name="END_LINK"/> over dit probleem.</translation>
+<translation id="8235325155053717782">Fout <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="3986287159189541211">HTTP-fout <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="3225919329040284222">De server bood een certificaat aan dat niet overeenkomt met ingebouwde verwachtingen. Deze verwachtingen zijn ingebouwd voor bepaalde hoogbeveiligde websites, om je te beschermen.</translation>
+<translation id="6957887021205513506">Het certificaat van deze server lijkt een vervalsing te zijn.</translation>
+<translation id="6429639049555216915">Deze app kan op dit moment niet bereikt worden.</translation>
+<translation id="9127307628159259612">Voeg <ph name="PRODUCT_NAME"/> toe als een toegestaan programma in de instellingen van je firewall of antivirus-software. Als het al een toegestaan programma is, probeer het dan te verwijderen uit de lijst van toegestane programma's en daarna weer toe te voegen.</translation>
+<translation id="4544369257849566741">De SSL-renegotiation-uitbreiding ontbrak bij de beveiligde aansluitbevestiging. Voor sommige websites, waarvan bekend is dat ze de renegotiation-extensie ondersteunen, vereist <ph name="PRODUCT_NAME"/> een beter beveiligde aansluitbevestiging om een bepaald soort aanvallen te voorkomen. Het ontbreken van deze extensie maakt het aannemelijk dat je verbinding onderschept is en onderweg wordt gemanipuleerd.</translation>
+<translation id="8162734958263531433">Om USB-debuggen te gebruiken, heb je de Android-SDK nodig en moet je USB-debuggen inschakelen op je Android-apparaat. Zie <ph name="HTML_HELPURL"/> voor meer informatie.</translation>
+<translation id="1875071432292773474">Typ het adres <ph name="ACCESS_POINT"/> in je desktopbrowser. De desktopbrowser moet zich in hetzelfde netwerk bevinden als het Android-apparaat.</translation>
+<translation id="7227425938337339799">Voorwaarde voor de werking van UPnP is dat je op hetzelfde subnet werkt, of dat je de router bridged om broadcasts te versturen tussen subnets.</translation>
+<translation id="4553629908098215669">Draai <ph name="HTMLADBCOMMAND"/> op je computer en navigeer naar <ph name="HTMLLOCALHOSTURL"/> met een op Chromium gebaseerde browser.</translation>
+<translation id="4570032796877367747">Voorcamera</translation>
+<translation id="2599796128805996109">Achtercamera</translation>
+<translation id="2124507516322945394">Standaard microfoon</translation>
+<translation id="1587215898571986504">Luidsprekertelefoon</translation>
+<translation id="5614598979078259956">Bedrade headset</translation>
+<translation id="9031226374756103225">Headset-oortje</translation>
+<translation id="149679617917926491">Bluetooth headset</translation>
+<translation id="6060685159320643512">Wees voorzichtig, deze experimenten kunnen gevaarlijk zijn</translation>
+<translation id="5199729219167945352">Experimenten</translation>
+<translation id="533563709691128800">uitgeschakeld</translation>
+<translation id="2506903884491778518">Experimenten doorzoeken</translation>
+<translation id="1138663153846032155">HTML boven Flash</translation>
+<translation id="2081453640527377956">Geef de voorkeur aan HTML-content door Flash op de lijst met plug-ins te verbergen.</translation>
+<translation id="5998167623928667649">Voer alle Flash-content uit als de Flash-instelling op "toestaan" staat</translation>
+<translation id="5138177765054221193">Voer alle content uit voor websites die zijn ingesteld op het "toestaan" van Flash-content, ook content die als onbelangrijk wordt beschouwd.</translation>
+<translation id="2112624549618815628">Standaard (ingeschakeld)</translation>
+<translation id="3696363537446376816">Standaard (uitgeschakeld)</translation>
+<translation id="5773249585542913314">Windows Runtime MIDI API</translation>
+<translation id="7122132768827815392">Gebruik Windows Runtime MIDI API voor WebMIDI (werkt alleen op Windows 10 of later).</translation>
+<translation id="1375198122581997741">Over Versie</translation>
+<translation id="7248671827512403053">Programma</translation>
+<translation id="1710259589646384581">OS</translation>
+<translation id="6897140037006041989">User Agent</translation>
+<translation id="7353601530677266744">Opdrachtregel</translation>
+<translation id="7225807090967870017">Bouwnummer-ID</translation>
+</translationbundle>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="nl">
+<translation id="3929428121849375048">Avast SafeZone</translation>
+<translation id="806546331937022936">Avast</translation>
+<translation id="3609966143444339170">Avast raadt ten sterkste af om deze pagina te bezoeken.</translation>
+<translation id="4206706288435313269">Avast SafeZone-meldingencentrum</translation>
+<translation id="254978580676301713">SafeZone - meldingen</translation>
+<translation id="8084325208922689406">SafeZone - meldingen (<ph name="QUANTITY"/> ongelezen)</translation>
+<translation id="678670207776683961">SafeZone - Meldingen</translation>
+<translation id="191361968702850015">SafeZone - Meldingen (<ph name="QUANTITY"/> ongelezen)</translation>
+<translation id="1359674843509087498">De site gebruikt verouderde veiligheidsinstellingen waardoor toekomstige versies van SafeZone mogelijk geen veilige toegang kunnen krijgen.</translation>
+<translation id="3485921796584936414">Geef SafeZone toegang tot het netwerk in de firewall of de antivirusinstellingen.</translation>
+<translation id="7041993155087650094">Ga naar het SafeZone-menu &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; LAN-instellingen en zet "Een proxyserver voor het LAN-netwerk gebruiken" uit.</translation>
+<translation id="5366394231680131980">De aanpassingen gaan in na een herstart van SafeZone.</translation>
+<translation id="6964843943881946410">Voer je computerwachtwoord in om de opgeslagen wachtwoorden van SafeZone te zien.</translation>
+</translationbundle>

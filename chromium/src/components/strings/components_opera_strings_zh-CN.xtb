@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="zh-CN">
+<translation id="1974060860693918893">高级</translation>
+<translation id="3462200631372590220">隐藏高级</translation>
+<translation id="3369192424181595722">时钟错误</translation>
+<translation id="2625385379895617796">您的时钟过快</translation>
+<translation id="8932102934695377596">您的时钟过慢</translation>
+<translation id="3858027520442213535">更新日期和时间</translation>
+<translation id="725866823122871198">因您的计算机日期和时间 (<ph name="DATE_AND_TIME"/>) 不正确，无法建立至 <ph name="BEGIN_BOLD"/><ph name="DOMAIN"/><ph name="END_BOLD"/> 的私密连接。</translation>
+<translation id="4879058462256654741">为建立安全连接，您的时钟需要正确设置。这是因为网站用于自我识别的证书仅在特定时间段有效。但因您设备的时钟不正确，所以无法验证这些证书。</translation>
+<translation id="1413809658975081374">隐私错误</translation>
+<translation id="3566021033012934673">您的连接不是私密连接</translation>
+<translation id="340013220407300675">攻击者可能从 <ph name="BEGIN_BOLD"/><ph name="SITE"/><ph name="END_BOLD"/> 窃取您的信息（例如：密码、消息或信用卡号）。</translation>
+<translation id="629137324635910832"><ph name="SITE"/> 通常使用加密来保护您的信息。当此次 Opera 试图连接至 <ph name="SITE"/> 时，网站发回异常且不正确的凭据。这可能是因为攻击者试图伪装为 <ph name="SITE"/>，或 Wi-Fi 登录界面使连接中断。您的信息仍然安全，因为 Opera 在数据交换之前已阻止连接。</translation>
+<translation id="4404555778932203074">您目前无法访问 <ph name="SITE"/>，因为此网站发送了 Opera 无法处理的杂乱凭据。网络错误和攻击通常是暂时的，因此，此网页稍后可能会恢复正常。</translation>
+<translation id="8882627153668738693"><ph name="SITE"/> 通常使用加密来保护您的信息。当此次 Avast SafeZone 试图连接至 <ph name="SITE"/> 时，网站发回异常且不正确的凭据。这可能是因为攻击者试图伪装为 <ph name="SITE"/>，或 Wi-Fi 登录界面使连接中断。您的信息仍然安全，因为 Avast SafeZone 在数据交换之前已阻止连接。</translation>
+<translation id="1888865191717601957">您目前无法访问 <ph name="SITE"/>，因为此网站发送了 Avast SafeZone 无法处理的杂乱凭据。网络错误和攻击通常是暂时的，因此，此网页稍后可能会恢复正常。</translation>
+<translation id="6264485186158353794">返回以确保安全</translation>
+<translation id="7704050614460855821"><ph name="BEGIN_LINK"/>继续连接至 <ph name="SITE"/>（不安全）<ph name="END_LINK"/></translation>
+<translation id="5556459405103347317">重新载入</translation>
+<translation id="6051221802930200923">您目前无法访问 <ph name="SITE"/>，因为此网站使用了证书锁定。网络错误和攻击通常是暂时的，因此，此网页稍后可能会恢复正常。</translation>
+<translation id="2991571918955627853">您目前无法访问 <ph name="SITE"/>，因为此网站使用了 HSTS。网络错误和攻击通常是暂时的，因此，此网页稍后可能会恢复正常。</translation>
+<translation id="1430489501396597835">您目前无法访问 <ph name="SITE"/>，因为此证书已撤销。网络错误和攻击通常是暂时的，因此，此网页稍后可能会恢复正常。</translation>
+<translation id="4513896196857653318">转到
+          主菜单 &gt;
+          <ph name="SETTINGS_TITLE"/>
+          &gt;
+          <ph name="ADVANCED_TITLE"/>
+          并取消选择“<ph name="NO_PREFETCH_DESCRIPTION"/>”。
+          如果未能解决问题，我们推荐再次选择此选项
+          以获得改善性能。</translation>
+<translation id="8888594059056485523">在防火墙或防病毒设置中允许 Opera 访问网络。</translation>
+<translation id="8040357206858000048">转到应用程序 &gt; 系统首选项 &gt; 网络 &gt; 高级 &gt; 代理，然后取消选择已选中的代理。</translation>
+<translation id="1532685482177999023">转到主菜单 &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; LAN 设置，然后取消选择“为 LAN 使用代理服务器”。</translation>
+<translation id="6118049677165320383">您的更改将在下次重新启动浏览器后生效。</translation>
+<translation id="5510583790312051907">故障报告不可用。</translation>
+<translation id="1011013207380005827">Opera 基于 <ph name="BEGIN_LINK_CHROMIUM"/>Chromium<ph name="END_LINK_CHROMIUM"/> 开源项目和其他<ph name="BEGIN_LINK_OSS"/>开源软件<ph name="END_LINK_OSS"/>创建。</translation>
+<translation id="3108493547597012279">您现在查看的是安全页面。</translation>
+<translation id="8530361534096361731">Opera 没有正确关闭。</translation>
+</translationbundle>

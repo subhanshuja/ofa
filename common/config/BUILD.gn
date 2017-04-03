@@ -1,0 +1,9 @@
+# Copyright (C) 2015 Opera Software ASA.  All rights reserved.
+#
+# This file is an original work developed by Opera Software ASA.
+
+import("//build/config/opera-common.gni")
+
+config("include_config") {
+  include_dirs = [ "$opera" ]
+}

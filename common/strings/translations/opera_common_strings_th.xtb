@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="th">
+<translation id="2978824962390592855">Opera</translation>
+<translation id="9071130496134948492">Opera Software</translation>
+<translation id="6494666865857176946">Opera Software ไม่แนะนำอย่างยิ่งในการเยี่ยมชมเพจนี้</translation>
+<translation id="7459549266751278805">ศูนย์การแจ้ง Opera</translation>
+<translation id="4501379002264542907">Opera - การแจ้งเตือน</translation>
+<translation id="1352092048463356430">โอเปรา - การแจ้งเตือน (<ph name="QUANTITY"/> ยังไม่ได้อ่าน)</translation>
+<translation id="4159400746343093340">Opera - การแจ้งเตือน</translation>
+<translation id="6018626517703817463">โอเปรา - การแจ้งเตือน (<ph name="QUANTITY"/> ยังไม่ได้อ่าน)</translation>
+<translation id="6161036283010589960">เว็บไซต์ใช้การตั้งค่าความปลอดภัยที่ล้าสมัยซึ่งอาจทำให้เวอร์ชันในอนาคตของ Opera ไม่สามาถเข้าถึงได้อย่างปลอดภัย</translation>
+<translation id="8888594059056485523">อนุญาตให้ Opera เข้าถึงเครือข่ายนี้ในการตั้งค่าไฟร์วอลล์หรือการป้องกันไวรัสของคุณ</translation>
+<translation id="7158277678571698323">ไปที่เมนู Opera&gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; ตั้งค่า LAN และยกเลิกการเลือก "ใช้พร็อกซีเซิร์ฟเวอร์สำหรับระบบ LAN ของคุณ"</translation>
+<translation id="5873732809085338161">การเปิดใช้งาน WebSockets ที่ไม่ปลอดภัยในเบราว์เซอร์เดสก์ท็อปของคุณ ให้ไปที่ <ph name="HTMLOPERAFLAG"/> (Opera 24 +) หรือ <ph name="HTMLCHROMEFLAG"/> (Chrome 36+)</translation>
+<translation id="2005166128312586988">การเปลี่ยนแปลงของคุณจะมีผลเมื่อคุณเปิดใช้งาน Opera ใหม่</translation>
+<translation id="684302243018322820">ในการดูรหัสผ่านที่ Opera เก็บรักษาไว้ โปรดป้อนรหัสผ่านคอมพิวเตอร์ของคุณ</translation>
+</translationbundle>

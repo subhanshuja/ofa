@@ -1,0 +1,6 @@
+#ifndef OBMLVIEW_WORKERTHREAD_H
+#define OBMLVIEW_WORKERTHREAD_H
+
+void MOpWorkerThread_inMain();
+
+#endif /* OBMLVIEW_WORKERTHREAD_H */

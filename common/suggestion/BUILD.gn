@@ -1,0 +1,26 @@
+# Copyright (C) 2015 Opera Software ASA.  All rights reserved.
+#
+# This file is an original work developed by Opera Software ASA.
+
+source_set("suggestion") {
+  sources = [
+    "query_parser.cc",
+    "query_parser.h",
+    "snippet.h",
+    "suggestion_callback.h",
+    "suggestion_item.cc",
+    "suggestion_item.h",
+    "suggestion_manager.cc",
+    "suggestion_manager.h",
+    "suggestion_provider.h",
+    "suggestion_tokens.cc",
+    "suggestion_tokens.h",
+    "url_index.cc",
+    "url_index.h",
+  ]
+
+  configs += [ "../config:include_config" ]
+
+  # TODO: Implement conditionals
+}
+# TODO: Implement unit test

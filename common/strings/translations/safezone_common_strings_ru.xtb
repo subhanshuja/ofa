@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="ru">
+<translation id="3929428121849375048">Avast SafeZone</translation>
+<translation id="806546331937022936">Avast</translation>
+<translation id="3609966143444339170">Opera Software настоятельно не рекомендует посещать эту страницу.</translation>
+<translation id="4206706288435313269">Центр уведомлений Avast SafeZone</translation>
+<translation id="254978580676301713">SafeZone — уведомления</translation>
+<translation id="8084325208922689406">SafeZone — уведомления (не прочитано: <ph name="QUANTITY"/>)</translation>
+<translation id="678670207776683961">SafeZone — уведомления</translation>
+<translation id="191361968702850015">SafeZone — уведомления (не прочитано: <ph name="QUANTITY"/>)</translation>
+<translation id="1359674843509087498">На этом сайте используются устаревшие настройки безопасности, из-за чего возможно, что будущие версии SafeZone не смогут безопасно к нему обращаться.</translation>
+<translation id="3485921796584936414">Разрешите SafeZone доступ к сети с настройками сетевого экрана или антивируса.</translation>
+<translation id="7041993155087650094">Перейдите в меню SafeZone &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; «Настройки локальной сети» и снимите флажок «Использовать прокси-сервер для локальной сети».</translation>
+<translation id="5366394231680131980">Изменения вступят в силу после перезапуска SafeZone.</translation>
+<translation id="6964843943881946410">Чтобы посмотреть пароли, сохраненные SafeZone, введите пароль своего компьютера.</translation>
+</translationbundle>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="da">
+<translation id="1974060860693918893">Avanceret</translation>
+<translation id="3462200631372590220">Skjul avanceret</translation>
+<translation id="3369192424181595722">Fejl i systemur</translation>
+<translation id="2625385379895617796">Dit ur er foran</translation>
+<translation id="8932102934695377596">Dit ur er bagud</translation>
+<translation id="3858027520442213535">Opdater dato og klokkeslæt</translation>
+<translation id="725866823122871198">Der kan ikke etableres privat forbindelse til <ph name="BEGIN_BOLD"/><ph name="DOMAIN"/><ph name="END_BOLD"/>, fordi din computers dato og klokkeslæt (<ph name="DATE_AND_TIME"/>) er forkerte.</translation>
+<translation id="4879058462256654741">Hvis du vil oprette sikker forbindelse, skal uret være indstillet korrekt. Dette skyldes, at de certifikater, som websteder bruger til identifikation, kun er gyldige i bestemte tidsrum. Da din enheds ur er indstillet forkert, kan disse certifikater ikke verificeres.</translation>
+<translation id="1413809658975081374">Beskyttelsesfejl</translation>
+<translation id="3566021033012934673">Din forbindelse er ikke privat</translation>
+<translation id="340013220407300675">Du kan blive udsat for angreb, hvor andre forsøger at stjæle dine oplysninger fra <ph name="BEGIN_BOLD"/><ph name="SITE"/><ph name="END_BOLD"/> (for eksempel adgangskoder, meddelelser eller kreditkortoplysninger).</translation>
+<translation id="629137324635910832"><ph name="SITE"/> bruger normalt kryptering til beskyttelse af din oplysninger. Da Opera denne gang forsøgte at oprette forbindelse til <ph name="SITE"/>, returnerede webstedet usædvanlige og forkerte legitimationsoplysninger. Dette kan ske, hvis nogen prøver at udgive sig for at være <ph name="SITE"/>, eller forbindelsen er blevet afbrudt af en Wi-Fi-loginskærm. Dine oplysninger er stadig beskyttet, da Opera afbrød forbindelsen, før der blev udvekslet data.</translation>
+<translation id="4404555778932203074">Du kan ikke besøge <ph name="SITE"/> lige nu, fordi webstedet har sendt krypterede legitimationsoplysninger, som Opera ikke kan behandle. Netværksfejl og angreb er normalt midlertidige, så denne side vil sikkert virke senere.</translation>
+<translation id="8882627153668738693"><ph name="SITE"/> bruger normalt kryptering til beskyttelse af dine oplysninger. Da Avast SafeZone denne gang forsøgte at oprette forbindelse til <ph name="SITE"/>, returnerede webstedet usædvanlige og forkerte legitimationsoplysninger. Dette kan ske, hvis nogen prøver at udgive sig for at være <ph name="SITE"/>, eller forbindelsen er blevet afbrudt af en Wi-Fi-loginskærm. Dine oplysninger er stadig beskyttet, da Avast SafeZone afbrød forbindelsen, før der blev udvekslet data.</translation>
+<translation id="1888865191717601957">Du kan ikke besøge <ph name="SITE"/> lige nu, fordi webstedet har sendt krypterede legitimationsoplysninger, som Avast SafeZone ikke kan behandle. Netværksfejl og angreb er normalt midlertidige, så denne side vil sikkert virke senere.</translation>
+<translation id="6264485186158353794">Tilbage til sikkerhed</translation>
+<translation id="7704050614460855821"><ph name="BEGIN_LINK"/>Fortsæt til <ph name="SITE"/> (usikkert)<ph name="END_LINK"/></translation>
+<translation id="5556459405103347317">Genindlæs</translation>
+<translation id="6051221802930200923">Du kan ikke besøge <ph name="SITE"/> lige nu, fordi webstedet bruger fastgørelse af certifikat. Netværksfejl og angreb er normalt midlertidige, så denne side vil sikkert virke senere.</translation>
+<translation id="2991571918955627853">Du kan ikke besøge <ph name="SITE"/> lige nu, fordi webstedet bruger HSTS. Netværksfejl og angreb er normalt midlertidige, så denne side vil sikkert virke senere.</translation>
+<translation id="1430489501396597835">Du kan ikke besøge <ph name="SITE"/> lige nu, fordi dette certifikat er blevet tilbagekaldt. Netværksfejl og angreb er normalt midlertidige, så denne side vil sikkert virke senere.</translation>
+<translation id="4513896196857653318">Gå til
+          hovedmenuen &gt;
+          <ph name="SETTINGS_TITLE"/>
+          &gt;
+          <ph name="ADVANCED_TITLE"/>
+          og fjern markeringen i "<ph name="NO_PREFETCH_DESCRIPTION"/>."
+          Hvis dette ikke løser problemet, anbefaler vi, at du vælger denne indstilling
+          for at forbedre ydeevnen.</translation>
+<translation id="8888594059056485523">Tillad, at Opera har adgang til netværket i dine indstillinger for firewall eller antivirus.</translation>
+<translation id="8040357206858000048">Gå til Programmer &gt; Systemindstillinger &gt; Netværk &gt; Avanceret &gt; Proxyer, og fjern markeringen fra alle proxyer, der er valgt.</translation>
+<translation id="1532685482177999023">Gå til hovedmenuen &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; LAN-indstillinger, og fjern markeringen i "Brug en proxyserver til LAN".</translation>
+<translation id="6118049677165320383">Dine ændringer træder i kraft, næste gang du starter browseren.</translation>
+<translation id="5510583790312051907">Nedbrudsrapportering er ikke tilgængelig.</translation>
+<translation id="1011013207380005827">Opera muliggjort af open source-projektet <ph name="BEGIN_LINK_CHROMIUM"/>Chromium<ph name="END_LINK_CHROMIUM"/> og anden <ph name="BEGIN_LINK_OSS"/>open source-software<ph name="END_LINK_OSS"/>.</translation>
+<translation id="3108493547597012279">Den viste side er sikker.</translation>
+<translation id="8530361534096361731">Opera blev ikke lukket korrekt.</translation>
+</translationbundle>

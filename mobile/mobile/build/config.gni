@@ -1,0 +1,12 @@
+# Copyright (C) 2016 Opera Software ASA.  All rights reserved.
+#
+# This file is an original work developed by Opera Software ASA
+
+import("//build/config/opera-common.gni")
+
+assert(opera_wam)
+
+root_extra_deps = [ "$opera/mobile/mobile/build" ]
+
+common_chrome_imports_dir = "$opera/common/chrome_imports"
+mobile_chrome_imports_dir = "$opera/mobile/common/chrome_imports"

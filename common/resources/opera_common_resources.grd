@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grit latest_public_release="0" current_release="1">
+  <outputs>
+    <output filename="grit/opera_common_resources.h" type="rc_header">
+      <emit emit_type='prepend'></emit>
+    </output>
+    <output filename="common_resources.pak" type="data_package" />
+    <output filename="common_resources.rc" type="rc_all" />
+  </outputs>
+  <release seq="1">
+    <structures>
+      <if expr="not use_opera_desktop_translations">
+        <structure name="IDR_SSL_ROAD_BLOCK_HTML" file="webui/ssl_roadblock.html" flattenhtml="true" type="chrome_html" />
+        <structure name="IDR_NET_ERROR_HTML" file="webui/neterror.html" flattenhtml="true" type="chrome_html" />
+      </if>
+
+      <!-- Fraud Warning WebUI -->
+      <structure name="IDR_FRAUD_WARNING_HTML" file="webui/fraudwarning.html" flattenhtml="true" type="chrome_html" />
+    </structures>
+  </release>
+</grit>

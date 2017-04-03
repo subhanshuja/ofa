@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="fr">
+<translation id="3942946088478181888">Aidez moi à comprendre</translation>
+<translation id="1396529432791646744">Lorsque vous vous connectez à un site sécurisé, le serveur hébergeant le site présente au navigateur un certificat pour prouver son identité. Ce certificat contient des preuves d'identité, comme l'adresse du site web, qui sont vérifiées par une tierce partie de confiance. En vérifiant que l'adresse contenue dans certificat correspond à l'adresse du site, il est possible de vérifier que vous communiquez réellement avec le site voulu, et non pas avec une tierce partie (comme un pirate attaquant votre réseau).</translation>
+<translation id="6295228342562451544">Lorsque vous vous connectez à un site sécurisé, le serveur hébergeant le site présente au navigateur un certificat pour prouver son identité. Ce certificat contient des preuves d'identité, comme l'adresse du site web, qui sont vérifiées par une tierce partie de confiance. En vérifiant que l'adresse contenue dans certificat correspond à l'adresse du site, il est possible de vérifier que vous communiquez réellement avec le site voulu, et non pas avec une tierce partie (comme un pirate attaquant votre réseau).</translation>
+<translation id="8187473050234053012">Le certificat de sécurité du serveur a été révoqué !</translation>
+<translation id="5598024575303778520">Avertissement de fraude</translation>
+<translation id="7311721172731074902">Avertissement de fraude</translation>
+<translation id="1858130628205855959">Ce site est peut-être piraté ou frauduleux. Lui donner des mots de passe ou des informations personnelles présente des risques de vol d'identité et/ou de fraude financière.</translation>
+<translation id="8357891144266644027">Avertissement de site malveillant</translation>
+<translation id="4664012235452972339">Avertissement de site malveillant</translation>
+<translation id="1030973920598092450">Ce site est peut-être piraté ou pourrait contenir des logiciels malveillants. Il peut-être dangereux de visiter cette page.</translation>
+<translation id="4863259811271883558">Rapporté par <ph name="BEGIN_LINK"/><ph name="PROVIDER_NAME"/><ph name="END_LINK"/></translation>
+<translation id="3141322567138977593">Revenir en sécurité</translation>
+<translation id="833642844779103272">Revenir en sécurité</translation>
+<translation id="4238466718818823211">Ignorer cet avertissement</translation>
+<translation id="1755698976576372535">Pourquoi cette page a-t-elle été bloquée ?</translation>
+<translation id="2962647877740028287">Nos rapports de fraude sont effectués par des vendeurs tierces.</translation>
+<translation id="7470668651798735849">Vous pouvez voir toutes vos notifications de sites web ici.</translation>
+<translation id="6426222199977479699">Erreur SSL</translation>
+<translation id="8398877366907290961">Continuer quand même</translation>
+<translation id="6264485186158353794">Revenir en sécurité</translation>
+<translation id="2225024820658613551">Vous ne devriez pas continuer, &lt;strong&gt;particulièrement&lt;/strong&gt; si vous n'avez jamais obtenu cet avertissement avant pour ce site.</translation>
+<translation id="5645845270586517071">Erreur de sécurité</translation>
+<translation id="1103666958012677467">Vous ne pouvez pas continuer parce que l'opérateur du site web a exigé une sécurité renforcée pour ce domaine.</translation>
+<translation id="5463275305984126951">Index de <ph name="LOCATION"/></translation>
+<translation id="8877448029301136595">[répertoire parent]</translation>
+<translation id="3835522725882634757">Oh, non ! Ce serveur envoie des données que <ph name="PRODUCT_NAME"/> n'arrive pas à comprendre. Veuillez <ph name="BEGIN_LINK"/>rapporter le bug<ph name="END_LINK"/>, et communiquez nous la <ph name="BEGIN2_LINK"/>liste brute<ph name="END2_LINK"/>.</translation>
+<translation id="5327248766486351172">Nom</translation>
+<translation id="8028993641010258682">Taille</translation>
+<translation id="57646104491463491">Date de modification</translation>
+<translation id="8465929756435120446">Cette page contient du contenu non sécurisé.</translation>
+<translation id="6827416153061837992">Cette connexion n'est pas cryptée.</translation>
+<translation id="9193357432624119544">Code de l'erreur : <ph name="ERROR_NAME"/></translation>
+<translation id="4910619056351738551">Voici quelques suggestions :</translation>
+<translation id="2954705784594331199"><ph name="BEGIN_LINK"/>Rechargez<ph name="END_LINK"/> cette page plus tard.</translation>
+<translation id="4977565600485911823">Désactivez vos extensions puis <ph name="BEGIN_LINK"/>rechargez<ph name="END_LINK"/> cette page web.</translation>
+<translation id="1103966635949043187">Aller à la page d'accueil du site :</translation>
+<translation id="7747589364844254751">Vérifiez votre connexion internet. Redémarrez votre routeur, modem ou tout autre appareil réseau que vous utilisez pour vous connecter.</translation>
+<translation id="5548623538190661145">Vérifiez vos réglages DNS. Contactez votre administrateur réseau en cas de doute.</translation>
+<translation id="4545046228395991092">Si vous utilisez un serveur proxy, vérifiez ses réglages ou contactez votre administrateur réseau pour être sûr que le serveur proxy fonctionne correctement.</translation>
+<translation id="1712673276482711826">Si vous utilisez un serveur proxy, vérifiez ses réglages ou contactez votre administrateur réseau pour être sûr que le serveur proxy fonctionne correctement. Si vous ne pensez pas que vous devriez utiliser un serveur proxy, modifiez les réglages du serveur proxy : <ph name="PLATFORM_TEXT"/></translation>
+<translation id="721197778055552897"><ph name="BEGIN_LINK"/>En savoir plus<ph name="END_LINK"/> sur ce problème.</translation>
+<translation id="8235325155053717782">Erreur <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="3986287159189541211">Erreur HTTP <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="3225919329040284222">Le serveur a présenté un certificat qui ne répond pas aux attentes. Ces attentes sont définies pour certains sites web à forte sécurité pour vous protéger.</translation>
+<translation id="6957887021205513506">Le certificat du serveur semble être un faux.</translation>
+<translation id="6429639049555216915">Impossible de joindre cette application.</translation>
+<translation id="9127307628159259612">Ajoutez <ph name="PRODUCT_NAME"/> à la liste des programmes autorisés dans les réglages de votre pare-feu ou anti-virus. Si cela est déjà fait, essayez de l'effacer de la liste des programmes autorisés et de le rajouter à nouveau.</translation>
+<translation id="4544369257849566741">L'extension de renégociation SSL manquait dans l'échange sécurisé. Pour certains sites, supportant l'extension de renégociation, <ph name="PRODUCT_NAME"/> exige un échange plus sécurisé pour empêcher certaines attaques connues. L'omission de cette extension suggère que votre connexion a été interceptée et manipulée durant son transit.</translation>
+<translation id="8162734958263531433">Pour utiliser le débogage USB, vous devez avoir le SDK Android et l'option débogage USB activée sur votre appareil Android. Consultez <ph name="HTML_HELPURL"/> pour plus d'informations.</translation>
+<translation id="1875071432292773474">Entrez l'adresse <ph name="ACCESS_POINT"/> dans le navigateur de votre ordinateur. Le navigateur de votre ordinateur doit être sur le même réseau que votre appareil Android.</translation>
+<translation id="7227425938337339799">Pour que l'UPnP fonctionne, vous devez soit être sous le même masque de sous-réseau, ou faire un pont avec le routeur pour faire suivre les émissions sur les masques de sous-réseaux.</translation>
+<translation id="4553629908098215669">Sur votre ordinateur, lancez <ph name="HTMLADBCOMMAND"/>, et naviguez sur <ph name="HTMLLOCALHOSTURL"/> avec un navigateur basé sur Chromium.</translation>
+<translation id="4570032796877367747">Caméra frontale</translation>
+<translation id="2599796128805996109">Caméra arrière</translation>
+<translation id="2124507516322945394">Microphone par défaut</translation>
+<translation id="1587215898571986504">Haut-parleur</translation>
+<translation id="5614598979078259956">Casque filaire</translation>
+<translation id="9031226374756103225">Oreillette</translation>
+<translation id="149679617917926491">Casque Bluetooth</translation>
+<translation id="6060685159320643512">Attention, ces expériences peuvent piquer</translation>
+<translation id="5199729219167945352">Expériences</translation>
+<translation id="533563709691128800">désactivée</translation>
+<translation id="2506903884491778518">Rechercher</translation>
+<translation id="1138663153846032155">Préférer HTML plutôt que Flash</translation>
+<translation id="2081453640527377956">Préférer le contenu HTML en masquant Flash dans la liste des plug-ins.</translation>
+<translation id="5998167623928667649">Exécuter tout le contenu Flash lorsque le paramètre Flash est réglé sur Autoriser</translation>
+<translation id="5138177765054221193">Pour les sites qui ont été définis comme « autorisant » le contenu Flash, exécuter tout le contenu y compris tout ce qui est jugé sans importance.</translation>
+<translation id="2112624549618815628">Défaut (activée)</translation>
+<translation id="3696363537446376816">Défaut (désactivée)</translation>
+<translation id="5773249585542913314">API MIDI Windows Runtime</translation>
+<translation id="7122132768827815392">Utiliser l'API MIDI Windows Runtime pour WebMIDI (valable uniquement sur Windows 10 ou ultérieur).</translation>
+<translation id="1375198122581997741">À propos de cette version</translation>
+<translation id="7248671827512403053">Application</translation>
+<translation id="1710259589646384581">Système d'exploitation</translation>
+<translation id="6897140037006041989">Agent utilisateur</translation>
+<translation id="7353601530677266744">Ligne de commande</translation>
+<translation id="7225807090967870017">Identification de version</translation>
+<translation id="8420139899406509438">Activé (clignotant lorsque perte du focus audio, expérimental)</translation>
+</translationbundle>

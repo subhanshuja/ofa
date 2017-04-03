@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="hr">
+<translation id="3942946088478181888">Pomoć</translation>
+<translation id="1396529432791646744">Kad se povežete sa sigurnim web-mjestom, poslužitelj na kojem je to web-mjesto smješteno pregledniku će poslati takozvani "certifikat" kojim potvrđuje svoj identitet. Certifikat sadrži podatke o identitetu, kao što je adresa web-mjesta, koje je potvrdila treća strana koju mobilni uređaj smatra pouzdanom. Ako provjerite je li adresa u certifikatu usklađena s adresom web-mjesta, možete potvrditi da sigurno komunicirate sa željenim web-mjestom, a ne s nekom trećom stranom (npr. nekime tko napada mrežu).</translation>
+<translation id="6295228342562451544">Kad se povežete sa sigurnim web-mjestom, poslužitelj na kojem je to web-mjesto smješteno pregledniku će poslati takozvani „certifikat” kojim potvrđuje svoj identitet. Certifikat sadrži podatke o identitetu, kao što je adresa web-mjesta, koje je potvrdila treća strana koju računalo smatra pouzdanom. Ako provjerite je li adresa u certifikatu usklađena s adresom web-mjesta, možete potvrditi da sigurno komunicirate sa željenim web-mjestom, a ne s nekom trećom stranom (npr. nekime tko napada mrežu).</translation>
+<translation id="8187473050234053012">Sigurnosni je certifikat poslužitelja opozvan!</translation>
+<translation id="5598024575303778520">Upozorenje o prijevari</translation>
+<translation id="7311721172731074902">Upozorenje o prijevari</translation>
+<translation id="1858130628205855959">Ovo je web-mjesto možda hakirano ili lažno. Davanjem lozinki ili osobnih podataka mogli biste biti izloženi riziku krađe identiteta ili financijske prijevare.</translation>
+<translation id="8357891144266644027">Upozorenje o zlonamjernom web-mjestu</translation>
+<translation id="4664012235452972339">Upozorenje o zlonamjernom web-mjestu</translation>
+<translation id="1030973920598092450">Ovo je web-mjesto možda hakirano ili sadrži zlonamjerni softver. Posjet ovom web-mjestu mogao bi imati štetan učinak.</translation>
+<translation id="4863259811271883558">Prijavio ga je <ph name="BEGIN_LINK"/><ph name="PROVIDER_NAME"/><ph name="END_LINK"/></translation>
+<translation id="3141322567138977593">Siguran povratak</translation>
+<translation id="833642844779103272">Siguran povratak</translation>
+<translation id="4238466718818823211">Zanemari upozorenje</translation>
+<translation id="1755698976576372535">Zašto je ova stranica bila blokirana?</translation>
+<translation id="2962647877740028287">Prijave o prijevarama održavaju dobavljači trećih strana.</translation>
+<translation id="7470668651798735849">Ovdje možete vidjeti sve obavijesti s web-mjesta.</translation>
+<translation id="6426222199977479699">SSL pogreška</translation>
+<translation id="8398877366907290961">Ipak nastavi</translation>
+<translation id="6264485186158353794">Povratak u sigurnost</translation>
+<translation id="2225024820658613551">Ne biste smjeli nastaviti, a &lt;strong&gt;osobito&lt;/strong&gt; ako za ovo web-mjesto još niste vidjeli ovo upozorenje.</translation>
+<translation id="5645845270586517071">Sigurnosna pogreška</translation>
+<translation id="1103666958012677467">Ne možete nastaviti jer je operater web-mjesta za domenu zatražio povećanu sigurnost.</translation>
+<translation id="5463275305984126951">Indeks za <ph name="LOCATION"/></translation>
+<translation id="8877448029301136595">[nadređena mapa]</translation>
+<translation id="3835522725882634757">O, ne! Poslužitelj šalje podatke koje <ph name="PRODUCT_NAME"/> ne razumije. Molimo <ph name="BEGIN_LINK"/>prijavite pogrešku<ph name="END_LINK"/> i uključite <ph name="BEGIN2_LINK"/>neobrađeni popis<ph name="END2_LINK"/>.</translation>
+<translation id="5327248766486351172">Naziv</translation>
+<translation id="8028993641010258682">Veličina</translation>
+<translation id="57646104491463491">Datum izmjene</translation>
+<translation id="8465929756435120446">Sadržaj stranice nije posve siguran.</translation>
+<translation id="6827416153061837992">Veza nije šifrirana.</translation>
+<translation id="9193357432624119544">Kod pogreške: <ph name="ERROR_NAME"/></translation>
+<translation id="4910619056351738551">Evo nekih prijedloga:</translation>
+<translation id="2954705784594331199"><ph name="BEGIN_LINK"/>Ponovno učitajte<ph name="END_LINK"/> web-stranicu kasnije.</translation>
+<translation id="4977565600485911823">Onemogućite proširenja pa ponovno <ph name="BEGIN_LINK"/>učitajte<ph name="END_LINK"/> web-stranicu.</translation>
+<translation id="1103966635949043187">Otvorite početnu stranicu web-mjesta:</translation>
+<translation id="7747589364844254751">Provjerite internetsku vezu. Ponovno pokrenite usmjerivač, modem ili drugi mrežni uređaj koji koristite.</translation>
+<translation id="5548623538190661145">Provjerite postavke DNS-a. Ako niste sigurni što to znači, obratite se mrežnom administratoru.</translation>
+<translation id="4545046228395991092">Ako koristite proxy poslužitelj, provjerite postavke proxyja ili se obratite mrežnom administratoru da biste saznali funkcionira li proxy poslužitelj.</translation>
+<translation id="1712673276482711826">Ako koristite proxy poslužitelj, provjerite postavke proxyja ili se obratite mrežnom administratoru da biste saznali funkcionira li proxy poslužitelj. Ako mislite da ne koristite proxy poslužitelj, prilagodite postavke proxyja: <ph name="PLATFORM_TEXT"/></translation>
+<translation id="721197778055552897"><ph name="BEGIN_LINK"/>Saznajte više<ph name="END_LINK"/> o ovom problemu.</translation>
+<translation id="8235325155053717782">Pogreška <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="3986287159189541211">HTTP pogreška <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="3225919329040284222">Poslužitelj je poslao certifikat koji ne odgovara ugrađenim očekivanjima. Neka web-mjesta s visokim mjerama sigurnosti ugrađuju ta očekivanja radi vaše zaštite.</translation>
+<translation id="6957887021205513506">Čini se da je certifikat poslužitelja krivotvoren.</translation>
+<translation id="6429639049555216915">Aplikaciji trenutno nije moguće pristupiti.</translation>
+<translation id="9127307628159259612">Dodajte <ph name="PRODUCT_NAME"/> kao dozvoljeni program u postavkama vatrozida ili antivirusnog programa. Ako već jest dozvoljeni program, pokušajte ga izbrisati s popisa dozvoljenih programa, a zatim ga ponovno dodati.</translation>
+<translation id="4544369257849566741">U sigurnom rukovanju nema ekstenzije za ponovni SSL pregovor. Za neka web-mjesta, za koja se zna da podržavaju <ph name="PRODUCT_NAME"/> ekstenziju ponovnog pregovora, traži sigurnije rukovanje radi zaštite od klase poznatih napada. Budući da te ekstenzije nema, to upućuje na to da je netko presreo vezu i izmijenio je u prolazu.</translation>
+<translation id="8162734958263531433">Da biste upotrebljavali ispravljanje pogrešaka putem USB-a, na uređaju sa sustavom Android morate omogućiti Android SDK i ispravljanje pogrešaka putem USB-a. Dodatne informacije potražite na adresi <ph name="HTML_HELPURL"/>.</translation>
+<translation id="1875071432292773474">Unesite adresu <ph name="ACCESS_POINT"/> u preglednik na stolnom računalu. Preglednik na stolnom računalu mora biti na istoj mreži kao i uređaj sa sustavom Android.</translation>
+<translation id="7227425938337339799">Da bi funkcionirao UPnP, morate biti na istoj podmreži ili premostiti usmjerivač za prosljeđivanje emitiranja preko više podmreža.</translation>
+<translation id="4553629908098215669">Na računalu pokrenite <ph name="HTMLADBCOMMAND"/>, a zatim otvorite <ph name="HTMLLOCALHOSTURL"/> s pomoću preglednika utemeljenog na Chromiumu.</translation>
+<translation id="4570032796877367747">Prednja kamera</translation>
+<translation id="2599796128805996109">Stražnja kamera</translation>
+<translation id="2124507516322945394">Zadani mikrofon</translation>
+<translation id="1587215898571986504">Zvučnik</translation>
+<translation id="5614598979078259956">Žične slušalice</translation>
+<translation id="9031226374756103225">Dio za uši slušalica</translation>
+<translation id="149679617917926491">Bluetooth slušalice</translation>
+<translation id="6060685159320643512">Pazite, ti bi eksperimenti mogli biti opasni</translation>
+<translation id="5199729219167945352">Eksperimenti</translation>
+<translation id="533563709691128800">onemogućeno</translation>
+<translation id="2506903884491778518">Pretraži eksperimente</translation>
+<translation id="1138663153846032155">Davanje prednosti HTML-u pred dodatkom Flash</translation>
+<translation id="2081453640527377956">Dajte prednost HTML sadržaju tako da sakrijete Flash na popisu dodataka.</translation>
+<translation id="5998167623928667649">Pokretanje cijeloga sadržaja dodatka Flash kad je postavka Flash postavljena na „dopusti”</translation>
+<translation id="5138177765054221193">Za web-mjesta postavljena na „dopusti” sadržaj dodatka Flash pokrenite sav sadržaj uključujući sve što je ocijenjeno kao nevažno.</translation>
+<translation id="2112624549618815628">Zadano (omogućeno)</translation>
+<translation id="3696363537446376816">Zadano (onemogućeno)</translation>
+<translation id="5773249585542913314">Windows Runtime MIDI API</translation>
+<translation id="7122132768827815392">Upotrijebite Windows Runtime MIDI API za WebMIDI (radi samo na sustavu Windows 10 ili kasnijim verzijama).</translation>
+<translation id="1375198122581997741">O verziji</translation>
+<translation id="7248671827512403053">Aplikacija</translation>
+<translation id="1710259589646384581">OS</translation>
+<translation id="6897140037006041989">Agent korisnika</translation>
+<translation id="7353601530677266744">Naredbeni redak</translation>
+<translation id="7225807090967870017">ID međuverzije</translation>
+</translationbundle>

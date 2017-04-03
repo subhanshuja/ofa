@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="nb">
+<translation id="3942946088478181888">Hjelp meg å forstå</translation>
+<translation id="1396529432791646744">Når du kobler til et sikkert nettsted, vil tjeneren som er vert for nettstedet gi nettleseren din noe som kalles et "sertifikat" for å bekrefte identiteten sin. Dette sertifikatet inneholder identitetsinformasjon, som for eksempel adressen til nettsiden, som er bekreftet av en tredje part som enheten din stoler på. Ved å sjekke at adressen i sertifikatet stemmer med adressen til nettstedet, er det mulig å bekrefte at du kommuniserer sikkert med det nettstedet du skulle til, og ikke en tredje part (som for eksempel en angriper på nettverket ditt).</translation>
+<translation id="6295228342562451544">Når du kobler til et sikkert nettsted, vil tjeneren som er vert for nettstedet gi nettleseren din noe som kalles et "sertifikat" for å bekrefte identiteten sin. Dette sertifikatet inneholder identitetsinformasjon, som for eksempel adressen til nettsiden, som er bekreftet av en tredje part som datamaskinen din stoler på. Ved å sjekke at adressen i sertifikatet stemmer med adressen til nettstedet, er det mulig å bekrefte at du kommuniserer sikkert med det nettstedet du skulle til, og ikke en tredje part (som for eksempel en angriper på nettverket ditt).</translation>
+<translation id="8187473050234053012">Tjenerens sikkerhetssertifikat er tilbakekalt!</translation>
+<translation id="5598024575303778520">Advarsel mot nettsvindel</translation>
+<translation id="7311721172731074902">Advarsel mot nettsvindel</translation>
+<translation id="1858130628205855959">Dette nettstedet kan være hacket eller falskt. Hvis du oppgir passord eller personlige opplysninger her, kan du risikere identitetstyveri eller økonomisk bedrageri.</translation>
+<translation id="8357891144266644027">Advarsel om ondsinnet nettsted</translation>
+<translation id="4664012235452972339">Advarsel om ondsinnet nettsted</translation>
+<translation id="1030973920598092450">Dette nettstedet kan være hacket eller inneholde skadelig programvare. Besøk på denne siden kan få skadelige konsekvenser.</translation>
+<translation id="4863259811271883558">Rapportert av <ph name="BEGIN_LINK"/><ph name="PROVIDER_NAME"/><ph name="END_LINK"/></translation>
+<translation id="3141322567138977593">Returner trygt</translation>
+<translation id="833642844779103272">Returner trygt</translation>
+<translation id="4238466718818823211">Overse denne advarselen</translation>
+<translation id="1755698976576372535">Hvorfor ble denne siden blokkert?</translation>
+<translation id="2962647877740028287">Svindelrapportene utferdiges av tredjepartsleverandører.</translation>
+<translation id="7470668651798735849">Du kan se alle dine varsler fra nettsteder her.</translation>
+<translation id="6426222199977479699">SSL-feil</translation>
+<translation id="8398877366907290961">Fortsett likevel</translation>
+<translation id="6264485186158353794">Tilbake til sikkerhet</translation>
+<translation id="2225024820658613551">Du bør ikke fortsette. &lt;strong&gt;spesielt&lt;/strong&gt; hvis du aldri har sett denne advarselen tidligere for dette nettstedet.</translation>
+<translation id="5645845270586517071">Sikkerhetsfeil</translation>
+<translation id="1103666958012677467">Du kan ikke fortsette, fordi nettstedets operatør krever styrket sikkerhet for dette domenet.</translation>
+<translation id="5463275305984126951">Indeks for <ph name="LOCATION"/></translation>
+<translation id="8877448029301136595">[ett nivå opp]</translation>
+<translation id="3835522725882634757">Å nei! Tjeneren sender data <ph name="PRODUCT_NAME"/> ikke kan forstå. Vi vil be deg om å <ph name="BEGIN_LINK"/>rapportere en feil<ph name="END_LINK"/>, og legge ved <ph name="BEGIN2_LINK"/>enkel tekstvisning<ph name="END2_LINK"/>.</translation>
+<translation id="5327248766486351172">Navn</translation>
+<translation id="8028993641010258682">Størrelse</translation>
+<translation id="57646104491463491">Dato endret</translation>
+<translation id="8465929756435120446">Denne siden inneholder noen usikre elementer.</translation>
+<translation id="6827416153061837992">Denne tilkoblingen er ikke kryptert.</translation>
+<translation id="9193357432624119544">Feilkode: <ph name="ERROR_NAME"/></translation>
+<translation id="4910619056351738551">Her er noen forslag:</translation>
+<translation id="2954705784594331199"><ph name="BEGIN_LINK"/>Last<ph name="END_LINK"/> denne nettsiden på nytt.</translation>
+<translation id="4977565600485911823">Slå av utvidelsene og <ph name="BEGIN_LINK"/>last<ph name="END_LINK"/> denne siden på nytt.</translation>
+<translation id="1103966635949043187">Gå til nettstedets hjemmeside:</translation>
+<translation id="7747589364844254751">Kontroller internettforbindelsen din. Restart ruter, modem, eller andre nettverksenheter du bruker.</translation>
+<translation id="5548623538190661145">Kontroller DNS-innstillingene dine. Kontakt din nettverksadministrator hvis du ikke er sikker på hva dette betyr.</translation>
+<translation id="4545046228395991092">Hvis du bruker en mellomtjener, kontroller mellomtjenerinnstillingene eller kontakt din nettverksadministrator for å sikre deg at mellomtjeneren fungerer.</translation>
+<translation id="1712673276482711826">Hvis du bruker en mellomtjener, kontroller mellomtjenerinnstillingene eller kontakt din nettverksadministrator for å sikre deg at mellomtjeneren fungerer. Hvis du mener du ikke skal bruke en mellomtjener, korriger mellomtjenerinnstillingene: <ph name="PLATFORM_TEXT"/></translation>
+<translation id="721197778055552897"><ph name="BEGIN_LINK"/>Mer<ph name="END_LINK"/> om denne feilen.</translation>
+<translation id="8235325155053717782">Feil <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="3986287159189541211">HTTP-feil <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="3225919329040284222">Tjeneren viste et sertifikat som ikke stemmer med innebyggete forventninger. Disse forventningene omfattes av visse høysikkerhetsnettsteder for å beskytte deg.</translation>
+<translation id="6957887021205513506">Tjenerens sertifikat ser ut til å være forfalsket.</translation>
+<translation id="6429639049555216915">Denne appen er ikke tilgjengelig for øyeblikket.</translation>
+<translation id="9127307628159259612">Legg til <ph name="PRODUCT_NAME"/> som et tillatt program i innstillingene til brannmuren din eller antivirusprogrammet ditt. Hvis det er et tillatt program fra før, prøv å slette det fra listen over tillatte programmer og legge det til på nytt.</translation>
+<translation id="4544369257849566741">Utvidelsen for SSL-reforhandling manglet i det sikre håndtrykket. For noen nettsteder, som vites å støtte utvidelsen for reforhandling, krever <ph name="PRODUCT_NAME"/> et sikrere håndtrykk for å forhindre en klasse av kjente angrep. Utelatelsen av denne utvidelsen antyder at tilkoblingen din ble avlyttet og manipulert underveis.</translation>
+<translation id="8162734958263531433">For å bruke USB-feilsøking, må Android SDK og USB debugging være påslått på Android-enheten. Se <ph name="HTML_HELPURL"/> for mer informasjon.</translation>
+<translation id="1875071432292773474">Skriv inn adressen <ph name="ACCESS_POINT"/> i nettleseren på datamaskinen. Nettleseren må være på en datamaskin som er i samme nettverk som Android-enheten.</translation>
+<translation id="7227425938337339799">For at UPnP skal virke, må du enten være på samme subnett, eller bridge ruteren til å videresende sendinger mellom subnett.</translation>
+<translation id="4553629908098215669">Kjør <ph name="HTMLADBCOMMAND"/> på datamaskinen din, og naviger til <ph name="HTMLLOCALHOSTURL"/> med en Chromium-basert nettleser.</translation>
+<translation id="4570032796877367747">Frontkamera</translation>
+<translation id="2599796128805996109">Baksidekamera</translation>
+<translation id="2124507516322945394">Standard mikrofon</translation>
+<translation id="1587215898571986504">Høyttalende telefon</translation>
+<translation id="5614598979078259956">Kablet hodesett</translation>
+<translation id="9031226374756103225">Øretelefon</translation>
+<translation id="149679617917926491">Bluetooth hodesett</translation>
+<translation id="6060685159320643512">Forsiktig, disse eksperimentene kan bite</translation>
+<translation id="5199729219167945352">Eksperimenter</translation>
+<translation id="533563709691128800">avslått</translation>
+<translation id="2506903884491778518">Søk i eksperimenter</translation>
+<translation id="1138663153846032155">Foretrekk HTML fremfor Flash</translation>
+<translation id="2081453640527377956">Foretrekk HTML-innhold ved å skjule Flash fra listen over programtillegg.</translation>
+<translation id="5998167623928667649">Kjør alt Flash-innhold når Flash-innstillingen er satt til "tillat"</translation>
+<translation id="5138177765054221193">Kjør alt innhold inkludert det som vurderes som uviktig på nettsteder som er konfigurert til å tillate Flash-innhold.</translation>
+<translation id="2112624549618815628">Standard (slått på)</translation>
+<translation id="3696363537446376816">Standard (slått av)</translation>
+<translation id="5773249585542913314">Windows Runtime MIDI API</translation>
+<translation id="7122132768827815392">Bruk Windows Runtime MIDI API for WebMIDI (gjelder bare for Windows 10 eller nyere).</translation>
+<translation id="1375198122581997741">Om versjon</translation>
+<translation id="7248671827512403053">Applikasjon</translation>
+<translation id="1710259589646384581">OS</translation>
+<translation id="6897140037006041989">Brukeragent</translation>
+<translation id="7353601530677266744">Kommandolinje</translation>
+<translation id="7225807090967870017">Delversjons-ID</translation>
+<translation id="8420139899406509438">Slått på (Flash-lydstrømmen plasseres i bakgrunnen ved tap av lydfokus, eksperimentell funksjonalitet)</translation>
+</translationbundle>

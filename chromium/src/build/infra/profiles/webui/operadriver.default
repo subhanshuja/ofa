@@ -1,0 +1,3 @@
+# Web profile - default (request force build)
+
+--gyp_params "remove_webcore_debug_symbols=1"

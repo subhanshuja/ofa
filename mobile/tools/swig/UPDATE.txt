@@ -1,0 +1,32 @@
+Quick-n-dirty instructions for updating our SWIG version.
+
+* Clone ssh://git.oslo.osa/var/git/tools/swig.git for our patched swig
+
+* Add https://github.com/swig/swig.git as remote and fetch
+
+* Create and rebase our latest patch branch from tools/swig onto the
+  new version from github. Our branch on tools/swig is called
+  rel-n.n.n-WAM where n.n.n is the SWIG version number. The release
+  tags from the swig github repo are called rel-\d+\.\d+\.\d+ Make
+  sure to find out what changes are still applicable.
+
+* Download PCRE: http://www.pcre.org/
+
+* Build a static version of PCRE and install to a temporary prefix:
+  mkdir /tmp/pcre
+  ./configure --prefix=/tmp/pcre/ --enable-shared=no
+  make -j8 install
+
+* Build SWIG with the static version of PCRE. We must statically compile PCRE
+  as different distributions will name the shared library differently.
+  (./autogen.sh)
+  ./configure --with-pcre-prefix=/tmp/pcre/
+  make -j8
+
+* Copy SWIG to the opera source directory:
+    strip -o path-to-opera-work/mobile/tools/swig/swig swig
+    cd Lib/
+    cp -r *.i *.swg java/ std/ typemaps/ path-to-opera-work/mobile/tools/swig/Lib/
+
+* Build project and find out whats broken. Any changes to swig itself
+  is done to tools/swig.

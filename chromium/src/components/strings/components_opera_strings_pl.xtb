@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="pl">
+<translation id="1974060860693918893">Zaawansowane</translation>
+<translation id="3462200631372590220">Ukryj zaawansowane</translation>
+<translation id="3369192424181595722">Błędne ustawienie zegara</translation>
+<translation id="2625385379895617796">Twój zegar wskazuje przyszłość</translation>
+<translation id="8932102934695377596">Twój zegar wskazuje przeszłość</translation>
+<translation id="3858027520442213535">Zaktualizuj datę i czss</translation>
+<translation id="725866823122871198">Nie można nawiązać poufnego połączenia z witryną <ph name="BEGIN_BOLD"/><ph name="DOMAIN"/><ph name="END_BOLD"/>, ponieważ ustawienia daty i czasu (<ph name="DATE_AND_TIME"/>) w Twoim komputerze są nieprawidłowe.</translation>
+<translation id="4879058462256654741">W celu nawiązania bezpiecznego połączenia należy prawidłowo ustawić zegar systemowy, ponieważ certyfikaty, za pomocą których witryny potwierdzają swoją tożsamość, ważne są tylko w określonym czasie. Zegar Twojego urządzenia ustawiony jest nieprawidłowo, więc nie można zweryfikować ważności tych certyfikatów.</translation>
+<translation id="1413809658975081374">Błąd dotyczący prywatności</translation>
+<translation id="3566021033012934673">Połączenie nie jest poufne</translation>
+<translation id="340013220407300675">Być może ktoś próbuje ukraść Twoje dane z <ph name="BEGIN_BOLD"/><ph name="SITE"/><ph name="END_BOLD"/> (np. hasła, wiadomości, dane karty kredytowej).</translation>
+<translation id="629137324635910832"><ph name="SITE"/> zwykle używa szyfrowania, by chronić Twoje dane. Gdy tym razem Opera próbowała nawiązać połączenie z <ph name="SITE"/>, witryna ta zwróciła inne niż normalnie i nieprawidłowe poświadczenia. Może to się zdarzyć, gdy złośliwa witryna próbuje udawać, że jest witryną <ph name="SITE"/>, lub gdy wyświetlenie ekranu logowania do sieci Wi-Fi spowodowało przerwanie połączenia. Twoje dane są nadal bezpieczne, ponieważ Opera przerwała połączenie, zanim doszło do ich wymiany.</translation>
+<translation id="4404555778932203074">Nie możesz teraz odwiedzić <ph name="SITE"/>, ponieważ witryna wysłała poświadczenia w postaci, której Opera nie potrafi przetworzyć. Błędy sieciowe i ataki są zwykle tymczasowe, więc prawdopodobnie strona będzie wkrótce dostępna.</translation>
+<translation id="8882627153668738693"><ph name="SITE"/> zwykle używa szyfrowania, by chronić Twoje dane. Gdy tym razem Avast SafeZone próbował nawiązać połączenie z <ph name="SITE"/>, witryna ta zwróciła inne niż normalnie i nieprawidłowe poświadczenia. Może to się zdarzyć, gdy złośliwa witryna próbuje udawać, że jest witryną <ph name="SITE"/>, lub gdy wyświetlenie ekranu logowania do sieci Wi-Fi spowodowało przerwanie połączenia. Twoje dane są nadal bezpieczne, ponieważ program Avast SafeZone przerwał połączenie, zanim doszło do ich wymiany.</translation>
+<translation id="1888865191717601957">Nie możesz teraz odwiedzić <ph name="SITE"/>, ponieważ witryna wysłała poświadczenia w postaci, której program Avast SafeZone nie potrafi przetworzyć. Błędy sieciowe i ataki są zwykle tymczasowe, więc prawdopodobnie strona będzie wkrótce dostępna.</translation>
+<translation id="6264485186158353794">Wróć do bezpiecznej witryny</translation>
+<translation id="7704050614460855821"><ph name="BEGIN_LINK"/>Przejdź do <ph name="SITE"/> (niebezpieczna)<ph name="END_LINK"/></translation>
+<translation id="5556459405103347317">Odśwież</translation>
+<translation id="6051221802930200923">Nie możesz teraz odwiedzić <ph name="SITE"/>, ponieważ witryna używa mechanizmu „certificate pinning”. Błędy sieciowe i ataki są zwykle tymczasowe, więc prawdopodobnie strona będzie wkrótce dostępna.</translation>
+<translation id="2991571918955627853">Nie możesz teraz odwiedzić <ph name="SITE"/>, ponieważ witryna używa mechanizmu HSTS. Błędy sieciowe i ataki są zwykle tymczasowe, więc prawdopodobnie strona będzie wkrótce dostępna.</translation>
+<translation id="1430489501396597835">Nie możesz teraz odwiedzić <ph name="SITE"/>, ponieważ ten certyfikat został unieważniony. Błędy sieciowe i ataki są zwykle tymczasowe, więc prawdopodobnie strona będzie wkrótce dostępna.</translation>
+<translation id="4513896196857653318">Przejdź do
+          menu głównego &gt;
+          <ph name="SETTINGS_TITLE"/>
+          &gt;
+          <ph name="ADVANCED_TITLE"/>
+          i odznacz „<ph name="NO_PREFETCH_DESCRIPTION"/>.”
+          Jeśli nie spowoduje to rozwiązania problemu, zalecamy ponowne zaznaczenie tej opcji 
+          w celu uzyskania lepszej wydajności.</translation>
+<translation id="8888594059056485523">W ustawieniach swojej zapory sieciowej lub programu antywirusowego zezwól programowi Opera na dostęp do sieci.</translation>
+<translation id="8040357206858000048">Przejdź do Aplikacje &gt; Preferencje systemowe &gt; Sieć &gt; Zaawansowane &gt; Serwery proxy i odznacz wszystkie serwery proxy.</translation>
+<translation id="1532685482177999023">Przejdź do menu głównego &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; Ustawienia sieci LAN i odznacz „Użyj serwera proxy dla sieci LAN”.</translation>
+<translation id="6118049677165320383">Zmiany zostaną zastosowane po ponownym uruchomieniu przeglądarki.</translation>
+<translation id="5510583790312051907">Funkcja raportowania awarii jest niedostępna.</translation>
+<translation id="1011013207380005827">Operę stworzono dzięki projektowi open source <ph name="BEGIN_LINK_CHROMIUM"/>Chromium<ph name="END_LINK_CHROMIUM"/> oraz innym <ph name="BEGIN_LINK_OSS"/>programom o otwartym kodzie źródłowym<ph name="END_LINK_OSS"/>.</translation>
+<translation id="3108493547597012279">Przeglądasz bezpieczną stronę.</translation>
+<translation id="8530361534096361731">Opera nie została zamknięta prawidłowo .</translation>
+</translationbundle>

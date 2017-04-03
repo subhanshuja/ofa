@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="fi">
+<translation id="2978824962390592855">Opera</translation>
+<translation id="9071130496134948492">Opera Software</translation>
+<translation id="6494666865857176946">Opera Software ei suosittele tällä sivustolla vierailua.</translation>
+<translation id="7459549266751278805">Opera-ilmoituskeskus</translation>
+<translation id="4501379002264542907">Opera – ilmoitukset</translation>
+<translation id="1352092048463356430">Opera – ilmoitukset (lukemattomia: <ph name="QUANTITY"/>)</translation>
+<translation id="4159400746343093340">Opera – ilmoitukset</translation>
+<translation id="6018626517703817463">Opera – ilmoitukset (lukemattomia: <ph name="QUANTITY"/>)</translation>
+<translation id="6161036283010589960">Sivusto käyttää vanhentuneita turvallisuusasetuksia, jotka voivat estää uusimpia Opera-selaimia käyttämästä sivustoa turvallisesti.</translation>
+<translation id="8888594059056485523">Salli verkon käyttö Opera-selaimelle laitteesi palomuuri- ja virustorjunta-asetuksissa.</translation>
+<translation id="7158277678571698323">Valitse Opera-valikko &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; Lähiverkon asetukset ja poista valinta "Käytä lähiverkossa välityspalvelinta".</translation>
+<translation id="5873732809085338161">Jos haluat ottaa käyttöön turvattomat WebSocket-protokollat työpöytäselaimessasi, mene kohteeseen <ph name="HTMLOPERAFLAG"/> (Opera 24+) tai <ph name="HTMLCHROMEFLAG"/> (Chrome 36+).</translation>
+<translation id="2005166128312586988">Muutokset tulevat voimaan, kun käynnistät Opera-selaimen uudelleen.</translation>
+<translation id="684302243018322820">Syötä tietokoneesi salasana nähdäksesi Opera-selaimeen tallennetut salasanat.</translation>
+</translationbundle>

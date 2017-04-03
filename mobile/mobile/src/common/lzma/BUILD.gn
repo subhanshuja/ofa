@@ -1,0 +1,12 @@
+# Copyright (C) 2016 Opera Software ASA.  All rights reserved.
+#
+# This file is an original work developed by Opera Software ASA
+
+if (current_toolchain == host_toolchain) {
+  executable("LzmaUtil") {
+    sources = [ "LzmaUtil.c" ]
+
+    defines = [ "_7ZIP_ST" ]
+    deps = [ "//third_party/lzma_sdk"]
+  }
+}

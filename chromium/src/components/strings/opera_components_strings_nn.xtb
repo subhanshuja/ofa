@@ -1,0 +1,376 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="nn">
+<translation id="113188000913989374"><ph name="SITE"/> seier:</translation>
+<translation id="5544037170328430102">Ei inkludert side på <ph name="SITE"/> seier:</translation>
+<translation id="8866959479196209191">Denne sida seier:</translation>
+<translation id="7424977062513257142">Ei inkludert side på denne nettsida seier:</translation>
+<translation id="333371639341676808">Hindre denne sida frå å lage fleire dialogar.</translation>
+<translation id="5622887735448669177">Vil du gå ut av denne nettstaden?</translation>
+<translation id="425582637250725228">Endringane dine vil kanskje ikkje verte lagra.</translation>
+<translation id="2677748264148917807">Gå ut</translation>
+<translation id="662080504995468778">Bli verande</translation>
+<translation id="3032412215588512954">Vil du laste om att denne nettstaden?</translation>
+<translation id="5556459405103347317">Last om att</translation>
+<translation id="2889159643044928134">Ikkje last om att</translation>
+<translation id="2835170189407361413">Tøm skjema</translation>
+<translation id="935608979562296692">TØM SKJEMA</translation>
+<translation id="5029568752722684782">Tøm kopi</translation>
+<translation id="2455981314101692989">Denne sida har slått av automatisk fylling av skjema.</translation>
+<translation id="7542995811387359312">Automatisk fylling av kredittkortinformasjon er slått av da sida ikkje nyttar ei sikker tilkopling.</translation>
+<translation id="8483780878231876732">For å bruke kort fra din Google-konto, logg inn til Chrome</translation>
+<translation id="7813600968533626083">Vil du fjerne skjemaforslaget frå Chrome?</translation>
+<translation id="7569952961197462199">Vil du fjerne kredittkortet frå Chrome?</translation>
+<translation id="4587425331216688090">Vil du fjerne adressa frå Chrome?</translation>
+<translation id="6671697161687535275">Vil du fjerne skjemaforslaget frå Chromium?</translation>
+<translation id="7637571805876720304">Vil du fjerne kredittkortet frå Chromium?</translation>
+<translation id="6218753634732582820">Vil du fjerne adressa frå Chromium?</translation>
+<translation id="4148925816941278100">American Express</translation>
+<translation id="1734864079702812349">Amex</translation>
+<translation id="933712198907837967">Diners Club</translation>
+<translation id="3169472444629675720">Discover</translation>
+<translation id="6008256403891681546">JCB</translation>
+<translation id="3450660100078934250">MasterCard</translation>
+<translation id="7012363358306927923">China UnionPay</translation>
+<translation id="719464814642662924">Visa</translation>
+<translation id="2113977810652731515">Kort</translation>
+<translation id="4668929960204016307">, </translation>
+<translation id="5089810972385038852">Stat</translation>
+<translation id="6839929833149231406">Område</translation>
+<translation id="7087282848513945231">Fylke</translation>
+<translation id="2096368010154057602">Kommune</translation>
+<translation id="6970216967273061347">Distrikt</translation>
+<translation id="7139724024395191329">Emirat</translation>
+<translation id="3174168572213147020">Øy</translation>
+<translation id="3885155851504623709">Prestegjeld</translation>
+<translation id="777702478322588152">Prefektur</translation>
+<translation id="5095208057601539847">Provins</translation>
+<translation id="2053553514270667976">Postnummer</translation>
+<translation id="6282194474023008486">Postnummer</translation>
+<translation id="6445051938772793705">Land</translation>
+<translation id="8804164990146287819">Retningsliner for personvern</translation>
+<translation id="1132774398110320017">Innstillingar Chrome Autofyll...</translation>
+<translation id="1344588688991793829">Innstillingar for Chromium Autofyll...</translation>
+<translation id="3340978935015468852">innstillingar</translation>
+<translation id="8530504477309582336">Google Payments stør ikkje denne korttypen. Vel eit anna kort.</translation>
+<translation id="59107663811261420">Google Payments stør ikkje denne korttypa på denne utsalsstaden. Vel eit anna kort.</translation>
+<translation id="8834246243508017242">Bruk Autofyll med oppslag frå kontaktar …</translation>
+<translation id="2498091847651709837">Skanne nytt kort</translation>
+<translation id="3542684924769048008">Bruk passord til:</translation>
+<translation id="5786044859038896871">Vil du fylle inn din kortinformasjon?</translation>
+<translation id="5803412860119678065">Vil du fylle inn din <ph name="CARD_DETAIL"/>?</translation>
+<translation id="2463739503403862330">Fyll inn</translation>
+<translation id="5317780077021120954">Lagre</translation>
+<translation id="1629803312968146339">Vil du at Chrome skal lagre dette kortet?</translation>
+<translation id="4169947484918424451">Vil du at Chromium skal lagre dette kortet?</translation>
+<translation id="8931333241327730545">Vil du lagre dette kortet til din Google-konto?</translation>
+<translation id="7578104083680115302">Betal raskt på nettstadar og applikasjoner på fleire einingar med hjelp av kort du har lagra med Google.</translation>
+<translation id="7613889955535752492">Utg: <ph name="EXPIRATION_MONTH"/>/<ph name="EXPIRATION_YEAR"/></translation>
+<translation id="7887683347370398519">Kontroller CVC-nummeret, og prøv igjen</translation>
+<translation id="4800132727771399293">Kontroller utløpsdatoen og CVC-nummeret, og prøv igjen</translation>
+<translation id="3063697135517575841">Chrome kan ikkje stadfeste kortet ditt nett no. Prøv igjen seinare.</translation>
+<translation id="2704951214193499422">Chromium kan ikkje stadfeste kortet ditt nett no. Prøv igjen seinare.</translation>
+<translation id="5784606427469807560">Kan ikkje stadfeste kortet ditt. Sjekk Internett-tilkoplinga, og prøv igjen.</translation>
+<translation id="323107829343500871">Skriv inn CVC-nummeret for <ph name="CREDIT_CARD"/></translation>
+<translation id="962701380617707048">Skriv inn utløpsdatoen og CVC-nummeret for <ph name="CREDIT_CARD"/> for å oppdatere kortdetaljane dine</translation>
+<translation id="8877192140621905067">Straks du har stadfesta, blir kortdetaljane dine delte med denne nettstaden</translation>
+<translation id="7390545607259442187">Stadfest kort</translation>
+<translation id="3008447029300691911">Skriv inn CVC-koden for <ph name="CREDIT_CARD"/>. Straks du har stadfesta, blir kortdetaljane dine delte med denne nettstaden.</translation>
+<translation id="724975217298816891">Skriv inn utløpsdatoen og CVC-nummeret for <ph name="CREDIT_CARD"/> for å oppdatere kortdetaljane dine. Straks du har stadfesta, blir kortdetaljane dine delte med denne nettstaden.</translation>
+<translation id="3539171420378717834">Behald ein kopi av dette kortet på denne eininga</translation>
+<translation id="1107591249535594099">Om avmerka, vil Chrome lagre ein kopi av kortet på denne eininga for raskare utfylling av skjema.</translation>
+<translation id="2495093607237746763">Om avmerka, vil Chromium lagre ein kopi av kortet på denne eininga for raskare utfylling av skjema.</translation>
+<translation id="5002932099480077015">Om slått på, vil Chrome lagre ein kopi av kortet på denne eininga for raskare utfylling av skjema.</translation>
+<translation id="2985306909656435243">Om slått på, vil Chromium lagre ein kopi av kortet på denne eininga for raskare utfylling av skjema.</translation>
+<translation id="8131740175452115882">Stadfest</translation>
+<translation id="7469372306589899959">Stadfester kort</translation>
+<translation id="6895330447102777224">Kortet ditt er stadfest</translation>
+<translation id="3901925938762663762">Kortet er utgått</translation>
+<translation id="7378810950367401542">/</translation>
+<translation id="230155334948463882">Nytt kort?</translation>
+<translation id="6820686453637990663">CVC</translation>
+<translation id="8349305172487531364">Bokmerkelinje</translation>
+<translation id="5190835502935405962">Bokmerkelinja</translation>
+<translation id="106701514854093668">Bokmerke frå datamaskin</translation>
+<translation id="2985817184168264963">Usorterte bokmerke</translation>
+<translation id="7365825044069934695">Mapper</translation>
+<translation id="2873951654529031587">Bossbøtte</translation>
+<translation id="7956713633345437162">Mobilbokmerke</translation>
+<translation id="2354001756790975382">Andre bokmerke</translation>
+<translation id="6263376278284652872"><ph name="DOMAIN"/> bokmerke</translation>
+<translation id="5509780412636533143">Bokmerkebehandling</translation>
+<translation id="4300246636397505754">Overordna forslag</translation>
+<translation id="213826338245044447">Mobilbokmerke</translation>
+<translation id="883848425547221593">Andre bokmerke</translation>
+<translation id="1962204205936693436"><ph name="DOMAIN"/> bokmerke</translation>
+<translation id="7275334191706090484">Bokmerkebehandling</translation>
+<translation id="5872918882028971132">Overordna forslag</translation>
+<translation id="1181037720776840403">Fjern</translation>
+<translation id="939736085109172342">Ny mappe</translation>
+<translation id="2149973817440762519">Endra bokmerke</translation>
+<translation id="5327248766486351172">Namn</translation>
+<translation id="7400418766976504921">URL</translation>
+<translation id="1254117744268754948">Vel mappe</translation>
+<translation id="8293206222192510085">Legg til bokmerke</translation>
+<translation id="5857090052475505287">Ny mappe</translation>
+<translation id="6656103420185847513">Endra mappe</translation>
+<translation id="7912024687060120840">I mappe:</translation>
+<translation id="3527085408025491307">Mappe</translation>
+<translation id="3254409185687681395">Legg til bokmerke på denne sida</translation>
+<translation id="8428213095426709021">Innstillingar</translation>
+<translation id="5801568494490449797">Innstillingar</translation>
+<translation id="765676359832457558">Gøym avanserte innstillingar ...</translation>
+<translation id="2415454585822379970">Vis avanserte innstillingar</translation>
+<translation id="6989763994942163495">Vis avanserte innstillingar ...</translation>
+<translation id="5737306429639033676">Forutsjå nettverkshandlingar for å gjere sidelasting snøggare</translation>
+<translation id="9038649477754266430">Bruk ei prediksjonsteneste for å laste inn sider raskare</translation>
+<translation id="3355823806454867987">Endre innstillingar for mellomtenar ...</translation>
+<translation id="7823073559911777904">Endra innstillingar for mellomtenar...</translation>
+<translation id="4231205248927312226">Stadfest ny sending av skjema</translation>
+<translation id="6451458296329894277">Stadfest ny sending av skjema</translation>
+<translation id="8241707690549784388">Sida du ser etter nytta informasjon som du oppgav. Om du går tilbake til den sida kan det hende at handlinga di blir gjenteke. Ynskjer du å fortsetje?</translation>
+<translation id="2359808026110333948">Hald fram</translation>
+<translation id="4522570452068850558">Detaljar</translation>
+<translation id="3586931643579894722">Gøym detaljar</translation>
+<translation id="8962083179518285172">Gøym detaljar</translation>
+<translation id="6042308850641462728">Meir</translation>
+<translation id="2089090684895656482">Mindre</translation>
+<translation id="3005723025932146533">Vis lagra kopi</translation>
+<translation id="1506687042165942984">Vis ein lagra (dvs. kjent utgått) kopi av denne sida.</translation>
+<translation id="3447661539832366887">Eigaren til denne eininga slo av dinosaurspelet.</translation>
+<translation id="1152921474424827756">Tilgang til ein <ph name="BEGIN_LINK"/>mellomlagra kopi<ph name="END_LINK"/> av <ph name="URL"/></translation>
+<translation id="2030481566774242610">Meinte du <ph name="LINK"/>?</translation>
+<translation id="194030505837763158">Gå til <ph name="LINK"/></translation>
+<translation id="3226128629678568754">Trykk last omatt-knappen for å sende data som trengs på nytt.</translation>
+<translation id="3155309969919037916">Sjekk Internett-tilkoplinga.</translation>
+<translation id="6203231073485539293">Sjekk Internett-tilkoplinga</translation>
+<translation id="1519957265434608160">Sjekk kablar og gjer ein omstart på rutarar, modem eller anna nettverkutstyr du nyttar.</translation>
+<translation id="6146055958333702838">Sjekk kablar og gjer ein omstart på rutarar, modem eller anna
+   nettverkutstyr du nyttar.</translation>
+<translation id="2319236583141234177">Sjekk DNS-innstillingar.</translation>
+<translation id="6321917430147971392">Sjekk DNS-innstillingane</translation>
+<translation id="8289355894181816810">Kontakt administratoren for nettverket om du er usikker på kva dette tyder.</translation>
+<translation id="5573959367212558217">Prøv å slå av nettverksprediksjon.</translation>
+<translation id="6328639280570009161">Prøv å slå av nettverksprediksjon</translation>
+<translation id="3630155396527302611">Om det allereide er oppført som eit program med tilgang til nettverket,
+     prøv å fjerne det frå lista og legg til på nytt.</translation>
+<translation id="382518646247711829">Om du nyttar ein mellomtenar ...</translation>
+<translation id="8454634452929957533">Sjekk innstillingane for mellomtenaren eller kontakt administratoren for å finne ut om mellomtenaren fungerer. Om du meiner du ikkje skal nytte ein mellomtenar: <ph name="PLATFORM_TEXT"/></translation>
+<translation id="3176929007561373547">Sjekk innstillingane for mellomtenaren eller kontakt administratoren for å
+      finne ut om mellomtenaren fungerer. Om du meiner du ikkje skal
+      nytte ein mellomtenar:
+      <ph name="PLATFORM_TEXT"/></translation>
+<translation id="2948083400971632585">Du kan slå av eventuelle mellomtenarar som er konfigurert for ei tilkopling frå innstillingar-sida.</translation>
+<translation id="5023310440958281426">Sjekk din administrators retningslinjer</translation>
+<translation id="4103763322291513355">Gå til &lt;strong&gt;chrome://policy&lt;/strong&gt; for å sjå lista over svartelista nettstadar, og andre retningslinjer som er handheva av systemadministratoren din.</translation>
+<translation id="1645368109819982629">Protokoll som ikkje er støtta</translation>
+<translation id="4075732493274867456">Klienten og tenaren støttar ikkje ein felles SSL-protokollversjon eller krypteringsverktøy.</translation>
+<translation id="5869405914158311789">Denne nettstaden kan ikkje nåast</translation>
+<translation id="2292556288342944218">Tilgangen til Internett er blokkert</translation>
+<translation id="933612690413056017">Der er inga Internett-tilkopling</translation>
+<translation id="3093245981617870298">Du er ikkje på nett.</translation>
+<translation id="7716424297397655342">Denne nettstaden kan ikkje bli lasta frå mellomlageret</translation>
+<translation id="4708268264240856090">Tilkoplinga vart avbroten</translation>
+<translation id="5452270690849572955">Denne <ph name="HOST_NAME"/> sida kan ikkje bli funne</translation>
+<translation id="5431657950005405462">Fila blei ikkje funne</translation>
+<translation id="7269802741830436641">Denne nettsida har ei vidaresendingsløkke</translation>
+<translation id="778579833039460630">Fekk ingen data</translation>
+<translation id="3973234410852337861"><ph name="HOST_NAME"/> er blokkert</translation>
+<translation id="4764776831041365478">Nettstaden på <ph name="URL"/> er anten mellombels nede eller har flytta til ei ny adresse.</translation>
+<translation id="8498891568109133222"><ph name="HOST_NAME"/> nytta for lang tid på å svare.</translation>
+<translation id="2784949926578158345">Tilkoplinga vart nullstilt.</translation>
+<translation id="1158211211994409885"><ph name="HOST_NAME"/> stengde tilkoplinga uventa.</translation>
+<translation id="3422472998109090673"><ph name="HOST_NAME"/> kan ikkje nåast nett no.</translation>
+<translation id="2909946352844186028">Oppdaga ei endring i nettverket.</translation>
+<translation id="6433595998831338502"><ph name="HOST_NAME"/> ville ikkje kople til.</translation>
+<translation id="8134994873729925007">Fann ikkje <ph name="HOST_NAME"/>-tenarens <ph name="BEGIN_ABBR"/>DNS-adresse <ph name="END_ABBR"/>.</translation>
+<translation id="4021036232240155012">DNS er ei teneste i nettverket som omset namnet på ein nettstad til adressesystemet for Internett.</translation>
+<translation id="5492298309214877701">Denne nettstaden på selskapets, organisasjonens eller skulens intranett har den same URL-adressa som ein ekstern nettstad.
+    <ph name="LINE_BREAK"/>
+    Prøv å ta kontakt med systemadministratoren din.</translation>
+<translation id="6305205051461490394"><ph name="URL"/> kan ikkje nåast.</translation>
+<translation id="8150722005171944719">Fila på <ph name="URL"/> er ikkje lesbar. Den er kanskje fjerna, eller filrettar kan blokkere tilgang.</translation>
+<translation id="7758069387465995638">Brannmur eller antivirus-programvare kan ha blokkert tilkoplinga.</translation>
+<translation id="6711464428925977395">Det er noko feil med mellomtenaren, eller adressa er feil.</translation>
+<translation id="2705137772291741111">Den lagra (mellomlager) kopien av denne nettstader kunne ikkje nåast.</translation>
+<translation id="6757797048963528358">Eininga di gikk inn i dvalemodus.</translation>
+<translation id="8149426793427495338">Datamaskina di gikk inn i dvalemodus.</translation>
+<translation id="7518003948725431193">Ingen nettstad blei funne på nettadressa: <ph name="URL"/></translation>
+<translation id="5510766032865166053">Den er kanskje fjerna eller sletta.</translation>
+<translation id="5617949217645503996"><ph name="HOST_NAME"/> vidaresendte deg for mange gongar.</translation>
+<translation id="139305205187523129"><ph name="HOST_NAME"/> sendte ikkje nokon data.</translation>
+<translation id="255002559098805027"><ph name="HOST_NAME"/> sendte eit ugyldig svar.</translation>
+<translation id="8740359287975076522">Finn ikkje &lt;abbr id="dnsDefinition"&gt;DNS-adressa&lt;/abbr&gt; for <ph name="HOST_NAME"/>. Prøver å finne ut av problemet.</translation>
+<translation id="8332188693563227489">Tilgang til <ph name="HOST_NAME"/> vart nekta</translation>
+<translation id="2650446666397867134">Tilgang til fila vart nekta</translation>
+<translation id="3109728660330352905">Du har ikkje løyve til å sjå denne sida.</translation>
+<translation id="9092364396508701805"><ph name="HOST_NAME"/> sida fungerar ikkje</translation>
+<translation id="759889825892636187"><ph name="HOST_NAME"/> er ikkje i stand til å svare på denne førespurnaden akkurat no.</translation>
+<translation id="6830600606572693159">Nettstaden på <ph name="URL"/> er utilgjengeleg. Den kan vere overlasta eller nede for vedlikehald.</translation>
+<translation id="7210863904660874423"><ph name="HOST_NAME"/> overheld ikkje tryggleiksstandardar.</translation>
+<translation id="5228309736894624122">SSL-protokollfeil.</translation>
+<translation id="2803407661478021186">Ved tilbakefall til SSLv3 kunne vi fullføre eit handtrykk med tenaren, men vi godtek ikkje tilbakefall til SSLv3 lengre på grunn av nye angrep på protokollen. Tenaren må oppdaterast til å stø minimum TLS 1.0 eller helst TLS 1.2.</translation>
+<translation id="5900623698597156974">Ved tilbakefall til TLS 1.0 kunne vi fullføre eit handtrykk med tenaren, men vi godtek ikkje tilbakefall til TLS 1.0 lengre. Tenaren må oppdaterast til å gi korrekt behandling for nekting av utgåver, og helst stø TLS 1.2.</translation>
+<translation id="9183425211371246419"><ph name="HOST_NAME"/> brukar ein protokoll som ikkje er støtta.</translation>
+<translation id="5283991396172801811">Nettlesaren og tenaren kan ikkje bli samde om kva for ei TLS-utgåve og chiffreringssamling som skal brukast. Årsaka kan vere at tenaren berre støttar gamle protokollar, t.d. berre SSL-utgåve 3.</translation>
+<translation id="284702764277384724">Sertifikatet til tenaren på <ph name="HOST_NAME"/> ser ut til å vere forfalska.</translation>
+<translation id="2166378884831602661">Denne nettstaden kan ikkje tilby ei sikker tilkopling</translation>
+<translation id="1911837502049945214"><ph name="HOST_NAME"/> godtok ikkje påloggingssertifikatet ditt, eller påloggingssertifikatet kan vere utgått på dato.</translation>
+<translation id="5990559369517809815">Førespurnader til tenaren er blokkerte av ei utviding.</translation>
+<translation id="8225771182978767009">Personen som satte opp denne datamaskina har valt å blokkere denne nettstaden.</translation>
+<translation id="8315720913203253727">Denne nettsida treng data som du la inn tidlegare for å bli vist på riktig sett. Du kan sende data på nytt, men ved å gjere det vil handlinga som denne sida gjorde bli gjort på nytt. Trykk Last om att for å sende data på nytt og vise denne sida.</translation>
+<translation id="7549584377607005141">Denne nettsida treng data som du la inn tidlegare for å bli vist på riktig sett. Du kan sende data på nytt, men ved å gjere det vil handlinga som denne sida gjorde bli gjort på nytt.</translation>
+<translation id="614940544461990577">Prøv:</translation>
+<translation id="5610142619324316209">Kontrollerer tilkoplinga</translation>
+<translation id="3717027428350673159"><ph name="BEGIN_LINK"/>Kontrollerer konfigurasjon for mellomtenar, brannmur, og DNS<ph name="END_LINK"/></translation>
+<translation id="4203896806696719780"><ph name="BEGIN_LINK"/>Kontrollerer konfigurasjon for brannmur og antivirus<ph name="END_LINK"/></translation>
+<translation id="2032962459168915086"><ph name="BEGIN_LINK"/>Kontrollerer mellomtenaren og brannmuren<ph name="END_LINK"/></translation>
+<translation id="5070335125961472645"><ph name="BEGIN_LINK"/>Kontrollerer adressa til mellomtenaren<ph name="END_LINK"/></translation>
+<translation id="4506599922270137252">Tek kontakt med systemadministrator</translation>
+<translation id="1734878702283171397">Prøv å ta kontakt med systemadministrator.</translation>
+<translation id="7451311239929941790"><ph name="BEGIN_LINK"/>Lære meir<ph name="END_LINK"/> om dette problemet.</translation>
+<translation id="721197778055552897"><ph name="BEGIN_LINK"/>Lær meir<ph name="END_LINK"/> om dette problemet.</translation>
+<translation id="129863573139666797"><ph name="BEGIN_LINK"/>Prøv å tømme informasjonskapslar<ph name="END_LINK"/></translation>
+<translation id="8363502534493474904">Slå av flymodus</translation>
+<translation id="3714780639079136834">Slå på mobildata eller Wi-Fi</translation>
+<translation id="2515629240566999685">Kontroller signalet i ditt område</translation>
+<translation id="4130226655945681476">Kontroller nettverkskablar, modem og ruter</translation>
+<translation id="1161325031994447685">Kople til Wi-Fi på nytt</translation>
+<translation id="2230458221926704099">Reparere tilkoplinga ved å bruke <ph name="BEGIN_LINK"/>diagnoseprogrammet<ph name="END_LINK"/></translation>
+<translation id="6685834062052613830">Logg ut og fullfør oppsett</translation>
+<translation id="4558551763791394412">Deaktivere utvidingane dine.</translation>
+<translation id="7090678807593890770">Søk med Google etter <ph name="LINK"/></translation>
+<translation id="2467694685043708798"><ph name="BEGIN_LINK"/>Køyre nettverksdiagnose<ph name="END_LINK"/></translation>
+<translation id="4226937834893929579"><ph name="BEGIN_LINK"/>Prøv å køyre nettverksdiagnose<ph name="END_LINK"/>.</translation>
+<translation id="4722547256916164131"><ph name="BEGIN_LINK"/>Køyre Windows-nettverksdiagnose<ph name="END_LINK"/></translation>
+<translation id="1768211456781949159"><ph name="BEGIN_LINK"/>Prøv å køyre Windows-nettverksdiagnose<ph name="END_LINK"/>.</translation>
+<translation id="2730326759066348565"><ph name="BEGIN_LINK"/>Køyr tilkoplingsdiagnose<ph name="END_LINK"/></translation>
+<translation id="31207688938192855"><ph name="BEGIN_LINK"/>Prøv å køyre tilkoplingsdiagnose<ph name="END_LINK"/>.</translation>
+<translation id="7793809570500803535">Nettstaden på <ph name="SITE"/> er anten mellombels nede eller har flytta til ei ny adresse.</translation>
+<translation id="6060685159320643512">Forsiktig, eksperimenta kan bite</translation>
+<translation id="5199729219167945352">Eksperiment</translation>
+<translation id="404928562651467259">ÅTVARING</translation>
+<translation id="3648607100222897006">Desse eksperimentelle funksjonane kan bli endra, ikkje fungere eller forsvinne når som helst. Vi gir absolutt ingen garantiar om kva som kan skje dersom du aktiverer ein av desse funksjonane, og det kan til og med hende at nettlesaren eksploderer. Frå spøk til alvor: Det kan hende at nettlesaren sletter alle data, eller at tryggleiken og personvernet blir kompromitterte på uventa måtar. Alle eksperimentelle funksjonar som du aktiverer, blir aktiverte for alle som bruker nettlesaren. Tenk deg om før du gjer dette.</translation>
+<translation id="6387478394221739770">Er du interessert i kule, nye Chrome-funksjonar? Prøv betakanalen vår på chrome.com/beta.</translation>
+<translation id="7674629440242451245">Er du interessert i kule, nye Chrome-funksjonar? Prøv utviklarkanalen vår på chrome.com/dev.</translation>
+<translation id="4394049700291259645">Slå av</translation>
+<translation id="3435896845095436175">Bruk</translation>
+<translation id="8647750283161643317">Nullstill alt</translation>
+<translation id="2282872951544483773">Utilgjengelege eksperiment</translation>
+<translation id="889901481107108152">Eksperimentet er diverre ikkje tilgjengeleg på plattforma.</translation>
+<translation id="2128531968068887769">Systemklient</translation>
+<translation id="7179921470347911571">Start på nytt no</translation>
+<translation id="3286538390144397061">Start på nytt no</translation>
+<translation id="901974403500617787">Flagg som gjeld for heile systemet, kan berre bli sett av eigaren: <ph name="OWNER_EMAIL"/>.</translation>
+<translation id="604124094241169006">Automatisk</translation>
+<translation id="8798099450830957504">Standard</translation>
+<translation id="59174027418879706">Slått på</translation>
+<translation id="4176463684765177261">Slått av</translation>
+<translation id="2516305470678292029">UI-alternativ</translation>
+<translation id="237718015863234333">Ingen UI-alternativ tilgjengeleg</translation>
+<translation id="2905347027687583044">Logg inn</translation>
+<translation id="5388588172257446328">Brukarnamn:</translation>
+<translation id="3693415264595406141">Passord:</translation>
+<translation id="8286036467436129157">Logg inn</translation>
+<translation id="4013794286379809233">Logg inn</translation>
+<translation id="3950820424414687140">Logg inn</translation>
+<translation id="2065985942032347596">Autentisering naudsynt</translation>
+<translation id="2317259163369394535"><ph name="DOMAIN"/> krev eit brukarnamn og passord.</translation>
+<translation id="9001074447101275817">Mellomtenaren <ph name="DOMAIN"/> krev eit brukarnamn og passord.</translation>
+<translation id="4381091992796011497">Brukarnamn:</translation>
+<translation id="4304224509867189079">Logg inn</translation>
+<translation id="1232569758102978740">Utan namn</translation>
+<translation id="4325510092712699937">Sida krasja</translation>
+<translation id="3638100076508518786">Noko fekk denne sida til å krasje. Det kan ha vore ein konflikt med ei utviding eller ein annan grunn.</translation>
+<translation id="7283651035050528610">Last sida om att eller gå til ei anna side for å halde fram.</translation>
+<translation id="1713401550786096559">Meir om denne feilen</translation>
+<translation id="7221869452894271364">Last sida om att</translation>
+<translation id="8053390638574070785">Last sida om att</translation>
+<translation id="3037605927509011580">Oisann!</translation>
+<translation id="1583429793053364125">Noko gjekk gale under visinga av denne nettstaden.</translation>
+<translation id="2900469785430194048">Google Chrome gikk tomt for minne under forsøket på å vise denne nettstaden.</translation>
+<translation id="6389758589412724634">Chromium gikk tomt for minne under forsøket på å vise denne nettstaden.</translation>
+<translation id="3655670868607891010">Om du ser dette ofte, prøv disse <ph name="HELP_LINK"/>.</translation>
+<translation id="1374468813861204354">forslaga</translation>
+<translation id="7554791636758816595">Ny fane</translation>
+<translation id="8728672262656704056">Du har valt inkognito-modus</translation>
+<translation id="3167968892399408617">Sider du ser i inkognito-faner vil ikkje bli verande i historikken til nettlesaren, verte lagra som informasjonskapslar eller søkehistorikk etter at du har lukka alle inkognito-fanene. Eventuelle filer du lastar ned, eller bokmerker du lagar vil bli tatt vare på.</translation>
+<translation id="6165508094623778733">Lær meir</translation>
+<translation id="785549533363645510">Du er likevel ikkje usynleg. Sjølv om du vel inkognito-modus vil det ikkje skjule surfe-historikken din for arbeidsgivaren din, nettleverandøren din, eller nettstadane du vitjar.</translation>
+<translation id="2079545284768500474">Angre</translation>
+<translation id="2597378329261239068">Dette dokumentet er passordbeskytta. Skriv inn passordet.</translation>
+<translation id="2653659639078652383">Send</translation>
+<translation id="5045550434625856497">Feil passord</translation>
+<translation id="370665806235115550">Lastar...</translation>
+<translation id="3934680773876859118">Lasting av PDF-dokument feila</translation>
+<translation id="8820817407110198400">Bokmerke</translation>
+<translation id="1032854598605920125">Vri med klokka</translation>
+<translation id="7514365320538308">Nedlasting</translation>
+<translation id="1430915738399379752">Utskrift</translation>
+<translation id="4816492930507672669">Tilpass til sida</translation>
+<translation id="1080116354587839789">Tilpass til breidda</translation>
+<translation id="8903921497873541725">Forstørr</translation>
+<translation id="5975083100439434680">Forminsk</translation>
+<translation id="1753706481035618306">Sidenummer</translation>
+<translation id="6016158022840135739">{COUNT, plural,
+         =1 {side 1}
+         other {side #}}</translation>
+<translation id="2941952326391522266">Tenaren kan ikkje bevise at han er <ph name="DOMAIN"/>. Sertifikatet er frå <ph name="DOMAIN2"/>. Dette kan vere på grunn av ein feilkonfigurasjon eller at ein inntrengjar avskjer tilkoplinga di.</translation>
+<translation id="7761701407923456692">Sertifikatet til tenaren stemmer ikkje overeins med URL.</translation>
+<translation id="1655462015569774233">{1, plural,
+     =1 {Tenaren kan ikkje bevise at han er <ph name="DOMAIN"/>. Sertifikatet gjekk ut i går. Dette kan vere på grunn av ein feilkonfigurasjon eller at ein inntrengjar avskjer tilkoplinga di. Klokka til datamaskina er <ph name="CURRENT_DATE"/>. Ser det riktig ut? Dersom det ikkje gjer det, bør du stille klokka og laste inn denne sida på nytt.}
+     other {Tenaren kan ikkje bevise at han er <ph name="DOMAIN"/>. Sertifikatet gjekk ut for # dagar sidan. Dette kan vere på grunn av ein feilkonfigurasjon eller at ein inntrengjar avskjer tilkoplinga di. Klokka til datamaskina er no <ph name="CURRENT_DATE"/>. Ser det riktig ut? Dersom det ikkje gjer det, bør du stille klokka og laste inn denne sida på nytt.}}</translation>
+<translation id="8971063699422889582">Sertifikatet frå tenaren har gått ut.</translation>
+<translation id="1706954506755087368">{1, plural,
+     =1 {Tenaren kan ikkje bevise at han er <ph name="DOMAIN"/>. Sertifikatet kjem visstnok frå i morgon. Dette kan vere på grunn av ein feilkonfigurasjon eller at ein inntrengjar avskjer tilkoplinga di.}
+     other {Tenaren kan ikkje bevise at han er <ph name="DOMAIN"/>. Sertifikatet kjem visstnok frå # dagar i framtida. Dette kan vere på grunn av ein feilkonfigurasjon eller at ein inntrengjar avskjer tilkoplinga di.}}</translation>
+<translation id="7938958445268990899">Sertifikatet frå tenaren er ikkje gyldig enno.</translation>
+<translation id="540969355065856584">Tenaren kan ikkje bevise at han er <ph name="DOMAIN"/>. Sertifikatet er ikkje gyldig no. Dette kan vere på grunn av ein feilkonfigurasjon eller at ein inntrengjar avskjer tilkoplinga di.</translation>
+<translation id="5087286274860437796">Sertifikatet frå tenaren er ikkje gyldig no.</translation>
+<translation id="2915500479781995473">Tenaren kan ikkje bevise at han er <ph name="DOMAIN"/>. Sertifikatet er gått ut. Dette kan vere på grunn av ein feilkonfigurasjon eller at ein inntrengjar avskjer tilkoplinga di. Klokka til datamaskina di er no <ph name="CURRENT_TIME"/>. Ser det riktig ut? Dersom det ikkje gjer det, bør du stille klokka og laste denne sida om att.</translation>
+<translation id="229702904922032456">Eit rot- eller mellomsertifikat har gått ut på dato.</translation>
+<translation id="3528171143076753409">Sertifikatet til tenaren er ikkje klarert.</translation>
+<translation id="467662567472608290">Tenaren kan ikkje bevise at han er <ph name="DOMAIN"/>. Sertifikatet til tenaren inneheld feil. Dette kan vere på grunn av ein feilkonfigurasjon eller at ein inntrengjar avskjer tilkoplinga di.</translation>
+<translation id="2491120439723279231">Sertifikatet til tenaren inneheld feil.</translation>
+<translation id="2413528052993050574">Tenaren kan ikkje bevise at han er <ph name="DOMAIN"/>. Sertifikatet kan vere kalla attende. Dette kan vere på grunn av ein feilkonfigurasjon eller at ein inntrengjar avskjer tilkoplinga di.</translation>
+<translation id="2922350208395188000">Sertifikatet til tenaren kan ikkje bli sjekka.</translation>
+<translation id="884923133447025588">Fann ingen mekanisme for attendekalling.</translation>
+<translation id="4377125064752653719">Du freista å nå <ph name="DOMAIN"/>, men sertifikatet som er lagt fram av tenaren, er kalla attende av utferdaren. Dette tyder at referansane for tryggleik som er lagde fram av tenaren, absolutt ikkje bør stolast på. Det er mogleg at du kommuniserer med ein inntrengjar.</translation>
+<translation id="2386255080630008482">Sertifikatet til tenaren er kalla attende.</translation>
+<translation id="9049981332609050619">Du freista å nå <ph name="DOMAIN"/>, men tenaren la fram eit ugyldig sertifikat.</translation>
+<translation id="917450738466192189">Sertifikatet frå tenaren er ugyldig.</translation>
+<translation id="2171101176734966184">Du freista å nå <ph name="DOMAIN"/>, men tenaren la fram eit sertifikat som nyttar ein svak signaturalgoritme. Dette tyder at referansane for tryggleik kan vere falske, og at tenaren ikkje er han du trur. Det er mogleg at du kommuniserer med ein inntrengjar.</translation>
+<translation id="2728127805433021124">Sertifikatet frå tenaren nyttar ein svak signaturalgoritme.</translation>
+<translation id="121201262018556460">Du freista å nå <ph name="DOMAIN"/>, men tenaren la fram eit sertifikat med ein svak nykel. Ein inntrengjar kan ha knekt den private nykelen, og tenaren er kanskje ikkje han du trur. Det er mogleg at du kommuniserer med ein inntrengjar.</translation>
+<translation id="168841957122794586">Sertifikatet frå tenaren inneheld ein svak kryptografisk nykel.</translation>
+<translation id="7567204685887185387">Tenaren kan ikkje bevise at han er <ph name="DOMAIN"/>. Sertifikatet kan vere forfalska. Dette kan vere på grunn av ein feilkonfigurasjon eller at ein inntrengjar avskjer tilkoplinga di.</translation>
+<translation id="7592362899630581445">Sertifikatet frå tenaren bryt med namnerammene.</translation>
+<translation id="7050187094878475250">Du freista å nå <ph name="DOMAIN"/>, men tenaren la fram eit sertifikat med gyldigheitsperiode som er for lang til å stole på.</translation>
+<translation id="6151417162996330722">Tenarsertifikatet har ein gyldigheitsperiode som er for lang.</translation>
+<translation id="4771973620359291008">Det oppstod ein ukjend feil.</translation>
+<translation id="674375294223700098">Ukjend feil for tenarsertifikat.</translation>
+<translation id="3225919329040284222">Tenaren la fram eit sertifikat som ikkje stemmer med innebygde forventningar. Desse forventningane er med for somme høgt sikra nettstader for å trygge deg.</translation>
+<translation id="6957887021205513506">Sertifikatet til tenaren ser ut til å vere forfalska.</translation>
+<translation id="4424024547088906515">Tenaren kan ikkje bevise at han er <ph name="DOMAIN"/>. Sertifikatet er ikkje klarert av Chrome. Dette kan vere på grunn av ein feilkonfigurasjon eller at ein inntrengjar avskjer tilkoplinga di.</translation>
+<translation id="1763864636252898013">Tenaren kan ikkje bevise at han er <ph name="DOMAIN"/>. Sertifikatet er ikkje klarert av operativsystemet ditt. Dette kan vere på grunn av ein feilkonfigurasjon eller at ein inntrengjar avskjer tilkoplinga di.</translation>
+<translation id="1150979032973867961">Tenaren kan ikkje bevise at han er <ph name="DOMAIN"/>. Sertifikatet er ikkje klarert av operativsystemet på datamaskina. Dette kan vere på grunn av ein feilkonfigurasjon eller at ein inntrengjar avskjer tilkoplinga di.</translation>
+<translation id="5094747076828555589">Tenaren kan ikkje bevise at han er <ph name="DOMAIN"/>. Sertifikatet er ikkje klarert av Chromium. Dette kan vere på grunn av ein feilkonfigurasjon eller at ein inntrengjar avskjer tilkoplinga di.</translation>
+<translation id="7658239707568436148">Avbryt</translation>
+<translation id="6040143037577758943">Lukk</translation>
+<translation id="8730621377337864115">Utført</translation>
+<translation id="6965382102122355670">OK</translation>
+<translation id="780301667611848630">Nei takk</translation>
+<translation id="3479552764303398839">Ikkje no</translation>
+<translation id="1008557486741366299">Ikkje no</translation>
+<translation id="2896499918916051536">Dette programtillegget er ikkje støtta.</translation>
+<translation id="1175364870820465910">&amp;Skriv ut ...</translation>
+<translation id="129553762522093515">Nyleg lukka</translation>
+<translation id="8870413625673593573">Nyleg lukka</translation>
+<translation id="385051799172605136">Attende</translation>
+<translation id="7481312909269577407">Fram</translation>
+<translation id="2824775600643448204">Adresse- og søkjefelt</translation>
+<translation id="2495083838625180221">JSON-parser</translation>
+<translation id="3157931365184549694">Attendefør</translation>
+<translation id="7634554953375732414">Tilkoplinga di til denne nettstaden er ikkje privat.</translation>
+<translation id="5040262127954254034">Personvern</translation>
+</translationbundle>

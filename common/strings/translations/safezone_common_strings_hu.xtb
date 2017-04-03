@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="hu">
+<translation id="3929428121849375048">Avast SafeZone</translation>
+<translation id="806546331937022936">Avast</translation>
+<translation id="3609966143444339170">Az Avast határozottan ellenzi az oldal látogatását.</translation>
+<translation id="4206706288435313269">Avast SafeZone értesítési központ</translation>
+<translation id="254978580676301713">SafeZone - értesítések</translation>
+<translation id="8084325208922689406">SafeZone - értesítések (<ph name="QUANTITY"/> olvasatlan)</translation>
+<translation id="678670207776683961">SafeZone - Értesítések</translation>
+<translation id="191361968702850015">SafeZone - Értesítések (<ph name="QUANTITY"/> olvasatlan)</translation>
+<translation id="1359674843509087498">A webhely olyan elavult biztonsági beállításokat használ, amelyek miatt az SafeZone későbbi verziói esetleg nem fogják tudni biztonságosan elérni.</translation>
+<translation id="3485921796584936414">A tűzfal vagy a vírusirtó beállításaiban engedélyezze, hogy a SafeZone hozzáférjen a hálózathoz.</translation>
+<translation id="7041993155087650094">Lépjen a SafeZone menü &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; LAN beállítások részhez, és szüntesse meg a "Proxykiszolgáló használata a helyi hálózaton" négyzet bejelölését.</translation>
+<translation id="5366394231680131980">A változások a SafeZone újraindításakor lépnek érvénybe.</translation>
+<translation id="6964843943881946410">A SafeZone által tárolt jelszavak megtekintéséhez adja meg számítógépes jelszavát.</translation>
+</translationbundle>

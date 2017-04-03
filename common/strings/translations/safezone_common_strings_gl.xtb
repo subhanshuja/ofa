@@ -1,0 +1,284 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="gl">
+<translation id="2978824962390592855">Opera</translation>
+<translation id="3942946088478181888">Explicación</translation>
+<translation id="1396529432791646744">Cando se conecte a un sitio web seguro, o servidor que aloxa este sitio presenta ao seu navegador algo chamado "certificado" para verificar a súa identidade. Este certificado contén información da identidade, como o enderezo do sitio web, que verifica un terceiro no que confía o seu dispositivo móbil. Ao comprobar que o enderezo do certificado coincide co enderezo do sitio web, é posible verificar que se está a comunicar de xeito seguro co sitio web que desexa, e que non o fai cun terceiro (como un atacante á súa rede).</translation>
+<translation id="6295228342562451544">Cando se conecte a un sitio web seguro, o servidor que aloxa este sitio presenta ao seu navegador algo chamado "certificado" para verificar a súa identidade. Este certificado contén información da identidade, como o enderezo do sitio web, que verifica un terceiro no que confía o seu ordenador. Ao comprobar que o enderezo do certificado coincide co enderezo do sitio web, é posible verificar que se está a comunicar de xeito seguro co sitio web que desexa, e que non o fai cun terceiro (como un atacante á súa rede).</translation>
+<translation id="7073704676847768330">É posible que este non sexa o sitio que está a buscar.</translation>
+<translation id="2941952326391522266">Este servidor non puido probar que é <ph name="DOMAIN"/>; o seu certificado de seguridade é de <ph name="DOMAIN2"/>. Isto pode deberse a unha configuración incorrecta o a que un atacante interceptou a conexión.</translation>
+<translation id="7761701407923456692">O certificado do servidor non coincide co URL.</translation>
+<translation id="3581034179710640788">O certificado de seguridade do sitio caducou.</translation>
+<translation id="436701661737309601">No caso dun certificado que non caducou, o emisor dese certificado é o responsable do mantemento de algo chamado "lista de revogación". Se un certificado se pon en perigo nalgún momento, o emisor pode revogalo engadíndoo á lista de revogación, e así, este certificado xa non será de confianza para o seu navegador. Non é necesario manter o estado de revogación no caso de certificados caducados, de modo que, mentres este certificado utilizado sexa válido para o sitio web que está a visitar, non é posible determinar se o certificado se puxo en perigo e, polo tanto, se revogou ou se segue a ser seguro. Ademais, non é posible determinar se se está a comunicar co sitio web lexítimo ou se o certificado se puxo en perigo e agora está en posesión dun atacante co que se está a comunicar.</translation>
+<translation id="8971063699422889582">O certificado do servidor caducou.</translation>
+<translation id="1618661679583408047">O certificado de seguridade do servidor xa non é válido.</translation>
+<translation id="825608351287166772">Os certificados teñen un período de validez, como calquera documento de identidade (por exemplo, un pasaporte) que poida ter. O certificado que se presenta no seu navegador xa non é válido. Cando un certificado está fóra do período de validez, non é necesario manter certa información sobre o estado do certificado (se se revogou ou se xa non volverá ser de confianza). Ademais, non é posible verificar se este certificado é de confianza. Non debe continuar.</translation>
+<translation id="7938958445268990899">O certificado do servidor xa non é válido.</translation>
+<translation id="2915500479781995473">Este servidor non puido probar que é <ph name="DOMAIN"/>; o seu certificado de seguridade caducou. Isto pode deberse a unha configuración incorrecta o a que un atacante interceptou a conexión. Your computer's clock is currently Axustar to <ph name="CURRENT_TIME"/>. Does that look right? If not, you should correct your system's clock and then refresh this page.</translation>
+<translation id="229702904922032456">Caducou un certificado raíz ou intermedio.</translation>
+<translation id="374530189620960299">O certificado de seguridade do sitio non é de confianza.</translation>
+<translation id="168929553803686581">Neste caso, o certificado non foi verificado por un terceiro no que confíe o seu dispositivo móbil. Calquera persoa pode crear un certificado no que reclame ser calquera sitio web que decida, e este é o motivo polo que debe ser verificado por un terceiro. Sen esa verificación, a información da identidade do certificado non ten ningún sentido. Polo tanto, non é posible verificar que está a comunicarse con <ph name="DOMAIN"/> e non cun atacante que creou o seu propio certificado no que reclama ser <ph name="DOMAIN2"/>. Chegados este punto, non debe continuar.</translation>
+<translation id="6517558746015096434">Con todo, se traballa nunha organización que crea os seus propios certificados, e está a tentar conectarse a un sitio web interno desa organización usando un deses certificados, é posible que solucione este problema de xeito seguro. Pode importar o certificado raíz da organización como un "certificado raíz" e, así, os certificados emitidos ou verificados pola súa organización serán de confianza e non volverá ver este erro a próxima vez que se conecte a un sitio web interno. Póñase en contacto co persoal de asistencia da organización para que lle axude a engadir un novo certificado raíz ao seu dispositivo móbil.</translation>
+<translation id="2159087636560291862">Neste caso, o certificado non foi verificado por un terceiro no que confíe o seu ordenador. Calquera persoa pode crear un certificado no que reclame ser calquera sitio web que decida, e este é o motivo polo que debe ser verificado por un terceiro. Sen esa verificación, a información da identidade do certificado non ten ningún sentido. Polo tanto, non é posible verificar que está a comunicarse con <ph name="DOMAIN"/> e non cun atacante que creou o seu propio certificado no que reclama ser <ph name="DOMAIN2"/>. Chegados este punto, non debe continuar.</translation>
+<translation id="2645575947416143543">Con todo, se traballa nunha organización que crea os seus propios certificados, e está a tentar conectarse a un sitio web interno desa organización usando un deses certificados, é posible que solucione este problema de xeito seguro. Pode importar o certificado raíz da organización como un "certificado raíz" e, así, os certificados emitidos ou verificados pola súa organización serán de confianza e non volverá ver este erro a próxima vez que se conecte a un sitio web interno. Póñase en contacto co persoal de asistencia da organización para que lle axude a engadir un novo certificado raíz ao seu ordenador.</translation>
+<translation id="3528171143076753409">O certificado do servidor non é de confianza.</translation>
+<translation id="2649911884196340328">O certificado de seguridade do servidor ten erros.</translation>
+<translation id="8534801226027872331">Neste caso, o certificado presentado no seu navegador ten erros e non é comprensible. É posible que non poidamos comprender a información de identidade do certificado ou algunha outra información do certificado utilizada para facer que a conexión sexa segura: non debe continuar.</translation>
+<translation id="2491120439723279231">O certificado do servidor contén erros.</translation>
+<translation id="8318945219881683434">Produciuse un erro ao comprobar a revogación.</translation>
+<translation id="9141716082071217089">Non é posible comprobar se se revogou o certificado do servidor.</translation>
+<translation id="2922350208395188000">Non se pode comprobar o certificado do servidor.</translation>
+<translation id="884923133447025588">Non se atopou ningún mecanismo de revogación.</translation>
+<translation id="2413528052993050574">Este servidor non puido probar que é <ph name="DOMAIN"/>; pode que se revogue o certificado de seguridade. Isto pode deberse a unha configuración incorrecta o a que un atacante interceptou a conexión.</translation>
+<translation id="8187473050234053012">Revogouse o certificado de seguridade do servidor.</translation>
+<translation id="4377125064752653719">Tentou acceder a <ph name="DOMAIN"/>, pero o certificado que presentou o servidor foi revogado polo seu emisor. Isto quere dicir que as credenciais de seguridade que presentou o servidor non son de confianza. É posible que estea a comunicarse cun atacante.</translation>
+<translation id="5275799318132317934">Neste caso, o certificado presentado no seu navegador foi revogado polo seu emisor. Normalmente, isto quere dicir que a integridade deste certificado está en perigo e que o certificado non é de confianza.</translation>
+<translation id="2386255080630008482">Revogouse o certificado do servidor.</translation>
+<translation id="4222982218026733335">Certificado do servidor non válido</translation>
+<translation id="9049981332609050619">Tentou acceder a <ph name="DOMAIN"/>, pero o servidor presentou un certificado non válido.</translation>
+<translation id="3776667127601582921">Neste caso, o certificado do servidor ou un certificado intermedio da entidade de certificación presentado no seu navegador non é válido. É posible que o certificado teña un formato incorrecto, conteña campos non válidos ou non sexa compatible.</translation>
+<translation id="917450738466192189">O certificado do servidor non é válido.</translation>
+<translation id="9145357542626308749">O certificado de seguridade do sitio está asinado cun algoritmo de sinatura feble.</translation>
+<translation id="2171101176734966184">Tentou acceder a <ph name="DOMAIN"/>, pero o servidor presentou un certificado asinado cun algoritmo de sinatura feble. Isto significa que é posible que as credenciais de seguridade presentadas polo servidor puideron ser falsificadas e que o servidor non sexa o que espera (é posible que estea a comunicarse cun atacante).</translation>
+<translation id="4320833726226688924">Neste caso, o certificado do servidor ou un certificado intermedio da entidade certificadora presentado ao seu navegador está asinado cun algoritmo de sinatura feble como RSA-MD2. Una investigación recente realizada por científicos informáticos demostrou que o algoritmo de sinatura é máis feble do que se pensaba anteriormente, e que rara vez o utilizan os sitios web de confianza hoxe en día. É posible que este certificado se falsificase.</translation>
+<translation id="2728127805433021124">O certificado do servidor está asinado cun algoritmo de sinatura feble.</translation>
+<translation id="6315723398663634808">O certificado do servidor contén unha clave de cifrado feble.</translation>
+<translation id="121201262018556460">Tentou acceder a <ph name="DOMAIN"/>, pero o servidor presentou un certificado cunha clave feble. É posible que un atacante descifrase a clave privada e que o servidor non sexa o que esperaba (é posible que estea a comunicarse cun atacante).</translation>
+<translation id="2929033900046795715">Neste caso, o certificado do servidor ou un certificado intermedio da entidade de certificación presente no seu navegador contén una clave feble, como unha clave RSA de menos de 1.024 bits. Xa que é relativamente doado adiviñar a clave privada correspondente a unha clave pública feble, é posible que un atacante falsifique a identidade do servidor real.</translation>
+<translation id="168841957122794586">O certificado do servidor contén unha clave de cifrado feble.</translation>
+<translation id="4253787465144837701">O certificado do servidor contén un nome de dominio que non debería estar aí.</translation>
+<translation id="7567204685887185387">Este servidor non puido probar que é <ph name="DOMAIN"/>; pode que o certificado de seguridade se emitise de modo fraudulento. Isto pode deberse a unha configuración incorrecta o a que un atacante interceptou a conexión.</translation>
+<translation id="7592362899630581445">O certificado do servidor viola as restricións do nome.</translation>
+<translation id="5944101742958374175">Atopouse un caso especial de excepción para o certificado recibido.</translation>
+<translation id="5623463370978611784">O certificado recibido marcouse como incorrecto. Consulte $1 para obter máis información.</translation>
+<translation id="1177437665183591855">Erro descoñecido do certificado do servidor</translation>
+<translation id="4771973620359291008">Produciuse un erro descoñecido.</translation>
+<translation id="674375294223700098">Erro do certificado do servidor descoñecido.</translation>
+<translation id="5598024575303778520">Advertencia de fraude</translation>
+<translation id="7311721172731074902">Advertencia de Fraude</translation>
+<translation id="4056154188339276219">Informouse de que este sitio é fraudulento. O intercambio de información confidencial con este sitio podería poñelo en perigo de suplantación de identidade e/ou fraude económico.</translation>
+<translation id="6494666865857176946">Opera Software desaconsella encarecidamente as visitas a esta páxina.</translation>
+<translation id="8357891144266644027">Advertencia de sitio malicioso</translation>
+<translation id="4664012235452972339">Advertencia de sitio malicioso</translation>
+<translation id="8219093269265469764">As visitas a esta páxina poden ser prexudiciais. Informouse de que distribúe software malicioso.</translation>
+<translation id="4863259811271883558">Información fornecida por <ph name="BEGIN_LINK"/><ph name="PROVIDER_NAME"/><ph name="END_LINK"/></translation>
+<translation id="3141322567138977593">Retroceder de xeito seguro</translation>
+<translation id="833642844779103272">Retroceder de xeito seguro</translation>
+<translation id="4238466718818823211">Ignorar esta advertencia</translation>
+<translation id="1755698976576372535">Por que se bloqueou esta páxina?</translation>
+<translation id="7459549266751278805">Centro de notificacións de Opera</translation>
+<translation id="7470668651798735849">Aquí pode ver todas as notificacións dos sitios web.</translation>
+<translation id="4501379002264542907">Opera: notificacións</translation>
+<translation id="1352092048463356430">Opera: notificacións (<ph name="QUANTITY"/> non lidas)</translation>
+<translation id="4159400746343093340">Opera: Notificacións</translation>
+<translation id="6018626517703817463">Opera: Notificacións (<ph name="QUANTITY"/> non lidas)</translation>
+<translation id="6426222199977479699">Erro de SSL</translation>
+<translation id="8398877366907290961">Continuar de todos modos</translation>
+<translation id="6264485186158353794">Volver á seguridade</translation>
+<translation id="2225024820658613551">Non debe continuar, &lt;strong&gt;especialmente&lt;/strong&gt; se nunca viu esta advertencia neste sitio.</translation>
+<translation id="5645845270586517071">Erro de seguridade</translation>
+<translation id="1103666958012677467">Non pode continuar porque o operador do sitio web solicitou seguridade extrema para este dominio.</translation>
+<translation id="5463275305984126951">Índice de <ph name="LOCATION"/></translation>
+<translation id="8877448029301136595">[directorio principal]</translation>
+<translation id="5327248766486351172">Nome</translation>
+<translation id="8028993641010258682">Tamaño</translation>
+<translation id="57646104491463491">Data de modificación</translation>
+<translation id="3835522725882634757">Este servidor está a enviar datos <ph name="PRODUCT_NAME"/> incomprensibles. <ph name="BEGIN_LINK"/>Informe dun erro<ph name="END_LINK"/> e inclúa a <ph name="BEGIN2_LINK"/>listaxe sen procesar<ph name="END2_LINK"/>.</translation>
+<translation id="4231205248927312226">Confirmar reenvío do formulario</translation>
+<translation id="6451458296329894277">Confirmar reenvío do formulario</translation>
+<translation id="2032601515784864742">Neste caso, o enderezo indicado no certificado non coincide co enderezo do sitio web ao que tentou acceder o seu navegador. Unha posible razón é que as súas comunicacións estean a ser interceptadas por un atacante que presenta un certificado para un sitio web diferente, o cal provocaría un erro de coincidencia. Outra razón posible é que o servidor estea configurado para devolver o mesmo certificado para varios sitios web, incluído o que está a tentar visitar, mesmo se ese certificado non é válido para todos eses sitios web. <ph name="PRODUCT_NAME"/> pode garantir que accedeu a &lt;strong&gt;<ph name="DOMAIN2"/>&lt;/strong&gt;, pero non pode verificar que sexa o mesmo sitio que &lt;strong&gt;<ph name="DOMAIN"/>&lt;/strong&gt; ao que tentou acceder. Se continúa, <ph name="PRODUCT_NAME"/> non comprobará máis erros de coincidencia no nome.</translation>
+<translation id="1639773643001837725">Este servidor non puido probar que é <ph name="DOMAIN"/>; o seu certificado de seguridade caducou hai <ph name="DAYS"/> día(s). Isto pode deberse a unha configuración incorrecta o a que un atacante interceptou a conexión. O reloxo do ordenador está axustado actualmente en <ph name="CURRENT_TIME"/>. É isto correcto? Se non é correcto, debería corrixir a hora do reloxo do sistema e, a seguir, actualizar esta páxina.</translation>
+<translation id="7235421518178823985">Este servidor non puido probar que é <ph name="DOMAIN"/>; o certificado de seguridade seica é de <ph name="DAYS"/> día(s) máis tarde. Isto pode deberse a unha configuración incorrecta o a que un atacante interceptou a conexión.</translation>
+<translation id="1763864636252898013">Este servidor non puido probar que é de <ph name="DOMAIN"/>; o sistema operativo do dispositivo no confía no seu certificado de seguridade. Isto pode deberse a unha configuración incorrecta o a que un atacante interceptou a conexión.</translation>
+<translation id="467662567472608290">Este servidor non puido probar que é <ph name="DOMAIN"/>; o seu certificado de seguridade contén erros. Isto pode deberse a unha configuración incorrecta o a que un atacante interceptou a conexión.</translation>
+<translation id="8465929756435120446">Esta páxina ten contido non seguro.</translation>
+<translation id="4522570452068850558">Detalles</translation>
+<translation id="3586931643579894722">Ocultar detalles</translation>
+<translation id="8962083179518285172">Ocultar detalles</translation>
+<translation id="6042308850641462728">Máis</translation>
+<translation id="2089090684895656482">Menos</translation>
+<translation id="5556459405103347317">Volver cargar</translation>
+<translation id="9193357432624119544">Código de erro: <ph name="ERROR_NAME"/></translation>
+<translation id="4910619056351738551">A continuación, preséntanse algunhas suxestións:</translation>
+<translation id="2662338103506457097">Volva cargar esta páxina web.</translation>
+<translation id="3226128629678568754">Prema o botón de recarga para reenviar os datos necesarios para cargar a páxina.</translation>
+<translation id="8196061687045545167">Desactive as extensións e volva cargar esta páxina web.</translation>
+<translation id="3155309969919037916">Comprobe a conexión á Internet.</translation>
+<translation id="1519957265434608160">Comprobe os cables e reinicie os routers, módems ou outros dispositivos de rede que estea a utilizar.</translation>
+<translation id="2319236583141234177">Comprobe a configuración de DNS.</translation>
+<translation id="8289355894181816810">Contacte co administrador de rede se non está seguro do que significa isto.</translation>
+<translation id="5573959367212558217">Probe a desactivar a predición de rede.</translation>
+<translation id="8888594059056485523">Permita que Opera acceda á rede na configuración de devasa ou antivirus.</translation>
+<translation id="6456804684535455731">Se xa está incluído como un programa con acceso á rede, probe a eliminalo da lista e a engadilo de novo.</translation>
+<translation id="382518646247711829">Se utiliza un servidor proxy...</translation>
+<translation id="7616012285680677132">Comprobe a configuración do proxy ou contacte co administrador da rede para asegurarse de que o servidor proxy funciona. <ph name="PLATFORM_TEXT"/></translation>
+<translation id="8454634452929957533">Comprobe a configuración do proxy ou contacte co administrador da rede para asegurarse de que o servidor proxy funciona. Se non cre que deba utilizar un servidor proxy: <ph name="PLATFORM_TEXT"/></translation>
+<translation id="8040357206858000048">Vaia a Aplicacións &gt; Preferencias do sistema &gt; Rede &gt; Avanzado &gt; Proxies e deseleccione os proxies seleccionados.</translation>
+<translation id="7158277678571698323">Vaia ao menú de Opera &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; Configuración de LAN e deseleccione a opción "Usar un servidor proxy para a LAN".</translation>
+<translation id="2954705784594331199"><ph name="BEGIN_LINK"/>Volva cargar<ph name="END_LINK"/> esta páxina web máis tarde.</translation>
+<translation id="4977565600485911823">Desactive as extensións e <ph name="BEGIN_LINK"/>volva cargar<ph name="END_LINK"/> esta páxina web.</translation>
+<translation id="1103966635949043187">Vaia á páxina de inicio do sitio:</translation>
+<translation id="7747589364844254751">Comprobe a conexión á Internet. Reinicie o router, módem ou outros dispositivos de rede que utilice.</translation>
+<translation id="5548623538190661145">Comprobe a configuración de DNS. Contacte co administrador de rede se non está seguro do que significa isto.</translation>
+<translation id="9127307628159259612">Engada <ph name="PRODUCT_NAME"/> como un programa permitido na configuración do antivirus ou devasa. Se xa é un programa permitido, probe a eliminalo da lista de programas permitidos e a engadilo de novo.</translation>
+<translation id="4545046228395991092">Se utiliza un servidor proxy, comprobe a configuración do proxy ou contacte co administrador de rede para asegurarse de que o servidor proxy funciona.</translation>
+<translation id="1712673276482711826">Se utiliza un servidor proxy, comprobe a configuración do proxy ou contacte co administrador de rede para asegurarse de que o servidor proxy funciona. Se non cre que deba utilizar un servidor proxy, axuste a configuración do proxy: <ph name="PLATFORM_TEXT"/></translation>
+<translation id="721197778055552897"><ph name="BEGIN_LINK"/>Máis información<ph name="END_LINK"/> sobre este problema.</translation>
+<translation id="2214283295778284209"><ph name="SITE"/> non está dispoñible.</translation>
+<translation id="4032534284272647190">Rexeitouse o acceso a <ph name="URL"/>.</translation>
+<translation id="790025292736025802">Non se atopou <ph name="URL"/></translation>
+<translation id="641480858134062906">Non se puido cargar <ph name="URL"/></translation>
+<translation id="4697214168136963651">Bloqueouse <ph name="URL"/></translation>
+<translation id="9020278534503090146">Esta páxina web non está dispoñible</translation>
+<translation id="9086455579313502267">Non é posible acceder á rede</translation>
+<translation id="6771079623344431310">Non é posible conectarse ao servidor proxy</translation>
+<translation id="5303446622366702551">Non é posible conectarse á Internet</translation>
+<translation id="6640442327198413730">Erro da memoria caché</translation>
+<translation id="4786993863723020412">Erro de lectura da memoria caché</translation>
+<translation id="5880867612172997051">Suspendeuse o acceso á rede</translation>
+<translation id="5303618139271450299">Non se atopou esta páxina web</translation>
+<translation id="7269802741830436641">Esta páxina web ten un bucle de redireccionamento</translation>
+<translation id="778579833039460630">Non se recibiu ningún dato</translation>
+<translation id="4980112683975062744">Recibíronse cabeceiras duplicadas do servidor</translation>
+<translation id="7839809549045544450">O servidor ten unha clave pública Diffie-Hellman efémera feble</translation>
+<translation id="820791781874064845">Esta páxina web bloqueouse mediante unha extensión</translation>
+<translation id="4764776831041365478">É posible que a páxina web de <ph name="URL"/> non estea dispoñible temporalmente ou que se traslade a un novo enderezo web de xeito permanente.</translation>
+<translation id="2776514516555065663"><ph name="PRODUCT_NAME"/> non puido cargar a páxina web porque <ph name="HOST_NAME"/> tardou demasiado en responder. Probablemente o sitio web non estea dispoñible ou quizais estea a experimentar problemas coa conexión á Internet.</translation>
+<translation id="7732608718511994155">Interrompeuse a conexión a <ph name="HOST_NAME"/>.</translation>
+<translation id="6866330586943304386">Interrompeuse a conexión a <ph name="HOST_NAME"/> debido a un cambio na conexión da rede.</translation>
+<translation id="3353584498371175254">Rexeitouse o intento de conexión de <ph name="PRODUCT_NAME"/> a <ph name="HOST_NAME"/>. Probablemente o sitio web non estea dispoñible ou quizais a rede non estea configurada correctamente.</translation>
+<translation id="1775580281086246828">Non se puido atopar o servidor en <ph name="HOST_NAME"/> porque se produciu un erro na busca de DNS. DNS é o servizo de rede que traduce o nome do sitio web ao seu enderezo da Internet. Este erro adoita producirse pola falta de conexión á Internet ou por unha rede mal configurada. Tamén pode ser debido a un servidor DNS que non responde ou unha devasa que impide a <ph name="PRODUCT_NAME"/> acceder á rede.</translation>
+<translation id="1900640198039665133"><ph name="PRODUCT_NAME"/> non pode acceder ao sitio web. Normalmente isto débese a problemas da rede, pero tamén pode deberse a un servidor proxy ou unha devasa mal configurados.</translation>
+<translation id="6061713520396617275">O ficheiro situado en <ph name="URL"/> non é lexible. É posible que se eliminase, trasladase ou que os permisos do ficheiro impidan o acceso.</translation>
+<translation id="3743996431420410209"><ph name="PRODUCT_NAME"/> está a ter problemas para acceder á rede. <ph name="LINE_BREAK"/> Isto pode deberse a que a devasa ou o software do antivirus consideren de xeito incorrecto que <ph name="PRODUCT_NAME"/> é un intruso no seu dispositivo móbil e estean a bloquear a súa conexión á Internet.</translation>
+<translation id="8525957822916060992">Un servidor proxy é un servidor que actúa como un intermediario entre o dispositivo móbil e outros servidores. Agora mesmo, o seu sistema está configurado para utilizar un proxy, pero <ph name="PRODUCT_NAME"/> non pode establecer conexión con el.</translation>
+<translation id="2182771052381938197"><ph name="PRODUCT_NAME"/> non pode mostrar a páxina web porque o seu dispositivo móbil non está conectado á Internet.</translation>
+<translation id="8504605147845230067"><ph name="ERROR_DESCRIPTION_TEXT"/></translation>
+<translation id="6482869692698550826"><ph name="PRODUCT_NAME"/> está a ter problemas para acceder á rede. <ph name="LINE_BREAK"/> Isto pode deberse a que a devasa ou o software do antivirus consideren de xeito incorrecto que <ph name="PRODUCT_NAME"/> é un intruso no seu ordenador e estean a bloquear a conexión á Internet.</translation>
+<translation id="6268299223990012826">Un servidor proxy é un servidor que actúa como un intermediario entre o ordenador e outros servidores. Agora mesmo, o seu sistema está configurado para utilizar un proxy, pero <ph name="PRODUCT_NAME"/> non pode establecer conexión con el.</translation>
+<translation id="2082033521101679150"><ph name="PRODUCT_NAME"/> non pode mostrar a páxina web porque o seu ordenador non está conectado á Internet.</translation>
+<translation id="5025570087133380871"><ph name="ERROR_DESCRIPTION_TEXT"/> <ph name="LINE_BREAK"/> Pode tentar diagnosticar o problema levando a cabo os seguintes pasos: <ph name="LINE_BREAK"/> <ph name="PLATFORM_TEXT"/></translation>
+<translation id="3952238365087168585">Vaia a <ph name="BEGIN_BOLD"/> Aplicacións &gt; Preferencias do sistema &gt; Rede &gt; Axuda <ph name="END_BOLD"/> para probar a súa conexión.</translation>
+<translation id="8907719130223575953">Vaia a <ph name="BEGIN_BOLD"/> Inicio &gt; Panel de control &gt; Rede e Internet &gt; Centro de rede e uso compartido &gt; Solución de problemas (na parte inferior) &gt; Conexións á Internet. <ph name="END_BOLD"/></translation>
+<translation id="6426809368065002078">Vaia a <ph name="BEGIN_BOLD"/> Inicio &gt; Panel de control &gt; Conexións de rede &gt; Asistente para nova conexión <ph name="END_BOLD"/> para probar a súa conexión.</translation>
+<translation id="2430210664810280637">Faga clic en <ph name="BEGIN_BOLD"/>Inicio<ph name="END_BOLD"/>, <ph name="BEGIN_BOLD"/>Executar<ph name="END_BOLD"/>, escriba <ph name="BEGIN_BOLD"/>%windir%\network diagnostic\xpnetdiag.exe<ph name="END_BOLD"/>, e faga clic en <ph name="BEGIN_BOLD"/>Aceptar<ph name="END_BOLD"/>.</translation>
+<translation id="5098248489969453574">A páxina web non se atopou na memoria caché. Algúns recursos só poden cargarse de xeito seguro desde a memoria caché, como as páxinas creadas de datos enviados. <ph name="LINE_BREAK"/> Este erro tamén pode deberse a danos na memoria caché provocados por un peche incorrecto. <ph name="LINE_BREAK"/> Se o problema continúa, probe a borrar a memoria caché.</translation>
+<translation id="2275837730041455081">Para avanzar con máis rapidez nas páxinas web, <ph name="PRODUCT_NAME"/> garda temporalmente os ficheiros descargados no disco. Cando <ph name="PRODUCT_NAME"/> non se pecha de forma adecuada, estes ficheiros poden resultar danados e provocar este erro. Volver cargar a páxina debería solucionar este problema e pechala de xeito adecuado debería evitar que suceda de novo no futuro. <ph name="LINE_BREAK"/> Se o problema continúa, probe a borrar a memoria caché. Nalgúns casos, tamén pode ser un síntoma de que o hardware comeza a fallar.</translation>
+<translation id="9029615070002286968">Non é posible cargar a páxina web, xa que o seu dispositivo móbil entrou no modo de suspensión ou hibernación. Cando isto sucede, as conexións de rede detéñense e as novas solicitudes de rede fallan. Volver cargar a páxina debería solucionar este problema.</translation>
+<translation id="4534415571332240241">Non é posible cargar a páxina web, xa que o seu ordenador entrou no modo de suspensión ou hibernación. Cando isto sucede, as conexións de rede detéñense e as novas solicitudes de rede fallan. Volver cargar a páxina debería solucionar este problema.</translation>
+<translation id="7518003948725431193">Non se atopou ningunha páxina web para o enderezo web: <ph name="URL"/></translation>
+<translation id="9164387458644511612">A páxina web en <ph name="URL"/> provocou demasiados redireccionamentos. É posible que eliminar as cookies deste sitio ou permitir as cookies de terceiros solucione este problema. Se non é así, posiblemente se trate dun problema da configuración do servidor e non dun problema co dispositivo móbil.</translation>
+<translation id="3015602778474660457">A páxina web en <ph name="URL"/> provocou demasiados redireccionamentos. É posible que eliminar as cookies deste sitio ou permitir as cookies de terceiros solucione este problema. Se non é así, posiblemente se trate dun problema da configuración do servidor e non dun problema co ordenador.</translation>
+<translation id="4287689875748136217">Non é posible cargar a páxina web porque o servidor non enviou ningún dato.</translation>
+<translation id="660896802268593778">A resposta do servidor contiña cabeceiras duplicadas. Este problema adoita ser o resultado dun proxy ou un sitio web mal configurado. Só o administrador do proxy ou da páxina web pode solucionar este problema.</translation>
+<translation id="5954987802886981088">Este erro pode producirse cando se conecta a un servidor seguro (HTTPS). Isto quere dicir que o servidor está a tentar configurar a conexión segura pero, debido a unha configuración desastrosa, a conexión non será segura. <ph name="LINE_BREAK"/> Neste caso, é necesario solucionar os problemas do servidor. <ph name="PRODUCT_NAME"/> non utilizará conexións non seguras para protexer a súa privacidade.</translation>
+<translation id="8752577199214871617">Non é posible buscar <ph name="HOST_NAME"/>.</translation>
+<translation id="8235325155053717782">Erro <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="3986287159189541211">Erro de HTTP <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="4405141258442788789">Rematou o tempo de espera da operación.</translation>
+<translation id="3118046075435288765">O servidor pechou inesperadamente a conexión.</translation>
+<translation id="2784949926578158345">Restableceuse a conexión.</translation>
+<translation id="9020142588544155172">O servidor rexeitou a conexión.</translation>
+<translation id="8494979374722910010">Produciuse un erro ao tentar conectarse ao servidor.</translation>
+<translation id="2909946352844186028">Detectouse un cambio na rede.</translation>
+<translation id="5949910269212525572">Non é posible resolver o enderezo DNS do servidor.</translation>
+<translation id="5498951625591520696">Non é posible acceder ao servidor.</translation>
+<translation id="3950924596163729246">Non é posible acceder á rede.</translation>
+<translation id="4147376274874979956">Non é posible acceder ao ficheiro.</translation>
+<translation id="4535734014498033861">Produciuse un erro na conexión do servidor proxy.</translation>
+<translation id="6728024709633626254">Perdeuse a conexión á Internet.</translation>
+<translation id="201192063813189384">Produciuse un erro ao ler os datos da memoria caché.</translation>
+<translation id="3393716657345709557">Non se atopou a entrada solicitada na memoria caché.</translation>
+<translation id="7450732239874446337">Suspendeuse a rede IO.</translation>
+<translation id="6391832066170725637">Non foi posible atopar o ficheiro ou o directorio.</translation>
+<translation id="3748412725338508953">Houbo demasiados redireccionamentos.</translation>
+<translation id="2950186680359523359">O servidor pechou a conexión sen enviar datos.</translation>
+<translation id="2929266020546499971">Recibíronse varias cabeceiras de lonxitude de contido diferenciadas. Isto non está permitido para a protección contra os ataques de partición de resposta HTTP.</translation>
+<translation id="2297038239859335744">Recibíronse varias cabeceiras de disposición de contido diferenciadas. Isto non está permitido para a protección contra os ataques de partición de resposta HTTP.</translation>
+<translation id="3336388975352605720">Recibíronse varias cabeceiras de situación diferenciadas. Isto non está permitido para a protección contra os ataques de partición de resposta HTTP.</translation>
+<translation id="6626108645084335023">Agardando sonda DNS.</translation>
+<translation id="1195447618553298278">Erro descoñecido.</translation>
+<translation id="6066742401428748382">Denegouse o acceso á páxina web</translation>
+<translation id="2650446666397867134">Denegouse o acceso ao ficheiro</translation>
+<translation id="3261690198327056381">Non está autorizado a acceder á páxina web en <ph name="URL"/>. É posible que necesite iniciar sesión.</translation>
+<translation id="3903912596042358459">O servidor rexeitou a realización da solicitude.</translation>
+<translation id="904949795138183864">A páxina web situada en <ph name="URL"/> xa non existe.</translation>
+<translation id="5319054530310231888">O recurso solicitado xa non existe e non hai ningún enderezo de reenvío. Espérase que sexa unha condición permanente.</translation>
+<translation id="8295070100601117548">Erro do servidor</translation>
+<translation id="1055268999302881517">O sitio web atopou un erro ao recuperar <ph name="URL"/>. É posible que non estea dispoñible para efectuar tarefas de mantemento ou que a configuración sexa incorrecta.</translation>
+<translation id="2279770628980885996">Atopouse unha condición inesperada mentres o servidor tentaba realizar a solicitude.</translation>
+<translation id="4060383410180771901">O sitio web non é capaz de tratar a solicitude de <ph name="URL"/>.</translation>
+<translation id="477518548916168453">O servidor non é compatible coa funcionalidade necesaria para realizar a solicitude.</translation>
+<translation id="3940082421246752453">O servidor non é compatible coa versión de HTTP utilizada na solicitude.</translation>
+<translation id="7544229255782699242">Recibiuse una resposta non válida ao tentar cargar <ph name="URL"/>. É posible que o servidor non estea dispoñible para efectuar tarefas de mantemento ou que estea configurado de xeito incorrecto.</translation>
+<translation id="7052500709156631672">O servidor proxy ou a pasarela recibiron unha resposta non válida dun servidor de subida.</translation>
+<translation id="5741201586401781900">A páxina web situada en <ph name="URL"/> non está dispoñible actualmente. É posible que estea sobrecargada ou non dispoñible por cuestións de mantemento.</translation>
+<translation id="6094756196753418043">Neste momento, o servidor non é capaz de atender a solicitude. Este código indica que esta é unha condición temporal e o servidor volverá estar dispoñible despois dun período determinado.</translation>
+<translation id="2084412568823043027">O servidor de <ph name="URL"/> tardou demasiado en responder. É posible que estea sobrecargado.</translation>
+<translation id="1202290638211552064">O servidor proxy ou a pasarela esgotaron o tempo de espera de resposta dun servidor de subida.</translation>
+<translation id="1146498888431277930">Erro de conexión de SSL</translation>
+<translation id="4350711002179453268">Non é posible realizar unha conexión segura para o servidor. Isto pode deberse a un problema co servidor, ou ben quizais sexa necesario un certificado de autenticación do cliente do que non dispós.</translation>
+<translation id="5228309736894624122">Erro de protocolo SSL.</translation>
+<translation id="8016174103774548813">Servidor SSL probablemente obsoleto.</translation>
+<translation id="5549435349608496346">Non é posible conectar co servidor de maneira segura. Pode que este sitio web funcionase anteriormente, pero demostrouse que conectar con estes sitios provoca riscos de seguridade para todos os usuarios, polo que desactivado por motivos de seguridade.</translation>
+<translation id="2803407661478021186">Unha reserva de SSLv3 puido conectar co servidor, pero xa non aceptamos reservas de SSLv3 debido aos novos ataques recibidos polo protocolo. É necesario actualizar o servidor para que sexa compatible cun mínimo de TLS 1.0 e, preferentemente, TLS 1.2.</translation>
+<translation id="2345460471437425338">Certificado incorrecto para o anfitrión.</translation>
+<translation id="3225919329040284222">O servidor presentou un certificado que non coincide coas expectativas incorporadas. Estas expectativas inclúense para certos sitios web de alta seguridade para ofrecerlle protección.</translation>
+<translation id="6957887021205513506">Parece que o certificado do servidor é unha falsificación.</translation>
+<translation id="4544369257849566741">Faltaba a extensión de renegociación de SSL do protocolo de enlace seguro. Para algúns sitios, que son compatibles coa extensión de renegociación, <ph name="PRODUCT_NAME"/> necesita un protocolo de enlace máis seguro para evitar un tipo de ataques coñecidos. A omisión desta extensión suxire que se interceptou a súa conexión e se manipulou sobre a marcha.</translation>
+<translation id="8515737884867295000">Produciuse un erro na autenticación baseada en certificados</translation>
+<translation id="1214288039821587584">O servidor necesita un certificado para a autenticación e non aceptou o enviado polo navegador. É posible que o seu certificado caducase ou que o servidor non confíe no seu emisor. Pode tentalo de novo cun certificado diferente, se ten un, ou quizais deba obter un certificado válido noutro lugar.</translation>
+<translation id="9013589315497579992">Erro no certificado de autenticación de cliente de SSL.</translation>
+<translation id="5620046725797389119">É probable que o servidor que aloxa a páxina web estea sobrecargado ou encontrase un erro. Para evitar que as extensións provoquen demasiado tráfico e empeoren a situación, <ph name="PRODUCT_NAME"/> deixou de permitir solicitudes das extensións a este URL temporalmente.</translation>
+<translation id="2271281383664374369">As solicitudes de extensión para este URL limitáronse temporalmente.</translation>
+<translation id="3225579507836276307">Unha extensión dun terceiro bloqueou o acceso a esta páxina web.</translation>
+<translation id="5990559369517809815">Unha extensión bloqueou as solicitudes ao servidor.</translation>
+<translation id="8315720913203253727">Esta páxina web necesita datos que introduciu anteriormente para que se mostre correctamente. Pode volver enviar estes datos, pero ao facelo repetirá as accións que realizase esta páxina anteriormente. Prema Recargar para reenviar os datos e mostrar esta páxina.</translation>
+<translation id="6429639049555216915">Neste momento, non é posible acceder á aplicación.</translation>
+<translation id="8162734958263531433">Para utilizar a depuración do USB, necesita activar SDK de Android e a depuración do USB no seu dispositivo Android. Consulte <ph name="HTML_HELPURL"/> para obter máis información.</translation>
+<translation id="1875071432292773474">Introduza o enderezo <ph name="ACCESS_POINT"/> no navegador do escritorio. O navegador do escritorio debe estar conectado á mesma rede que o dispositivo Android.</translation>
+<translation id="7227425938337339799">Para que a tecnoloxía UPnP funcione, necesita estar na mesma subrede ou conectar o router para reenviar as transmisións a través de subredes.</translation>
+<translation id="4553629908098215669">No ordenador, execute <ph name="HTMLADBCOMMAND"/> e vaia ata <ph name="HTMLLOCALHOSTURL"/> cun navegador baseado en Chromium.</translation>
+<translation id="5873732809085338161">Para activar WebSockets non seguros no navegador do escritorio, vaia a <ph name="HTMLOPERAFLAG"/> (Opera 24+) ou a <ph name="HTMLCHROMEFLAG"/> (Chrome 36+).</translation>
+<translation id="4570032796877367747">Cámara dianteira</translation>
+<translation id="2599796128805996109">Cámara traseira</translation>
+<translation id="1780524213916974482">Cámara esquerda</translation>
+<translation id="1198988598070704831">Cámara dereita</translation>
+<translation id="2124507516322945394">Micrófono predeterminado</translation>
+<translation id="1587215898571986504">Mans libres</translation>
+<translation id="5614598979078259956">Auriculares con fíos</translation>
+<translation id="9031226374756103225">Auriculares</translation>
+<translation id="149679617917926491">Auriculares Bluetooth</translation>
+<translation id="6060685159320643512">Teña coidado, estes experimentos poden volverse na súa contra</translation>
+<translation id="5199729219167945352">Experimentos</translation>
+<translation id="2712869172826980984">COIDADO!</translation>
+<translation id="8102444033747951866">Estas marcas controlan funcións inestables ou experimentais. É posible que non funcionen ou que provoquen erros no navegador. Pode perder datos e quizais se debiliten a súa privacidade e seguridade. As funcións poden crearse, empezar a funcionar ou deixar de facelo en calquera momento. Teña coidado, está a entrar nun territorio perigoso!</translation>
+<translation id="9187827965378254003">Parece que neste momento non hai experimentos dispoñibles.</translation>
+<translation id="2282872951544483773">Experimentos non dispoñibles</translation>
+<translation id="6426993025560594914">Todos os experimentos están dispoñibles na súa plataforma!</translation>
+<translation id="889901481107108152">Este experimento non está dispoñible na súa plataforma.</translation>
+<translation id="3015639418649705390">Reiniciar agora</translation>
+<translation id="7179921470347911571">Reiniciar agora</translation>
+<translation id="8647750283161643317">Restablecer todo ao estado predeterminado</translation>
+<translation id="1134886108896378542">Restablecer todo ao estado predeterminado</translation>
+<translation id="4394049700291259645">Desactivar</translation>
+<translation id="3435896845095436175">Activar</translation>
+<translation id="604124094241169006">Automático</translation>
+<translation id="8798099450830957504">Predeterminado</translation>
+<translation id="8815310998417289610">Activado</translation>
+<translation id="7826518276255108913">Desactivado</translation>
+<translation id="2005166128312586988">Os cambios aplicaranse cando reinicie Opera.</translation>
+<translation id="7961015016161918242">Nunca</translation>
+<translation id="6342069812937806050">Agora mesmo</translation>
+<translation id="684302243018322820">Para ver os contrasinais almacenados de Opera, introduza o contrasinal do ordenador.</translation>
+<translation id="533563709691128800">desactivado</translation>
+<translation id="2506903884491778518">Buscar experimentos</translation>
+<translation id="2112624549618815628">Predeterminado (activado)</translation>
+<translation id="3696363537446376816">Predeterminado (desactivado)</translation>
+<translation id="1375198122581997741">Acerca da versión</translation>
+<translation id="7248671827512403053">Aplicación</translation>
+<translation id="1710259589646384581">SO</translation>
+<translation id="6897140037006041989">Axente de usuario</translation>
+<translation id="7353601530677266744">Liña de comando</translation>
+<translation id="7225807090967870017">ID da compilación</translation>
+</translationbundle>

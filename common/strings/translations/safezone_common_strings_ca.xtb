@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="ca">
+<translation id="3929428121849375048">Avast SafeZone</translation>
+<translation id="806546331937022936">Avast</translation>
+<translation id="3609966143444339170">Avast no recomana en absolut visitar aquesta pàgina.</translation>
+<translation id="4206706288435313269">Centre de notificacions d'Avast SafeZone</translation>
+<translation id="254978580676301713">SafeZone: notificacions</translation>
+<translation id="8084325208922689406">SafeZone: notificacions (<ph name="QUANTITY"/> no llegides)</translation>
+<translation id="678670207776683961">SafeZone: notificacions</translation>
+<translation id="191361968702850015">SafeZone: notificacions (<ph name="QUANTITY"/> no llegides)</translation>
+<translation id="1359674843509087498">Aquest lloc utilitza paràmetres de seguretat obsolets que poden impedir que futures versions de SafeZone hi puguin accedir de manera segura.</translation>
+<translation id="3485921796584936414">Permeteu que SafeZone accedeixi a la xarxa en la vostra configuració de tallafoc o antivirus.</translation>
+<translation id="7041993155087650094">Aneu al menú SafeZone &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; Paràmetres de la LAN i deseleccioneu "Utilitza un servidor intermediari per a la LAN".</translation>
+<translation id="5366394231680131980">Els canvis s'aplicaran quan torneu a iniciar SafeZone.</translation>
+<translation id="6964843943881946410">Per veure les contrasenyes emmagatzemades de SafeZone, introduïu la contrasenya de l'ordinador.</translation>
+</translationbundle>

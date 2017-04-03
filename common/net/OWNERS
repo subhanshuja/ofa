@@ -1,0 +1,7 @@
+haavardm@opera.com
+per-file common_net.gyp=martin.ejdestig@opera.com
+per-file net_resource_provider.*=jiangj@opera.com
+per-file net_resource_provider.*=tmoniuszko@opera.com
+per-file opera_cert_verifier_delegate.*=pstanek@opera.com
+per-file opera_cert_verifier_delegate_unittest.cc=atanasb@opera.com
+per-file sensitive_url_request_user_data.*=msimonides@opera.com

@@ -1,0 +1,44 @@
+<html>
+<head>
+<script type="text/javascript">
+function verify() {
+  p_err = document.getElementById('password_err');
+  u_err = document.getElementById('username_err');
+  p = document.getElementById('password');
+  u = document.getElementById('username');
+
+  p_err.textContent = "";
+  u_err.textContent = "";
+
+  if (u.value == "") {
+    u_err.textContent = "No empty username allowed";
+    return false;
+  }
+  if (p.value == "") {
+    p_err.textContent = "No empty passwords allowed";
+    return false;
+  }
+  return true;
+}
+</script>
+<title>Mock auth login page</title>
+</head>
+<body bgcolor="navy">
+<font color="white">
+<form id="login-form" method="POST" action="" onsubmit="return verify()" autocapitalize="none" autocorrect="off">
+&nbsp;&nbsp;
+<table border=0 align="center" width="80%">
+<tr><td colspan="2"><font size="1" face="Verdana" color="white">
+A mock <b>OAuth2</b> login page that will work with the sync local testserver only.<br><br>
+<font color="red">DO NOT enter your real login data here.</font><br><br>
+&nbsp;&nbsp;
+</td></tr>
+<tr><td><font color="white">Username</font></td><td><input type="text" id="username" name="email" autofocus="" placeholder="Username or email" maxlength="100" required="required" value=""><br><span id="username_err" style="color: red; font-size: 13px;"></span></td></tr>
+<tr><td><font color="white">Password</font></td><td><input type="password" id="password" name="password" placeholder="Password" required="required"><br><span id="password_err" style="color: red; font-size: 13px;"></span></td></tr>
+<!--<label><input type="checkbox" id="store-password-checkbox"> Save password</label>-->
+<tr><td colspan="2"><button type="submit" name="submit">Login</button></td></tr>
+</table>
+</form>
+</font>
+</body>
+</html>

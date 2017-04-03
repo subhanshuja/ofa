@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="sk">
+<translation id="3942946088478181888">Vysvetlenie</translation>
+<translation id="1396529432791646744">Keď sa pripojíte na zabezpečenú stránku, server odošle do vášho prehliadača takzvaný "certifikát" pre overenie jeho identity. Certifikát obsahuje adresu web stránky, ktorá je overovaná treťou stranou, či vaše mobilné zariadenie je dôveryhodné. Kontrolou zhody adresy v certifikáte a adresy web stránky zistíte, či bezpečne komunikujete s požadovanou web stránkou a nie s treťou stranou (napríklad s útočníkom v sieti).</translation>
+<translation id="6295228342562451544">Keď sa pripojíte na zabezpečenú stránku, server odošle do vášho prehliadača takzvaný "certifikát" pre overenie jeho identity. Certifikát obsahuje adresu web stránky, ktorá je overovaná treťou stranou, či je váš počítač dôveryhodný. Kontrolou zhody adresy v certifikáte a adresy web stránky zistíte, či bezpečne komunikujete s požadovanou web stránkou a nie treťou stranou (napríklad s útočníkom v sieti).</translation>
+<translation id="8187473050234053012">Certifikát zabezpečenia servera bol zrušený!</translation>
+<translation id="5598024575303778520">Podvodná stránka</translation>
+<translation id="7311721172731074902">Podvodná stránka</translation>
+<translation id="1858130628205855959">Táto stránka môže byť haknutá alebo podvodná. Poskytnutím hesla alebo osobných údajov sa môžete vystaviť riziku krádeže identity alebo finančných podvodov.</translation>
+<translation id="8357891144266644027">Varovanie – škodlivá stránka</translation>
+<translation id="4664012235452972339">Varovanie – škodlivá stránka</translation>
+<translation id="1030973920598092450">Táto stránka môže byť haknutá alebo môže obsahovať škodlivý softvér. Návšteva tejto stránky môže byť škodlivá.</translation>
+<translation id="4863259811271883558">Nahlásil <ph name="BEGIN_LINK"/><ph name="PROVIDER_NAME"/><ph name="END_LINK"/></translation>
+<translation id="3141322567138977593">Bezpečne odísť</translation>
+<translation id="833642844779103272">Bezpečne odísť</translation>
+<translation id="4238466718818823211">Ignorovať toto upozornenie</translation>
+<translation id="1755698976576372535">Prečo bola táto stránka zablokovaná?</translation>
+<translation id="2962647877740028287">Naše hlásenia o podvodoch spravujú externí dodávatelia.</translation>
+<translation id="7470668651798735849">Tu vidíte všetky upozornenia z web stránok.</translation>
+<translation id="6426222199977479699">Chyba SSL</translation>
+<translation id="8398877366907290961">Pokračovať</translation>
+<translation id="6264485186158353794">Späť</translation>
+<translation id="2225024820658613551">Nemali by ste pokračovať a &lt;strong&gt;hlavne&lt;/strong&gt;, ak sa vám nikdy nezobrazilo toto upozornenie pre stránku.</translation>
+<translation id="5645845270586517071">Chyba zabezpečenia</translation>
+<translation id="1103666958012677467">Nemôžete pokračovať, pretože prevádzkovateľ web stránky požaduje zvýšenú bezpečnosť pre túto doménu.</translation>
+<translation id="5463275305984126951">Register pre <ph name="LOCATION"/></translation>
+<translation id="8877448029301136595">[hlavný adresár]</translation>
+<translation id="3835522725882634757">Oh, nie! Server odosiela dáta, ktorým <ph name="PRODUCT_NAME"/> nerozumie. <ph name="BEGIN_LINK"/>Nahláste chybu<ph name="END_LINK"/> a zahrňte <ph name="BEGIN2_LINK"/>zoznam<ph name="END2_LINK"/>.</translation>
+<translation id="5327248766486351172">Názov</translation>
+<translation id="8028993641010258682">Veľkosť</translation>
+<translation id="57646104491463491">Dátum zmeny</translation>
+<translation id="8465929756435120446">Na tejto stránke sa nachádza nezabezpečený obsah.</translation>
+<translation id="6827416153061837992">Toto pripojenie nie je šifrované.</translation>
+<translation id="9193357432624119544">Kód chyby: <ph name="ERROR_NAME"/></translation>
+<translation id="4910619056351738551">Tu sú niektoré návrhy:</translation>
+<translation id="2954705784594331199"><ph name="BEGIN_LINK"/>Obnovte<ph name="END_LINK"/> túto web stránku neskôr.</translation>
+<translation id="4977565600485911823">Zakážte rozšírenia a potom <ph name="BEGIN_LINK"/>obnovte<ph name="END_LINK"/> web stránku.</translation>
+<translation id="1103966635949043187">Prejdite na hlavnú stránku tejto web stránky:</translation>
+<translation id="7747589364844254751">Skontrolujte internetové pripojenie. Reštartujte router, modem alebo iné sieťové zariadenie, ktoré používate.</translation>
+<translation id="5548623538190661145">Skontrolujte nastavenia DNS. Kontaktujte vášho správcu siete, ak neviete problém vyriešiť.</translation>
+<translation id="4545046228395991092">Ak používate proxy server, skontrolujte nastavenia alebo kontaktujte správcu siete, aby overil funkčnosť proxy servera.</translation>
+<translation id="1712673276482711826">Ak používate proxy server, skontrolujte nastavenia alebo kontaktujte správcu siete, aby overil funkčnosť proxy servera. Ak si myslíte, že by sa proxy server nemal používať, upravte nastavenia proxy: <ph name="PLATFORM_TEXT"/></translation>
+<translation id="721197778055552897"><ph name="BEGIN_LINK"/>Ďalšie informácie<ph name="END_LINK"/> o tomto probléme.</translation>
+<translation id="8235325155053717782">Chyba <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="3986287159189541211">Chyba HTTP <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="3225919329040284222">Server predložil certifikát, ktorý nezodpovedá očakávanému. Tieto očakávania sú pre niektoré vysoko zabezpečené web stránky pre ochranu.</translation>
+<translation id="6957887021205513506">Certifikát servera je asi falzifikát.</translation>
+<translation id="6429639049555216915">Aplikácia je aktuálne nedosiahnuteľná.</translation>
+<translation id="9127307628159259612">Pridajte aplikáciu <ph name="PRODUCT_NAME"/> medzi povolený softvér v bráne firewall alebo v antivírusovom programe. Ak je už medzi povolenými, skúste ju vymazať a pridať znovu.</translation>
+<translation id="4544369257849566741">Pri komunikácii handshake chýbalo rozšírenie na sprostredkovanie SSL. Pre niektoré stránky, ktoré sú známe podporou rozšírení na sprostredkovanie, požaduje aplikácia <ph name="PRODUCT_NAME"/> viac zabezpečenú komunikáciu handshake na zabránenie útokom. Vynechanie tohto rozšírenia naznačuje, že pripojenie bolo zachytené a zmanipulované počas prenosu.</translation>
+<translation id="8162734958263531433">Na použitie USB ladenia potrebujete Android SDK a musíte povoliť USB ladenie vo vašom zariadení so systémom Android. Ďalšie informácie nájdete na adrese <ph name="HTML_HELPURL"/>.</translation>
+<translation id="1875071432292773474">V prehliadači počítača zadajte adresu <ph name="ACCESS_POINT"/>. Prehliadač počítača musí byť v rovnakej sieti ako zariadenie so systémom Android.</translation>
+<translation id="7227425938337339799">Na fungovanie protokolu UPnP musíte byť v rovnakej podsieti alebo treba smerovač prepojiť tak, aby presmerovával vysielania medzi podsieťami.</translation>
+<translation id="4553629908098215669">V počítači spustite <ph name="HTMLADBCOMMAND"/> a prejdite na adresu <ph name="HTMLLOCALHOSTURL"/> pomocou prehliadača Chromium.</translation>
+<translation id="4570032796877367747">Predná kamera</translation>
+<translation id="2599796128805996109">Zadná kamera</translation>
+<translation id="2124507516322945394">Predvolený mikrofón</translation>
+<translation id="1587215898571986504">Hlasitý odposluch</translation>
+<translation id="5614598979078259956">Náhlavná súprava pripojená káblom</translation>
+<translation id="9031226374756103225">Slúchadlo náhlavnej súpravy</translation>
+<translation id="149679617917926491">Náhlavná súprava Bluetooth</translation>
+<translation id="6060685159320643512">Pozor, tieto experimenty môžu hrýzť</translation>
+<translation id="5199729219167945352">Experimenty</translation>
+<translation id="533563709691128800">vypnuté</translation>
+<translation id="2506903884491778518">Hľadať v experimentoch</translation>
+<translation id="1138663153846032155">Preferovať HTML namiesto Flash</translation>
+<translation id="2081453640527377956">Nastavte preferenciu obsahu HTMP skrytím doplnku Flash zo zoznamu pluginov.</translation>
+<translation id="5998167623928667649">Spúšťať všetok obsah, keď je položka Flash nastavená na možnosť „povoliť“</translation>
+<translation id="5138177765054221193">Spúšťať všetok obsah na lokalitách, ktoré majú obsah Flash nastavený na možnosť „povoliť“, vrátane obsahu, ktorý sa považuje za nedôležitý.</translation>
+<translation id="2112624549618815628">Predvolené (zapnuté)</translation>
+<translation id="3696363537446376816">Predvolené (vypnuté)</translation>
+<translation id="5773249585542913314">Rozhranie API Windows Runtime MIDI</translation>
+<translation id="7122132768827815392">Použiť rozhranie API Windows Runtime MIDI pre WebMIDI (efektívne len v systéme Windows 10 alebo novšom).</translation>
+<translation id="1375198122581997741">Informácie o verzii</translation>
+<translation id="7248671827512403053">Aplikácia</translation>
+<translation id="1710259589646384581">OS</translation>
+<translation id="6897140037006041989">Identifikačný reťazec</translation>
+<translation id="7353601530677266744">Príkazový riadok</translation>
+<translation id="7225807090967870017">ID zostavy</translation>
+</translationbundle>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="sl">
+<translation id="1974060860693918893">Dodatno</translation>
+<translation id="3462200631372590220">Skrij dodatno</translation>
+<translation id="3369192424181595722">Napaka ure</translation>
+<translation id="2625385379895617796">Vaša ura prehiteva</translation>
+<translation id="8932102934695377596">Vaša ura zaostaja</translation>
+<translation id="3858027520442213535">Posodobi datum in čas</translation>
+<translation id="725866823122871198">Zasebne povezave do <ph name="BEGIN_BOLD"/><ph name="DOMAIN"/><ph name="END_BOLD"/> ni mogoče vzpostaviti, saj sta datum in čas (<ph name="DATE_AND_TIME"/>) na vašem računalniku napačna.</translation>
+<translation id="4879058462256654741">Če želite vzpostaviti varno povezavo, morate pravilno nastaviti uro. Ta korak je potreben, ker so digitalna potrdila, preko katerih se spletna mesta identificirajo, veljavna le določeno časovno obdobje. Teh digitalnih potrdil ni možno preveriti, saj je ura vaše naprave napačna.</translation>
+<translation id="1413809658975081374">Napaka zasebnosti</translation>
+<translation id="3566021033012934673">Vaša povezava ni zasebna</translation>
+<translation id="340013220407300675">Napadalci morda poskušajo ukrasti vaše podatke s spletnih mest <ph name="BEGIN_BOLD"/><ph name="SITE"/><ph name="END_BOLD"/> (na primer: gesla, sporočila ali podatke kreditnih kartic).</translation>
+<translation id="629137324635910832">Spletno mesto <ph name="SITE"/> za zaščito vaših podatkov običajno uporablja šifriranje. Ko se je brskalnik Opera poskušal povezati s spletnim mestom <ph name="SITE"/> tokrat, je to poslalo nenavadne in nepravilne poverilnice. To se lahko zgodi, ko se napadalec pretvarja, da je spletno mesto <ph name="SITE"/>, ali pa ko je brezžično omrežje s svojo stranjo za vpis prekinilo povezavo. Vaši podatki so še vedno varni, saj je brskalnik Opera prekinil povezavo, preden bi prišlo do izmenjave podatkov.</translation>
+<translation id="4404555778932203074">Trenutno ne morete dostopati do spletnega mesta <ph name="SITE"/>, saj je to poslalo šifrirane poverilnice, ki jih brskalnik Opera ne more obdelati. Napake in napadi na omrežja so po navadi le začasni, zato bo to spletno mesto najbrž na voljo pozneje.</translation>
+<translation id="8882627153668738693">Spletno mesto <ph name="SITE"/> za zaščito vaših podatkov običajno uporablja šifriranje. Ko se je brskalnik Avast SafeZone poskušal povezati s spletnim mestom <ph name="SITE"/> tokrat, je spletno mesto poslalo nenavadne in nepravilne poverilnice. To se lahko zgodi, ko se napadalec pretvarja, da je spletno mesto <ph name="SITE"/>, ali pa ko je brezžično omrežje s svojo stranjo za vpis prekinilo povezavo. Vaši podatki so še vedno varni, saj je brskalnik Avast SafeZone prekinil povezavo, preden bi prišlo do izmenjave podatkov.</translation>
+<translation id="1888865191717601957">Trenutno ne morete dostopati do spletnega mesta <ph name="SITE"/>, saj je to poslalo šifrirane poverilnice, ki jih brskalnik Avast SafeZone ne more obdelati. Napake in napadi na omrežja so po navadi le začasni, zato bo to spletno mesto najbrž na voljo pozneje.</translation>
+<translation id="6264485186158353794">Nazaj v varnost</translation>
+<translation id="7704050614460855821"><ph name="BEGIN_LINK"/>Nadaljujte na spletno mesto <ph name="SITE"/> (ni varno)<ph name="END_LINK"/></translation>
+<translation id="5556459405103347317">Znova naloži</translation>
+<translation id="6051221802930200923">Spletnega mesta <ph name="SITE"/> trenutno ne morete obiskati, saj to uporablja pripenjanje digitalnih potrdil. Napake in napadi na omrežja so po navadi le začasni, zato bo to spletno mesto najbrž na voljo pozneje.</translation>
+<translation id="2991571918955627853">Spletnega mesta <ph name="SITE"/> trenutno ne morete obiskati, saj to uporablja standard HSTS (ang. »strict transport security«). Napake in napadi na omrežja so po navadi le začasni, zato bo to spletno mesto najbrž na voljo pozneje.</translation>
+<translation id="1430489501396597835">Spletnega mesta <ph name="SITE"/> trenutno ne morete obiskati, saj je bilo to digitalno potrdilo preklicano. Napake in napadi na omrežja so po navadi le začasni, zato bo to spletno mesto najbrž na voljo pozneje.</translation>
+<translation id="4513896196857653318">Pojdite na
+          Glavni meni &gt;
+          <ph name="SETTINGS_TITLE"/>
+          &gt;
+          <ph name="ADVANCED_TITLE"/>
+          in odznačite "<ph name="NO_PREFETCH_DESCRIPTION"/>."
+          Če to ne bo odpravilo težave, priporočamo, da znova izberete to možnost
+          za boljšo učinkovitost delovanja.</translation>
+<translation id="8888594059056485523">V nastavitvah požarnega zidu ali protivirusnega programa dovolite brskalniku Opera dostop do omrežja.</translation>
+<translation id="8040357206858000048">Premaknite se v razdelek »Programi« &gt; »Nastavitve sistema« &gt; »Omrežje« &gt; »Napredno« &gt; »Strežniki proxy« in prekličite izbor morebitnih strežnikov proxy, ki so izbrani.</translation>
+<translation id="1532685482177999023">Premaknite se v glavni meni &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; »Nastavitve omrežja LAN« in prekličite izbor možnosti »Uporabi strežnik proxy za omrežje LAN«.</translation>
+<translation id="6118049677165320383">Spremembe bodo začele delovati, ko boste ponovno zagnali brskalnik.</translation>
+<translation id="5510583790312051907">Poročanje o zrušitvi ni na voljo.</translation>
+<translation id="1011013207380005827">Brskalnik Opera omogoča odprtokodni projekt <ph name="BEGIN_LINK_CHROMIUM"/>Chromium<ph name="END_LINK_CHROMIUM"/> in druga <ph name="BEGIN_LINK_OSS"/>odprtokodna programska oprema<ph name="END_LINK_OSS"/>.</translation>
+<translation id="3108493547597012279">Ogledujete si varno stran.</translation>
+<translation id="8530361534096361731">Brskalnik Opera se ni pravilno zaprl.</translation>
+</translationbundle>

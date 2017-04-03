@@ -1,0 +1,76 @@
+# Copyright (C) 2015 Opera Software ASA.  All rights reserved.
+#
+# This file is an original work developed by Opera Software ASA.
+
+import("//testing/test.gni")
+
+source_set("account") {
+  sources = [
+    "account_auth_data.h",
+    "account_observer.h",
+    "account_service.cc",
+    "account_service.h",
+    "account_service_delegate.h",
+    "account_service_impl.cc",
+    "account_service_impl.h",
+    "account_util.cc",
+    "account_util.h",
+    "oauth_token_fetcher.cc",
+    "oauth_token_fetcher.h",
+    "time_skew_resolver.h",
+    "time_skew_resolver_impl.cc",
+    "time_skew_resolver_impl.h",
+  ]
+  configs += [ "../config:include_config" ]
+
+  deps = [
+    "../sync:sync_config",
+    "//net",
+    "//url",
+  ]
+}
+
+source_set("test_support") {
+  testonly = true
+  deps = [
+    ":account",
+    "//testing/gmock",
+    "//url",
+  ]
+  sources = [
+    "account_auth_data_fetcher_mock.cc",
+    "account_auth_data_fetcher_mock.h",
+    "mock_account_observer.cc",
+    "mock_account_observer.h",
+    "mock_account_service.cc",
+    "mock_account_service.h",
+    "time_skew_resolver_mock.cc",
+    "time_skew_resolver_mock.h",
+  ]
+  configs += [ "../config:include_config" ]
+  public_configs = [ "../config:include_config" ]
+}
+
+test("account_unittests") {
+  deps = [
+    ":account",
+    ":test_support",
+    "//base/allocator",
+    "//base/test:run_all_unittests",
+    "//content/test:test_support",
+    "//net:test_support",
+    "//testing/gmock",
+    "//testing/gtest",
+  ]
+
+  include_dirs = [ "//" ]
+
+  sources = [
+    "//components/sync/driver/sync_driver_switches.cc",
+    "//components/sync/driver/sync_driver_switches.h",
+    "account_service_impl_test.cc",
+    "account_util_test.cc",
+    "oauth_token_fetcher_test.cc",
+    "time_skew_resolver_impl_test.cc",
+  ]
+}

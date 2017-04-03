@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="de">
+<translation id="1974060860693918893">Erweitert</translation>
+<translation id="3462200631372590220">Erweiterte verbergen</translation>
+<translation id="3369192424181595722">Uhrfehler</translation>
+<translation id="2625385379895617796">Ihre Uhr geht vor</translation>
+<translation id="8932102934695377596">Ihre Uhr geht nach</translation>
+<translation id="3858027520442213535">Aktualisieren Sie Datum und Uhrzeit</translation>
+<translation id="725866823122871198">Es kann keine private Verbindung zu <ph name="BEGIN_BOLD"/><ph name="DOMAIN"/><ph name="END_BOLD"/> hergestellt werden, weil das Datum und die Uhrzeit Ihres Computers (<ph name="DATE_AND_TIME"/>) falsch sind.</translation>
+<translation id="4879058462256654741">Um eine sichere Verbindung herzustellen, muss die Uhr richtig eingestellt sein, denn die von Websites zu ihrer Identifikation verwendeten Zertifikate gelten nur für bestimmte Zeitspannen. Da die Uhr Ihres Geräts falsch eingestellt ist, können diese Zertifikate nicht geprüft werden.</translation>
+<translation id="1413809658975081374">Datenschutzfehler</translation>
+<translation id="3566021033012934673">Ihre Verbindung ist nicht privat</translation>
+<translation id="340013220407300675">Angreifer könnten versuchen, Ihre Daten von <ph name="BEGIN_BOLD"/><ph name="SITE"/><ph name="END_BOLD"/> zu stehlen (beispielsweise Passwörter, Nachrichten oder Kreditkartennummern).</translation>
+<translation id="629137324635910832"><ph name="SITE"/> verwendet normalerweise Verschlüsselung zum Schutz Ihrer Daten. Als Opera dieses Mal versuchte, <ph name="SITE"/> aufzurufen, sendete die Website unübliche und falsche Identitätsinformationen zurück. Dies kann passieren, wenn ein Angreifer versucht, sich als <ph name="SITE"/> auszugeben; oder ein WLAN-Anmeldebildschirm hat die Verbindung unterbrochen. Ihre Daten sind jedoch sicher, da Opera die Verbindung vor einem Datenaustausch gestoppt hat.</translation>
+<translation id="4404555778932203074">Sie können <ph name="SITE"/> im Moment nicht besuchen, weil die Website verschlüsselte Anmeldeinformationen gesendet hat, die von Opera nicht verarbeitet werden können. Netzwerkfehler und -angriffe sind gewöhnlich vorübergehend. Daher wird die Seite wahrscheinlich später wieder funktionieren.</translation>
+<translation id="8882627153668738693"><ph name="SITE"/> verwendet normalerweise Verschlüsselung zum Schutz Ihrer Daten. Als Avast SafeZone dieses Mal versuchte, <ph name="SITE"/> aufzurufen, sendete die Website unübliche und falsche Identitätsinformationen zurück. Dies kann passieren, wenn ein Angreifer versucht, sich als <ph name="SITE"/> auszugeben; oder ein WLAN-Anmeldebildschirm hat die Verbindung unterbrochen. Ihre Daten sind jedoch sicher, da Avast SafeZone die Verbindung vor einem Datenaustausch gestoppt hat.</translation>
+<translation id="1888865191717601957">Sie können <ph name="SITE"/> im Moment nicht besuchen, weil die Website verschlüsselte Anmeldeinformationen gesendet hat, die von Avast SafeZone nicht verarbeitet werden können. Netzwerkfehler und -angriffe sind gewöhnlich vorübergehend. Daher wird die Seite wahrscheinlich später wieder funktionieren.</translation>
+<translation id="6264485186158353794">Zurück zu sicherer Seite</translation>
+<translation id="7704050614460855821"><ph name="BEGIN_LINK"/>Weiter zu <ph name="SITE"/> (unsicher)<ph name="END_LINK"/></translation>
+<translation id="5556459405103347317">Neu laden</translation>
+<translation id="6051221802930200923">Sie können <ph name="SITE"/> im Moment nicht besuchen, weil die Website CA-Pinning verwendet. Netzwerkfehler und -angriffe sind gewöhnlich vorübergehend. Daher wird die Seite wahrscheinlich später wieder funktionieren.</translation>
+<translation id="2991571918955627853">Sie können <ph name="SITE"/> im Moment nicht besuchen, weil die Website HSTS verwendet. Netzwerkfehler und -angriffe sind gewöhnlich vorübergehend. Daher wird die Seite wahrscheinlich später wieder funktionieren.</translation>
+<translation id="1430489501396597835">Sie können <ph name="SITE"/> im Moment nicht besuchen, weil dieses Zertifikat widerrufen wurde. Netzwerkfehler und -angriffe sind gewöhnlich vorübergehend. Daher wird die Seite wahrscheinlich später wieder funktionieren.</translation>
+<translation id="4513896196857653318">Gehen Sie
+          zum Hauptmenü &gt;
+          <ph name="SETTINGS_TITLE"/>
+          &gt;
+          <ph name="ADVANCED_TITLE"/>
+          und deaktivieren Sie »<ph name="NO_PREFETCH_DESCRIPTION"/>«.
+          Wenn das Problem dadurch nicht gelöst wird, empfehlen wir, die Option
+          wegen der besseren Leistung wieder zu aktivieren.</translation>
+<translation id="8888594059056485523">Erlauben Sie Opera den Netzwerkzugriff in den Firewall- oder Antivirus-Einstellungen.</translation>
+<translation id="8040357206858000048">Wählen Sie Anwendungen &gt; Systemeinstellungen &gt; Netzwerk &gt; Erweitert -&gt; Proxys und heben Sie die Auswahl für alle ausgewählte Proxys auf.</translation>
+<translation id="1532685482177999023">Rufen Sie das Hauptmenü und dann &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; LAN-Einstellungen auf. Deaktivieren Sie »Proxyserver für LAN verwenden«.</translation>
+<translation id="6118049677165320383">Ihre Änderungen werden wirksam, sobald Sie den Browser neu starten.</translation>
+<translation id="5510583790312051907">Die Absturzberichterstellung ist deaktiviert.</translation>
+<translation id="1011013207380005827">Opera wird durch das quelloffene <ph name="BEGIN_LINK_CHROMIUM"/>Chromium<ph name="END_LINK_CHROMIUM"/>-Projekt und andere <ph name="BEGIN_LINK_OSS"/>quelloffene Software<ph name="END_LINK_OSS"/> ermöglicht.</translation>
+<translation id="3108493547597012279">Die angezeigte Seite ist sicher.</translation>
+<translation id="8530361534096361731">Opera wurde nicht korrekt geschlossen.</translation>
+</translationbundle>

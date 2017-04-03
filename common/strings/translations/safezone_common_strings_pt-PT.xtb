@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="pt-PT">
+<translation id="3929428121849375048">Avast SafeZone</translation>
+<translation id="806546331937022936">Avast</translation>
+<translation id="3609966143444339170">O Avast aconselha fortemente que não visite esta página.</translation>
+<translation id="4206706288435313269">Centro de notificações do Avast SafeZone</translation>
+<translation id="254978580676301713">SafeZone - notificações</translation>
+<translation id="8084325208922689406">SafeZone - notificações (<ph name="QUANTITY"/> não lidas)</translation>
+<translation id="678670207776683961">SafeZone - Notificações</translation>
+<translation id="191361968702850015">SafeZone - Notificações (<ph name="QUANTITY"/> não lidas)</translation>
+<translation id="1359674843509087498">O sítio está a utilizar configurações de segurança desactualizadas que podem impedir que futuras versões do SafeZone possam aceder em segurança.</translation>
+<translation id="3485921796584936414">Permitir que o SafeZone aceda à rede nas suas configurações de firewall ou antivirus.</translation>
+<translation id="7041993155087650094">Vá ao menu SafeZone &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; Configurações LAN e remova a selecção "Utilizar um servidor proxy para a sua LAN".</translation>
+<translation id="5366394231680131980">As suas alterações terão efeito quando reiniciar o SafeZone.</translation>
+<translation id="6964843943881946410">Para ver as palavras-passe guardadas pelo SafeZone, por favor insira a palavra-passe do seu computador.</translation>
+</translationbundle>

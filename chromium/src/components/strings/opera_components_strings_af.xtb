@@ -1,0 +1,376 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="af">
+<translation id="113188000913989374"><ph name="SITE"/> sê:</translation>
+<translation id="5544037170328430102">'n Geïntegreerde bladsy by <ph name="SITE"/> sê:</translation>
+<translation id="8866959479196209191">Hierdie bladsy sê:</translation>
+<translation id="7424977062513257142">'n Geïntegreerde bladsy op hierdie webblad sê:</translation>
+<translation id="333371639341676808">Verhoed hierdie bladsy om addisionele dialoë te skep.</translation>
+<translation id="5622887735448669177">Wil jy hierdie werf verlaat?</translation>
+<translation id="425582637250725228">Veranderinge wat jy gemaak het, kan dalk nie gestoor word nie.</translation>
+<translation id="2677748264148917807">Verlaat</translation>
+<translation id="662080504995468778">Bly</translation>
+<translation id="3032412215588512954">Wil jy hierdie werf herlaai?</translation>
+<translation id="5556459405103347317">Herlaai</translation>
+<translation id="2889159643044928134">Moenie herlaai nie</translation>
+<translation id="2835170189407361413">Maak vorm leeg</translation>
+<translation id="935608979562296692">MAAK VORM SKOON</translation>
+<translation id="5029568752722684782">Vee kopie uit</translation>
+<translation id="2455981314101692989">Hierdie webbladsy het die outomatiese invul van hierdie vorm gedeaktiveer.</translation>
+<translation id="7542995811387359312">Outomatiese kredietkaart-invul is gedeaktiveer want hierdie vorm gebruik nie 'n beveiligde verbinding nie.</translation>
+<translation id="8483780878231876732">Om kaarte van jou Google-rekening te gebruik, teken in by Chrome</translation>
+<translation id="7813600968533626083">Verwyder vormvoorstelle van Chrome?</translation>
+<translation id="7569952961197462199">Verwyder kredietkaarte van Chrome?</translation>
+<translation id="4587425331216688090">Verwyder adres van Chrome?</translation>
+<translation id="6671697161687535275">Verwyder vormvoorstel van Chromium?</translation>
+<translation id="7637571805876720304">Verwyder kredietkaart van Chromium?</translation>
+<translation id="6218753634732582820">Verwyder adres van Chromium?</translation>
+<translation id="4148925816941278100">American Express</translation>
+<translation id="1734864079702812349">Amex</translation>
+<translation id="933712198907837967">Diners Club</translation>
+<translation id="3169472444629675720">Discover</translation>
+<translation id="6008256403891681546">JCB</translation>
+<translation id="3450660100078934250">Mastercard</translation>
+<translation id="7012363358306927923">China UnionPay</translation>
+<translation id="719464814642662924">Visa</translation>
+<translation id="2113977810652731515">Kaart</translation>
+<translation id="4668929960204016307">, </translation>
+<translation id="5089810972385038852">Deelstaat</translation>
+<translation id="6839929833149231406">Area</translation>
+<translation id="7087282848513945231">Couty</translation>
+<translation id="2096368010154057602">Afdeling</translation>
+<translation id="6970216967273061347">Distrik</translation>
+<translation id="7139724024395191329">Emiraat</translation>
+<translation id="3174168572213147020">Eiland</translation>
+<translation id="3885155851504623709">Gemeente</translation>
+<translation id="777702478322588152">Prefektuur</translation>
+<translation id="5095208057601539847">Provinsie</translation>
+<translation id="2053553514270667976">Poskode</translation>
+<translation id="6282194474023008486">Poskode</translation>
+<translation id="6445051938772793705">Land</translation>
+<translation id="8804164990146287819">Privaatheidbeleid</translation>
+<translation id="1132774398110320017">Chrome se outovul-instellings...</translation>
+<translation id="1344588688991793829">Chromium se outovul-instellings...</translation>
+<translation id="3340978935015468852">instellings</translation>
+<translation id="8530504477309582336">Hierdie tipe kaart werk nie met Google Payments nie. Kies 'n ander kaart.</translation>
+<translation id="59107663811261420">Hierdie tipe kaart werk nie met Google Payments vir hierdie verkoper nie. Kies 'n ander kaart.</translation>
+<translation id="8834246243508017242">Aktiveer Outovul using Contacts…</translation>
+<translation id="2498091847651709837">Skandeer nuwe kaart</translation>
+<translation id="3542684924769048008">Gebruik wagwoord vir:</translation>
+<translation id="5786044859038896871">Wil jy jou kaartinligting invul?</translation>
+<translation id="5803412860119678065">Wil jy jou <ph name="CARD_DETAIL"/> invul?</translation>
+<translation id="2463739503403862330">Vul in</translation>
+<translation id="5317780077021120954">Stoor</translation>
+<translation id="1629803312968146339">Wil jy hê dat Chrome hierdie kaart stoor?</translation>
+<translation id="4169947484918424451">Wil jy hê dat Chromium hierdie kaart stoor?</translation>
+<translation id="8931333241327730545">Wil jy hierdie kaart na jou Google-rekening stoor?</translation>
+<translation id="7578104083680115302">Betaal vinnig op webwerwe en toepassings regoor toestelle deur kaarte te gebruik wat jy op Google gestoor het.</translation>
+<translation id="7613889955535752492">Verval: <ph name="EXPIRATION_MONTH"/>/<ph name="EXPIRATION_YEAR"/></translation>
+<translation id="7887683347370398519">Kontroleer jou CVC en probeer weer</translation>
+<translation id="4800132727771399293">Kontroleer jou vervaldatum en CVC en probeer weer</translation>
+<translation id="3063697135517575841">Chrome was nie in staat om tans jou kaart te bevestig nie. Probeer asseblief later weer.</translation>
+<translation id="2704951214193499422">Chromium was nie in staat om tans jou kaart te verifieer nie. Probeer asseblief later weer.</translation>
+<translation id="5784606427469807560">Daar was 'n probleem met die bevestiging van jou kaart. Kontroleer jou internetverbinding en probeer weer.</translation>
+<translation id="323107829343500871">Voer die CVC vir <ph name="CREDIT_CARD"/> in</translation>
+<translation id="962701380617707048">Voer die vervaldatum en CVC in vir <ph name="CREDIT_CARD"/> om jou kaartbesonderhede by te werk</translation>
+<translation id="8877192140621905067">Sodra jy bevestig, sal jou kaartbesonderhede met hierdie webwerf gedeel word</translation>
+<translation id="7390545607259442187">Bevestig kaart</translation>
+<translation id="3008447029300691911">Voer die CVC vir <ph name="CREDIT_CARD"/> in. Sodra jy bevestig, sal jou kaartbesonderhede met hierdie webwerf gedeel word.</translation>
+<translation id="724975217298816891">Voer die vervaldatum en CVC vir <ph name="CREDIT_CARD"/> in om jou kaartbesonderhede by te werk. Sodra jy bevestig, sal jou kaartbesonderhede met hierdie webwerf gedeel word.</translation>
+<translation id="3539171420378717834">Hou 'n kopie van hierdie kaart op hierdie toestel</translation>
+<translation id="1107591249535594099">Indien gemerk, sal Chrome 'n kopie van jou kaart op hierdie toestel berg vir vinniger vorminvulling.</translation>
+<translation id="2495093607237746763">Indien gemerk, sal Chromium 'n kopie van jou kaart op hierdie toestel berg vir vinniger vorminvulling.</translation>
+<translation id="5002932099480077015">Indien geaktiveer, sal Chrome 'n kopie van jou kaart op hierdie toestel berg vir vinniger vorminvulling.</translation>
+<translation id="2985306909656435243">Indien geaktiveer, sal Chromium 'n kopie van jou kaart op hierdie toestel berg vir vinniger vorminvulling.</translation>
+<translation id="8131740175452115882">Bevestig</translation>
+<translation id="7469372306589899959">Bevestig tans kaart</translation>
+<translation id="6895330447102777224">Jou kaart is bevestig</translation>
+<translation id="3901925938762663762">Die kaart het verval</translation>
+<translation id="7378810950367401542">/</translation>
+<translation id="230155334948463882">Nuwe kaart?</translation>
+<translation id="6820686453637990663">CVC</translation>
+<translation id="8349305172487531364">Boekmerkebalk</translation>
+<translation id="5190835502935405962">Boekmerkbalk</translation>
+<translation id="106701514854093668">Werkskerm-boekmerke</translation>
+<translation id="2985817184168264963">Ongesorteerde boekmerke</translation>
+<translation id="7365825044069934695">My vouers</translation>
+<translation id="2873951654529031587">Gemors</translation>
+<translation id="7956713633345437162">Mobiele boekmerke</translation>
+<translation id="2354001756790975382">Ander boekmerke</translation>
+<translation id="6263376278284652872"><ph name="DOMAIN"/> boekmerke</translation>
+<translation id="5509780412636533143">Bestuurde boekmerke</translation>
+<translation id="4300246636397505754">Ouer-voorstelle</translation>
+<translation id="213826338245044447">Mobiele boekmerke</translation>
+<translation id="883848425547221593">Ander boekmerke</translation>
+<translation id="1962204205936693436"><ph name="DOMAIN"/> boekmerke</translation>
+<translation id="7275334191706090484">Bestuurde boekmerke</translation>
+<translation id="5872918882028971132">Ouer-voorstelle</translation>
+<translation id="1181037720776840403">Verwyder</translation>
+<translation id="939736085109172342">Nuwe lêergids</translation>
+<translation id="2149973817440762519">Redigeer Boekmerk</translation>
+<translation id="5327248766486351172">Naam</translation>
+<translation id="7400418766976504921">URL</translation>
+<translation id="1254117744268754948">Kies lêergids</translation>
+<translation id="8293206222192510085">Voeg boekmerk by</translation>
+<translation id="5857090052475505287">Nuwe lêergids</translation>
+<translation id="6656103420185847513">Redigeer Lêergids</translation>
+<translation id="7912024687060120840">In lêergids:</translation>
+<translation id="3527085408025491307">Vouer</translation>
+<translation id="3254409185687681395">Boekmerk hierdie bladsy</translation>
+<translation id="8428213095426709021">Instellings</translation>
+<translation id="5801568494490449797">Voorkeure</translation>
+<translation id="765676359832457558">Versteek gevorderde instellings...</translation>
+<translation id="2415454585822379970">Wys gevorderde instellings</translation>
+<translation id="6989763994942163495">Wys gevorderde instellings...</translation>
+<translation id="5737306429639033676">Voorspel netwerkaksies om bladsylaai-werkverrigting te verbeter</translation>
+<translation id="9038649477754266430">Gebruik 'n voorspellingsdiens om blaaie vinniger te laai</translation>
+<translation id="3355823806454867987">Wysig instaaninstellings...</translation>
+<translation id="7823073559911777904">Wysig instaaninstellings...</translation>
+<translation id="4231205248927312226">Bevestig hervoorlewering van vorm</translation>
+<translation id="6451458296329894277">Bevestig hervoorlewering van Vorm</translation>
+<translation id="8241707690549784388">Die bladsy waarvoor jy soek, het inligting gebruik wat jy ingevoer het. Om na daardie bladsy terug te keeer kan veroorsaak dat enige aksie herhaal sal word wat jy geneem het. Wil jy voortgaan?</translation>
+<translation id="2359808026110333948">Gaan voort</translation>
+<translation id="4522570452068850558">Details</translation>
+<translation id="3586931643579894722">Versteek details</translation>
+<translation id="8962083179518285172">Versteek details</translation>
+<translation id="6042308850641462728">Meer</translation>
+<translation id="2089090684895656482">Minder</translation>
+<translation id="3005723025932146533">Wys gestoorde kopie</translation>
+<translation id="1506687042165942984">Wys 'n gestoorde (bv. wat bekend is om verouderd te wees) kopie van hierdie bladsy.</translation>
+<translation id="3447661539832366887">Die eienaar van hierdie toestel het die dinosourus-speletjie afgeskakel.</translation>
+<translation id="1152921474424827756">Kry toegang tot 'n <ph name="BEGIN_LINK"/>kaskopie<ph name="END_LINK"/> van <ph name="URL"/></translation>
+<translation id="2030481566774242610">Bedoel jy dalk <ph name="LINK"/>?</translation>
+<translation id="194030505837763158">Gaan na <ph name="LINK"/></translation>
+<translation id="3226128629678568754">Druk die herlaaiknoppie om die data weer te lewer wat nodig is om die bladsy te herlaai.</translation>
+<translation id="3155309969919037916">Kontroleer jou internetverbinding.</translation>
+<translation id="6203231073485539293">Kontroleer jou internetverbinding</translation>
+<translation id="1519957265434608160">Kontroleer enige kabels en herbegin enige roeteerders, modems of ander netwerktoestelle wat jy moontlik gebruik.</translation>
+<translation id="6146055958333702838">Kontroleer enige kabels en herbegin enige roeteerders, modems of ander netwerk
+   toestelle wat jy moontlik gebruik.</translation>
+<translation id="2319236583141234177">Kontroleer jou DNS-instellings.</translation>
+<translation id="6321917430147971392">Kontroleer jou DNS-instellings</translation>
+<translation id="8289355894181816810">Kontak jou netwerkadministreerder as jy nie seker is wat dit beteken nie.</translation>
+<translation id="5573959367212558217">Probeer netwerkvoorstelle te deaktiveer.</translation>
+<translation id="6328639280570009161">Probeer netwerkvoorstelle te deaktiveer</translation>
+<translation id="3630155396527302611">Indien dit reeds gelys is as program wat toegang tot die netwerk het, probeer
+     om dit van die lys te verwyder en weer by te voeg.</translation>
+<translation id="382518646247711829">Indien jy 'n volmagbediener gebruik...</translation>
+<translation id="8454634452929957533">Kontroleer jou instaaninstellings of kontak jou netwerkadministrateur om seker te maak dat die instaanbediener werk. As jy dink dat jy nie 'n instaanbediener moet gebruik nie: <ph name="PLATFORM_TEXT"/></translation>
+<translation id="3176929007561373547">Kontroleer jou instaaninstellings of kontak jou netwerkadministrateur
+     om seker te maak dat die instaanbediener werk. As jy dink dat jy
+     nie 'n instaanbediener moet gebruik nie:
+     <ph name="PLATFORM_TEXT"/></translation>
+<translation id="2948083400971632585">Jy kan enige instaankonfigurasies vir 'n verbinding vanaf die instelingsbladsy versper.</translation>
+<translation id="5023310440958281426">Kontroleer jou administrateur se beleide</translation>
+<translation id="4103763322291513355">Besoek &lt;strong&gt;chrome://policy&lt;/strong&gt; om die lys van swartly URL'e en ander beleide te sien wat deur jou stelseladministrateur toegepas is.</translation>
+<translation id="1645368109819982629">Ongeondersteunde protokol</translation>
+<translation id="4075732493274867456">Die kliënt en bediener ondersteun nie 'n algemene SSL-protokolweergawe- of geheimskrifstel nie.</translation>
+<translation id="5869405914158311789">Hierdie werf kan nie bereik word nie</translation>
+<translation id="2292556288342944218">Jou internettoegang is geblok</translation>
+<translation id="933612690413056017">Daar is geen internetverbinding nie</translation>
+<translation id="3093245981617870298">Jy is vanlyn.</translation>
+<translation id="7716424297397655342">Hierdie werf kan nie vanaf die kasgeheue gelaai word nie</translation>
+<translation id="4708268264240856090">Jou verbinding is onderbreek</translation>
+<translation id="5452270690849572955">Hierdie <ph name="HOST_NAME"/> -bladsy kan nie gevind word nie</translation>
+<translation id="5431657950005405462">Jou lêer is nie gevind nie</translation>
+<translation id="7269802741830436641">Hierdie webbladsy het 'n aanstuurlus</translation>
+<translation id="778579833039460630">Geen data ontvang nie</translation>
+<translation id="3973234410852337861"><ph name="HOST_NAME"/> is geblokkeer</translation>
+<translation id="4764776831041365478">Die webbladsy by <ph name="URL"/> kan moontlik tydelik onbeskikbaar wees of dit kan moontlik permanent verskuif het na 'n nuwe webadres.</translation>
+<translation id="8498891568109133222"><ph name="HOST_NAME"/> het te lank geneem om te reageer.</translation>
+<translation id="2784949926578158345">Die koppeling was teruggestel.</translation>
+<translation id="1158211211994409885"><ph name="HOST_NAME"/> het onverwags die koppeling gesluit.</translation>
+<translation id="3422472998109090673"><ph name="HOST_NAME"/> is tans onbereikbaar.</translation>
+<translation id="2909946352844186028">'n Netwerkverandering was bespeur.</translation>
+<translation id="6433595998831338502"><ph name="HOST_NAME"/> het geweier om te verbind.</translation>
+<translation id="8134994873729925007"><ph name="HOST_NAME"/>se bediener <ph name="BEGIN_ABBR"/>DNS-adres<ph name="END_ABBR"/> kon nie gevind word nie.</translation>
+<translation id="4021036232240155012">DNS is die netwerkdiens wat 'n webwerf se naam na sy intenetadres vertaal.</translation>
+<translation id="5492298309214877701">Hierdie werf op die maatskappy, organisasie of skoolintranet het dieselfde URL as 'n eksterne webwerf.
+   <ph name="LINE_BREAK"/>
+   Probeer om jou stelseladministrateur te kontak.</translation>
+<translation id="6305205051461490394"><ph name="URL"/> is onbereikbaar.</translation>
+<translation id="8150722005171944719">Die lêer by <ph name="URL"/> is nie leesbaar nie. Dit is dalk verwyder of verskuif, of toegang word dalk deur lêertoestemmings verhoed.</translation>
+<translation id="7758069387465995638">Brandmuur of antivirus-sagteware het dalk die verbinding geblokkeer.</translation>
+<translation id="6711464428925977395">Daar is iets fout met die volmagbediener, of die adres is inkorrek.</translation>
+<translation id="2705137772291741111">Die gestoorde (kasgeheue) kopie van hierdie werf is onleesbaar.</translation>
+<translation id="6757797048963528358">Jou toestel slaap tans.</translation>
+<translation id="8149426793427495338">Jou rekenaar slaap tans.</translation>
+<translation id="7518003948725431193">Geen webbladsy is gevind vir die webadres: <ph name="URL"/></translation>
+<translation id="5510766032865166053">Dit is dalk geskuif of geskrap.</translation>
+<translation id="5617949217645503996"><ph name="HOST_NAME"/> het jou te veel kere herlei.</translation>
+<translation id="139305205187523129"><ph name="HOST_NAME"/> het geen data gestuur nie.</translation>
+<translation id="255002559098805027"><ph name="HOST_NAME"/> het 'n ongeldige respons gestuur.</translation>
+<translation id="8740359287975076522"><ph name="HOST_NAME"/> se &lt;abbr ID:dnsDefinition"&gt;DNS-adres&lt;/abbr&gt; kon nie gevind word nie. Diagnoseer tans die probleem.</translation>
+<translation id="8332188693563227489">Toegang tot <ph name="HOST_NAME"/> is geweier</translation>
+<translation id="2650446666397867134">Toegang tot die lêer was geweier</translation>
+<translation id="3109728660330352905">Jy het geen magtiging om hierdie blad te bekyk nie.</translation>
+<translation id="9092364396508701805">Die <ph name="HOST_NAME"/>-bladsy werk nie</translation>
+<translation id="759889825892636187"><ph name="HOST_NAME"/> is tans nie in staat om hierdie versoek te hanteer nie.</translation>
+<translation id="6830600606572693159">Die webbladsy by <ph name="URL"/> is nie tans beskikbaar nie. Dit kan moontlik oorlaai wees of as gevolg van onderhoud niefunksioneel wees nie.</translation>
+<translation id="7210863904660874423"><ph name="HOST_NAME"/> voldoen nie aan sekuriteitstandaarde nie.</translation>
+<translation id="5228309736894624122">SSL-protokolfout.</translation>
+<translation id="2803407661478021186">'n SSLv3-terugval kon met die bediener bladskud, maar ons aanvaar nie meer SSLv3-terugvalle nie weens nuwe aanvalle teen die protokol. Die bediener moet bygewerk word om met ten minste TLS 1.0 en verkieslik TLS 1.2 te werk.</translation>
+<translation id="5900623698597156974">'n TLS 1.0-terugval was in staat om met die bedieners hand te skud, maar ons aanvaar nie meer TLS 1.0-terugvalle nie. Die bediener moet bygewerk word om korrek weergawe-onderhandeling te implementeer en moet verkieslik TLS 1.2 ondersteun.</translation>
+<translation id="9183425211371246419"><ph name="HOST_NAME"/> gebruik 'n protokol wat nie ondersteun word nie.</translation>
+<translation id="5283991396172801811">Die blaaier en bediener kan nie ooreenkom oor watter TLS-weergawe en versyfer-suite om te gebruik nie. Die rede kan wees dat die bediener net ou protokols ondersteun, bv net SSL weergawe 3.</translation>
+<translation id="284702764277384724">Die bedienersertifikaat by <ph name="HOST_NAME"/> bleik 'n vervalsing te wees.</translation>
+<translation id="2166378884831602661">Hierdie werf kan nie 'n veilige verbinding verskaf nie</translation>
+<translation id="1911837502049945214"><ph name="HOST_NAME"/> het nie jou aanmeldsertifikaat aanvaar nie, of jou aanmeldsertifikaat het dalk verval.</translation>
+<translation id="5990559369517809815">Versoeke aan die bediener is deur 'n uitbreiding geblokkeer.</translation>
+<translation id="8225771182978767009">Die persoon wat hierdie rekenaar opgestel het, het gekies om hierdie werf te blokkeer.</translation>
+<translation id="8315720913203253727">Die webbladsy vereis data wat jy vroeër ingevoer het om behoorlik te vertoon. Jy kan hierdie data weer stuu maar as jy dit doen sal jy enige aksies wat hierdie bladsy voorheen uitgevoer het herhaal. Druk Herlaai om daardie data weer te stuur en hierdie bladsy te vertoon.</translation>
+<translation id="7549584377607005141">Hierdie webbladsy vereis data wat jy vroeër ingevoer het om behoorlik te vertoon. Jy kan hierdie data weer stuur, maar as jy dit doen sal jy enige aksies wat hierdie bladsy voorheen uitgevoer het, herhaal.</translation>
+<translation id="614940544461990577">Probeer:</translation>
+<translation id="5610142619324316209">Kontroleer tans die verbinding</translation>
+<translation id="3717027428350673159"><ph name="BEGIN_LINK"/>Kontroleer tans die instaan, brandmuur en DNS-konfigurasie<ph name="END_LINK"/></translation>
+<translation id="4203896806696719780"><ph name="BEGIN_LINK"/>Kontroleer tans brandmuur en anti-viruskonfigurasies<ph name="END_LINK"/></translation>
+<translation id="2032962459168915086"><ph name="BEGIN_LINK"/>Kontroleer tans die instaan en die brandmuur<ph name="END_LINK"/></translation>
+<translation id="5070335125961472645"><ph name="BEGIN_LINK"/>Kontroleer tans die instaanadres<ph name="END_LINK"/></translation>
+<translation id="4506599922270137252">Kontak tans die stelseladmin</translation>
+<translation id="1734878702283171397">Probeer om die stelseladmin te kontak.</translation>
+<translation id="7451311239929941790"><ph name="BEGIN_LINK"/>Kom meer te wete<ph name="END_LINK"/> oor hierdie probleem.</translation>
+<translation id="721197778055552897"><ph name="BEGIN_LINK"/>Kom meer te wete<ph name="END_LINK"/> oor hierdie probleem.</translation>
+<translation id="129863573139666797"><ph name="BEGIN_LINK"/>Probeer om jou koekies leeg te maak<ph name="END_LINK"/></translation>
+<translation id="8363502534493474904">Skakel tans vliegtuigmodus af</translation>
+<translation id="3714780639079136834">Skakel tans mobiele data of Wi‑Fi aan</translation>
+<translation id="2515629240566999685">Kontroleer tans die sein in jou area</translation>
+<translation id="4130226655945681476">Kontroleer tans die netwerkkabel, modem en roeteerder</translation>
+<translation id="1161325031994447685">Herverbind met Wi-Fi</translation>
+<translation id="2230458221926704099">Herstel jou verbinding deur die <ph name="BEGIN_LINK"/>diagnostiek-toepassing<ph name="END_LINK"/> te gebruik</translation>
+<translation id="6685834062052613830">Teken uit en voltooi opstelling</translation>
+<translation id="4558551763791394412">Probeer om jou uitbreidings te deaktiveer.</translation>
+<translation id="7090678807593890770">Soek op Google vir <ph name="LINK"/></translation>
+<translation id="2467694685043708798"><ph name="BEGIN_LINK"/>Loop tans netwerkdiagnostieke<ph name="END_LINK"/></translation>
+<translation id="4226937834893929579"><ph name="BEGIN_LINK"/>Probeer om netwerkdiagnostieke te loop<ph name="END_LINK"/>.</translation>
+<translation id="4722547256916164131"><ph name="BEGIN_LINK"/>Loop tans Windows-netwerkdiagnostieke<ph name="END_LINK"/></translation>
+<translation id="1768211456781949159"><ph name="BEGIN_LINK"/>Probeer om Windows-netwerkdiagnostieke te loop<ph name="END_LINK"/>.</translation>
+<translation id="2730326759066348565"><ph name="BEGIN_LINK"/>Loop tans verbindingsdiagnostieke<ph name="END_LINK"/></translation>
+<translation id="31207688938192855"><ph name="BEGIN_LINK"/>Probeer om verbindingsdiagnostieke te loop<ph name="END_LINK"/>.</translation>
+<translation id="7793809570500803535">Die webbladsy by <ph name="SITE"/> kan moontlik tydelik onbeskikbaar wees of dit kan moontlik permanent verskuif het na 'n nuwe webadres.</translation>
+<translation id="6060685159320643512">Wees versigtig, hierdie eksperimente mag moontlik probleme veroorsaak</translation>
+<translation id="5199729219167945352">Eksperimente</translation>
+<translation id="404928562651467259">WAARSKUWING</translation>
+<translation id="3648607100222897006">Hierdie eksperimentele kenmerke kan dalk enige tyd verander, breek of verdwyn. Ons maak absoluut geen waarborge oor wat dalk kan gebeur as jy een van hierdie eksperimente aanskakel nie, en jou blaaier kan dalk spontaan uitbrand. Alle grappe op 'n stokkie, jou blaaier kan dalk al jou data skrap, of jou sekuriteit en privaatheid kan dalk op onverwagse maniere in gedrang wees. Enige eksperimente wat jy aktiveer, sal vir alle gebruikers van hierdie blaaier geaktiveer wees. Gaan asseblief versigtig voort.</translation>
+<translation id="6387478394221739770">Geïnteresseerd in opwindende nuwe Chrome-kenmerke? Probeer ons beta-kanaal by chrome.com/beta.</translation>
+<translation id="7674629440242451245">Geïnteresseerd in opwindende nuwe Chrome-kenmerke? Probeer ons dev-kanaal by chrome.com/dev.</translation>
+<translation id="4394049700291259645">Deaktiveer</translation>
+<translation id="3435896845095436175">Aktiveer</translation>
+<translation id="8647750283161643317">Herstel alles na verstek</translation>
+<translation id="2282872951544483773">Niebeskikbare eksperimente</translation>
+<translation id="889901481107108152">Jammer, hierdie eksperiment is nie op jou platform beskikbaar nie.</translation>
+<translation id="2128531968068887769">Oorspronklike kliënt</translation>
+<translation id="7179921470347911571">Herlaai nou</translation>
+<translation id="3286538390144397061">Herbegin nou</translation>
+<translation id="901974403500617787">Vlaggies wat oor die stelsel van toepassing is, kan slegs deur die eienaar gestel word: <ph name="OWNER_EMAIL"/>.</translation>
+<translation id="604124094241169006">Outomaties</translation>
+<translation id="8798099450830957504">Verstek</translation>
+<translation id="59174027418879706">Geaktiveer</translation>
+<translation id="4176463684765177261">Gedeaktiveer</translation>
+<translation id="2516305470678292029">UI-alternatiewe</translation>
+<translation id="237718015863234333">Geen UI-alternatiewe beskikbaar nie</translation>
+<translation id="2905347027687583044">Teken asseblief in</translation>
+<translation id="5388588172257446328">Gebruikernaam:</translation>
+<translation id="3693415264595406141">Wagwoord:</translation>
+<translation id="8286036467436129157">Teken in</translation>
+<translation id="4013794286379809233">Teken asseblief in</translation>
+<translation id="3950820424414687140">Teken in</translation>
+<translation id="2065985942032347596">Stawing word vereis</translation>
+<translation id="2317259163369394535"><ph name="DOMAIN"/> vereis 'n gebruikersnaam en wagwoord.</translation>
+<translation id="9001074447101275817">Die instaan <ph name="DOMAIN"/> vereis 'n gebruikersnaam en wagwoord.</translation>
+<translation id="4381091992796011497">Gebruikersnaam:</translation>
+<translation id="4304224509867189079">Meld aan</translation>
+<translation id="1232569758102978740">Ongetiteld</translation>
+<translation id="4325510092712699937">Bladsy het ineengestort</translation>
+<translation id="3638100076508518786">Ongelukkig het iets die bladsy veroorsaak om te beëindig. Dit kon 'n uitbreidingskonflik of 'n ander rede gewees het.</translation>
+<translation id="7283651035050528610">Probeer om die bladsy te herlaai of navigeer na 'n ander bladsy om voort te gaan.</translation>
+<translation id="1713401550786096559">Meer oor hierdie fout</translation>
+<translation id="7221869452894271364">Herlaai hierdie bladsy</translation>
+<translation id="8053390638574070785">Herlaai hierdie bladsy</translation>
+<translation id="3037605927509011580">Ah, snap!</translation>
+<translation id="1583429793053364125">Iets het verkeerd geloop terwyl hierdie webblad vertoon word.</translation>
+<translation id="2900469785430194048">Google Chrome se geheue is op tydens poging om hierdie webbladsy te vertoon.</translation>
+<translation id="6389758589412724634">Chromium se geheue is op tydens poging om hierdie webbladsy te vertoon.</translation>
+<translation id="3655670868607891010">Indien jy hierdie gereeld sien, probeer hierdie <ph name="HELP_LINK"/>.</translation>
+<translation id="1374468813861204354">voorstelle</translation>
+<translation id="7554791636758816595">Nuwe oortjie</translation>
+<translation id="8728672262656704056">Jy het anoniem geraak</translation>
+<translation id="3167968892399408617">Bladsye wat jy in anonieme oortjies bekyk, sal nie in jou blaaier se geskiedenis, koekiewinkel, of soekgeskiedenis agterbly nadat jy al jou anonieme oortjies toegemaak het nie. Enige lêers wat jy aflaai of boekmerke wat jy skep, sal behoue bly.</translation>
+<translation id="6165508094623778733">Kom meer te wete</translation>
+<translation id="785549533363645510">Tog, jy is nie onsigbaar nie. Deur anoniem te wees, versteek nie jou blaaiery van jou werkgewer, jou internetdiensverskaffer of die webwerwe wat jy besoek weg nie.</translation>
+<translation id="2079545284768500474">Maak ongedaan</translation>
+<translation id="2597378329261239068">Hierdie dokument word deur 'n wagwoord beskerm. Voer asseblief 'n wagwoord in.</translation>
+<translation id="2653659639078652383">Dien in</translation>
+<translation id="5045550434625856497">Inkorrekte wagwoord</translation>
+<translation id="370665806235115550">Laai tans...</translation>
+<translation id="3934680773876859118">Laai van PDF-dokument het misluk</translation>
+<translation id="8820817407110198400">Boekmerke</translation>
+<translation id="1032854598605920125">Roteer kloksgewys</translation>
+<translation id="7514365320538308">Laai af</translation>
+<translation id="1430915738399379752">Druk</translation>
+<translation id="4816492930507672669">Pas by bladsy</translation>
+<translation id="1080116354587839789">Pas by wydte</translation>
+<translation id="8903921497873541725">Zoem in</translation>
+<translation id="5975083100439434680">Zoem uit</translation>
+<translation id="1753706481035618306">Bladsynommer</translation>
+<translation id="6016158022840135739">{COUNT, plural,
+         =1 {Bladsy 1}
+         other {Bladsy #}}</translation>
+<translation id="2941952326391522266">Hierdie bediener kon nie bewys dat dit <ph name="DOMAIN"/> is nie; sy sekuriteitsertifikaat is van <ph name="DOMAIN2"/>. Dit kan weens 'n wanopstelling wees, maar dit kan ook 'n aanvaller wees wat u verbinding probeer onderskep.</translation>
+<translation id="7761701407923456692">Die bediener se sertifikaat pas nie by die URL nie.</translation>
+<translation id="1655462015569774233">{1, plural,
+     =1 {Hierdie bediener kon nie bewys dat dit <ph name="DOMAIN"/> is nie; sy sekuriteitsertifikaat het gister verstryk. Dit kan weens 'n wanopstelling wees, maar dit kan ook 'n aanvaller wees wat jou verbinding probeer onderskep. Jou rekenaar se horlosie is tans gestel tot <ph name="CURRENT_DATE"/>. Lyk dit reg? Indien nie moet jy jou stelsel se horlosie regstel en dan hierdie bladsy verfris.}
+     other {Hierdie bediener kon nie bewys dat dit <ph name="DOMAIN"/> is nie; sy sekuriteitsertifikaat het # dae gelede verstryk. Dit kan weens 'n wanopstelling wees, maar dit kan ook 'n aanvalleer wees wat jou verbinding probeer onderskep.Jou rekenaar se horlosie is tans gestel tot <ph name="CURRENT_DATE"/>. Lyk dit reg? Indien nie moet jy jou stelsel se horlosie regstel en dan hierdie bladsy verfris.}}</translation>
+<translation id="8971063699422889582">Die bediener se sertifikaat het verval.</translation>
+<translation id="1706954506755087368">{1, plural,
+     =1 {Hierdie bediener kon nie bewys dat dit <ph name="DOMAIN"/> is nie; sy sekuriteitsertifikaat is glo van môre af. Dit kan weens 'n wanopstelling wees, maar dit kan ook 'n aanvaller wees wat jou verbinding probeer onderskep.}
+    other {Hierdie bediener kon nie bewys dat dit <ph name="DOMAIN"/> is nie; sy sekuriteitsertifikaat is glo van # dae in die toekoms. Dit kan weens 'n wanopstelling wees, maar dit kan ook 'n aanvaller wees wat jou verbinding probeer onderskep.}}</translation>
+<translation id="7938958445268990899">Die bediener se sertifikaat is nog nie geldig nie.</translation>
+<translation id="540969355065856584">Hierdie bediener kon nie bewys dat dit <ph name="DOMAIN"/> is nie; sy sekuriteitsertifikaat is nie tans geldig nie. Dit kan weens 'n wanopstelling wees, maar dit kan ook 'n aanvaller wees wat u verbinding probeer onderskep.</translation>
+<translation id="5087286274860437796">Sertifikaat se bediener is nie tans geldig nie.</translation>
+<translation id="2915500479781995473">Hierdie bediener kon nie bewys dat dit <ph name="DOMAIN"/> is nie; sy sekuriteitsertifikaat het verstryk. Dit kan weens 'n wanopstelling wees, maar dit kan ook 'n aanvaller wees wat u verbinding probeer onderskep. Jou rekenaar se horlosie is tans gestel tot <ph name="CURRENT_TIME"/>. Lyk dit reg? Indien nie moet jy jou stelsel se horlosie regstel en die bladsy verfris.</translation>
+<translation id="229702904922032456">'n Wortel- of intermediêre sertifikaat het verstryk.</translation>
+<translation id="3528171143076753409">Die bediener se sertifikaat is nie betroubaar nie.</translation>
+<translation id="467662567472608290">Hierdie bediener kon nie bewys dat dit <ph name="DOMAIN"/> is nie; sy sekuriteitsertifikaat bevat foute. Dit kan weens 'n wanopstelling wees, maar dit kan ook 'n aanvaller wees wat u verbinding probeer onderskep.</translation>
+<translation id="2491120439723279231">Daar is fout met die bediener se sertifikaat.</translation>
+<translation id="2413528052993050574">Hierdie bediener kon nie bewys dat dit <ph name="DOMAIN"/> is nie; sy sekuriteitsertifikaat is moontlik ingetrek. Dit kan weens 'n wanopstelling wees, maar dit kan ook 'n aanvaller wees wat u verbinding probeer onderskep.</translation>
+<translation id="2922350208395188000">Kan nie die bediener se sertifikaat kontroleer nie.</translation>
+<translation id="884923133447025588">Geen herroepingsmeganisme is gevind nie.</translation>
+<translation id="4377125064752653719">Jy het probeer om <ph name="DOMAIN"/> te bereik, maar die sertifikaat wat die bediener aangebied het is deur die bediener herroep. Dit beteken dat die sekuriteitsmagtigingsbewyse wat deur die bediener verskaf is glad nie vertrou moet word nie. Dis moontlik dat jy met 'n aanvaller kommunikeer.</translation>
+<translation id="2386255080630008482">Die bediener se sertifikaat is herroep.</translation>
+<translation id="9049981332609050619">Jy het probeer om <ph name="DOMAIN"/> te bereik, maar die bediener het 'n ongeldige sertifikaat aangebied.</translation>
+<translation id="917450738466192189">Die bediener se sertifikaat is ongeldig.</translation>
+<translation id="2171101176734966184">Jy het probeer om <ph name="DOMAIN"/> te bereik, maar die bediener het 'n sertifikaat aangebied wat geteken is met gebruik van 'n swak merktekeningalgoritme. Dit beteken dat die sekuriteitsmagtigingsbewyse wat deur die bediener verskaf is moontlik vervals is en dat die bediener moontlik nie die bediener is wat jy verwag het nie (jy kommunikeer moontlik met 'n aanvaller).</translation>
+<translation id="2728127805433021124">Die bediener se sertifikaat is geteken deur 'n swak handtekeningsalgoritme.</translation>
+<translation id="121201262018556460">Jy het probeer om <ph name="DOMAIN"/> te bereik, maar die bediener het 'n sertifikaat aangebied wat 'n swak sleutel bevat. 'n Aanvaller kon moontlik die privaatheidsleutel gebreek het en die bediener is moontlik nie die bediener wat jy verwag het nie (jy kommunikeer moontlik met 'n aanvaller).</translation>
+<translation id="168841957122794586">Die bedienersertifikaat bevat 'n swak kriptografiese sleutel.</translation>
+<translation id="7567204685887185387">Hierdie bediener kon nie bewys dat dit <ph name="DOMAIN"/> is nie; sy sekuriteitsertifikaat is moontlik bedrieglik uitgereik. Dit kan weens 'n wanopstelling wees, maar dit kan ook 'n aanvaller wees wat u verbinding probeer onderskep.</translation>
+<translation id="7592362899630581445">Bediener se sertifikaat skend naambeperkings.</translation>
+<translation id="7050187094878475250">Jy het probeer om <ph name="DOMAIN"/> te bereik, maar die bediener het 'n sertifikaat gestuur waarvan die geldigheidtydperk te lank is om betroubaar te wees.</translation>
+<translation id="6151417162996330722">Die bedienersertifikaat het 'n geldigheidtydperk wat te lank is.</translation>
+<translation id="4771973620359291008">'n Onbekende fout het voorgekom.</translation>
+<translation id="674375294223700098">Onbekende bedienersertifikaatfout.</translation>
+<translation id="3225919329040284222">Die bediener het 'n sertifikaat aangebied wat nie pas by die ingeboude verwagtinge nie. Hierdie verwagtinge is ingesluit vir sekere hoë-sekuriteitwebwerwe om jou te beskerm.</translation>
+<translation id="6957887021205513506">Die bediener se sertifikaat bleik 'n vervalsing te wees.</translation>
+<translation id="4424024547088906515">Hierdie bediener kon nie bewys dat dit <ph name="DOMAIN"/> is nie; sy sekuriteitsertifikaat word nie deur Chrome vertrou nie. Dit kan weens 'n wanopstelling wees, maar dit kan ook 'n aanvaller wees wat jou verbinding probeer onderskep.</translation>
+<translation id="1763864636252898013">Hierdie bediener kon nie bewys dat dit <ph name="DOMAIN"/> is nie; sy sekuriteitsertifikaat word nie deur jou toestel se bedryfstelsel vertrou nie. Dit kan weens 'n wanopstelling wees, maar dit kan ook 'n aanvaller wees wat u verbinding probeer onderskep.</translation>
+<translation id="1150979032973867961">Hierdie bediener kon nie bewys dat dit <ph name="DOMAIN"/> is nie; sy sekuriteitsertifikaat word nie deur jou rekenaar se bedryfstelsel vertrou nie. Dit kan weens 'n wanopstelling wees, maar dit kan ook 'n aanvaller wees wat jou verbinding probeer onderskep.</translation>
+<translation id="5094747076828555589">Hierdie bediener kon nie bewys dat dit <ph name="DOMAIN"/> is nie; sy sekuriteitsertifikaat word nie deur Chromium vertrou nie. Dit kan weens 'n wanopstelling wees, maar dit kan ook 'n aanvaller wees wat jou verbinding probeer onderskep.</translation>
+<translation id="7658239707568436148">Kanselleer</translation>
+<translation id="6040143037577758943">Maak toe</translation>
+<translation id="8730621377337864115">Gedoen</translation>
+<translation id="6965382102122355670">Oukei</translation>
+<translation id="780301667611848630">Nee dankie</translation>
+<translation id="3479552764303398839">Nie nou nie</translation>
+<translation id="1008557486741366299">Nie nou nie</translation>
+<translation id="2896499918916051536">Hierdie inprop word nie ondersteun nie.</translation>
+<translation id="1175364870820465910">&amp;Druk...</translation>
+<translation id="129553762522093515">Onlangs toegemaak</translation>
+<translation id="8870413625673593573">Onlangs toegemaak</translation>
+<translation id="385051799172605136">Terug</translation>
+<translation id="7481312909269577407">Stuur aan</translation>
+<translation id="2824775600643448204">Adres- en soekbalk</translation>
+<translation id="2495083838625180221">JSON-ontleder</translation>
+<translation id="3157931365184549694">Herstel</translation>
+<translation id="7634554953375732414">Jou verbinding met hierdie webwerf is nie privaat nie.</translation>
+<translation id="5040262127954254034">Privaatheid</translation>
+</translationbundle>

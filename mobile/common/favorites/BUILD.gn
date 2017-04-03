@@ -1,0 +1,25 @@
+# Copyright (C) 2016 Opera Software ASA.  All rights reserved.
+#
+# This file is an original work developed by Opera Software ASA
+
+import("//build/config/opera-common.gni")
+
+# The list of files is kept in favorites.gypi.
+gypi_values = exec_script(
+    "//build/gypi_to_gn.py",
+    [ rebase_path("favorites.gypi") ],
+    "scope",
+    [ "favorites.gypi" ])
+
+source_set("favorites") {
+  sources = gypi_values.favorites_sources
+
+  configs += [ "$opera/common/config:include_config" ]
+
+  deps = [
+    "$opera/common/bookmarks",
+    "$opera/common/favorites",
+    "//base",
+    "//components/sync",
+  ]
+}

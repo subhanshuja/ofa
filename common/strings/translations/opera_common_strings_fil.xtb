@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="fil">
+<translation id="2978824962390592855">Opera</translation>
+<translation id="9071130496134948492">Opera Software</translation>
+<translation id="6494666865857176946">Mahigpit na hinihimok ng Opera Software na huwag bisitahin ang pahinang ito.</translation>
+<translation id="7459549266751278805">Sentro ng notipikasyon ng Opera</translation>
+<translation id="4501379002264542907">Opera - mga notipikasyon</translation>
+<translation id="1352092048463356430">Opera - mga notipikasyon (<ph name="QUANTITY"/> hindi pa nababasa)</translation>
+<translation id="4159400746343093340">Opera - Mga notipikasyon</translation>
+<translation id="6018626517703817463">Opera - Mga notipikasyon (<ph name="QUANTITY"/> hindi pa nababasa)</translation>
+<translation id="6161036283010589960">Gumagamit ang site ng mga lumang setting sa seguridad na maaaring makahadlang sa mga bersyon ng Opera sa hinaharap para sa ligtas na pagkana-a-access ito.</translation>
+<translation id="8888594059056485523">Payagan ang Opera na ma-access ang network sa mga setting ng iyong firewall o antivirus.</translation>
+<translation id="7158277678571698323">Pumunta sa menu ng Opera &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; Mga setting ng LAN at alisin sa pagkakapili ang "Gumamit ng proxy server para sa iyong LAN".</translation>
+<translation id="5873732809085338161">Para paganahin ang insecure WebSockets sa browser ng desktop mo, pumunta sa <ph name="HTMLOPERAFLAG"/> (Opera 24+) o <ph name="HTMLCHROMEFLAG"/> (Chrome 36+).</translation>
+<translation id="2005166128312586988">Magkakabisa ang iyong mga pagbabago kapag binuksan muli ang Opera.</translation>
+<translation id="684302243018322820">Para makita ang mga nakaimbak na password ng Opera, mangyaring ipasok ang password ng iyong computer.</translation>
+</translationbundle>

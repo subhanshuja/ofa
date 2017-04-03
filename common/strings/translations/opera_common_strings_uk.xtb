@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="uk">
+<translation id="2978824962390592855">Opera</translation>
+<translation id="9071130496134948492">Opera Software</translation>
+<translation id="6494666865857176946">Opera Software наполегливо не радить вам відвідувати цю сторінку.</translation>
+<translation id="7459549266751278805">Центр сповіщень Opera</translation>
+<translation id="4501379002264542907">Opera — сповіщення</translation>
+<translation id="1352092048463356430">Opera — сповіщення (непрочитаних: <ph name="QUANTITY"/>)</translation>
+<translation id="4159400746343093340">Opera — сповіщення</translation>
+<translation id="6018626517703817463">Opera — сповіщення (непрочитаних: <ph name="QUANTITY"/>)</translation>
+<translation id="6161036283010589960">На сайті використовуються надто давні параметри захисту, що може призвести до неможливості безпечного доступу до даних у майбутніх версіях Opera.</translation>
+<translation id="8888594059056485523">Надайте Opera доступ до мережі у вашому брандмауері або антивірусі.</translation>
+<translation id="7158277678571698323">Скористайтеся пунктом меню Opera <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; Параметри LAN і зніміть позначку з пункту «Використовувати проксі-сервер для вашої LAN».</translation>
+<translation id="5873732809085338161">Щоб увімкнути незахищені WebSocket-и у вашому браузері, перейдіть на сторінку <ph name="HTMLOPERAFLAG"/> (Opera 24+) або <ph name="HTMLCHROMEFLAG"/> (Chrome 36+).</translation>
+<translation id="2005166128312586988">Внесені вами зміни набудуть чинності лише після перезапуску Opera.</translation>
+<translation id="684302243018322820">Щоб переглянути збережені Opera паролі, будь ласка, вкажіть пароль до вашого облікового запису системи.</translation>
+</translationbundle>

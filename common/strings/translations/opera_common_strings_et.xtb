@@ -1,0 +1,284 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="et">
+<translation id="2978824962390592855">Opera</translation>
+<translation id="3942946088478181888">Aita mul mõista</translation>
+<translation id="1396529432791646744">Kui loote ühenduse turvalise veebisaidiga, esitab seda saiti majutav server teie brauserile sertifikaadi, et selle identiteet kinnitada. See sertifikaat sisaldab tunnusteavet, nt veebisaidi aadressi, mille kinnitab muu osapool, keda teie mobiilseade usaldab. Kontrollides, kas sertifikaadil olev aadress ühtib veebisaidi aadressiga, on võimalik kinnitada, et loote turvaliselt ühenduse soovitud veebisaidi, mitte muu osapoolega (nt teie võrgu ründajaga).</translation>
+<translation id="6295228342562451544">Kui loote ühenduse turvalise veebisaidiga, esitab seda saiti majutav server teie brauserile sertifikaadi, et selle identiteet kinnitada. See sertifikaat sisaldab tunnusteavet, nt veebisaidi aadressi, mille kinnitab muu osapool, keda teie arvuti usaldab. Kontrollides, kas sertifikaadil olev aadress ühtib veebisaidi aadressiga, on võimalik kinnitada, et loote turvaliselt ühenduse soovitud veebisaidi, mitte muu osapoolega (nt teie võrgu ründajaga).</translation>
+<translation id="7073704676847768330">See pole arvatavasti sait, mida otsite!</translation>
+<translation id="2941952326391522266">Server ei suutnud tõestada, et on <ph name="DOMAIN"/>. Selle turbesertifikaat on pärit domeenist <ph name="DOMAIN2"/>. Selle põhjuseks võib olla vale konfiguratsioon või ründaja, kes teie ühendust segab.</translation>
+<translation id="7761701407923456692">Serveri sertifikaat ei vasta URL-ile.</translation>
+<translation id="3581034179710640788">Saidi turbesertifikaat on aegunud!</translation>
+<translation id="436701661737309601">Aegumata sertifikaadi väljaandja vastutab nn tühistusloendi haldamise eest. Kui sertifikaati on rikutud, saab väljaandja selle tühistada, lisades selle tühistusloendisse, ning seejärel teie brauser seda sertifikaati enam ei usalda. Aegunud sertifikaatide puhul pole tühistusoleku säilitamine nõutav, seega kui sertifikaat oli külastatava lehe puhul kehtiv, pole sellel hetkel enam võimalik kindlaks teha, kas sertifikaati rikuti ja seejärel see tühistati või jääb see turvaliseks. Kuna on võimatu öelda, kas suhtlete seadusliku veebisaidiga või kas sertifikaati on rikutud ja on nüüd ründaja valduses, kellega suhtlete.</translation>
+<translation id="8971063699422889582">Serveri sertifikaat on aegunud.</translation>
+<translation id="1618661679583408047">Serveri turbesertifikaat ei ole veel kehtiv!</translation>
+<translation id="825608351287166772">Sertifikaatidel on kehtivusperiood nagu igal identiteedidokumendil (nt passil), mis teil olla võib. Teie brauserile esitatud sertifikaat pole veel kehtiv. Kui sertifikaat on oma kehtivuse raamest väljas, pole teatud teavet sertifikaadi oleku kohta (kas see on tühistatud ja seda ei tuleks enam usaldada) kohustuslik säilitada. Seega pole võimalik sertifikaadi usaldusväärsust kinnitada. Te ei peaks jätkama.</translation>
+<translation id="7938958445268990899">Serveri sertifikaat ei ole veel kehtiv.</translation>
+<translation id="2915500479781995473">Server ei suutnud tõestada, et on <ph name="DOMAIN"/>. Selle turbesertifikaat on aegunud. Selle põhjuseks võib olla vale konfiguratsioon või ründaja, kes teie ühendust segab. Teie arvuti kellaaeg on praegu <ph name="CURRENT_TIME"/>. Kas see on õige? Kui ei, peaksite süsteemi kellaaega korrigeerima ja seejärel seda lehte värskendama.</translation>
+<translation id="229702904922032456">Juur- või vahesertifikaat on aegunud.</translation>
+<translation id="374530189620960299">Saidi turbesertifikaat pole usaldusväärne!</translation>
+<translation id="168929553803686581">Sellisel juhul pole muu osapool, keda teie mobiilseade usaldab, sertifikaati kinnitanud. Igaüks saab luua sertifikaadi, millega väidab end olevat mis tahes veebisaidi, ja seetõttu peabki usaldusväärne muu osapool selle kinnitama. Ilma kinnituseta on sertifikaadi identiteediteave mõttetu. Seetõttu pole võimalik kinnitada, kas suhtlete saidiga <ph name="DOMAIN"/>, mitte ründajaga, kes koostas oma sertifikaadi, millega väidab end olevat <ph name="DOMAIN2"/>. Sellest punktist edasi ei tohiks te jätkata.</translation>
+<translation id="6517558746015096434">Kui aga töötate organisatsioonis, mis koostab oma sertifikaate, ja püüate sellise sertifikaadi abil organisatsiooni sisesaidiga ühendust luua, võite probleemi saada turvaliselt lahendada. Võite importida juursertifikaadina oma organisatsiooni juursertifikaadi, seejärel usaldatakse kõiki teie organisatsiooni välja antud või kinnitatud sertifikaate ning te ei saa järgmine kord sisesaidiga ühendust luues tõrketeadet. Mobiilseadmesse uue juursertifikaadi lisamise kohta abi saamiseks pöörduge oma organisatsiooni abispetsialistide poole.</translation>
+<translation id="2159087636560291862">Sellisel juhul pole muu osapool, keda teie arvuti usaldab, sertifikaati kinnitanud. Igaüks saab luua sertifikaadi, millega väidab end olevat mis tahes veebisaidi, ja seetõttu peabki usaldusväärne muu osapool selle kinnitama. Ilma kinnituseta on sertifikaadi identiteediteave mõttetu. Seetõttu pole võimalik kinnitada, kas suhtlete saidiga <ph name="DOMAIN"/>, mitte ründajaga, kes koostas oma sertifikaadi, millega väidab end olevat <ph name="DOMAIN2"/>. Sellest punktist edasi ei tohiks te jätkata.</translation>
+<translation id="2645575947416143543">Kui aga töötate organisatsioonis, mis koostab oma sertifikaate, ja püüate sellise sertifikaadi abil organisatsiooni sisesaidiga ühendust luua, võite probleemi saada turvaliselt lahendada. Võite importida juursertifikaadina oma organisatsiooni juursertifikaadi, seejärel usaldatakse kõiki teie organisatsiooni välja antud või kinnitatud sertifikaate ning te ei saa järgmine kord sisesaidiga ühendust luues tõrketeadet. Arvutisse uue juursertifikaadi lisamise kohta abi saamiseks pöörduge oma organisatsiooni abispetsialistide poole.</translation>
+<translation id="3528171143076753409">Serveri sertifikaat pole usaldusväärne.</translation>
+<translation id="2649911884196340328">Serveri turbesertifikaadis on vigu!</translation>
+<translation id="8534801226027872331">Sellisel juhul on teie brauserile esitatud sertifikaadis vigu ja see on arusaamatu. See võib tähendada, et me ei mõista sertifikaadis sisalduvat identiteediteavet või teatud muud teavet, mida kasutatakse ühenduse turvamiseks. Te ei peaks jätkama.</translation>
+<translation id="2491120439723279231">Serveri sertifikaat sisaldab vigu.</translation>
+<translation id="8318945219881683434">Tühistuse kontrollimine nurjus.</translation>
+<translation id="9141716082071217089">Pole võimalik kontrollida, kas serveri sertifikaat on tühistatud.</translation>
+<translation id="2922350208395188000">Serveri sertifikaati ei saa kontrollida.</translation>
+<translation id="884923133447025588">Tühistusmehhanismi ei leitud.</translation>
+<translation id="2413528052993050574">Server ei suutnud tõestada, et on <ph name="DOMAIN"/>. Selle turbesertifikaat võib olla tühistatud. Selle põhjuseks võib olla vale konfiguratsioon või ründaja, kes teie ühendust segab.</translation>
+<translation id="8187473050234053012">Serveri turbesertifikaat on tühistatud!</translation>
+<translation id="4377125064752653719">Püüdsite jõuda veebisaidile <ph name="DOMAIN"/>, kuid väljaandja on serverile esitanud sertifikaadi tühistanud. See tähendab, et serveri esitatud turbemandaate ei tohiks kindlasti usaldada. Võite suhelda ründajaga.</translation>
+<translation id="5275799318132317934">Sellisel juhul on väljaandja teie brauserile esitatud sertifikaadi tühistanud. See tähendab tavaliselt seda, et selle sertifikaadi terviklikkus on rikutud ja sertifikaati ei tohiks usaldada.</translation>
+<translation id="2386255080630008482">Serveri sertifikaat on tühistatud.</translation>
+<translation id="4222982218026733335">Serveri sertifikaat on kehtetu</translation>
+<translation id="9049981332609050619">Püüdsite jõuda veebisaidile <ph name="DOMAIN"/>, kuid server esitas kehtetu sertifikaadi.</translation>
+<translation id="3776667127601582921">Sellisel juhul on teie brauserile esitatud serveri sertifikaat või vahepealne CA-sertifikaat kehtetu. See võib tähendada, et sertifikaat on valesti vormindatud, sisaldab kehtetuid välju või seda ei toetata.</translation>
+<translation id="917450738466192189">Serveri sertifikaat on kehtetu.</translation>
+<translation id="9145357542626308749">Saidi turbesertifikaat on allkirjastatud nõrga allkirjaalgoritmiga!</translation>
+<translation id="2171101176734966184">Püüdsite jõuda veebisaidile <ph name="DOMAIN"/>, kuid server esitas sertifikaadi, mis on allkirjastatud nõrga allkirjaalgoritmiga. See tähendab, et serveri esitatud turbemandaadid võivad olla võltsitud ja server ei pruugi olla teie oodatud server (võite suhelda ründajaga).</translation>
+<translation id="4320833726226688924">Sellisel juhul on teie brauserile esitatud serveri sertifikaat või vahepealne CA-sertifikaat allkirjastatud nõrga allkirjaalgoritmiga, nt RSA-MD2. Hiljutine arvutiteadlaste läbiviidud uuring näitas, et allkirjaalgoritm on nõrgem kui varem arvatud ja tänapäeval kasutavad usaldusväärsed veebisaidid harva allkirjaalgoritmi. See sertifikaat võib olla võltsitud.</translation>
+<translation id="2728127805433021124">Saidi sertifikaat on allkirjastatud nõrga allkirjaalgoritmiga.</translation>
+<translation id="6315723398663634808">Serveri sertifikaat sisaldab nõrka krüptograafiavõtit!</translation>
+<translation id="121201262018556460">Püüdsite jõuda veebisaidile <ph name="DOMAIN"/>, kuid server esitas sertifikaadi, mis sisaldab nõrka võtit. Ründaja võib olla privaatvõtme murdnud ja server ei pruugi olla teie oodatud server (võite suhelda ründajaga).</translation>
+<translation id="2929033900046795715">Sellisel juhul sisaldab teie brauserile esitatud serveri sertifikaat või vahepealne CA-sertifikaat nõrka võtit, nt RSA- või vähem kui 1024-bitist võtit. Kuna nõrgast avalikust võtmest on üsna lihtne tuletada vastavat privaatvõtit, võib ründaja tõelise serveri identiteeti võltsida.</translation>
+<translation id="168841957122794586">Serveri sertifikaat sisaldab nõrka krüptograafiavõtit.</translation>
+<translation id="4253787465144837701">Serveri sertifikaat sisaldab domeeni nime, mida seal ei tohi olla.</translation>
+<translation id="7567204685887185387">Server ei suutnud tõestada, et on <ph name="DOMAIN"/>. Selle turbesertifikaat võib olla välja antud pettusega. Selle põhjuseks võib olla vale konfiguratsioon või ründaja, kes teie ühendust segab.</translation>
+<translation id="7592362899630581445">Serveri sertifikaat rikub nime piiranguid.</translation>
+<translation id="5944101742958374175">Vastuvõetud sertifikaadi puhul leiti erandjuhtum.</translation>
+<translation id="5623463370978611784">Vastuvõetud sertifikaat on märgistatud vigasena. Vt üksikasju teemast $1.</translation>
+<translation id="1177437665183591855">Serveri sertifikaadi tundmatu tõrge</translation>
+<translation id="4771973620359291008">Ilmnes tundmatu tõrge.</translation>
+<translation id="674375294223700098">Serveri sertifikaadi tundmatu tõrge.</translation>
+<translation id="5598024575303778520">Pettuse hoiatus</translation>
+<translation id="7311721172731074902">Pettuse hoiatus</translation>
+<translation id="4056154188339276219">Sellest saidist on teatatud kui petturlikust. Sellele saidile tundliku või konfidentsiaalse teabe jagamine võib seada teid identiteedivarguse ja/või finantspettuse ohtu.</translation>
+<translation id="6494666865857176946">Opera Software ei soovita seda lehte mingil juhul külastada.</translation>
+<translation id="8357891144266644027">Pahatahtliku saidi hoiatus</translation>
+<translation id="4664012235452972339">Pahatahtliku saidi hoiatus</translation>
+<translation id="8219093269265469764">Selle lehe külastamine võib olla ohtlik. Sellest on teatatud kui ründevara levitajast.</translation>
+<translation id="4863259811271883558">Teataja: <ph name="BEGIN_LINK"/><ph name="PROVIDER_NAME"/><ph name="END_LINK"/></translation>
+<translation id="3141322567138977593">Mine ohutult tagasi</translation>
+<translation id="833642844779103272">Mine ohutult tagasi</translation>
+<translation id="4238466718818823211">Eira seda hoiatust</translation>
+<translation id="1755698976576372535">Miks see leht blokeeriti?</translation>
+<translation id="7459549266751278805">Opera teavituste keskus</translation>
+<translation id="7470668651798735849">Siin näete kõiki oma teavitusi veebisaitidelt.</translation>
+<translation id="4501379002264542907">Opera – teavitused</translation>
+<translation id="1352092048463356430">Opera – teavitused (lugemata: <ph name="QUANTITY"/>)</translation>
+<translation id="4159400746343093340">Opera – teavitused</translation>
+<translation id="6018626517703817463">Opera – teavitused (lugemata: <ph name="QUANTITY"/>)</translation>
+<translation id="6426222199977479699">SSL-tõrge</translation>
+<translation id="8398877366907290961">Jätka ikkagi</translation>
+<translation id="6264485186158353794">Tagasi ohutule lehele</translation>
+<translation id="2225024820658613551">Te ei peaks jätkama, &lt;strong&gt;eriti&lt;/strong&gt; kui te pole selle saidi puhul varem seda hoiatust näinud.</translation>
+<translation id="5645845270586517071">Turbetõrge</translation>
+<translation id="1103666958012677467">Te ei saa jätkata, kuna veebisaidi operaator taotles selle domeeni puhul kõrgemat turbetaset.</translation>
+<translation id="5463275305984126951"><ph name="LOCATION"/> register</translation>
+<translation id="8877448029301136595">[emakataloog]</translation>
+<translation id="5327248766486351172">Nimi</translation>
+<translation id="8028993641010258682">Suurus</translation>
+<translation id="57646104491463491">Muutmise kuupäev</translation>
+<translation id="3835522725882634757">Oh ei! See server saadab andmeid, millest <ph name="PRODUCT_NAME"/> aru ei saa. <ph name="BEGIN_LINK"/>Teatage veast<ph name="END_LINK"/> ja pange kaasa <ph name="BEGIN2_LINK"/>toorandmete loend<ph name="END2_LINK"/>.</translation>
+<translation id="4231205248927312226">Kinnita vormi uuestiedastus</translation>
+<translation id="6451458296329894277">Kinnita vormi uuestiedastus</translation>
+<translation id="2032601515784864742">Sellisel juhul ei kattu sertifikaadis olev aadress veebisaidi aadressiga, kuhu teie brauser püüdis minna. Üks võimalik põhjus on see, et teie suhtlust takistab ründaja, kes esitab teise veebisaidi sertifikaati, mis võib põhjustada mittevastavust. Teine võimalik põhjus on see, et server on seadistatud tagastama sama sertifikaadi mitmele veebisaidile, sh sellele, mida püüate külastada, isegi kui see sertifikaat kõigi nende veebisaitide puhul ei kehti. <ph name="PRODUCT_NAME"/> võib öelda kindlalt, et jõudsite saidile &lt;strong&gt;<ph name="DOMAIN2"/>&lt;/strong&gt;, kuid ei saa kinnitada, et tegu on sama saidiga mis &lt;strong&gt;<ph name="DOMAIN"/>&lt;/strong&gt;, millele tahtsite jõuda. Kui jätkate, ei kontrolli <ph name="PRODUCT_NAME"/> enam ühegi nime mittevastavust.</translation>
+<translation id="1639773643001837725">Server ei suutnud tõestada, et on <ph name="DOMAIN"/>. Selle turbesertifikaat aegus <ph name="DAYS"/> päeva tagasi. Selle põhjuseks võib olla vale konfiguratsioon või ründaja, kes teie ühendust segab. Teie arvuti kellaaeg on praegu <ph name="CURRENT_TIME"/>. Kas see on õige? Kui ei, peaksite süsteemi kellaaega korrigeerima ja seejärel seda lehte värskendama.</translation>
+<translation id="7235421518178823985">Server ei suutnud tõestada, et on <ph name="DOMAIN"/>. Selle turbesertifikaat on väidetavalt pärit <ph name="DAYS"/> päeva tulevikust. Selle põhjuseks võib olla vale konfiguratsioon või ründaja, kes teie ühendust segab.</translation>
+<translation id="1763864636252898013">Server ei suutnud tõestada, et on <ph name="DOMAIN"/>. Teie seadme operatsioonisüsteem ei usalda selle turbesertifikaati. Selle põhjuseks võib olla vale konfiguratsioon või ründaja, kes teie ühendust segab.</translation>
+<translation id="467662567472608290">Server ei suutnud tõestada, et on <ph name="DOMAIN"/>. Selle turbesertifikaat sisaldab vigu. Selle põhjuseks võib olla vale konfiguratsioon või ründaja, kes teie ühendust sega</translation>
+<translation id="8465929756435120446">See leht sisaldab ebaturvalist sisu.</translation>
+<translation id="4522570452068850558">Üksikasjad</translation>
+<translation id="3586931643579894722">Peida üksikasjad</translation>
+<translation id="8962083179518285172">Peida üksikasjad</translation>
+<translation id="6042308850641462728">Rohkem</translation>
+<translation id="2089090684895656482">Vähem</translation>
+<translation id="5556459405103347317">Laadi uuesti</translation>
+<translation id="9193357432624119544">Tõrkekood: <ph name="ERROR_NAME"/></translation>
+<translation id="4910619056351738551">Siin on mõni soovitus.</translation>
+<translation id="2662338103506457097">Laadige see veebileht uuesti.</translation>
+<translation id="3226128629678568754">Vajutage lehe laadimiseks vajalike andmete uuesti esitamiseks uuesti laadimise nuppu.</translation>
+<translation id="8196061687045545167">Keelake laiendused ja seejärel laadige see veebileht uuesti.</translation>
+<translation id="3155309969919037916">Kontrollige oma Interneti-ühendust.</translation>
+<translation id="1519957265434608160">Kontrollige kõiki kaableid ja taaskäivitage ruuterid, modemid või muud kasutatavad võrguseadmed.</translation>
+<translation id="2319236583141234177">Kontrollige oma DNS-i seadeid.</translation>
+<translation id="8289355894181816810">Kui te pole kindel, mida see tähendab, võtke ühendust oma võrguadministraatoriga.</translation>
+<translation id="5573959367212558217">Proovige keelata võrguennustus.</translation>
+<translation id="8888594059056485523">Lubage oma tulemüüri- või viirusetõrjeseadetes Operal võrku pääseda.</translation>
+<translation id="6456804684535455731">Kui see on võrgupääsuloaga programmina juba kirjas, proovige see loendist eemaldada ja seejärel uuesti lisada.</translation>
+<translation id="382518646247711829">Puhverserveri kasutamisel...</translation>
+<translation id="7616012285680677132">Kontrollige puhverserveri seadeid või võtke ühendust võrguadministraatoriga, et teha kindlaks, kas puhverserver töötab. <ph name="PLATFORM_TEXT"/></translation>
+<translation id="8454634452929957533">Kontrollige puhverserveri seadeid või võtke ühendust võrguadministraatoriga, et teha kindlaks, kas puhverserver töötab. Kui arvate, et te ei peaks puhverserverit kasutama, toimige järgmiselt. <ph name="PLATFORM_TEXT"/></translation>
+<translation id="8040357206858000048">Avage suvandid Rakendused &gt; Süsteemieelistused &gt; Võrk &gt; Täpsem &gt; Puhverserverid ja tühjendage kõigi puhverserverite märkeruudud.</translation>
+<translation id="7158277678571698323">Avage Opera menüü &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; LAN-seaded ja tühjendage märkeruut „Kasuta LAN-ühenduse puhul puhverserverit”.</translation>
+<translation id="2954705784594331199"><ph name="BEGIN_LINK"/>Laadige veebileht hiljem uuesti<ph name="END_LINK"/>.</translation>
+<translation id="4977565600485911823">Keelake laiendused ja seejärel <ph name="BEGIN_LINK"/>laadige see veebileht uuesti<ph name="END_LINK"/>.</translation>
+<translation id="1103966635949043187">Minge järgmise saidi avalehele:</translation>
+<translation id="7747589364844254751">Kontrollige Interneti-ühendust. Taaskäivitage ruuterid, modemid või muud kasutatavad võrguseadmed.</translation>
+<translation id="5548623538190661145">Kontrollige DNS-i seadeid. Kui te pole kindel, mida see tähendab, võtke ühendust oma võrguadministraatoriga.</translation>
+<translation id="9127307628159259612">Lisage <ph name="PRODUCT_NAME"/> oma tulemüüri- või viirusetõrjetarkvara seadetes lubatud programmina. Kui see on juba lubatud programm, kustutage see lubatud programmide loendist ja lisage uuesti.</translation>
+<translation id="4545046228395991092">Kui kasutate puhverserverit, kontrollige puhverserveri seadeid või võtke ühendust võrguadministraatoriga, et teha kindlaks, kas puhverserver töötab.</translation>
+<translation id="1712673276482711826">Kui kasutate puhverserverit, kontrollige puhverserveri seadeid või võtke ühendust võrguadministraatoriga, et teha kindlaks, kas puhverserver töötab. Kui arvate, et te ei peaks puhverserverit kasutama, toimige järgmiselt. <ph name="PLATFORM_TEXT"/></translation>
+<translation id="721197778055552897"><ph name="BEGIN_LINK"/>Lisateave<ph name="END_LINK"/> selle probleemi kohta.</translation>
+<translation id="2214283295778284209"><ph name="SITE"/> pole saadaval</translation>
+<translation id="4032534284272647190">Juurdepääs saidile <ph name="URL"/> on keelatud.</translation>
+<translation id="790025292736025802">Lehte <ph name="URL"/> ei leitud</translation>
+<translation id="641480858134062906">Lehte <ph name="URL"/> ei saanud laadida</translation>
+<translation id="4697214168136963651">Leht <ph name="URL"/> on blokeeritud</translation>
+<translation id="9020278534503090146">See veebileht pole saadaval</translation>
+<translation id="9086455579313502267">Võrgule ei pääse juurde</translation>
+<translation id="6771079623344431310">Teie puhverserveriga ei saa ühendust</translation>
+<translation id="5303446622366702551">Internetiga ei saa ühendust</translation>
+<translation id="6640442327198413730">Vahemälu puudub</translation>
+<translation id="4786993863723020412">Vahemälu lugemise tõrge</translation>
+<translation id="5880867612172997051">Juurdepääs võrgule on peatatud</translation>
+<translation id="5303618139271450299">Seda veebilehte ei leitud</translation>
+<translation id="7269802741830436641">See veebileht on ümbersuunamissilmuses</translation>
+<translation id="778579833039460630">Andmeid ei võetud vastu</translation>
+<translation id="4980112683975062744">Serverilt võeti vastu topeltpäised</translation>
+<translation id="7839809549045544450">Serveril on nõrk lühiajaline Diffie-Hellmani avalik võti</translation>
+<translation id="820791781874064845">Laiendus on selle veebilehe blokeerinud</translation>
+<translation id="4764776831041365478">Veebileht aadressil <ph name="URL"/> võib olla ajutiselt maas või viidud ajutiselt uuele veebiaadressile.</translation>
+<translation id="2776514516555065663"><ph name="PRODUCT_NAME"/> ei saanud veebilehte laadida, sest lehe <ph name="HOST_NAME"/> vastamine võttis liiga kaua aega. Veebisait võib olla maas või on teil probleeme oma Interneti-ühendusega.</translation>
+<translation id="7732608718511994155">Ühendus saidiga <ph name="HOST_NAME"/> katkes.</translation>
+<translation id="6866330586943304386">Ühendus saidiga <ph name="HOST_NAME"/> katkes võrguühenduse vahetuse tõttu.</translation>
+<translation id="3353584498371175254">Seadme <ph name="PRODUCT_NAME"/> ühenduse katse saidiga <ph name="HOST_NAME"/> lükati tagasi. Veebisait võib olla maas või pole teie võrk õigesti konfigureeritud.</translation>
+<translation id="1775580281086246828">Serverit aadressilt <ph name="HOST_NAME"/> ei leitud, sest DNS-i otsing nurjus. DNS on võrguteenus, mis tõlgib veebisaidi nime selle Interneti-aadressiks. Selle tõrke põhjuseks on sageli Interneti-ühenduse puudumine või valesti konfigureeritud võrk. Samuti võib seda põhjustada mittereageeriv DNS-server või tulemüür, mis takistab seadmel <ph name="PRODUCT_NAME"/> võrku pääseda.</translation>
+<translation id="1900640198039665133"><ph name="PRODUCT_NAME"/> ei jõua veebisaidile. Selle põhjuseks on võrguprobleemid, kuid see võib olla ka valesti konfigureeritud tulemüüri või puhverserveri tagajärg.</translation>
+<translation id="6061713520396617275">Fail aadressil <ph name="URL"/> pole loetav. See võib olla eemaldatud või teisaldatud või takistavad juurdepääsu failiõigused.</translation>
+<translation id="3743996431420410209">Seadmel <ph name="PRODUCT_NAME"/> on probleeme võrku pääsemisel. <ph name="LINE_BREAK"/> Selle põhjuseks võib olla asjaolu, et teie tulemüür või viirusetõrjetarkvara arvab, et <ph name="PRODUCT_NAME"/> on teie mobiilseadmes sissetungija, ja takistab sellel Internetiga ühenduse loomist.</translation>
+<translation id="8525957822916060992">Puhverserver on server, mis toimib vahendajana teie mobiilseadme ja teiste serverite vahel. Praegu on teie süsteem konfigureeritud puhverserverit kasutama, kuid <ph name="PRODUCT_NAME"/> ei saa sellega ühendust.</translation>
+<translation id="2182771052381938197"><ph name="PRODUCT_NAME"/> ei saa veebilehte kuvada, kuna teie mobiilseade pole Internetiga ühendatud.</translation>
+<translation id="8504605147845230067"><ph name="ERROR_DESCRIPTION_TEXT"/></translation>
+<translation id="6482869692698550826">Seadmel <ph name="PRODUCT_NAME"/> on probleeme võrku pääsemisel. <ph name="LINE_BREAK"/> Selle põhjuseks võib olla asjaolu, et teie tulemüür või viirusetõrjetarkvara arvab, et <ph name="PRODUCT_NAME"/> on teie arvutis sissetungija, ja takistab sellel Internetiga ühenduse loomist.</translation>
+<translation id="6268299223990012826">Puhverserver on server, mis toimib vahendajana teie arvuti ja teiste serverite vahel. Praegu on teie süsteem konfigureeritud puhverserverit kasutama, kuid <ph name="PRODUCT_NAME"/> ei saa sellega ühendust.</translation>
+<translation id="2082033521101679150"><ph name="PRODUCT_NAME"/> ei saa veebilehte kuvada, kuna teie arvuti pole Internetiga ühendatud.</translation>
+<translation id="5025570087133380871"><ph name="ERROR_DESCRIPTION_TEXT"/> <ph name="LINE_BREAK"/> Võite probleemi diagnoosimiseks toimida järgmiselt: <ph name="LINE_BREAK"/> <ph name="PLATFORM_TEXT"/></translation>
+<translation id="3952238365087168585">Avage ühenduse proovimiseks suvandid <ph name="BEGIN_BOLD"/>Rakendused &gt; Süsteemieelistused &gt; Võrk &gt; Aita mind <ph name="END_BOLD"/>.</translation>
+<translation id="8907719130223575953">Avage suvandid <ph name="BEGIN_BOLD"/> Start &gt; Juhtpaneel &gt; Võrk ja Internet &gt; Võrgu- ja ühiskasutuskeskus &gt; Probleemide tõrkeotsing (all) &gt; Interneti-ühendused. <ph name="END_BOLD"/></translation>
+<translation id="6426809368065002078">Avage ühenduse proovimiseks suvandid <ph name="BEGIN_BOLD"/>Start &gt; Juhtpaneel &gt; Võrguühendused &gt; Uus ühendusviisard<ph name="END_BOLD"/>.</translation>
+<translation id="2430210664810280637">Klõpsake nupul <ph name="BEGIN_BOLD"/>Start<ph name="END_BOLD"/>, seejärel käsul <ph name="BEGIN_BOLD"/>Käivita<ph name="END_BOLD"/>, sisestage tekst <ph name="BEGIN_BOLD"/>%windir%\network diagnostic\xpnetdiag.exe<ph name="END_BOLD"/> ja seejärel klõpsake <ph name="BEGIN_BOLD"/>OK<ph name="END_BOLD"/>.</translation>
+<translation id="5098248489969453574">Veebilehte ei leitud vahemälust. Vahemälust saab turvaliselt laadida ainult teatud ressursse, näiteks edastatud andmetest loodud lehti. <ph name="LINE_BREAK"/> Seda tõrget võib põhjustada ka vahemälu rikkumine valesti väljalülitamise tõttu. <ph name="LINE_BREAK"/> Probleemi püsimisel proovige vahemälu tühjendada.</translation>
+<translation id="2275837730041455081">Veebilehtede kiiremaks toimimiseks salvestab <ph name="PRODUCT_NAME"/> allalaaditud failid ajutiselt kettale. Seadme <ph name="PRODUCT_NAME"/> valesti väljalülitamine võib need failid rikkuda ja anda selle tõrke. Lehe laadimine peaks probleemi lahendama ja õigesti väljalülitamine peaks vältima probleemi uuesti ilmnemist. <ph name="LINE_BREAK"/> Probleemi püsimisel proovige vahemälu tühjendada. Mõnel juhul võib see olla ka märge sellest, et riistvara hakkab rikki minema.</translation>
+<translation id="9029615070002286968">Veebilehte ei saa laadida, kuna teie mobiilseade lülitus une- või talveunerežiimi. Sellisel juhul sulguvad võrguühendused ja uus võrgutaotlus nurjub. Lehe uuestilaadimine peaks probleemi lahendama.</translation>
+<translation id="4534415571332240241">Veebilehte ei saa laadida, kuna teie arvuti lülitus une- või talveunerežiimi. Sellisel juhul sulguvad võrguühendused ja uus võrgutaotlus nurjub. Lehe laadimine peaks probleemi lahendama.</translation>
+<translation id="7518003948725431193">Veebiaadressilt <ph name="URL"/> ei leitud ühtegi veebilehte.</translation>
+<translation id="9164387458644511612">Veebilehte aadressil <ph name="URL"/> suunati liiga palju kordi ümber. Selle saidi küpsiste kustutamine või muu osapoole küpsiste lubamine võib probleemi lahendada. Kui sellest pole abi, võib olla tegemist serveri konfiguratsiooniprobleemi, mitte teie mobiilseadme probleemiga.</translation>
+<translation id="3015602778474660457">Veebilehte aadressil <ph name="URL"/> suunati liiga palju kordi ümber. Selle saidi küpsiste kustutamine või muu osapoole küpsiste lubamine võib probleemi lahendada. Kui sellest pole abi, võib olla tegemist serveri konfiguratsiooniprobleemi, mitte teie arvuti probleemiga.</translation>
+<translation id="4287689875748136217">Veebilehte ei saa laadida, sest server ei saatnud andmeid.</translation>
+<translation id="660896802268593778">Serveri vastus sisaldas topeltpäist. Probleemi põhjuseks on tavaliselt valesti konfigureeritud veebisait või puhverserver. Probleemi saab lahendada ainult veebisaidi või puhverserveri administraator.</translation>
+<translation id="5954987802886981088">See tõrge ilmneb turvalise (HTTPS-i) serveriga ühenduse loomisel. See tähendab, et server püüab seadistada turvalist ühendust, kuid hävitava vale konfiguratsiooni tõttu pole ühendus üldse turvaline! <ph name="LINE_BREAK"/> Sellisel juhul tuleb server parandada. <ph name="PRODUCT_NAME"/> ei kasuta teie turvalisuse kaitsmiseks ebaturvalisi ühendusi.</translation>
+<translation id="8752577199214871617">Hosti <ph name="HOST_NAME"/> ei saa otsida.</translation>
+<translation id="8235325155053717782">Tõrge <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="3986287159189541211">HTTP-tõrge <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="4405141258442788789">Toiming aegus.</translation>
+<translation id="3118046075435288765">Server sulges ootamatult ühenduse.</translation>
+<translation id="2784949926578158345">Ühendus lähtestati.</translation>
+<translation id="9020142588544155172">Server keeldus ühendusest.</translation>
+<translation id="8494979374722910010">Katse serveriga ühendust luua nurjus.</translation>
+<translation id="2909946352844186028">Tuvastati võrguvahetus.</translation>
+<translation id="5949910269212525572">Serveri DNS-aadressi ei saa lahendada.</translation>
+<translation id="5498951625591520696">Serverini ei jõuta.</translation>
+<translation id="3950924596163729246">Võrgule ei pääse juurde.</translation>
+<translation id="4147376274874979956">Failile ei pääse juurde.</translation>
+<translation id="4535734014498033861">Puhverserveri ühendus nurjus.</translation>
+<translation id="6728024709633626254">Interneti-ühendus on kadunud.</translation>
+<translation id="201192063813189384">Tõrge vahemälust andmete lugemisel.</translation>
+<translation id="3393716657345709557">Nõutud kirjet ei leitud vahemälust.</translation>
+<translation id="7450732239874446337">Võrgu kasutajaliides on peatatud.</translation>
+<translation id="6391832066170725637">Faili või kataloogi ei leitud.</translation>
+<translation id="3748412725338508953">Liiga palju ümbersuunamisi.</translation>
+<translation id="2950186680359523359">Server sulges ühenduse ilma andmeid saatmata.</translation>
+<translation id="2929266020546499971">Võeti vastu mitu erineva sisupikkusega päist. See pole HTTP vastusetükeldusrünnakute vastu kaitsmiseks lubatud.</translation>
+<translation id="2297038239859335744">Võeti vastu mitu erineva sisuasetusega päist. See pole HTTP vastusetükeldusrünnakute vastu kaitsmiseks lubatud.</translation>
+<translation id="3336388975352605720">Võeti vastu mitu erineva asukohaga päist. See pole HTTP vastusetükeldusrünnakute vastu kaitsmiseks lubatud.</translation>
+<translation id="6626108645084335023">DNS-sondi ootel.</translation>
+<translation id="1195447618553298278">Tundmatu tõrge.</translation>
+<translation id="6066742401428748382">Juurdepääs veebilehele keelati</translation>
+<translation id="2650446666397867134">Juurdepääs failile keelati</translation>
+<translation id="3261690198327056381">Teil pole õigust veebisaidile aadressil <ph name="URL"/> juurde pääseda. Võib-olla peate sisse logima.</translation>
+<translation id="3903912596042358459">Server keeldus taotluse täitmisest.</translation>
+<translation id="904949795138183864">Veebilehte aadressil <ph name="URL"/> pole enam olemas.</translation>
+<translation id="5319054530310231888">Taotletud ressurssi pole enam olemas ja puudub ka ümbersuunamisaadress. Eeldatavasti on tegemist püsiva olukorraga.</translation>
+<translation id="8295070100601117548">Serveritõrge</translation>
+<translation id="1055268999302881517">Veebisaidil ilmnes aadressi <ph name="URL"/> toomisel tõrge. Leht võib olla hoolduseks suletud või valesti konfigureeritud.</translation>
+<translation id="2279770628980885996">Ilmnes ootamatu olukord, kui server püüdis taotlust täita.</translation>
+<translation id="4060383410180771901">Veebisait ei suuda taotlust aadressile <ph name="URL"/> täita.</translation>
+<translation id="477518548916168453">Server ei toeta taotluse täitmiseks vajalikku funktsiooni.</translation>
+<translation id="3940082421246752453">Server ei toeta taotluses kasutatavat HTTP-versiooni.</translation>
+<translation id="7544229255782699242">Aadressi <ph name="URL"/> laadimisel saadi kehtetu vastus. Server võib olla hoolduseks suletud või valesti konfigureeritud.</translation>
+<translation id="7052500709156631672">Lüüs või puhverserver sai ülesvoolu serverilt kehtetu vastuse.</translation>
+<translation id="5741201586401781900">Veebileht aadressil <ph name="URL"/> pole praegu saadaval. See võib olla üle koormatud või hoolduseks suletud.</translation>
+<translation id="6094756196753418043">Server ei suuda praegu taotlust täita. See kood näitab, et olukord on ajutine ja server on mõne aja pärast jälle töökorras.</translation>
+<translation id="2084412568823043027">Aadressi <ph name="URL"/> serveril kulub vastamiseks liiga palju aega. See võib olla üle koormatud.</translation>
+<translation id="1202290638211552064">Lüüsil või puhverserveril aegus ülesvoolu serverilt vastuse ootamine.</translation>
+<translation id="1146498888431277930">SSL-i ühendustõrge</translation>
+<translation id="4350711002179453268">Serveriga ei saa turvalist ühendust luua. Probleem võib olla serveris või nõutakse kleindi autentimissertifikaati, mida teil pole.</translation>
+<translation id="5228309736894624122">SSL-i protokollitõrge.</translation>
+<translation id="8016174103774548813">SSL-server on tõenäoliselt aegunud.</translation>
+<translation id="5549435349608496346">Serveriga ei saa turvaliselt ühendust luua. Veebisait võis varem töötada, kuid selliste saitidega ühendumine on nüüdseks näidanud turbeohte kõigile kasutajatele ja on seetõttu teie ohutuse tagamiseks keelatud.</translation>
+<translation id="2803407661478021186">SSLv3 varuvariant sai serveriga ühenduse, kuid uute rünnakute tõttu protokollile ei kiida me SSLv3 varuvariante enam heaks. Serverit tuleb värskendada, et see toetaks vähemalt TLS 1.0 ja eelistatavalt TLS 1.2.</translation>
+<translation id="2345460471437425338">Vale sertifikaat hosti puhul.</translation>
+<translation id="3225919329040284222">Server esitas sertifikaadi, mis ei vasta sisseehitatud ootustele. Need ootused on kaasatud teatud kõrge turvalisusega serveritesse teie kaitsmiseks.</translation>
+<translation id="6957887021205513506">Serveri sertifikaat näib olevat võltsing.</translation>
+<translation id="4544369257849566741">SSL-i ümbervaatamislaiendus oli turvalisest kätlusest puudu. Mõne saidi puhul, mis ümbervaatamislaiendust teadaolevalt toetab, nõuab <ph name="PRODUCT_NAME"/> turvalisemat kätlust, et vältida teadaolevate rünnakute klassi. Selle laienduse vahelejätmine annab teada, et ühendus püüti siirdel kinni ja seda manipuleeritakse.</translation>
+<translation id="8515737884867295000">Sertifikaadipõhine autentimine nurjus</translation>
+<translation id="1214288039821587584">Server nõuab autentimissertifikaati ega nõustu sellega, mille brauser saatis. Teie sertifikaat võib olla aegunud või ei usalda server selle väljaandjat. Võite uuesti proovida teise sertifikaadiga, kui see teil olemas on, ent võite hankida mujalt ka uue sertifikaadi.</translation>
+<translation id="9013589315497579992">Halb SSL-i kliendi autentimissertifikaat.</translation>
+<translation id="5620046725797389119">Tõenäoliselt on veebilehte majutav server üle koormatud või ilmnes selles tõrge. Selleks et laiendused ei saaks tekitada liiga suurt liiklust ja muuta olukorda halvemaks, peatas <ph name="PRODUCT_NAME"/> ajutiselt laiendustelt sellele URL-ile taotluste saatmise loa.</translation>
+<translation id="2271281383664374369">Laienduste taotlused sellele URL-ile on ajutiselt piiratud.</translation>
+<translation id="3225579507836276307">Muu osapoole laiendus on blokeerinud juurdepääsu sellele veebisaidile.</translation>
+<translation id="5990559369517809815">Laiendus on blokeerinud serverile saadetavad taotlused.</translation>
+<translation id="8315720913203253727">See veebileht vajab õigesti kuvamiseks varem sisestatud andmeid. Võite need andmed uuesti saata, kuid sel juhul kordate kõiki sellel lehel varem tehtud toiminguid. Andmete uuesti saatmiseks ja lehe kuvamiseks vajutage nuppu Laadi uuesti.</translation>
+<translation id="6429639049555216915">See rakendus pole praegu kättesaadav.</translation>
+<translation id="8162734958263531433">USB-silumise kasutamiseks peab teie Android-seadmes olema lubatud Android SDK ja USB-silumine. Vt lisateavet teemast <ph name="HTML_HELPURL"/>.</translation>
+<translation id="1875071432292773474">Sisestage lauaarvuti brauserisse aadress <ph name="ACCESS_POINT"/>. Lauaarvuti brauser peab kasutama sama võrku mis Android-seade.</translation>
+<translation id="7227425938337339799">UPnP-võrgu toimimiseks peate olema samas alamvõrgus või looma ruuteriga silla, et suunata levi alamvõrkudesse.</translation>
+<translation id="4553629908098215669">Käivitage arvutis <ph name="HTMLADBCOMMAND"/> ja liikuge Chrome'il põhineva brauseriga lehele <ph name="HTMLLOCALHOSTURL"/>.</translation>
+<translation id="5873732809085338161">Ebaturvaliste WebSocketite lubamiseks lauaarvuti brauseris minge veebilehele <ph name="HTMLOPERAFLAG"/> (Opera 24+) või <ph name="HTMLCHROMEFLAG"/> (Chrome 36+).</translation>
+<translation id="4570032796877367747">Esikaamera</translation>
+<translation id="2599796128805996109">Tagakaamera</translation>
+<translation id="1780524213916974482">Vasak kaamera</translation>
+<translation id="1198988598070704831">Parem kaamera</translation>
+<translation id="2124507516322945394">Vaikemikrofon</translation>
+<translation id="1587215898571986504">Valjuhääldi</translation>
+<translation id="5614598979078259956">Juhtmega peakomplekt</translation>
+<translation id="9031226374756103225">Kuularite peakomplekt</translation>
+<translation id="149679617917926491">Bluetoothi peakomplekt</translation>
+<translation id="6060685159320643512">Ettevaatust, need katsetused võivad olla ohtlikud</translation>
+<translation id="5199729219167945352">Katsetused</translation>
+<translation id="2712869172826980984">ETTEVAATUST!</translation>
+<translation id="8102444033747951866">Need lipud juhivad katselisi või ebastabiilseid funktsioone. Need ei pruugi töötada või võivad põhjustada brauseri krahhiminekut. Võite andmeid kaotada või oma privaatsust või turvalisust nõrgendada. Funktsioonid võivad igal hetkel aktiveeruda, kaduda või töö katkestada. Olge ettevaatlik – siin peituvad ohud!</translation>
+<translation id="9187827965378254003">Näib, et praegu pole ühtegi katsetust saadaval.</translation>
+<translation id="2282872951544483773">Mittesaadaval katsetused</translation>
+<translation id="6426993025560594914">Kõik katsetused on teie platvormile saadaval!</translation>
+<translation id="889901481107108152">Kahjuks pole see katsetus teie platvormile saadaval.</translation>
+<translation id="3015639418649705390">Käivita kohe uuesti</translation>
+<translation id="7179921470347911571">Käivita kohe uuesti</translation>
+<translation id="8647750283161643317">Taasta vaikeväärtused</translation>
+<translation id="1134886108896378542">Taasta vaikeväärtused</translation>
+<translation id="4394049700291259645">Keela</translation>
+<translation id="3435896845095436175">Luba</translation>
+<translation id="604124094241169006">Automaatne</translation>
+<translation id="8798099450830957504">Vaikeväärtus</translation>
+<translation id="8815310998417289610">Lubatud</translation>
+<translation id="7826518276255108913">Keelatud</translation>
+<translation id="2005166128312586988">Teie muudatused jõustuvad Opera taaskäivitamisel.</translation>
+<translation id="7961015016161918242">Mitte kunagi</translation>
+<translation id="6342069812937806050">Kohe praegu</translation>
+<translation id="684302243018322820">Opera salvestatud paroolide nägemiseks sisestage arvuti parool.</translation>
+<translation id="533563709691128800">keelatud</translation>
+<translation id="2506903884491778518">Otsi katsetusi</translation>
+<translation id="2112624549618815628">Vaikimisi (lubatud)</translation>
+<translation id="3696363537446376816">Vaikimisi (keelatud)</translation>
+<translation id="1375198122581997741">Teave versiooni kohta</translation>
+<translation id="7248671827512403053">Rakendus</translation>
+<translation id="1710259589646384581">Operatsioonisüsteem</translation>
+<translation id="6897140037006041989">Kasutajaagent</translation>
+<translation id="7353601530677266744">Käsurida</translation>
+<translation id="7225807090967870017">Järgu ID</translation>
+</translationbundle>

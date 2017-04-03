@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="he">
+<translation id="3942946088478181888">עזור לי להבין</translation>
+<translation id="1396529432791646744">כאשר אתה מתחבר לאתר מאובטח, השרת שעליו מאוכסן האתר מציג לדפדפן שלך אישור אבטחה כדי לאשר את זהותו. האישור הזה מכיל מידע על זהות השרת, כמו כתובת אתר האינטרנט, שאותו ניתן לוודא בעזרת צד שלישי שעליו המכשיר הנייד שלך סומך. בדיקה האם הכתובת המופיעה באישור מתאימה לכתובת האתר יכולה לוודא האם אתה אכן יוצר תקשורת בטוחה עם האתר שאליו התכוונת להתחבר ולא אל מישהו אחר (למשל, תוקף שהתחבר לרשת שלך).</translation>
+<translation id="6295228342562451544">כאשר אתה מתחבר לאתר מאובטח, השרת שבו מאוחסן האתר מציג לדפדפן שלך אישור אבטחה כדי לאשר את זהותו. האישור הזה מכיל מידע על זהות השרת, כמו כתובת אתר האינטרנט, שאותו ניתן לוודא בעזרת צד שלישי שבו המחשב שלך נותן אמון. בדיקה האם הכתובת המופיעה באישור מתאימה לכתובת האתר יכולה לוודא האם אתה אכן יוצר תקשורת בטוחה עם האתר שאליו התכוונת להתחבר ולא עם גורם אחר (למשל, תוקף שהתחבר לרשת שלך).</translation>
+<translation id="8187473050234053012">אישור האבטחה של השרת בוטל!</translation>
+<translation id="5598024575303778520">אזהרת רמאות</translation>
+<translation id="7311721172731074902">אזהרת רמאות</translation>
+<translation id="1858130628205855959">ייתכן שזהו אתר פרוץ או שכרוך בתרמית. מסירת סיסמאות או פרטים אישיים לאתר זה עלולה להעמיד אותך בסכנת גנבת זהות או הונאה פיננסית.</translation>
+<translation id="8357891144266644027">אזהרת אתר זדוני</translation>
+<translation id="4664012235452972339">אזהרת אתר זדוני</translation>
+<translation id="1030973920598092450">ייתכן שזהו אתר פרוץ או שהוא מכיל תוכנה זדונית. ביקור באתר זה עלול לגרום נזק.</translation>
+<translation id="4863259811271883558">דווח על ידי <ph name="BEGIN_LINK"/><ph name="PROVIDER_NAME"/><ph name="END_LINK"/></translation>
+<translation id="3141322567138977593">חזור בבטחה</translation>
+<translation id="833642844779103272">חזור בבטחה</translation>
+<translation id="4238466718818823211">התעלם מאזהרה זו</translation>
+<translation id="1755698976576372535">מדוע דף זה נחסם?</translation>
+<translation id="2962647877740028287">דוחות ההונאה שלנו מתוחזקים על ידי ספקים חיצוניים.</translation>
+<translation id="7470668651798735849">כאן יופיעו כל ההודעות שלך מהאתרים השונים.</translation>
+<translation id="6426222199977479699">שגיאת SSL</translation>
+<translation id="8398877366907290961">המשך בכל זאת</translation>
+<translation id="6264485186158353794">חזור בבטחה</translation>
+<translation id="2225024820658613551">מומלץ שלא תמשיך הלאה, &lt;strong&gt;במיוחד&lt;/strong&gt; if אם לא ראית את האזהרה הזו בעבר עבור אתר זה.</translation>
+<translation id="5645845270586517071">שגיאת אבטחה</translation>
+<translation id="1103666958012677467">לא ניתן להמשיך כיוון שמפעיל האתר ביקש להעלות את האבטחה עבור דומיין זה.</translation>
+<translation id="5463275305984126951">אינדקס של <ph name="LOCATION"/></translation>
+<translation id="8877448029301136595">[ספריית אב]</translation>
+<translation id="3835522725882634757">הו, לא! שרת זה שולח נתונים שאותם <ph name="PRODUCT_NAME"/> לא יכול לזהות. אנא <ph name="BEGIN_LINK"/>דווח על באג<ph name="END_LINK"/>, וצרף את <ph name="BEGIN2_LINK"/>המידע המוצג כפי שהוא<ph name="END2_LINK"/>.</translation>
+<translation id="5327248766486351172">שם</translation>
+<translation id="8028993641010258682">גודל</translation>
+<translation id="57646104491463491">תאריך שינוי</translation>
+<translation id="8465929756435120446">דף זה מכיל גם תוכן לא מאובטח.</translation>
+<translation id="6827416153061837992">חיבור זה אינו מוצפן.</translation>
+<translation id="9193357432624119544">קוד שגיאה: <ph name="ERROR_NAME"/></translation>
+<translation id="4910619056351738551">הנה מספר הצעות:</translation>
+<translation id="2954705784594331199"><ph name="BEGIN_LINK"/>טען מחדש<ph name="END_LINK"/> דף אינטרנט זה במועד מאוחר יותר.</translation>
+<translation id="4977565600485911823">השבת את ההרחבות ולאחר מכן <ph name="BEGIN_LINK"/>טען מחדש<ph name="END_LINK"/> דף אינטרנט זה.</translation>
+<translation id="1103966635949043187">עבור אל דף הבית של האתר:</translation>
+<translation id="7747589364844254751">בדוק את חיבור האינטרנט שלך. אתחל את המודם, הנתב, או כל התקן רשת אחר שאתה משתמש בו.</translation>
+<translation id="5548623538190661145">בדוק את הגדרות ה-DNS שלך. צור קשר עם מנהל הרשת שלך אם אינך בטוח למה הכוונה.</translation>
+<translation id="4545046228395991092">אם אתה משתמש בשרת פרוקסי (proxy), בדוק את הגדרות הפרוקסי שלך או צור קשר עם מנהל הרשת כדי לוודא שהשרת פועל.</translation>
+<translation id="1712673276482711826">אם אתה משתמש בשרת פרוקסי (proxy), בדוק את הגדרות הפרוקסי שלך או צור קשר עם מנהל הרשת כדי לוודא שהשרת פועל. אם נראה לך שאין צורך להשתמש בשרת פרוקסי, שנה את ההגדרות: <ph name="PLATFORM_TEXT"/></translation>
+<translation id="721197778055552897"><ph name="BEGIN_LINK"/>קבל מידע נוסף<ph name="END_LINK"/> אודות בעיה זו.</translation>
+<translation id="8235325155053717782">שגיאה <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="3986287159189541211">שגיאת HTTP <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="3225919329040284222">השרת מציג אישור שאיננו מתאים לציפיות. הציפיות הללו קיימות עבור מספר אתרים שנדרשת עבורם אבטחה חזקה, כדי להגן עליך.</translation>
+<translation id="6957887021205513506">האישור שהשרת מציג נראה מזויף.</translation>
+<translation id="6429639049555216915">לא ניתן לגשת אל האפליקציה כרגע.</translation>
+<translation id="9127307628159259612">הוסף את <ph name="PRODUCT_NAME"/> לרשימת התוכנות המאושרות בהגדרות חומת האש או תוכנת האנטי וירוס שלך. אם התוכנה כבר מאושרת, נסה להסיר אותה מהרשימה ולהוסיף אותה שוב.</translation>
+<translation id="4544369257849566741">הרחבת SSL עבור חידוש מפתחות לא הופעלה בתיאום שיטת התקשורת (handshaking) המאובטחת. עבור חלק מהאתרים, הידועים כתומכים בהרחבה עבור חידוש מפתחות, <ph name="PRODUCT_NAME"/> דורש תיאום שיטת תקשורת מאובטח יותר, כדי למנוע קבוצה של התקפות מוכרות. ייתכן שזה שההרחבה לא נמצאת מעיד על כך שמישהו מתערב בהתקשרות הזו ומשנה את הנתיב שלה.</translation>
+<translation id="8162734958263531433">כדי להשתמש בניפוי שגיאות (debugging) דרך USB נדרש Android SDK ויש להפעיל במכשיר ה-Android שלך ניפוי שגיאות דרך USB. ראה <ph name="HTML_HELPURL"/> למידע נוסף.</translation>
+<translation id="1875071432292773474">הזן את הכתובת <ph name="ACCESS_POINT"/> בדפדפן במחשב השולחני שלך. הדפדפן השולחני ומכשיר ה-Android צריכים להיות באותה הרשת.</translation>
+<translation id="7227425938337339799">כדי ש-UPnP יעבוד תצטרך להיות באותה רשת משנה (subnet) או להגדיר את הנתב להעביר הודעות broadcast בין רשתות משנה.</translation>
+<translation id="4553629908098215669">במחשב שלך, הפעל את <ph name="HTMLADBCOMMAND"/> ועבור אל <ph name="HTMLLOCALHOSTURL"/> בדפדפן המבוסס על Chromium.</translation>
+<translation id="4570032796877367747">מצלמה קדמית</translation>
+<translation id="2599796128805996109">מצלמה אחורית</translation>
+<translation id="2124507516322945394">מיקרופון ברירת המחדל</translation>
+<translation id="1587215898571986504">רמקול הטלפון</translation>
+<translation id="5614598979078259956">אזניות חוטיות</translation>
+<translation id="9031226374756103225">אזניות אפרכסת</translation>
+<translation id="149679617917926491">אזניות בלוטות'</translation>
+<translation id="6060685159320643512">זהירות, ניסויים אלה עלולים להזיק</translation>
+<translation id="5199729219167945352">ניסויים</translation>
+<translation id="533563709691128800">מכובה</translation>
+<translation id="2506903884491778518">חיפוש ניסויים</translation>
+<translation id="1138663153846032155">העדף HTML על Flash</translation>
+<translation id="2081453640527377956">העדף תוכן HTML על ידי הסתרת Flash מרשימת התוספים.</translation>
+<translation id="5998167623928667649">הפעל את כל תוכן ה-Flash כאשר הגדרת Flash היא "אפשר"</translation>
+<translation id="5138177765054221193">עבור אתרים שהוגדרו ל"אפשר" תוכן Flash, הפעל את כל התוכן, כולל תוכן שנמצא כלא חשוב.</translation>
+<translation id="2112624549618815628">ברירת מחדל (מופעל)</translation>
+<translation id="3696363537446376816">ברירת מחדל (כבוי)</translation>
+<translation id="5773249585542913314">Windows Runtime MIDI API</translation>
+<translation id="7122132768827815392">השתמש ב-Windows Runtime MIDI API עבור WebMIDI (תקף רק ב-Windows 10 ואילך).</translation>
+<translation id="1375198122581997741">אודות הגרסה</translation>
+<translation id="7248671827512403053">יישום</translation>
+<translation id="1710259589646384581">מערכת הפעלה</translation>
+<translation id="6897140037006041989">מזהה דפדפן</translation>
+<translation id="7353601530677266744">שורת הפקודה</translation>
+<translation id="7225807090967870017">מזהה תת גרסה</translation>
+</translationbundle>

@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="lv">
+<translation id="3942946088478181888">Palīdziet man saprast</translation>
+<translation id="1396529432791646744">Izveidojot savienojumu ar drošu vietni, tās serveris jūsu pārlūkprogrammai piedāvā lietu, ko sauc par „sertifikātu”, kas paredzēts identitātes pārbaudei. Sertifikāts ietver informāciju par identitāti, tai skaitā vietnes adresi, ko pārbauda trešā puse, kurai jūsu mobilā ierīce uzticas. Pārbaudot, vai sertifikātā norādītā adrese atbilst vietnes adresei, ir iespējams pārliecināties, vai jūs veidojat drošus sakarus ar paredzēto vietni, nevis ar trešo pusi (piemēram, kādu, kas ielauzies jūsu tīklā).</translation>
+<translation id="6295228342562451544">Izveidojot savienojumu ar drošu vietni, serveris, kas vieso vietni, jūsu pārlūkprogrammai piedāvā izmantot sertifikātu, kas paredzēts vietnes identitātes pārbaudei. Šajā sertifikātā ir ietverta informācija par identitāti, tostarp vietnes adresi, ko pārbauda trešā puse, kurai jūsu dators uzticas. Pārbaudot, vai sertifikātā norādītā adrese atbilst vietnes adresei, var pārliecināties, vai jūs veidojat drošus sakarus ar paredzēto vietni, nevis ar trešo pusi (piemēram, kādu, kas ielauzies jūsu tīklā).</translation>
+<translation id="8187473050234053012">Servera drošības sertifikāts ir atsaukts!</translation>
+<translation id="5598024575303778520">Brīdinājums par krāpšanu</translation>
+<translation id="7311721172731074902">Brīdinājums par krāpšanu</translation>
+<translation id="1858130628205855959">Šī vietne, iespējams, ir uzlauzta vai krāpnieciska. Norādot tajā paroli vai personas informāciju, rodas identitātes zādzības vai finanšu krāpšanas risks.</translation>
+<translation id="8357891144266644027">Brīdinājums par kaitniecisku vietni</translation>
+<translation id="4664012235452972339">Brīdinājums par kaitniecisku vietni</translation>
+<translation id="1030973920598092450">Šī vietne, iespējams, ir uzlauzta vai satur ļaunprātīgu programmatūru. Šīs lapas apmeklēšana var būt bīstama.</translation>
+<translation id="4863259811271883558">Pārskatu veidojis <ph name="BEGIN_LINK"/><ph name="PROVIDER_NAME"/><ph name="END_LINK"/></translation>
+<translation id="3141322567138977593">Aizvērt drošā veidā</translation>
+<translation id="833642844779103272">Aizvērt drošā veidā</translation>
+<translation id="4238466718818823211">Ignorēt šo brīdinājumu</translation>
+<translation id="1755698976576372535">Kāpēc šī lapa ir bloķēta?</translation>
+<translation id="2962647877740028287">Paziņojumus par krāpšanu uztur trešās puses piegādātāji.</translation>
+<translation id="7470668651798735849">Šeit ir redzami visi paziņojumi no tīmekļa vietnēm.</translation>
+<translation id="6426222199977479699">SSL kļūda</translation>
+<translation id="8398877366907290961">Tomēr turpināt</translation>
+<translation id="6264485186158353794">Atpakaļ drošībā</translation>
+<translation id="2225024820658613551">Jums nevajadzētu turpināt, &lt;strong&gt;it īpaši&lt;/strong&gt;, ja iepriekš šai vietnei neesat redzējis šādu brīdinājumu.</translation>
+<translation id="5645845270586517071">Drošības kļūda</translation>
+<translation id="1103666958012677467">Jūs nevarat turpināt, jo vietnes operators šim domēnam ir pieprasījis paaugstinātu drošību.</translation>
+<translation id="5463275305984126951">Indekss vietai <ph name="LOCATION"/></translation>
+<translation id="8877448029301136595">[pamatdirektorijs]</translation>
+<translation id="3835522725882634757">Diemžēl serveris sūta datus, ko <ph name="PRODUCT_NAME"/> nevar saprast. Lūdzu, <ph name="BEGIN_LINK"/>ziņojiet par kļūdu<ph name="END_LINK"/>, iekļaujot <ph name="BEGIN2_LINK"/>neapstrādāto sarakstu<ph name="END2_LINK"/>.</translation>
+<translation id="5327248766486351172">Nosaukums</translation>
+<translation id="8028993641010258682">Lielums</translation>
+<translation id="57646104491463491">Modificēšanas datums</translation>
+<translation id="8465929756435120446">Šajā lapā ir iekļauts nedrošs saturs.</translation>
+<translation id="6827416153061837992">Šis savienojums nav šifrēts.</translation>
+<translation id="9193357432624119544">Kļūdas kods: <ph name="ERROR_NAME"/></translation>
+<translation id="4910619056351738551">Tālāk ir sniegti daži ieteikumi.</translation>
+<translation id="2954705784594331199">Vēlāk <ph name="BEGIN_LINK"/>pārlādējiet<ph name="END_LINK"/> šo tīmekļa lapu.</translation>
+<translation id="4977565600485911823">Atspējojiet paplašinājumus un pēc tam <ph name="BEGIN_LINK"/>pārlādējiet <ph name="END_LINK"/>šo tīmekļa lapu.</translation>
+<translation id="1103966635949043187">Dodieties uz vietnes sākumlapu:</translation>
+<translation id="7747589364844254751">Pārbaudiet interneta savienojumu. Restartējiet maršrutētāju, modemu vai citu tīkla sakaru ierīci, kuru izmantojat.</translation>
+<translation id="5548623538190661145">Pārbaudiet DNS iestatījumus. Ja nezināt, ko tas nozīmē, sazinieties ar tīkla administratoru.</translation>
+<translation id="4545046228395991092">Ja izmantojat starpniekserveri, pārbaudiet starpniekservera iestatījumus vai sazinieties ar tīkla administratoru, lai pārliecinātos, vai starpniekserveris darbojas.</translation>
+<translation id="1712673276482711826">Ja izmantojat starpniekserveri, pārbaudiet starpniekservera iestatījumus vai sazinieties ar tīkla administratoru, lai pārliecinātos, vai starpniekserveris darbojas. Ja neuzskatāt, ka jums jāizmanto starpniekserveris, pielāgojiet starpniekservera iestatījumus: <ph name="PLATFORM_TEXT"/></translation>
+<translation id="721197778055552897"><ph name="BEGIN_LINK"/>Uzziniet vairāk<ph name="END_LINK"/> par šo problēmu.</translation>
+<translation id="8235325155053717782">Kļūda <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="3986287159189541211">HTTP kļūda <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="3225919329040284222">Serveris nodrošināja sertifikātu, kas neatbilst iebūvētajām prasībām. Šīs prasības ir iekļautas noteiktās ļoti drošajās vietnēs, lai jūs aizsargātu.</translation>
+<translation id="6957887021205513506">Servera sertifikāts ir šķietami viltots.</translation>
+<translation id="6429639049555216915">Lietojumprogramma pašlaik nav sasniedzama.</translation>
+<translation id="9127307628159259612">Pievienojiet <ph name="PRODUCT_NAME"/> kā atļautu programmu ugunsmūra vai pretvīrusu programmatūras iestatījumos. Ja šī programma jau ir atļauta, mēģiniet dzēst to atļauto programmu sarakstā un pievienot atkārtoti.</translation>
+<translation id="4544369257849566741">Drošajā izaicinājumrokasspiedienā trūkst SSL atkārtoto pārrunu paplašinājuma. Dažām vietnēm, par kurām ir zināms, ka tās atbalsta atkārtoto pārrunu paplašinājumu, <ph name="PRODUCT_NAME"/> pieprasa drošāku izaicinājumrokasspiedienu, lai novērstu zināma veida uzbrukumus. Šī paplašinājuma neesamība liecina, ka jūsu savienojums datu pārraides laikā ir pārtverts un ar to ir veiktas manipulācijas.</translation>
+<translation id="8162734958263531433">Lai izmantotu USB atkļūdošanu, Android ierīcē ir jāiespējo Android SDK un USB atkļūdošana. Papildinformāciju skatiet šeit: <ph name="HTML_HELPURL"/>.</translation>
+<translation id="1875071432292773474">Ievadiet adresi <ph name="ACCESS_POINT"/> savā darbvirsmas pārlūkā. Datora pārlūkprogrammai ir jābūt vienā tīklā ar Android ierīci.</translation>
+<translation id="7227425938337339799">Lai UPnP darbotos, jums ir jālieto viens un tas pats apakštīkls vai arī maršrutētājā ir jāizveido tilts ar pārsūtītajām apraidēm apakštīklos.</translation>
+<translation id="4553629908098215669">Palaidiet savā datorā programmu <ph name="HTMLADBCOMMAND"/> un pārejiet uz adresi <ph name="HTMLLOCALHOSTURL"/>, izmantojot pārlūkprogrammu, kas izveidota uz Chromium bāzes.</translation>
+<translation id="4570032796877367747">Priekšējā kamera</translation>
+<translation id="2599796128805996109">Aizmugurējā kamera</translation>
+<translation id="2124507516322945394">Noklusējuma mikrofons</translation>
+<translation id="1587215898571986504">Mikrofons ar skaļruni</translation>
+<translation id="5614598979078259956">Vadu austiņas</translation>
+<translation id="9031226374756103225">Vienauss austiņa</translation>
+<translation id="149679617917926491">Bluetooth austiņas</translation>
+<translation id="6060685159320643512">Uzmanību! Šie eksperimenti var radīt kaitējumu.</translation>
+<translation id="5199729219167945352">Eksperimenti</translation>
+<translation id="533563709691128800">atspējots</translation>
+<translation id="2506903884491778518">Meklēt eksperimentus</translation>
+<translation id="1138663153846032155">Labāk izvēlēties HTML, nevis Flash</translation>
+<translation id="2081453640527377956">Labāk izvēlēties HTML saturu, no spraudņu saraksta paslēpjot Flash.</translation>
+<translation id="5998167623928667649">Palaist visu Flash saturu, ja iestatījumos ir iestatīts "atļaut" Flash</translation>
+<translation id="5138177765054221193">Vietnēm, kurām Flash saturs ir "atļauts", palaist visu saturu, ieskaitot par nesvarīgu atzīto saturu.</translation>
+<translation id="2112624549618815628">Noklusējums (iespējots)</translation>
+<translation id="3696363537446376816">Noklusējums (atspējots)</translation>
+<translation id="5773249585542913314">Windows Runtime MIDI API</translation>
+<translation id="7122132768827815392">Lietot Windows Runtime MIDI API, kas paredzēts WebMIDI (spēkā tikai operētājsistēmā Windows 10 un jaunākās versijās).</translation>
+<translation id="1375198122581997741">Par versiju</translation>
+<translation id="7248671827512403053">Lietojumprogramma</translation>
+<translation id="1710259589646384581">Operētājsistēma</translation>
+<translation id="6897140037006041989">Lietotāja aģents</translation>
+<translation id="7353601530677266744">Komandrindiņa</translation>
+<translation id="7225807090967870017">Būvējuma ID</translation>
+</translationbundle>

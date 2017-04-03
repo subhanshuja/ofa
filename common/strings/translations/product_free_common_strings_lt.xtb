@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="lt">
+<translation id="3942946088478181888">Man reikia daugiau informacijos</translation>
+<translation id="1396529432791646744">Kai jungiatės prie saugiosios svetainės, serveris, kuriame yra ta svetainė, pateikia jūsų naršyklei vadinamąjį liudijimą, kad patvirtintų jos tapatumą. Šiame liudijime yra tapatumo informacija, pvz., trečiosios šalies, kuria pasitikti jūsų mobilusis įrenginys, patvirtintos svetainės adresas. Tikrinant, ar liudijime nurodytas adresas atitinka svetainės adresą, galima patvirtinti, kad užmezgėte saugų ryšį su svetaine, o ne su trečiąja šalimi (pvz., įsilaužėliu).</translation>
+<translation id="6295228342562451544">Kai jungiatės prie saugiosios svetainės, serveris, kuriame yra ta svetainė, pateikia jūsų naršyklei vadinamąjį liudijimą, kad patvirtintų jos tapatumą. Šiame liudijime yra tapatumo informacija, pvz., trečiosios šalies, kuria pasitiki jūsų kompiuteris, patvirtintas svetainės adresas. Tikrinant, ar liudijime nurodytas adresas atitinka svetainės adresą, galima patvirtinti, kad užmezgėte saugų ryšį su svetaine, o ne su trečiąja šalimi (pvz., įsilaužėliu).</translation>
+<translation id="8187473050234053012">Serverio saugumo liudijimas yra atšauktas!</translation>
+<translation id="5598024575303778520">Perspėjimas apie apsimestinę svetainę</translation>
+<translation id="7311721172731074902">Perspėjimas apie apsimestinę svetainę</translation>
+<translation id="1858130628205855959">Į šią svetainę galėjo būti įsilaužta arba ji gali būti apgaulinga. Suteikiant jai slaptažodžius arba asmeninę informaciją, kyla rizika, susijusi su tapatybės vagyste arba finansiniu sukčiavimu.</translation>
+<translation id="8357891144266644027">Perspėjimas apie kenkėjišką svetainę</translation>
+<translation id="4664012235452972339">Perspėjimas apie kenkėjišką svetainę</translation>
+<translation id="1030973920598092450">Į šią svetainę galėjo būti įsilaužta arba joje gali būti kenkėjiškų programų. Apsilankius šiame puslapyje gali kilti pavojus.</translation>
+<translation id="4863259811271883558">Pranešė <ph name="BEGIN_LINK"/><ph name="PROVIDER_NAME"/><ph name="END_LINK"/></translation>
+<translation id="3141322567138977593">Saugiai grįžkite atgal</translation>
+<translation id="833642844779103272">Saugiai grįžkite atgal</translation>
+<translation id="4238466718818823211">Ignoruoti šį perspėjimą</translation>
+<translation id="1755698976576372535">Kodėl šis puslapis buvo užblokuotas?</translation>
+<translation id="2962647877740028287">Ataskaitas apie apsimestinę veiklą teikia trečiųjų šalių paslaugų teikėjai.</translation>
+<translation id="7470668651798735849">Čia galite matyti visus svetainių pranešimus.</translation>
+<translation id="6426222199977479699">SSL klaida</translation>
+<translation id="8398877366907290961">Vis tiek tęsti</translation>
+<translation id="6264485186158353794">Saugiai grįžti atgal</translation>
+<translation id="2225024820658613551">Neikite į svetainę, &lt;strong&gt;ypač&lt;/strong&gt; jei anksčiau niekada šioje svetainėje nesate matę tokio perspėjimo.</translation>
+<translation id="5645845270586517071">Saugumo klaida</translation>
+<translation id="1103666958012677467">Tęsti negalima, svetainės operatorius reikalauja padidinto šio domeno saugumo.</translation>
+<translation id="5463275305984126951"><ph name="LOCATION"/> rodyklė</translation>
+<translation id="8877448029301136595">[pirminis katalogas]</translation>
+<translation id="3835522725882634757">Oi! Šis serveris siunčia duomenis, kurių <ph name="PRODUCT_NAME"/> negali suprasti. <ph name="BEGIN_LINK"/>Praneškite apie klaidą<ph name="END_LINK"/> ir įtraukite <ph name="BEGIN2_LINK"/>neapdorotų duomenų sąrašą<ph name="END2_LINK"/>.</translation>
+<translation id="5327248766486351172">Vardas</translation>
+<translation id="8028993641010258682">Dydis</translation>
+<translation id="57646104491463491">Pakeitimo data</translation>
+<translation id="8465929756435120446">Šiame puslapyje yra nesaugaus turinio.</translation>
+<translation id="6827416153061837992">Šis ryšys nėra užšifruotas.</translation>
+<translation id="9193357432624119544">Klaidos kodas: <ph name="ERROR_NAME"/></translation>
+<translation id="4910619056351738551">Toliau pateikiami keli pasiūlymai:</translation>
+<translation id="2954705784594331199"><ph name="BEGIN_LINK"/>Įkelkite<ph name="END_LINK"/> šį tinklalapį iš naujo vėliau.</translation>
+<translation id="4977565600485911823">Išjunkite plėtinius ir tada <ph name="BEGIN_LINK"/>įkelkite<ph name="END_LINK"/> šį tinklalapį iš naujo.</translation>
+<translation id="1103966635949043187">Eikite į pagrindinį svetainės puslapį:</translation>
+<translation id="7747589364844254751">Patikrinkite interneto ryšį. Iš naujo paleiskite maršruto parinktuvą, modemą ar kitą naudojamą tinklo įrenginį.</translation>
+<translation id="5548623538190661145">Patikrinkite DNS parametrus. Jei nežinote, ką daryti, susisiekite su savo tinklo administratoriumi.</translation>
+<translation id="4545046228395991092">Jei naudojate įgaliotąjį serverį, patikrinkite jo parametrus arba susisiekite su savo tinklo administratoriumi ir įsitikinkite, kad įgaliotasis serveris tikrai veikia.</translation>
+<translation id="1712673276482711826">Jei naudojate įgaliotąjį serverį, patikrinkite jo parametrus arba susisiekite su savo tinklo administratoriumi ir įsitikinkite, kad įgaliotasis serveris tikrai veikia. Jeigu nemanote, kad naudojate įgaliotąjį serverį, pakoreguokite savo įgaliotojo serverio parametrus: <ph name="PLATFORM_TEXT"/></translation>
+<translation id="721197778055552897"><ph name="BEGIN_LINK"/>Sužinokite daugiau<ph name="END_LINK"/> apie šią problemą.</translation>
+<translation id="8235325155053717782">Klaida <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="3986287159189541211">HTTP klaida <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="3225919329040284222">Serveris pateikė liudijimą, neatitinkantį įtaisytųjų lūkesčių. Šie lūkesčiai įtraukti dėl neabejotinų ir itin saugių svetainių, kad jus apsaugotų.</translation>
+<translation id="6957887021205513506">Serverio liudijimas atrodo suklastotas.</translation>
+<translation id="6429639049555216915">Programa šiuo metu nepasiekiama.</translation>
+<translation id="9127307628159259612">Įtraukite <ph name="PRODUCT_NAME"/> kaip leidžiamą programą naudodami savo užkardos ar antivirusinės programos parametrus. Jei ši programa yra leidžiama, pašalinkite ją iš leidžiamų programų sąrašo ir įtraukite iš naujo.</translation>
+<translation id="4544369257849566741">Saugos patvirtinime nebuvo SSL tolesnių derybų plėtinio. Iš tam tikrų svetainių, kurios, kaip žinoma, palaiko tolesnių derybų plėtinį, <ph name="PRODUCT_NAME"/> reikalauja saugesnio patvirtinimo, kad apsaugotų nuo žinomų atakų. Jei šis plėtinys praleistas, galima manyti, jog jūsų ryšys buvo perimtas ir yra valdomas pereinant.</translation>
+<translation id="8162734958263531433">Norint atlikti USB derinimą, „Android“ įrenginyje turi būti įjungtas „Android“ SDK ir USB derinimas. Daugiau informacijos žr. <ph name="HTML_HELPURL"/>.</translation>
+<translation id="1875071432292773474">Kompiuterio naršyklėje įveskite adresą <ph name="ACCESS_POINT"/>. Kompiuterio naršyklė turi būti tame pačiame tinkle kaip ir „Android“ įrenginys.</translation>
+<translation id="7227425938337339799">Kad UPnP veiktų, įrenginys turi būti tame pačiame potinklyje arba turite nustatyti maršruto parinktuvą, kad jis perduotų transliacijas į potinklius.</translation>
+<translation id="4553629908098215669">Kompiuteryje paleiskite <ph name="HTMLADBCOMMAND"/> ir eikite į <ph name="HTMLLOCALHOSTURL"/> naudodami „Chromium“ pagrindo naršyklę.</translation>
+<translation id="4570032796877367747">Priekinė kamera</translation>
+<translation id="2599796128805996109">Galinė kamera</translation>
+<translation id="2124507516322945394">Numatytasis mikrofonas</translation>
+<translation id="1587215898571986504">Telefonas su garsiakalbiu</translation>
+<translation id="5614598979078259956">Laidinės ausinės</translation>
+<translation id="9031226374756103225">Ausinė</translation>
+<translation id="149679617917926491">„Bluetooth“ ausinės</translation>
+<translation id="6060685159320643512">Būkite atsargūs, nes šie eksperimentai gali būti pavojingi</translation>
+<translation id="5199729219167945352">Eksperimentai</translation>
+<translation id="533563709691128800">išjungta</translation>
+<translation id="2506903884491778518">Ieškoti eksperimentų</translation>
+<translation id="1138663153846032155">Pirmenybę teikti HTML, ne „Flash“</translation>
+<translation id="2081453640527377956">Pirmenybę tekti HTML turiniui paslepiant „Flash“ priedų sąraše.</translation>
+<translation id="5998167623928667649">Paleisti visą „Flash“ turinį, kai „Flash“ parametruose nustatyta „leisti“</translation>
+<translation id="5138177765054221193">Svetainėse, kuriose nustatyta leisti „Flash“ turinį, paleisti visą turinį, įskaitant ir tą, kuris laikomas nesvarbiu.</translation>
+<translation id="2112624549618815628">Numatyta (įjungta)</translation>
+<translation id="3696363537446376816">Numatyta (išjungta)</translation>
+<translation id="5773249585542913314">„Windows Runtime MIDI“ API</translation>
+<translation id="7122132768827815392">Naudoti „Windows Runtime MIDI“ API, skirtą „WebMIDI“ (veikia tik su „Windows 10“ ar naujesne versija).</translation>
+<translation id="1375198122581997741">Apie versiją</translation>
+<translation id="7248671827512403053">Programa</translation>
+<translation id="1710259589646384581">Operacinė sistema</translation>
+<translation id="6897140037006041989">Naudotojo agentas</translation>
+<translation id="7353601530677266744">Komandų eilutė</translation>
+<translation id="7225807090967870017">Laidos ID</translation>
+</translationbundle>

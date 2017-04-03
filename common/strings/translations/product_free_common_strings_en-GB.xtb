@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="en-GB">
+<translation id="3942946088478181888">Help me understand</translation>
+<translation id="1396529432791646744">When you connect to a secure website, the server hosting that site presents your browser with something called a "certificate" to verify its identity. This certificate contains identity information, such as the address of the website, which is verified by a third party that your mobile device trusts. By checking that the address in the certificate matches the address of the website, it is possible to verify that you are securely communicating with the website you intended, and not a third party (such as an attacker on your network).</translation>
+<translation id="6295228342562451544">When you connect to a secure website, the server hosting that site presents your browser with something called a "certificate" to verify its identity. This certificate contains identity information, such as the address of the website, which is verified by a third party that your computer trusts. By checking that the address in the certificate matches the address of the website, it is possible to verify that you are securely communicating with the website you intended, and not a third party (such as an attacker on your network).</translation>
+<translation id="8187473050234053012">The server's security certificate is revoked!</translation>
+<translation id="5598024575303778520">Fraud warning</translation>
+<translation id="7311721172731074902">Fraud Warning</translation>
+<translation id="1858130628205855959">This site may be hacked or fraudulent. Giving it passwords or personal information could put you at risk for identity theft or financial fraud.</translation>
+<translation id="8357891144266644027">Malicious site warning</translation>
+<translation id="4664012235452972339">Malicious Site Warning</translation>
+<translation id="1030973920598092450">This site may be hacked or contain malicious software. Visiting this page may be harmful.</translation>
+<translation id="4863259811271883558">Reported by <ph name="BEGIN_LINK"/><ph name="PROVIDER_NAME"/><ph name="END_LINK"/></translation>
+<translation id="3141322567138977593">Go back safely</translation>
+<translation id="833642844779103272">Go Back Safely</translation>
+<translation id="4238466718818823211">Ignore this warning</translation>
+<translation id="1755698976576372535">Why was this page blocked?</translation>
+<translation id="2962647877740028287">Our fraud reports are maintained by third-party vendors.</translation>
+<translation id="7470668651798735849">You can see all your notifications from websites here.</translation>
+<translation id="6426222199977479699">SSL Error</translation>
+<translation id="8398877366907290961">Proceed anyway</translation>
+<translation id="6264485186158353794">Back to safety</translation>
+<translation id="2225024820658613551">You should not proceed, &lt;strong&gt;especially&lt;/strong&gt; if you have never seen this warning before for this site.</translation>
+<translation id="5645845270586517071">Security Error</translation>
+<translation id="1103666958012677467">You cannot proceed because the website operator has requested heightened security for this domain.</translation>
+<translation id="5463275305984126951">Index of <ph name="LOCATION"/></translation>
+<translation id="8877448029301136595">[parent directory]</translation>
+<translation id="3835522725882634757">Oh, no! This server is sending data <ph name="PRODUCT_NAME"/> can't understand. Please <ph name="BEGIN_LINK"/>report a bug<ph name="END_LINK"/>, and include the <ph name="BEGIN2_LINK"/>raw listing<ph name="END2_LINK"/>.</translation>
+<translation id="5327248766486351172">Name</translation>
+<translation id="8028993641010258682">Size</translation>
+<translation id="57646104491463491">Date Modified</translation>
+<translation id="8465929756435120446">This page contains some insecure content.</translation>
+<translation id="6827416153061837992">This connection is not encrypted.</translation>
+<translation id="9193357432624119544">Error code: <ph name="ERROR_NAME"/></translation>
+<translation id="4910619056351738551">Here are some suggestions:</translation>
+<translation id="2954705784594331199"><ph name="BEGIN_LINK"/>Reload<ph name="END_LINK"/> this webpage later.</translation>
+<translation id="4977565600485911823">Disable your extensions and then <ph name="BEGIN_LINK"/>reload<ph name="END_LINK"/> this webpage.</translation>
+<translation id="1103966635949043187">Go to the home page of the site:</translation>
+<translation id="7747589364844254751">Check your internet connection. Restart any router, modem, or other network devices you may be using.</translation>
+<translation id="5548623538190661145">Check your DNS settings. Contact your network administrator if you're not sure what this means.</translation>
+<translation id="4545046228395991092">If you use a proxy server, check your proxy settings or contact your network administrator to make sure the proxy server is working.</translation>
+<translation id="1712673276482711826">If you use a proxy server, check your proxy settings or contact your network administrator to make sure the proxy server is working. If you don't believe you should be using a proxy server, adjust your proxy settings: <ph name="PLATFORM_TEXT"/></translation>
+<translation id="721197778055552897"><ph name="BEGIN_LINK"/>Learn more<ph name="END_LINK"/> about this problem.</translation>
+<translation id="8235325155053717782">Error <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="3986287159189541211">HTTP Error <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="3225919329040284222">The server presented a certificate that doesn't match built-in expectations. These expectations are included for certain, high-security websites in order to protect you.</translation>
+<translation id="6957887021205513506">The server's certificate appears to be a forgery.</translation>
+<translation id="6429639049555216915">The app is currently unreachable.</translation>
+<translation id="9127307628159259612">Add <ph name="PRODUCT_NAME"/> as a permitted program in your firewall's or antivirus software's settings. If it is already a permitted program, try deleting it from the list of permitted programs and adding it again.</translation>
+<translation id="4544369257849566741">The SSL renegotiation extension was missing from the secure handshake. For some sites, which are known to support the renegotiation extension, <ph name="PRODUCT_NAME"/> requires a more secure handshake to prevent a class of known attacks. The omission of this extension suggests that your connection was intercepted and manipulated in transit.</translation>
+<translation id="8162734958263531433">To use USB debugging, you need the Android SDK and USB debugging enabled on your Android device. See <ph name="HTML_HELPURL"/> for more information.</translation>
+<translation id="1875071432292773474">Enter the address <ph name="ACCESS_POINT"/> on your desktop browser. The desktop browser must be on the same network as the Android device.</translation>
+<translation id="7227425938337339799">For UPnP to work you either need to be on the same subnet, or bridge the router to forward broadcasts across subnets.</translation>
+<translation id="4553629908098215669">On your computer, run <ph name="HTMLADBCOMMAND"/>, and navigate to <ph name="HTMLLOCALHOSTURL"/> with a Chromium-based browser.</translation>
+<translation id="4570032796877367747">Front camera</translation>
+<translation id="2599796128805996109">Back camera</translation>
+<translation id="2124507516322945394">Default microphone</translation>
+<translation id="1587215898571986504">Speakerphone</translation>
+<translation id="5614598979078259956">Wired headset</translation>
+<translation id="9031226374756103225">Headset earpiece</translation>
+<translation id="149679617917926491">Bluetooth headset</translation>
+<translation id="6060685159320643512">Careful, these experiments may bite</translation>
+<translation id="5199729219167945352">Experiments</translation>
+<translation id="533563709691128800">disabled</translation>
+<translation id="2506903884491778518">Search experiments</translation>
+<translation id="1138663153846032155">Prefer HTML over Flash</translation>
+<translation id="2081453640527377956">Prefer HTML content by hiding Flash from the list of plug-ins.</translation>
+<translation id="5998167623928667649">Run all Flash content when Flash setting is set to "allow"</translation>
+<translation id="5138177765054221193">For sites that have been set to "allow" Flash content, run all content including any that has been deemed unimportant.</translation>
+<translation id="2112624549618815628">Default (enabled)</translation>
+<translation id="3696363537446376816">Default (disabled)</translation>
+<translation id="5773249585542913314">Windows Runtime MIDI API</translation>
+<translation id="7122132768827815392">Use Windows Runtime MIDI API for WebMIDI (effective only on Windows 10 or later).</translation>
+<translation id="1375198122581997741">About Version</translation>
+<translation id="7248671827512403053">Application</translation>
+<translation id="1710259589646384581">OS</translation>
+<translation id="6897140037006041989">User Agent</translation>
+<translation id="7353601530677266744">Command Line</translation>
+<translation id="7225807090967870017">Build ID</translation>
+</translationbundle>

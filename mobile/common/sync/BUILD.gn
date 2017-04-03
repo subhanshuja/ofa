@@ -1,0 +1,153 @@
+# Copyright (C) 2016 Opera Software ASA.  All rights reserved.
+#
+# This file is an original work developed by Opera Software ASA
+
+# Since Mini isn't planning to use gn this file is OfA only.
+
+import("//build/config/opera-common.gni")
+import("$opera/mobile/mobile/build/args.gni")
+import("$opera/mobile/mobile/build/config.gni")
+
+declare_args() {
+  sync_auth_service = ""
+  sync_auth_application = ""
+  sync_auth_application_key = ""
+  sync_auth_client_key = ""
+  sync_auth_client_secret = ""
+}
+
+config("sync_impl_config") {
+  defines = [
+    "SYNC_AUTH_SERVICE=\"$sync_auth_service\"",
+    "SYNC_AUTH_APPLICATION=\"$sync_auth_application\"",
+    "SYNC_AUTH_APPLICATION_KEY=\"$sync_auth_application_key\"",
+    "SYNC_AUTH_CLIENT_KEY=\"$sync_auth_client_key\"",
+    "SYNC_AUTH_CLIENT_SECRET=\"$sync_auth_client_secret\"",
+  ]
+
+  if (is_beta_build) {
+    defines += [ "OPERA_BETA_BUILD" ]
+  }
+
+  if (is_developer_build) {
+    defines += [ "OPERA_DEVELOPER_BUILD" ]
+  }
+}
+
+source_set("sync_config_impl") {
+  sources = [
+    "opera_version_info.cc",
+    "opera_version_info.h",
+    "sync_config_impl.cc",
+    "sync_switches.cc",
+    "sync_switches.h",
+  ]
+
+  configs += [
+    ":sync_impl_config",
+    "$opera/common/config:include_config",
+  ]
+
+  deps = [
+    "$opera/mobile/mobile/src/chill:version_impl",
+    "//base",
+  ]
+}
+
+source_set("sync") {
+  sources = [
+    "$mobile_chrome_imports_dir/chrome/browser/bookmarks/managed_bookmark_service_factory.cc",
+    "$mobile_chrome_imports_dir/chrome/browser/browsing_data/browsing_data_remover.cc",
+    "$mobile_chrome_imports_dir/chrome/browser/browsing_data/browsing_data_remover.h",
+    "$mobile_chrome_imports_dir/chrome/browser/favicon/favicon_service_factory.cc",
+    "$mobile_chrome_imports_dir/chrome/browser/history/chrome_history_client.cc",
+    "$mobile_chrome_imports_dir/chrome/browser/history/chrome_history_client.h",
+    "$mobile_chrome_imports_dir/chrome/browser/history/history_service_factory.cc",
+    "$mobile_chrome_imports_dir/chrome/browser/history/history_service_factory.h",
+    "$mobile_chrome_imports_dir/chrome/browser/password_manager/password_store_factory.cc",
+    "$mobile_chrome_imports_dir/chrome/browser/password_manager/password_store_factory.h",
+    "$mobile_chrome_imports_dir/chrome/browser/profiles/profile.cc",
+    "$mobile_chrome_imports_dir/chrome/browser/profiles/profile.h",
+    "$mobile_chrome_imports_dir/chrome/browser/sync/glue/extensions_activity_monitor.cc",
+    "$mobile_chrome_imports_dir/chrome/browser/sync/sessions/notification_service_sessions_router.cc",
+    "$mobile_chrome_imports_dir/chrome/browser/sync/sessions/notification_service_sessions_router.h",
+    "$mobile_chrome_imports_dir/chrome/common/chrome_switches.cc",
+    "$mobile_chrome_imports_dir/components/webdata_services/web_data_service_wrapper.cc",
+    "$mobile_chrome_imports_dir/components/webdata_services/web_data_service_wrapper.h",
+    "//chrome/browser/android/offline_pages/offline_page_bookmark_observer.cc",
+    "//chrome/browser/android/offline_pages/offline_page_bookmark_observer.h",
+    "//chrome/browser/bookmarks/bookmark_model_factory.cc",
+    "//chrome/browser/bookmarks/bookmark_model_factory.h",
+    "//chrome/browser/bookmarks/chrome_bookmark_client.cc",
+    "//chrome/browser/bookmarks/chrome_bookmark_client.h",
+    "//chrome/browser/bookmarks/startup_task_runner_service_factory.cc",
+    "//chrome/browser/bookmarks/startup_task_runner_service_factory.h",
+    "//chrome/browser/history/android/android_provider_backend.cc",
+    "//chrome/browser/history/android/android_provider_backend.h",
+    "//chrome/browser/history/android/bookmark_model_sql_handler.cc",
+    "//chrome/browser/history/android/bookmark_model_sql_handler.h",
+    "//chrome/browser/history/chrome_history_backend_client.cc",
+    "//chrome/browser/history/chrome_history_backend_client.h",
+    "//chrome/browser/undo/bookmark_undo_service_factory.cc",
+    "//chrome/browser/undo/bookmark_undo_service_factory.h",
+    "//chrome/common/pref_names.cc",
+    "//chrome/common/pref_names.h",
+    "//components/undo/bookmark_undo_utils.h",
+    "auth_data.cc",
+    "auth_data.h",
+    "browsing_data_remover_factory.cc",
+    "invalidation_data.cc",
+    "invalidation_data.h",
+    "mobile_synced_tab_delegate.cc",
+    "mobile_synced_tab_delegate.h",
+    "offline_pages.cc",
+    "sync_browser_prefs.cc",
+    "sync_browser_prefs.h",
+    "sync_browser_process.cc",
+    "sync_browser_process.h",
+    "sync_credentials_store.cc",
+    "sync_credentials_store.h",
+    "sync_manager.cc",
+    "sync_manager.h",
+    "sync_manager_factory.cc",
+    "sync_manager_factory.h",
+    "sync_manager_impl.cc",
+    "sync_manager_impl.h",
+    "sync_profile.cc",
+    "sync_profile.h",
+    "sync_profile_manager.cc",
+    "sync_profile_manager.h",
+    "synced_tabs_database.cc",
+    "synced_tabs_database.h",
+    "synced_tabs_database_impl.cc",
+    "synced_tabs_database_impl.h",
+    "synced_tabs_service.cc",
+    "synced_tabs_service.h",
+    "synced_window_delegate.cc",
+    "synced_window_delegate.h",
+    "url_constants.cc",
+    "web_data_service_factory.cc",
+  ]
+
+  configs += [
+    ":sync_impl_config",
+    "$opera/common/config:include_config",
+    "//third_party/cacheinvalidation:cacheinvalidation_config",
+  ]
+
+  deps = [
+    ":sync_config_impl",
+    "$opera/common/account",
+    "$opera/common/bookmarks",
+    "$opera/common/sync:chrome_browser_sync",
+    "$opera/mobile/common/favorites",
+    "//components/bookmarks/browser",
+    "//components/bookmarks/common",
+    "//components/bookmarks/managed",
+    "//components/history/content/browser",
+    "//components/history/core/common",
+    "//components/keyed_service/content",
+    "//components/offline_pages",
+    "//components/sync",
+  ]
+}

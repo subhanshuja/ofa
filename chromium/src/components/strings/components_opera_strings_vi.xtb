@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="vi">
+<translation id="1974060860693918893">Nâng cao</translation>
+<translation id="3462200631372590220">Ẩn nâng cao</translation>
+<translation id="3369192424181595722">Lỗi đồng hồ</translation>
+<translation id="2625385379895617796">Đồng hồ của bạn nhanh</translation>
+<translation id="8932102934695377596">Đồng hồ của bạn chậm</translation>
+<translation id="3858027520442213535">Cập nhật ngày và giờ</translation>
+<translation id="725866823122871198">Không thể thiết lập một kết nối riêng đến <ph name="BEGIN_BOLD"/><ph name="DOMAIN"/><ph name="END_BOLD"/> bởi vì ngày và giờ của máy tính của bạn (<ph name="DATE_AND_TIME"/>) không chính xác.</translation>
+<translation id="4879058462256654741">Để thiết lập một kết nối an toàn, đồng hồ của bạn cần phải được cài đặt chính xác. Điều này vì các chứng chỉ mà các trang web sử dụng để xác định bản thân chúng chỉ hợp lệ trong các khoảng thời gian cụ thể. Bởi vì đồng hồ của thiết bị của bạn không chính xác nên những chứng chỉ này không thể xác thực được.</translation>
+<translation id="1413809658975081374">Lỗi quyền riêng tư</translation>
+<translation id="3566021033012934673">Kết nối của bạn không phải kết nối riêng tư</translation>
+<translation id="340013220407300675">Những kẻ tấn công có thể đang cố gắng lấy thông tin của bạn từ <ph name="BEGIN_BOLD"/><ph name="SITE"/><ph name="END_BOLD"/> (ví dụ như mật khẩu, tin nhắn hoặc thẻ tín dụng).</translation>
+<translation id="629137324635910832"><ph name="SITE"/> thông thường sử dụng mã hoá để bảo vệ thông tin của bạn. Khi Opera cố gắng kết nối tới <ph name="SITE"/> lần này, trang web gửi lại các uỷ nhiệm bất thường và không chính xác. Điều này có thể xảy ra khi một kẻ tấn công đang cố gắng giả vờ là <ph name="SITE"/>, hoặc một màn hình đăng nhập Wi-Fi có kết nối bị gián đoạn. Thông tin của bạn vẫn an toàn bởi vì Opera đã chặn kết nối này trước khi dữ liệu bị trao đổi.</translation>
+<translation id="4404555778932203074">Bạn không thể truy cập <ph name="SITE"/> ngay bây giờ vì trang web đã gửi các thông tin chứng nhận lộn xộn mà Opera không thể xử lý. Lỗi mạng và các vụ tấn công thường mang tính tạm thời, vì vậy trang này sẽ có thể làm việc sau.</translation>
+<translation id="8882627153668738693"><ph name="SITE"/> thông thường sử dụng mã hoá để bảo vệ thông tin của bạn. Khi Avast SafeZone cố gắng kết nối tới <ph name="SITE"/> lần này, trang web gửi lại các uỷ nhiệm bất thường và không chính xác. Điều này có thể xảy ra khi một kẻ tấn công đang cố gắng giả vờ là <ph name="SITE"/>, hoặc một màn hình đăng nhập Wi-Fi có kết nối bị gián đoạn. Thông tin của bạn vẫn an toàn bởi vì Avast SafeZone đã chặn kết nối này trước khi dữ liệu bị trao đổi.</translation>
+<translation id="1888865191717601957">Bạn không thể truy cập <ph name="SITE"/> ngay bây giờ vì trang web đã gửi các thông tin chứng nhận lộn xộn mà Avast SafeZone không thể xử lý. Lỗi mạng và các vụ tấn công thường mang tính tạm thời, vì vậy trang này sẽ có thể làm việc sau.</translation>
+<translation id="6264485186158353794">Trở về an toàn</translation>
+<translation id="7704050614460855821"><ph name="BEGIN_LINK"/>Tiếp tục tới <ph name="SITE"/> (không an toàn)<ph name="END_LINK"/></translation>
+<translation id="5556459405103347317">Tải lại</translation>
+<translation id="6051221802930200923">Bạn không thể truy cập <ph name="SITE"/> ngay bây giờ vì trang web sử dụng gắn chứng chỉ. Lỗi mạng và các vụ tấn công thường mang tính tạm thời, vì vậy trang này sẽ có thể làm việc sau.</translation>
+<translation id="2991571918955627853">Bạn không thể truy cập <ph name="SITE"/> ngay bây giờ vì trang web sử dụng HSTS. Lỗi mạng và các vụ tấn công thường mang tính tạm thời, vì vậy trang này sẽ có thể làm việc sau.</translation>
+<translation id="1430489501396597835">Bạn không thể truy cập <ph name="SITE"/> ngay bây giờ vì chứng chỉ này đã bị rút lại. Lỗi mạng và các vụ tấn công thường mang tính tạm thời, vì vậy trang này sẽ có thể làm việc sau.</translation>
+<translation id="4513896196857653318">Tới
+          Menu Main &gt;
+          <ph name="SETTINGS_TITLE"/>
+          &gt;
+          <ph name="ADVANCED_TITLE"/>
+          và bỏ chọn "<ph name="NO_PREFETCH_DESCRIPTION"/>."
+          Nếu điều này không giải quyết được vấn đề, chúng tôi đề xuất chọn tuỳ chọn này
+          lần nữa để cải thiện hiệu suất.</translation>
+<translation id="8888594059056485523">Cho phép Opera truy cập mạng trong cài đặt chống vi-rút hoặc tường lửa của bạn.</translation>
+<translation id="8040357206858000048">Đi tới Ứng dụng &gt; Tùy chọn hệ thống &gt; Mạng &gt; Nâng cao &gt; Proxy và bỏ chọn mọi proxy đã được chọn.</translation>
+<translation id="1532685482177999023">Đi tới menu Main &gt; <ph name="SETTINGS_TITLE"/> &gt; <ph name="PROXIES_TITLE"/> &gt; Cài đặt LAN và bỏ chọn "Sử dụng máy chủ proxy cho LAN của bạn".</translation>
+<translation id="6118049677165320383">Thay đổi của bạn sẽ có hiệu lực lần tới khi bạn khởi chạy lại trình duyệt.</translation>
+<translation id="5510583790312051907">Báo cáo sự cố không sẵn có.</translation>
+<translation id="1011013207380005827">Dự án nguồn mở <ph name="BEGIN_LINK_CHROMIUM"/>Chromium<ph name="END_LINK_CHROMIUM"/> và các <ph name="BEGIN_LINK_OSS"/>phần mềm nguồn mở khác làm cho Opera khả thi<ph name="END_LINK_OSS"/>.</translation>
+<translation id="3108493547597012279">Bạn đang xem một trang an toàn.</translation>
+<translation id="8530361534096361731">Opera đã không được tắt một cách phù hợp.</translation>
+</translationbundle>

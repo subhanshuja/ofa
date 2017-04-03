@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="pl">
+<translation id="3942946088478181888">Więcej informacji</translation>
+<translation id="1396529432791646744">Gdy łączysz się z bezpieczną witryną, serwer przechowujący tę witrynę wysyła do Twojej przeglądarki dane nazywane „certyfikatem”, aby potwierdzić tożsamość witryny. Ten certyfikat zawiera informacje o tożsamości, takie jak adres witryny, które podlegają weryfikacji przez inną, godną zaufania firmę. Dzięki sprawdzeniu, że adres zawarty w certyfikacie jest zgodny z adresem witryny, można potwierdzić, że bezpiecznie łączysz się z wybraną witryną, a nie z inną, próbującą się pod nią podszyć (np. witryną napastnika).</translation>
+<translation id="6295228342562451544">Gdy łączysz się z bezpieczną witryną, serwer przechowujący tę witrynę wysyła do Twojej przeglądarki dane nazywane „certyfikatem”, aby potwierdzić tożsamość witryny. Certyfikat zawiera informacje o tożsamości, takie jak adres witryny, które podlegają weryfikacji przez inną, godną zaufania firmę. Dzięki sprawdzeniu, że adres zawarty w certyfikacie jest zgodny z adresem witryny, można potwierdzić, że bezpiecznie łączysz się z wybraną witryną, a nie z inną, próbującą się pod nią podszyć (np. witryną napastnika).</translation>
+<translation id="8187473050234053012">Certyfikat bezpieczeństwa serwera został unieważniony!</translation>
+<translation id="5598024575303778520">Ostrzeżenie przed oszustwem</translation>
+<translation id="7311721172731074902">Możliwość oszustwa</translation>
+<translation id="1858130628205855959">Ta witryna może być przejęta lub nieuczciwa. Udostępnianie jej haseł lub danych osobistych może wiązać się z ryzykiem kradzieży tożsamości lub oszustwa finansowego.</translation>
+<translation id="8357891144266644027">Złośliwa witryna</translation>
+<translation id="4664012235452972339">Złośliwa witryna</translation>
+<translation id="1030973920598092450">Ta witryna mogła zostać przejęta lub może zawierać złośliwe oprogramowanie. Otwarcie tej strony może być szkodliwe.</translation>
+<translation id="4863259811271883558">Zgłoszone przez <ph name="BEGIN_LINK"/><ph name="PROVIDER_NAME"/><ph name="END_LINK"/></translation>
+<translation id="3141322567138977593">Przejdź bezpiecznie wstecz</translation>
+<translation id="833642844779103272">Przejdź bezpiecznie wstecz</translation>
+<translation id="4238466718818823211">Zignoruj to ostrzeżenie</translation>
+<translation id="1755698976576372535">Dlaczego zablokowano tę stronę?</translation>
+<translation id="2962647877740028287">Nasz system ostrzeżeń przed oszustwami jest utrzymywany przez innych dostawców.</translation>
+<translation id="7470668651798735849">W tym miejscu wyświetlane są wszystkie powiadomienia z witryn.</translation>
+<translation id="6426222199977479699">Błąd SSL</translation>
+<translation id="8398877366907290961">Kontynuuj mimo wszystko</translation>
+<translation id="6264485186158353794">Wróć do bezpiecznej witryny</translation>
+<translation id="2225024820658613551">Nie powinieneś kontynuować, &lt;strong&gt;szczególnie&lt;/strong&gt;, jeśli nigdy wcześniej nie widziałeś tego ostrzeżenia na tej witrynie.</translation>
+<translation id="5645845270586517071">Błąd związany z bezpieczeństwem</translation>
+<translation id="1103666958012677467">Nie można kontynuować, ponieważ operator witryny zażądał zwiększenia poziomu zabezpieczeń dla tej domeny.</translation>
+<translation id="5463275305984126951">Zawartość <ph name="LOCATION"/></translation>
+<translation id="8877448029301136595">[katalog nadrzędny]</translation>
+<translation id="3835522725882634757">O nie! Ten serwer wysyła dane niezrozumiałe dla programu <ph name="PRODUCT_NAME"/>. <ph name="BEGIN_LINK"/>Zgłoś błąd<ph name="END_LINK"/> z załączoną <ph name="BEGIN2_LINK"/>nieprzetworzoną listą elementów<ph name="END2_LINK"/>.</translation>
+<translation id="5327248766486351172">Nazwa</translation>
+<translation id="8028993641010258682">Rozmiar</translation>
+<translation id="57646104491463491">Data modyfikacji</translation>
+<translation id="8465929756435120446">Na tej stronie znajdują się niezabezpieczone treści.</translation>
+<translation id="6827416153061837992">To połączenie nie jest szyfrowane.</translation>
+<translation id="9193357432624119544">Kod błędu: <ph name="ERROR_NAME"/></translation>
+<translation id="4910619056351738551">Oto kilka propozycji:</translation>
+<translation id="2954705784594331199"><ph name="BEGIN_LINK"/>Odśwież<ph name="END_LINK"/> tę stronę później.</translation>
+<translation id="4977565600485911823">Wyłącz zainstalowane rozszerzenia, a następnie <ph name="BEGIN_LINK"/>odśwież<ph name="END_LINK"/> stronę.</translation>
+<translation id="1103966635949043187">Przejdź do strony głównej witryny:</translation>
+<translation id="7747589364844254751">Sprawdź swoje połączenie internetowe. Uruchom ponownie router, modem lub inne urządzenie sieciowe, którego używasz.</translation>
+<translation id="5548623538190661145">Sprawdź ustawienia DNS. Jeśli nie jesteś pewien, co to znaczy, skontaktuj się z administratorem sieci.</translation>
+<translation id="4545046228395991092">Jeśli używasz serwera proxy, sprawdź ustawienia proxy lub skontaktuj się z administratorem sieci, aby upewnić się, że serwer działa.</translation>
+<translation id="1712673276482711826">Jeśli używasz serwera proxy, sprawdź ustawienia proxy lub skontaktuj się z administratorem sieci, aby upewnić się, że serwer działa. Jeśli uważasz, że nie powinieneś używać serwera proxy, dostosuj ustawienia proxy: <ph name="PLATFORM_TEXT"/></translation>
+<translation id="721197778055552897"><ph name="BEGIN_LINK"/>Dowiedz się więcej<ph name="END_LINK"/> o tym problemie.</translation>
+<translation id="8235325155053717782">Błąd <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="3986287159189541211">Błąd HTTP <ph name="ERROR_NUMBER"/> (<ph name="ERROR_NAME"/>): <ph name="ERROR_TEXT"/></translation>
+<translation id="3225919329040284222">Serwer przedstawił certyfikat niespełniający wbudowanych oczekiwań. Oczekiwania te dołączono dla pewnych witryn o wysokim poziomie bezpieczeństwa, aby zapewnić Ci ochronę.</translation>
+<translation id="6957887021205513506">Certyfikat serwera wygląda na fałszerstwo.</translation>
+<translation id="6429639049555216915">Aplikacja jest w tej chwili niedostępna.</translation>
+<translation id="9127307628159259612">Dodaj program <ph name="PRODUCT_NAME"/> do listy dozwolonych programów w ustawieniach swojej zapory sieciowej i oprogramowania antywirusowego. Jeśli już znajduje się na liście dozwolonych programów - usuń go i dodaj ponownie.</translation>
+<translation id="4544369257849566741">W funkcji bezpiecznego nawiązywania połączenia zabrakło rozszerzenia renegocjacji SSL. W przypadku witryn o których wiadomo, że obsługują rozszerzenie renegocjacji, <ph name="PRODUCT_NAME"/> wymaga bezpieczniejszego procesu nawiązywania połączenia, aby zapobiec znanym typom ataków. Pominięcie tego rozszerzenia wskazuje, że połączenie zostało przejęte i sfałszowane.</translation>
+<translation id="8162734958263531433">Aby rozpocząć debugowanie USB, musisz posiadać Android SDK oraz włączyć funkcję debugowania USB w swoim urządzeniu z systemem Android. Aby uzyskać więcej informacji, przejdź do <ph name="HTML_HELPURL"/>.</translation>
+<translation id="1875071432292773474">W przeglądarce uruchomionej na komputerze wpisz adres <ph name="ACCESS_POINT"/>. Przeglądarka desktopowa musi znajdować się w tej samej sieci, w której znajduje się urządzenie z Androidem.</translation>
+<translation id="7227425938337339799">Aby działała usługa UPnP, oba urządzenia muszą znajdować się w tej samej podsieci, albo router musi być skonfigurowany tak, by przekazywać pakiety rozgłoszeniowe pomiędzy podsieciami.</translation>
+<translation id="4553629908098215669">Uruchom w swoim komputerze <ph name="HTMLADBCOMMAND"/> i przejdź do <ph name="HTMLLOCALHOSTURL"/>, korzystając z przeglądarki działającej na bazie Chromium.</translation>
+<translation id="4570032796877367747">Przedni aparat</translation>
+<translation id="2599796128805996109">Tylny aparat</translation>
+<translation id="2124507516322945394">Mikrofon domyślny</translation>
+<translation id="1587215898571986504">Mikrofon telefonu</translation>
+<translation id="5614598979078259956">Przewodowy zestaw słuchawkowy</translation>
+<translation id="9031226374756103225">Douszny zestaw słuchawkowy</translation>
+<translation id="149679617917926491">Zestaw słuchawkowy Bluetooth</translation>
+<translation id="6060685159320643512">Zachowaj ostrożność, na tych eksperymentach można się sparzyć</translation>
+<translation id="5199729219167945352">Funkcje eksperymentalne</translation>
+<translation id="533563709691128800">wyłączone</translation>
+<translation id="2506903884491778518">Szukaj w funkcjach eksperymentalnych</translation>
+<translation id="1138663153846032155">Wybieraj wersję HTML zamiast Flash</translation>
+<translation id="2081453640527377956">Wybieraj wersję HTML i ukrywaj Flash na liście wtyczek.</translation>
+<translation id="5998167623928667649">Jeśli dla wtyczki Flash wybrano opcję „Zezwól”, uruchamiaj wszystkie treści Flash</translation>
+<translation id="5138177765054221193">Jeśli w przypadku witryny dla wtyczki Flash wybrano opcję „Zezwól”, uruchamiaj wszystkie treści Flash, nawet te uznane za nieważne.</translation>
+<translation id="2112624549618815628">Domyślne (włączone)</translation>
+<translation id="3696363537446376816">Domyślne (wyłączone)</translation>
+<translation id="5773249585542913314">Windows Runtime MIDI API</translation>
+<translation id="7122132768827815392">Używaj Windows Runtime MIDI API dla WebMIDI (dotyczy tylko systemu Windows 10 lub nowszego).</translation>
+<translation id="1375198122581997741">Wersja – informacje</translation>
+<translation id="7248671827512403053">Aplikacja</translation>
+<translation id="1710259589646384581">OS</translation>
+<translation id="6897140037006041989">User Agent</translation>
+<translation id="7353601530677266744">Wiersz poleceń</translation>
+<translation id="7225807090967870017">ID kompilacji</translation>
+</translationbundle>
